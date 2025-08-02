@@ -1,0 +1,101 @@
+{
+  "restaurant_ordering": {
+    "name": "レストランでの注文",
+    "description": "店員さんとやり取りして、料理を注文する練習をします。",
+    "startNode": "r1",
+    "nodes": {
+      "r1": { "speaker": "app", "type": "statement", "line": { "thai": "สวัสดีครับ/ค่ะ กี่ท่านครับ/คะ", "romanization": "sà-wàt-dii khráp/khà, gìi thâan khráp/khá", "meaning": "こんにちは、何名様ですか？", "sound": "assets/audio/scenarios/r1.mp3" }, "next": "r2" },
+      "r2": { "speaker": "user", "type": "choice", "options": [
+          { "line": { "thai": "สองคนครับ/ค่ะ", "romanization": "sŏng khon khráp/khà", "meaning": "2人です", "sound": "assets/audio/scenarios/r2_1.mp3" }, "next": "r3" },
+          { "line": { "thai": "คนเดียวครับ/ค่ะ", "romanization": "khon dio khráp/khà", "meaning": "1人です", "sound": "assets/audio/scenarios/r2_2.mp3" }, "next": "r3" }
+      ]},
+      "r3": { "speaker": "app", "type": "statement", "line": { "thai": "เชิญทางนี้ครับ/ค่ะ", "romanization": "chern thaang níi khráp/khà", "meaning": "こちらへどうぞ", "sound": "assets/audio/scenarios/r3.mp3" }, "next": "r4" },
+      "r4": { "speaker": "user", "type": "choice", "options": [
+          { "line": { "thai": "ขอเมนูหน่อยครับ/ค่ะ", "romanization": "khŏr mee-nuu nòi khráp/khà", "meaning": "メニューをください", "sound": "assets/audio/scenarios/r4_1.mp3" }, "next": "r5" }
+      ]},
+      "r5": { "speaker": "app", "type": "statement", "line": { "thai": "นี่ครับ/ค่ะ", "romanization": "nîi khráp/khà", "meaning": "はい、どうぞ", "sound": "assets/audio/scenarios/r5.mp3" }, "next": "r6" },
+      "r6": { "speaker": "app", "type": "statement", "line": { "thai": "จะรับอะไรดีครับ/คะ", "romanization": "jà ráp à-rai dii khráp/khá", "meaning": "何になさいますか？", "sound": "assets/audio/scenarios/r6.mp3" }, "next": "r7" },
+      "r7": { "speaker": "user", "type": "choice", "options": [
+          { "line": { "thai": "เอาผัดไทยครับ/ค่ะ", "romanization": "ao phàt-thai khráp/khà", "meaning": "パッタイをお願いします", "sound": "assets/audio/scenarios/r7_1.mp3" }, "next": "r7_outofstock" },
+          { "line": { "thai": "เอากะเพราไก่ครับ/ค่ะ", "romanization": "ao gà-prao gài khráp/khà", "meaning": "ガパオガイをお願いします", "sound": "assets/audio/scenarios/r7_2.mp3" }, "next": "r8" }
+      ]},
+      "r7_outofstock": { "speaker": "app", "type": "statement", "line": { "thai": "ขอโทษครับ/ค่ะ พอดีผัดไทยหมดแล้ว", "romanization": "khŏr-thôot khráp/khà, phaw-dii phàt-thai mòt láew", "meaning": "すみません、パッタイは品切れです", "sound": "assets/audio/scenarios/r7_outofstock.mp3" }, "next": "r7a" },
+      "r7a": { "speaker": "user", "type": "choice", "options": [
+          { "line": { "thai": "งั้นเอากะเพราไก่ครับ/ค่ะ", "romanization": "ngán ao gà-prao gài khráp/khà", "meaning": "では、ガパオガイをお願いします", "sound": "assets/audio/scenarios/r7a_1.mp3" }, "next": "r8" }
+      ]},
+      "r8": { "speaker": "app", "type": "statement", "line": { "thai": "รับเครื่องดื่มอะไรดีครับ/คะ", "romanization": "ráp khrûeang-dèum à-rai dii khráp/khá", "meaning": "お飲み物は何になさいますか？", "sound": "assets/audio/scenarios/r8.mp3" }, "next": "r9" },
+      "r9": { "speaker": "user", "type": "choice", "options": [
+          { "line": { "thai": "ขอน้ำเปล่าครับ/ค่ะ", "romanization": "khŏr náam-bplào khráp/khà", "meaning": "お水をください", "sound": "assets/audio/scenarios/r9_1.mp3" }, "next": "r10" },
+          { "line": { "thai": "ขอเบียร์ครับ/ค่ะ", "romanization": "khŏr bia khráp/khà", "meaning": "ビールをください", "sound": "assets/audio/scenarios/r9_2.mp3" }, "next": "r10" }
+      ]},
+      "r10": { "speaker": "app", "type": "statement", "line": { "thai": "ได้ครับ/ค่ะ รอสักครู่นะครับ/คะ", "romanization": "dâai khráp/khà, raw sàk-khrûu ná khráp/khá", "meaning": "かしこまりました。少々お待ちください", "sound": "assets/audio/scenarios/r10.mp3" }, "next": null }
+    }
+  },
+  "taxi_ride": {
+    "name": "タクシーでのやり取り",
+    "description": "タクシーに乗って、運転手に行き先を伝える練習をします。",
+    "startNode": "t1",
+    "nodes": {
+      "t1": { "speaker": "user", "type": "choice", "options": [
+          { "line": { "thai": "ไปสยามพารากอนไหมครับ/คะ", "romanization": "bpai sà-yăam phaa-raa-gawn măi khráp/khá", "meaning": "サイアムパラゴンまで行きますか？", "sound": "assets/audio/scenarios/t1_1.mp3" }, "next": "t2" }
+      ]},
+      "t2": { "speaker": "app", "type": "statement", "line": { "thai": "ได้ครับ/ค่ะ ขึ้นมาเลย", "romanization": "dâai khráp/khà, khûen maa loei", "meaning": "はい、どうぞ乗ってください", "sound": "assets/audio/scenarios/t2.mp3" }, "next": "t3" },
+      "t3": { "speaker": "app", "type": "statement", "line": { "thai": "ใช้ทางด่วนไหมครับ/คะ", "romanization": "chái thaang-dùan măi khráp/khá", "meaning": "高速道路を使いますか？", "sound": "assets/audio/scenarios/t3.mp3" }, "next": "t4" },
+      "t4": { "speaker": "user", "type": "choice", "options": [
+          { "line": { "thai": "ใช้ครับ/ค่ะ", "romanization": "chái khráp/khà", "meaning": "はい、使います", "sound": "assets/audio/scenarios/t4_1.mp3" }, "next": "t5" },
+          { "line": { "thai": "ไม่ใช้ครับ/ค่ะ", "romanization": "mâi chái khráp/khà", "meaning": "いいえ、使いません", "sound": "assets/audio/scenarios/t4_2.mp3" }, "next": "t5" }
+      ]},
+      "t5": { "speaker": "app", "type": "statement", "line": { "thai": "ใกล้ถึงแล้วครับ/ค่ะ", "romanization": "glâi thĕung láew khráp/khà", "meaning": "もうすぐ着きますよ", "sound": "assets/audio/scenarios/t5.mp3" }, "next": "t6" },
+      "t6": { "speaker": "app", "type": "statement", "line": { "thai": "จะให้จอดตรงไหนดีครับ/คะ", "romanization": "jà hâi jàwt dtrong năi dii khráp/khá", "meaning": "どこで停めたらいいですか？", "sound": "assets/audio/scenarios/t6.mp3" }, "next": "t7" },
+      "t7": { "speaker": "user", "type": "choice", "options": [
+        { "line": { "thai": "จอดตรงหน้าห้างเลยครับ/ค่ะ", "romanization": "jàwt dtrong nâa hâang loei khráp/khà", "meaning": "デパートの前で停めてください", "sound": "assets/audio/scenarios/t7_1.mp3" }, "next": "t8" }
+      ]},
+      "t8": { "speaker": "app", "type": "statement", "line": { "thai": "ทั้งหมด 150 บาทครับ/ค่ะ", "romanization": "tháng-mòt nèung rói hâa sìp bàat khráp/khà", "meaning": "合計で150バーツです", "sound": "assets/audio/scenarios/t8.mp3" }, "next": "t9" },
+      "t9": { "speaker": "user", "type": "choice", "options": [
+          { "line": { "thai": "นี่ครับ/ค่ะ", "romanization": "nîi khráp/khà", "meaning": "はい、どうぞ（お金を渡す）", "sound": "assets/audio/scenarios/t9_1.mp3" }, "next": "t10" }
+      ]},
+      "t10": { "speaker": "app", "type": "statement", "line": { "thai": "ขอบคุณครับ/ค่ะ", "romanization": "khàwp-khun khráp/khà", "meaning": "ありがとうございます", "sound": "assets/audio/scenarios/t10.mp3" }, "next": null }
+    }
+  },
+  "hotel_check_in": {
+    "name": "ホテルでのチェックイン",
+    "description": "ホテルのフロントでチェックインする際の会話を練習します。",
+    "startNode": "h1",
+    "nodes": {
+      "h1": { "speaker": "user", "type": "choice", "options": [
+          { "line": { "thai": "สวัสดีครับ/ค่ะ เช็คอินครับ/ค่ะ", "romanization": "sà-wàt-dii khráp/khà, chék-in khráp/khà", "meaning": "こんにちは、チェックインをお願いします", "sound": "assets/audio/scenarios/h1_1.mp3" }, "next": "h2" }
+      ]},
+      "h2": { "speaker": "app", "type": "statement", "line": { "thai": "สวัสดีครับ/ค่ะ ขอทราบชื่อที่จองไว้หน่อยครับ/คะ", "romanization": "sà-wàt-dii khráp/khà, khŏr sâap chêu thîi jawng wái nòi khráp/khá", "meaning": "こんにちは。ご予約のお名前を伺ってもよろしいですか？", "sound": "assets/audio/scenarios/h2.mp3" }, "next": "h3" },
+      "h3": { "speaker": "user", "type": "choice", "options": [
+          { "line": { "thai": "ทานากะครับ/ค่ะ", "romanization": "thaa-naa-gà khráp/khà", "meaning": "タナカです", "sound": "assets/audio/scenarios/h3_1.mp3" }, "next": "h4" }
+      ]},
+      "h4": { "speaker": "app", "type": "statement", "line": { "thai": "คุณทานากะนะครับ/คะ ขอพาสปอร์ตด้วยครับ/ค่ะ", "romanization": "khun thaa-naa-gà ná khráp/khá, khŏr pháat-bpàwt dûay khráp/khá", "meaning": "タナカ様ですね。パスポートをお願いします", "sound": "assets/audio/scenarios/h4.mp3" }, "next": "h5" },
+      "h5": { "speaker": "user", "type": "choice", "options": [
+          { "line": { "thai": "นี่ครับ/ค่ะ", "romanization": "nîi khráp/khà", "meaning": "はい、どうぞ", "sound": "assets/audio/scenarios/h5_1.mp3" }, "next": "h6" }
+      ]},
+      "h6": { "speaker": "app", "type": "statement", "line": { "thai": "เรียบร้อยครับ/ค่ะ นี่คือคีย์การ์ด", "romanization": "rîap-ráwy khráp/khà, nîi khue kii-gáat", "meaning": "ありがとうございます。こちらがキーカードです", "sound": "assets/audio/scenarios/h6.mp3" }, "next": "h7" },
+      "h7": { "speaker": "app", "type": "statement", "line": { "thai": "อาหารเช้าเริ่มเจ็ดโมงเช้าที่ชั้นสองครับ/ค่ะ", "romanization": "aa-hăan cháo rêrm jèt moong cháo thîi chán sŏng khráp/khà", "meaning": "朝食は2階で朝7時からです", "sound": "assets/audio/scenarios/h7.mp3" }, "next": "h8" },
+      "h8": { "speaker": "user", "type": "choice", "options": [
+          { "line": { "thai": "ขอบคุณครับ/ค่ะ", "romanization": "khàwp-khun khráp/khà", "meaning": "ありがとうございます", "sound": "assets/audio/scenarios/h8_1.mp3" }, "next": null }
+      ]}
+    }
+  },
+  "basic_conversation": {
+    "name": "มีนาและเพื่อนๆ (Meenaと仲間たち)",
+    "description": "基本的な文の構造を学びます。",
+    "startNode": "m1",
+    "nodes": {
+      "m1": { "speaker": "app", "type": "statement", "line": { "thai": "มีนา มี ตา", "romanization": "mii-naa mii dtaa", "meaning": "ミーナーには目があります", "sound": "" }, "next": "m2" },
+      "m2": { "speaker": "app", "type": "statement", "line": { "thai": "อา มี ตา", "romanization": "aa mii dtaa", "meaning": "おじさん/おばさんには目があります", "sound": "" }, "next": "m3" },
+      "m3": { "speaker": "app", "type": "statement", "line": { "thai": "กา มี ตา", "romanization": "gaa mii dtaa", "meaning": "カラスには目があります", "sound": "" }, "next": "m4" },
+      "m4": { "speaker": "user", "type": "choice", "options": [
+          { "line": { "thai": "นำโชค มี อะไร", "romanization": "nam-chôhk mii a-rai", "meaning": "ナムチョークには何がありますか？", "sound": "" }, "next": "m5" },
+          { "line": { "thai": "มีนา จะไปไหน", "romanization": "mii-naa jà bpai năi", "meaning": "ミーナーはどこへ行きますか？", "sound": "" }, "next": "m8" }
+      ]},
+      "m5": { "speaker": "app", "type": "statement", "line": { "thai": "นำโชค มี ตา", "romanization": "nam-chôhk mii dtaa", "meaning": "ナムチョークには目があります", "sound": "" }, "next": "m6" },
+      "m6": { "speaker": "app", "type": "statement", "line": { "thai": "นำโชค มี ขา", "romanization": "nam-chôhk mii khăa", "meaning": "ナムチョークには足があります", "sound": "" }, "next": "m7" },
+      "m7": { "speaker": "app", "type": "statement", "line": { "thai": "นำโชค มี หู", "romanization": "nam-chôhk mii hŭu", "meaning": "ナムチョークには耳があります", "sound": "" }, "next": null },
+      "m8": { "speaker": "app", "type": "statement", "line": { "thai": "มีนา พา นำโชค มา นา", "romanization": "mii-naa paa nam-chôhk maa naa", "meaning": "ミーナーはナムチョークを田んぼへ連れて行きます", "sound": "" }, "next": null }
+    }
+  }
+}

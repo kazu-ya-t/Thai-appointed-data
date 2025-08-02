@@ -1,0 +1,363 @@
+{
+  "greetings_friends": {
+    "name": "挨拶・友人との会話",
+    "items": [
+      {
+        "id": "s001", "level": 5, "thai": "สวัสดีครับ/ค่ะ", "segmented": "สวัสดี / ครับ / ค่ะ",
+        "romanization": "sà-wàt-dii khráp / khà", "meaning": "こんにちは"
+      },
+      {
+        "id": "s002", "level": 5, "thai": "ขอบคุณครับ/ค่ะ", "segmented": "ขอบคุณ / ครับ / ค่ะ",
+        "romanization": "khàwp-khun khráp / khà", "meaning": "ありがとうございます"
+      },
+      {
+        "id": "s003", "level": 5, "thai": "ขอโทษครับ/ค่ะ", "segmented": "ขอโทษ / ครับ / ค่ะ",
+        "romanization": "khŏr-thôot khráp / khà", "meaning": "すみません"
+      },
+      {
+        "id": "s004", "level": 5, "thai": "ไม่เป็นไร", "segmented": "ไม่ / เป็นไร",
+        "romanization": "mâi bpen rai", "meaning": "大丈夫です"
+      },
+      {
+        "id": "s005", "level": 4, "thai": "คุณชื่ออะไร", "segmented": "คุณ / ชื่อ / อะไร",
+        "romanization": "khun chêu à-rai", "meaning": "あなたの名前は何ですか？"
+      },
+      {
+        "id": "s006", "level": 4, "thai": "ยินดีที่ได้รู้จัก", "segmented": "ยินดี / ที่ / ได้ / รู้จัก",
+        "romanization": "yin-dii thîi dâai rúu-jàk", "meaning": "お会いできて嬉しいです。"
+      },
+      {
+        "id": "s007", "level": 2, "thai": "ผมอาศัยอยู่ในประเทศไทยมาห้าปีแล้ว", "segmented": "ผม / อาศัย / อยู่ / ใน / ประเทศไทย / มา / ห้า / ปี / แล้ว",
+        "romanization": "phŏm aa-săi yùu nai bprà-thêet-thai maa hâa bpii láew", "meaning": "私はタイに5年間住んでいます。"
+      },
+      {
+        "id": "s061", "level": 4, "thai": "สบายดีไหมครับ/คะ", "segmented": "สบายดี / ไหม / ครับ/คะ",
+        "romanization": "sà-baai-dii măi khráp/khá", "meaning": "お元気ですか？"
+      },
+      {
+        "id": "s062", "level": 3, "thai": "สุดสัปดาห์นี้ทำอะไร", "segmented": "สุดสัปดาห์ / นี้ / ทำ / อะไร",
+        "romanization": "sùt-sàp-daa níi tham à-rai", "meaning": "今週末は何をしますか？"
+      },
+      {
+        "id": "s075", "level": 5, "thai": "เข้าใจไหม", "segmented": "เข้าใจ / ไหม",
+        "romanization": "khâw jai mái", "meaning": "分かりましたか？"
+      },
+      {
+        "id": "s076", "level": 5, "thai": "ไม่เข้าใจ", "segmented": "ไม่ / เข้าใจ",
+        "romanization": "mâi khâw jai", "meaning": "分かりません"
+      }
+    ]
+  },
+  "restaurant": {
+    "name": "レストラン",
+    "items": [
+      {
+        "id": "s008", "level": 5, "thai": "เอาอันนี้", "segmented": "เอา / อันนี้",
+        "romanization": "ao an-níi", "meaning": "これをください"
+      },
+      {
+        "id": "s009", "level": 5, "thai": "กินข้าว", "segmented": "กิน / ข้าว",
+        "romanization": "gin khâao", "meaning": "ご飯を食べる"
+      },
+      {
+        "id": "s010", "level": 5, "thai": "ไม่เผ็ด", "segmented": "ไม่ / เผ็ด",
+        "romanization": "mâi phèt", "meaning": "辛くしないでください"
+      },
+      {
+        "id": "s011", "level": 4, "thai": "ร้านอาหารอยู่ที่ไหน", "segmented": "ร้านอาหาร / อยู่ / ที่ไหน",
+        "romanization": "ráan aa-hăan yùu thîi-năi", "meaning": "レストランはどこですか？"
+      },
+      {
+        "id": "s012", "level": 3, "thai": "ขอเมนูหน่อยได้ไหมครับ/คะ", "segmented": "ขอ / เมนู / หน่อย / ได้ไหม / ครับ / คะ",
+        "romanization": "khŏr mee-nuu nòi dâai măi khráp/khá", "meaning": "メニューをいただけますか？"
+      },
+      {
+        "id": "s013", "level": 2, "thai": "ผมขอแนะนำให้ลองสั่งอาหารจานนี้", "segmented": "ผม / ขอแนะนำ / ให้ / ลอง / สั่ง / อาหาร / จาน / นี้",
+        "romanization": "phŏm khŏr náe-nam hâi lawng sàng aa-hăan jaan níi", "meaning": "この料理を注文してみることをお勧めします。"
+      },
+      {
+        "id": "s014", "level": 5, "thai": "ฉันกินข้าว", "segmented": "ฉัน / กิน / ข้าว",
+        "romanization": "chăn gin khâao", "meaning": "私はご飯を食べる"
+      },
+      {
+        "id": "s063", "level": 4, "thai": "มีเมนูแนะนำไหมครับ/คะ", "segmented": "มี / เมนู / แนะนำ / ไหม / ครับ/คะ",
+        "romanization": "mii mee-nuu náe-nam măi khráp/khá", "meaning": "おすすめのメニューはありますか？"
+      },
+      {
+        "id": "s064", "level": 3, "thai": "ไม่ใส่ผักชีนะครับ/คะ", "segmented": "ไม่ / ใส่ / ผักชี / นะ / ครับ/คะ",
+        "romanization": "mâi sài phàk-chii ná khráp/khá", "meaning": "パクチーは入れないでください。"
+      },
+      {
+        "id": "s065", "level": 5, "thai": "ขอน้ำสองขวดครับ/ค่ะ", "segmented": "ขอ / น้ำ / สอง / ขวด / ครับ/ค่ะ",
+        "romanization": "khŏr náam sŏng khùat khráp/khà", "meaning": "お水を2本ください。"
+      },
+      {
+        "id": "s077", "level": 4, "thai": "จะรับเครื่องดื่มอะไรดี", "segmented": "จะ / รับ / เครื่องดื่ม / อะไร / ดี",
+        "romanization": "cà ráp khrɯ̂aŋ-dɯ̀ɯm a-rai dii?", "meaning": "お飲み物は何になさいますか？"
+      },
+      {
+        "id": "s078", "level": 5, "thai": "เก็บเงิน", "segmented": "เก็บเงิน",
+        "romanization": "gèp ngern", "meaning": "お会計をお願いします"
+      }
+    ]
+  },
+  "shopping": {
+    "name": "買い物",
+    "items": [
+      {
+        "id": "s015", "level": 5, "thai": "เท่าไหร่ครับ/คะ", "segmented": "เท่าไหร่ / ครับ / คะ",
+        "romanization": "thâo-rài khráp/khá", "meaning": "いくらですか？"
+      },
+      {
+        "id": "s016", "level": 5, "thai": "ผมซื้อนี่", "segmented": "ผม / ซื้อ / นี่",
+        "romanization": "phŏm séu nîi", "meaning": "私はこれを買います"
+      },
+      {
+        "id": "s017", "level": 4, "thai": "ผม/ฉันต้องการซื้อเสื้อ", "segmented": "ผม/ฉัน / ต้องการ / ซื้อ / เสื้อ",
+        "romanization": "phŏm/chăn dtâwng-gaan séu sûea", "meaning": "私はシャツを買いたいです。"
+      },
+      {
+        "id": "s018", "level": 3, "thai": "คุณรับบัตรเครดิตไหม", "segmented": "คุณ / รับ / บัตรเครดิต / ไหม",
+        "romanization": "khun ráp bàt-khree-dìt măi", "meaning": "クレジットカードは使えますか？"
+      },
+      {
+        "id": "s019", "level": 2, "thai": "ห้างสรรพสินค้านี้มีสินค้าคุณภาพสูง", "segmented": "ห้างสรรพสินค้า / นี้ / มี / สินค้า / คุณภาพ / สูง",
+        "romanization": "hâang-sàp-phá-sĭn-kháa níi mii sĭn-kháa khun-ná-phâap sǔung", "meaning": "このデパートには高品質の商品があります。"
+      },
+      {
+        "id": "s049", "level": 4, "thai": "จ่ายด้วย QR ได้ไหม", "segmented": "จ่าย / ด้วย / QR / ได้ไหม",
+        "romanization": "jàai dûay QR dâai măi", "meaning": "QRで払えますか？"
+      },
+      {
+        "id": "s050", "level": 4, "thai": "ใช้สแกนได้ไหม", "segmented": "ใช้ / สแกน / ได้ไหม",
+        "romanization": "chái sà-gaen dâai măi", "meaning": "スキャンは使えますか？"
+      },
+      {
+        "id": "s051", "level": 5, "thai": "แพงไป", "segmented": "แพง / ไป",
+        "romanization": "phaeng bpai", "meaning": "高いです"
+      },
+      {
+        "id": "s052", "level": 4, "thai": "ลดหน่อยได้ไหม", "segmented": "ลด / หน่อย / ได้ไหม",
+        "romanization": "lót nòi dâai măi", "meaning": "安くなりますか？"
+      },
+      {
+        "id": "s053", "level": 4, "thai": "มีใหญ่กว่านี้ไหม", "segmented": "มี / ใหญ่ / กว่า / นี้ / ไหม",
+        "romanization": "mii yài gwàa níi măi", "meaning": "大きいものはありますか？"
+      },
+      {
+        "id": "s054", "level": 4, "thai": "มีเล็กกว่านี้ไหม", "segmented": "มี / เล็ก / กว่า / นี้ / ไหม",
+        "romanization": "mii lék gwàa níi măi", "meaning": "小さいものはありますか？"
+      },
+      {
+        "id": "s066", "level": 4, "thai": "ขอลองเสื้อตัวนี้ได้ไหมครับ/คะ", "segmented": "ขอ / ลอง / เสื้อ / ตัว / นี้ / ได้ไหม / ครับ/คะ",
+        "romanization": "khŏr lawng sûea dtua níi dâai măi khráp/khá", "meaning": "このシャツを試着してもいいですか？"
+      }
+    ]
+  },
+  "transportation": {
+    "name": "交通",
+    "items": [
+      {
+        "id": "s020", "level": 5, "thai": "ไปที่นี่", "segmented": "ไป / ที่นี่",
+        "romanization": "bpai thîi-nîi", "meaning": "ここへ行ってください"
+      },
+      {
+        "id": "s021", "level": 5, "thai": "เขามาที่นี่", "segmented": "เขา / มา / ที่นี่",
+        "romanization": "khăo maa thîi-nîi", "meaning": "彼はここに来ます"
+      },
+      {
+        "id": "s022", "level": 4, "thai": "สถานีรถไฟอยู่ที่ไหน", "segmented": "สถานี / รถไฟ / อยู่ / ที่ไหน",
+        "romanization": "sà-thǎa-nii rót-fai yùu thîi-năi", "meaning": "駅はどこですか？"
+      },
+      {
+        "id": "s023", "level": 3, "thai": "ช่วยเรียกแท็กซี่ให้หน่อย", "segmented": "ช่วย / เรียก / แท็กซี่ / ให้ / หน่อย",
+        "romanization": "chûay rîak tháek-sîi hâi nòi", "meaning": "タクシーを呼んでいただけますか？"
+      },
+      {
+        "id": "s024", "level": 2, "thai": "การเดินทางโดยรถไฟฟ้าสะดวกและรวดเร็ว", "segmented": "การเดินทาง / โดย / รถไฟฟ้า / สะดวก / และ / รวดเร็ว",
+        "romanization": "gaan-dern-thaang dooi rót-fai-fáa sà-dùak láe rûat-reo", "meaning": "電車での移動は便利で速いです。"
+      },
+      {
+        "id": "s025", "level": 4, "thai": "รถไฟจะมาถึงเวลา 10 โมงเช้า", "segmented": "รถไฟ / จะ / มาถึง / เวลา / 10 / โมง / เช้า",
+        "romanization": "rót-fai jà maa-thĕung wee-laa sìp moong cháo", "meaning": "電車は午前10時に到着します"
+      },
+      {
+        "id": "s055", "level": 3, "thai": "มาที่ที่ลงเมื่อกี้", "segmented": "มา / ที่ / ที่ / ลง / เมื่อกี้",
+        "romanization": "maa thîi thîi long mûea-gíi", "meaning": "さっきおろしてくれた場所に来て下さい"
+      },
+      {
+        "id": "s056", "level": 5, "thai": "เลี้ยวซ้าย", "segmented": "เลี้ยว / ซ้าย",
+        "romanization": "líaw sáai", "meaning": "左に曲がってください"
+      },
+      {
+        "id": "s057", "level": 5, "thai": "เลี้ยวขวา", "segmented": "เลี้ยว / ขวา",
+        "romanization": "líaw khwăa", "meaning": "右に曲がってください"
+      },
+      {
+        "id": "s058", "level": 5, "thai": "ตรงไป", "segmented": "ตรงไป",
+        "romanization": "dtrong bpai", "meaning": "まっすぐ行って下さい"
+      },
+      {
+        "id": "s059", "level": 5, "thai": "จอดที่นี่", "segmented": "จอด / ที่นี่",
+        "romanization": "jàwt thîi-nîi", "meaning": "ここで降ろしてください"
+      },
+      {
+        "id": "s060", "level": 4, "thai": "ดูแผนที่", "segmented": "ดู / แผนที่",
+        "romanization": "duu phăen-thîi", "meaning": "地図を見てください"
+      },
+      {
+        "id": "s067", "level": 4, "thai": "สนามบินอยู่ที่ไหน", "segmented": "สนามบิน / อยู่ / ที่ไหน",
+        "romanization": "sà-năam-bin yùu thîi-năi", "meaning": "空港はどこですか？"
+      }
+    ]
+  },
+  "hotel": {
+    "name": "ホテル",
+    "items": [
+      {
+        "id": "s068", "level": 4, "thai": "ผม/ฉันจองไว้ครับ/ค่ะ", "segmented": "ผม/ฉัน / จอง / ไว้ / ครับ/ค่ะ",
+        "romanization": "phŏm/chăn jawng wái khráp/khà", "meaning": "予約しています。"
+      },
+      {
+        "id": "s069", "level": 5, "thai": "ขอรหัสผ่าน Wi-Fi หน่อยครับ/ค่ะ", "segmented": "ขอ / รหัสผ่าน / Wi-Fi / หน่อย / ครับ/ค่ะ",
+        "romanization": "khŏr rá-hàt-phàan Wi-Fi nòi khráp/khà", "meaning": "Wi-Fiのパスワードをください。"
+      },
+      {
+        "id": "s070", "level": 3, "thai": "แอร์ไม่ทำงานครับ/ค่ะ", "segmented": "แอร์ / ไม่ / ทำงาน / ครับ/ค่ะ",
+        "romanization": "ae mâi tham-ngaan khráp/khà", "meaning": "エアコンが動きません。"
+      },
+      {
+        "id": "s071", "level": 3, "thai": "อาหารเช้ากี่โมงครับ/คะ", "segmented": "อาหารเช้า / กี่โมง / ครับ/คะ",
+        "romanization": "aa-hăan cháo gìi moong khráp/khá", "meaning": "朝食は何時ですか？"
+      }
+    ]
+  },
+  "hospital": {
+    "name": "病院",
+    "items": [
+      {
+        "id": "s026", "level": 5, "thai": "ปวดหัว", "segmented": "ปวด / หัว",
+        "romanization": "bpùat hŭa", "meaning": "頭が痛いです。"
+      },
+      {
+        "id": "s027", "level": 5, "thai": "เจ็บคอ", "segmented": "เจ็บ / คอ",
+        "romanization": "jèp khaw", "meaning": "喉が痛いです。"
+      },
+      {
+        "id": "s028", "level": 4, "thai": "ผม/ฉันไม่สบาย", "segmented": "ผม/ฉัน / ไม่ / สบาย",
+        "romanization": "phŏm/chăn mâi sà-baai", "meaning": "気分が悪いです。"
+      },
+      {
+        "id": "s029", "level": 4, "thai": "ต้องไปโรงพยาบาล", "segmented": "ต้อง / ไป / โรงพยาบาล",
+        "romanization": "dtâwng bpai roong-phá-yaa-baan", "meaning": "病院に行く必要があります。"
+      },
+      {
+        "id": "s030", "level": 3, "thai": "มีไข้และไอ", "segmented": "มี / ไข้ / และ / ไอ",
+        "romanization": "mii khâi láe ai", "meaning": "熱と咳があります。"
+      },
+      {
+        "id": "s031", "level": 2, "thai": "กรุณารอคิวเพื่อพบแพทย์", "segmented": "กรุณา / รอ / คิว / เพื่อ / พบ / แพทย์",
+        "romanization": "gà-rú-naa raw khiw phûea phóp phâet", "meaning": "診察の順番をお待ちください。"
+      }
+    ]
+  },
+  "emergency": {
+    "name": "緊急事態",
+    "items": [
+      {
+        "id": "s072", "level": 4, "thai": "ช่วยด้วย!", "segmented": "ช่วย / ด้วย",
+        "romanization": "chûay dûay", "meaning": "助けて！"
+      },
+      {
+        "id": "s073", "level": 3, "thai": "ผม/ฉันทำกระเป๋าหาย", "segmented": "ผม/ฉัน / ทำ / กระเป๋า / หาย",
+        "romanization": "phŏm/chăn tham grà-bpăo hăai", "meaning": "カバンをなくしました。"
+      },
+      {
+        "id": "s074", "level": 4, "thai": "สถานีตำรวจอยู่ที่ไหน", "segmented": "สถานีตำรวจ / อยู่ / ที่ไหน",
+        "romanization": "sà-thăa-nii dtam-rùat yùu thîi-năi", "meaning": "警察署はどこですか？"
+      }
+    ]
+  },
+  "business": {
+    "name": "ビジネス",
+    "items": [
+      {
+        "id": "s032", "level": 3, "thai": "พรุ่งนี้มีประชุม", "segmented": "พรุ่งนี้ / มี / ประชุม",
+        "romanization": "phrûng-níi mii bprà-chum", "meaning": "明日、会議があります。"
+      },
+      {
+        "id": "s033", "level": 3, "thai": "กรุณาส่งอีเมลให้ฉัน", "segmented": "กรุณา / ส่ง / อีเมล / ให้ / ฉัน",
+        "romanization": "gà-rú-naa sòng ii-meeo hâi chăn", "meaning": "私にEメールを送ってください。"
+      },
+      {
+        "id": "s034", "level": 2, "thai": "กรุณาส่งรายงานภายในวันศุกร์", "segmented": "กรุณา / ส่ง / รายงาน / ภายใน / วันศุกร์",
+        "romanization": "gà-rú-naa sòng raai-ngaan phaai-nai wan-sùk", "meaning": "金曜日までにレポートを送ってください。"
+      },
+      {
+        "id": "s035", "level": 2, "thai": "บริษัทของเรามีแผนจะขยายธุรกิจ", "segmented": "บริษัท / ของเรา / มี / แผน / จะ / ขยาย / ธุรกิจ",
+        "romanization": "baw-rí-sàt khŏng rao mii phăen jà khà-yăai thú-rá-gìt", "meaning": "私たちの会社は事業を拡大する計画があります。"
+      },
+      {
+        "id": "s036", "level": 1, "thai": "เราต้องวิเคราะห์ข้อมูลเพื่อกำหนดกลยุทธ์ทางการตลาด", "segmented": "เรา / ต้อง / วิเคราะห์ / ข้อมูล / เพื่อ / กำหนด / กลยุทธ์ / ทาง / การตลาด",
+        "romanization": "rao dtâwng wí-khráw khâw-muun phûea gam-nòt gon-lá-yút thaang gaan-dtà-làat",
+        "meaning": "私たちはマーケティング戦略を決定するためにデータを分析しなければなりません。"
+      },
+      {
+        "id": "s037", "level": 1, "thai": "ผลตอบแทนจากการลงทุนคาดว่าจะเพิ่มขึ้นในไตรมาสหน้า", "segmented": "ผลตอบแทน / จาก / การลงทุน / คาดว่า / จะ / เพิ่มขึ้น / ใน / ไตรมาส / หน้า",
+        "romanization": "phŏn-dtàwp-thaen jàak gaan-long-thun khâat-wâa jà phêrm-khûen nai dtrai-mâat nâa", "meaning": "投資収益率は次の四半期に増加すると予想されます。"
+      },
+      {
+        "id": "s038", "level": 3, "thai": "โปรดตรวจสอบเอกสารนี้", "segmented": "โปรด / ตรวจสอบ / เอกสาร / นี้",
+        "romanization": "bpròot dtrùat-sàwp èek-gà-săan níi", "meaning": "この書類を確認してください"
+      },
+      {
+        "id": "s039", "level": 2, "thai": "เป้าหมายของโครงการคือการลดต้นทุน", "segmented": "เป้าหมาย / ของ / โครงการ / คือ / การ / ลด / ต้นทุน",
+        "romanization": "bpâo-măai khŏng khroong-gaan kheu gaan-lót dtôn-thun", "meaning": "プロジェクトの目標はコスト削減です"
+      },
+      {
+        "id": "s040", "level": 1, "thai": "รัฐธรรมนูญรับรองสิทธิและเสรีภาพของประชาชน", "segmented": "รัฐธรรมนูญ / รับรอง / สิทธิ / และ / เสรีภาพ / ของ / ประชาชน",
+        "romanization": "rát-thà-tham-má-nuun ráp-rawng sìt-thí láe sĕe-rii-phâap khŏng bprà-chaa-chon", "meaning": "憲法は国民の権利と自由を保障する"
+      }
+    ]
+  },
+  "construction": {
+    "name": "工事",
+    "items": [
+      {
+        "id": "s041", "level": 3, "thai": "ระวังของตก", "segmented": "ระวัง / ของ / ตก",
+        "romanization": "rá-wang khŏng dtòk", "meaning": "落下物に注意してください。"
+      },
+      {
+        "id": "s042", "level": 3, "thai": "คนงานกำลังซ่อมถนน", "segmented": "คนงาน / กำลัง / ซ่อม / ถนน",
+        "romanization": "khon-ngaan gam-lang sâwm thà-nŏn", "meaning": "作業員が道路を修理しています。"
+      },
+      {
+        "id": "s043", "level": 2, "thai": "ทีมงานต้องสวมใส่อุปกรณ์ป้องกันส่วนบุคคล", "segmented": "ทีมงาน / ต้อง / สวมใส่ / อุปกรณ์ / ป้องกัน / ส่วนบุคคล",
+        "romanization": "thiim-ngaan dtâwng sǔam-sài ùp-bpà-gawn bpâwng-gan sùan-bùk-khon",
+        "meaning": "作業チームは個人用保護具を着用しなければなりません。"
+      },
+      {
+        "id": "s044", "level": 2, "thai": "วิศวกรกำลังตรวจสอบแบบแปลน", "segmented": "วิศวกร / กำลัง / ตรวจสอบ / แบบแปลน",
+        "romanization": "wít-sà-wá-gawn gam-lang dtrùat-sàwp bàep-bplaen", "meaning": "エンジニアが設計図を確認しています。"
+      },
+      {
+        "id": "s045", "level": 1, "thai": "โครงการนี้ต้องการการตรวจสอบโครงสร้างอย่างละเอียด", "segmented": "โครงการ / นี้ / ต้องการ / การตรวจสอบ / โครงสร้าง / อย่าง / ละเอียด",
+        "romanization": "khroong-gaan níi dtâwng-gaan gaan-dtrùat-sàwp khroong-sâang yàang lá-ìat",
+        "meaning": "このプロジェクトは詳細な構造検査を必要とします。"
+      },
+      {
+        "id": "s046", "level": 1, "thai": "การวิเคราะห์ความแข็งแรงของคอนกรีตเสริมเหล็กเป็นขั้นตอนที่สำคัญ", "segmented": "การวิเคราะห์ / ความแข็งแรง / ของ / คอนกรีตเสริมเหล็ก / เป็น / ขั้นตอน / ที่ / สำคัญ",
+        "romanization": "gaan-wí-khráw khwaam-khăeng-raeng khŏng khawn-grìit-sĕrm-lèk bpen khân-dtawn thîi săm-khan",
+        "meaning": "鉄筋コンクリートの強度分析は重要なステップです。"
+      },
+      {
+        "id": "s047", "level": 3, "thai": "พื้นที่ก่อสร้างนี้อันตราย", "segmented": "พื้นที่ / ก่อสร้าง / นี้ / อันตราย",
+        "romanization": "phúen-thîi gàw-sâang níi an-dtà-raai", "meaning": "この工事エリアは危険です"
+      },
+      {
+        "id": "s048", "level": 2, "thai": "เครื่องจักรนี้ต้องการการบำรุงรักษา", "segmented": "เครื่องจักร / นี้ / ต้องการ / การ / บำรุงรักษา",
+        "romanization": "khrûeang-jàk níi dtâwng-gaan gaan-bam-rung-rák-săa", "meaning": "この機械はメンテナンスが必要です"
+      }
+    ]
+  }
+}

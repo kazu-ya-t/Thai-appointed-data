@@ -1,0 +1,3656 @@
+[
+  {
+    "id": 163,
+    "thai": "เศรษฐกิจ",
+    "romanization": "sèet-thà-gìt",
+    "meaning": "経済",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/163.mp3"
+  },
+  {
+    "id": 164,
+    "thai": "การเมือง",
+    "romanization": "gaan-mueang",
+    "meaning": "政治",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/164.mp3"
+  },
+  {
+    "id": 165,
+    "thai": "สังคม",
+    "romanization": "săng-khom",
+    "meaning": "社会",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/165.mp3"
+  },
+  {
+    "id": 166,
+    "thai": "วัฒนธรรม",
+    "romanization": "wát-thá-ná-tham",
+    "meaning": "文化",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/166.mp3"
+  },
+  {
+    "id": 167,
+    "thai": "ประวัติศาสตร์",
+    "romanization": "bprà-wàt-dtì-sàat",
+    "meaning": "歴史",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/167.mp3"
+  },
+  {
+    "id": 168,
+    "thai": "สิ่งแวดล้อม",
+    "romanization": "sìng-wâet-láwm",
+    "meaning": "環境",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/168.mp3"
+  },
+  {
+    "id": 169,
+    "thai": "เทคโนโลยี",
+    "romanization": "thék-noo-loo-yii",
+    "meaning": "技術、テクノロジー",
+    "category": "technology_it",
+    "level": 2,
+    "sound": "assets/audio/vocab/169.mp3"
+  },
+  {
+    "id": 170,
+    "thai": "วิทยาศาสตร์",
+    "romanization": "wít-thá-yaa-sàat",
+    "meaning": "科学",
+    "category": "technology_it",
+    "level": 2,
+    "sound": "assets/audio/vocab/170.mp3"
+  },
+  {
+    "id": 171,
+    "thai": "การศึกษา",
+    "romanization": "gaan-sèuk-săa",
+    "meaning": "教育",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/171.mp3"
+  },
+  {
+    "id": 172,
+    "thai": "สุขภาพ",
+    "romanization": "sùk-khà-phâap",
+    "meaning": "健康",
+    "category": "health_medical",
+    "level": 2,
+    "sound": "assets/audio/vocab/172.mp3"
+  },
+  {
+    "id": 175,
+    "thai": "การลงทุน",
+    "romanization": "gaan-long-thun",
+    "meaning": "投資",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/175.mp3"
+  },
+  {
+    "id": 176,
+    "thai": "การตลาด",
+    "romanization": "gaan-dtà-làat",
+    "meaning": "マーケティング",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/176.mp3"
+  },
+  {
+    "id": 177,
+    "thai": "การจัดการ",
+    "romanization": "gaan-jàt-gaan",
+    "meaning": "管理、マネジメント",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/177.mp3"
+  },
+  {
+    "id": 178,
+    "thai": "ธุรกิจ",
+    "romanization": "thú-rá-gìt",
+    "meaning": "ビジネス",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/178.mp3"
+  },
+  {
+    "id": 179,
+    "thai": "อุตสาหกรรม",
+    "romanization": "ùt-săa-hà-gam",
+    "meaning": "産業",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/179.mp3"
+  },
+  {
+    "id": 180,
+    "thai": "ความรู้",
+    "romanization": "khwaam-rúu",
+    "meaning": "知識",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/180.mp3"
+  },
+  {
+    "id": 181,
+    "thai": "ข้อมูล",
+    "romanization": "khâw-muun",
+    "meaning": "情報",
+    "category": "technology_it",
+    "level": 2,
+    "sound": "assets/audio/vocab/181.mp3"
+  },
+  {
+    "id": 182,
+    "thai": "การสื่อสาร",
+    "romanization": "gaan-sèu-săan",
+    "meaning": "コミュニケーション",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/182.mp3"
+  },
+  {
+    "id": 183,
+    "thai": "ความสัมพันธ์",
+    "romanization": "khwaam-săm-phan",
+    "meaning": "関係",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/183.mp3"
+  },
+  {
+    "id": 184,
+    "thai": "โอกาส",
+    "romanization": "oo-gàat",
+    "meaning": "機会",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/184.mp3"
+  },
+  {
+    "id": 185,
+    "thai": "ปัญหา",
+    "romanization": "bpan-hăa",
+    "meaning": "問題",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/185.mp3"
+  },
+  {
+    "id": 186,
+    "thai": "การแก้ปัญหา",
+    "romanization": "gaan-gâe-bpan-hăa",
+    "meaning": "問題解決",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/186.mp3"
+  },
+  {
+    "id": 187,
+    "thai": "เป้าหมาย",
+    "romanization": "bpâo-măai",
+    "meaning": "目標",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/187.mp3"
+  },
+  {
+    "id": 189,
+    "thai": "โครงการ",
+    "romanization": "khroong-gaan",
+    "meaning": "プロジェクト",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/189.mp3"
+  },
+  {
+    "id": 190,
+    "thai": "ผลลัพธ์",
+    "romanization": "phŏn-láp",
+    "meaning": "結果",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/190.mp3"
+  },
+  {
+    "id": 191,
+    "thai": "ความสำเร็จ",
+    "romanization": "khwaam-săm-rèt",
+    "meaning": "成功",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/191.mp3"
+  },
+  {
+    "id": 192,
+    "thai": "ความล้มเหลว",
+    "romanization": "khwaam-lóm-lĕo",
+    "meaning": "失敗",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/192.mp3"
+  },
+  {
+    "id": 193,
+    "thai": "ประสบการณ์",
+    "romanization": "bprà-sòp-gaan",
+    "meaning": "経験",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/193.mp3"
+  },
+  {
+    "id": 194,
+    "thai": "ทักษะ",
+    "romanization": "thák-sà",
+    "meaning": "スキル",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/194.mp3"
+  },
+  {
+    "id": 195,
+    "thai": "ความสามารถ",
+    "romanization": "khwaam-săa-mâat",
+    "meaning": "能力",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/195.mp3"
+  },
+  {
+    "id": 196,
+    "thai": "คุณภาพ",
+    "romanization": "khun-ná-phâap",
+    "meaning": "品質",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/196.mp3"
+  },
+  {
+    "id": 197,
+    "thai": "ปริมาณ",
+    "romanization": "bpà-rí-maan",
+    "meaning": "量",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/197.mp3"
+  },
+  {
+    "id": 198,
+    "thai": "ราคา",
+    "romanization": "raa-khaa",
+    "meaning": "価格",
+    "category": "shopping",
+    "level": 2,
+    "sound": "assets/audio/vocab/198.mp3"
+  },
+  {
+    "id": 199,
+    "thai": "ต้นทุน",
+    "romanization": "dtôn-thun",
+    "meaning": "コスト",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/199.mp3"
+  },
+  {
+    "id": 200,
+    "thai": "กำไร",
+    "romanization": "gam-rai",
+    "meaning": "利益",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/200.mp3"
+  },
+  {
+    "id": 601,
+    "thai": "การประชุม",
+    "romanization": "gaan-bprà-chum",
+    "meaning": "会議",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/601.mp3"
+  },
+  {
+    "id": 602,
+    "thai": "วาระการประชุม",
+    "romanization": "waa-rá-gaan-bprà-chum",
+    "meaning": "議題",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/602.mp3"
+  },
+  {
+    "id": 603,
+    "thai": "ผู้เข้าร่วม",
+    "romanization": "phûu-khâo-rûam",
+    "meaning": "参加者",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/603.mp3"
+  },
+  {
+    "id": 604,
+    "thai": "การตัดสินใจ",
+    "romanization": "gaan-dtàt-sĭn-jai",
+    "meaning": "意思決定",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/604.mp3"
+  },
+  {
+    "id": 605,
+    "thai": "ข้อเสนอ",
+    "romanization": "khâw-sà-nĕr",
+    "meaning": "提案",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/605.mp3"
+  },
+  {
+    "id": 606,
+    "thai": "การนำเสนอ",
+    "romanization": "gaan-nam-sà-nĕr",
+    "meaning": "プレゼンテーション",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/606.mp3"
+  },
+  {
+    "id": 607,
+    "thai": "รายงาน",
+    "romanization": "raai-ngaan",
+    "meaning": "報告，報告書",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/607.mp3"
+  },
+  {
+    "id": 608,
+    "thai": "เอกสาร",
+    "romanization": "èek-gà-săan",
+    "meaning": "書類",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/608.mp3"
+  },
+  {
+    "id": 609,
+    "thai": "กำหนดเวลา",
+    "romanization": "gam-nòt-wee-laa",
+    "meaning": "締め切り",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/609.mp3"
+  },
+  {
+    "id": 610,
+    "thai": "ตารางเวลา",
+    "romanization": "dtaa-raang-wee-laa",
+    "meaning": "スケジュール",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/610.mp3"
+  },
+  {
+    "id": 611,
+    "thai": "การนัดหมาย",
+    "romanization": "gaan-nát-măai",
+    "meaning": "アポイントメント",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/611.mp3"
+  },
+  {
+    "id": 612,
+    "thai": "อีเมล",
+    "romanization": "ii-meeo",
+    "meaning": "Eメール",
+    "category": "technology_it",
+    "level": 2,
+    "sound": "assets/audio/vocab/612.mp3"
+  },
+  {
+    "id": 615,
+    "thai": "สัญญา",
+    "romanization": "săn-yaa",
+    "meaning": "契約",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/615.mp3"
+  },
+  {
+    "id": 629,
+    "thai": "ผู้ผลิต",
+    "romanization": "phûu-phà-lìt",
+    "meaning": "生産者",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/629.mp3"
+  },
+  {
+    "id": 630,
+    "thai": "อุปสงค์",
+    "romanization": "ùp-bpà-sŏng",
+    "meaning": "需要",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/630.mp3"
+  },
+  {
+    "id": 631,
+    "thai": "อุปทาน",
+    "romanization": "ùp-bpà-thaan",
+    "meaning": "供給",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/631.mp3"
+  },
+  {
+    "id": 632,
+    "thai": "การแข่งขัน",
+    "romanization": "gaan-khàeng-khăn",
+    "meaning": "競争",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/632.mp3"
+  },
+  {
+    "id": 633,
+    "thai": "การเจรจา",
+    "romanization": "gaan-jeen-rá-jaa",
+    "meaning": "交渉",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/633.mp3"
+  },
+  {
+    "id": 635,
+    "thai": "ข้อตกลง",
+    "romanization": "khâw-dtòk-long",
+    "meaning": "合意",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/635.mp3"
+  },
+  {
+    "id": 641,
+    "thai": "การขนส่ง",
+    "romanization": "gaan-khŏn-sòng",
+    "meaning": "輸送",
+    "category": "transportation",
+    "level": 2,
+    "sound": "assets/audio/vocab/641.mp3"
+  },
+  {
+    "id": 642,
+    "thai": "คลังสินค้า",
+    "romanization": "khlang-sĭn-kháa",
+    "meaning": "倉庫",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/642.mp3"
+  },
+  {
+    "id": 643,
+    "thai": "สินค้าคงคลัง",
+    "romanization": "sĭn-kháa-khong-khlang",
+    "meaning": "在庫",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/643.mp3"
+  },
+  {
+    "id": 644,
+    "thai": "การจัดซื้อ",
+    "romanization": "gaan-jàt-séu",
+    "meaning": "購買",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/644.mp3"
+  },
+  {
+    "id": 645,
+    "thai": "การขาย",
+    "romanization": "gaan-khăai",
+    "meaning": "販売",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/645.mp3"
+  },
+  {
+    "id": 646,
+    "thai": "ลูกค้า",
+    "romanization": "lûuk-kháa",
+    "meaning": "顧客",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/646.mp3"
+  },
+  {
+    "id": 647,
+    "thai": "บริการลูกค้า",
+    "romanization": "baw-rí-gaan-lûuk-kháa",
+    "meaning": "顧客サービス",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/647.mp3"
+  },
+  {
+    "id": 648,
+    "thai": "การรับประกัน",
+    "romanization": "gaan-ráp-bprà-gan",
+    "meaning": "保証",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/648.mp3"
+  },
+  {
+    "id": 649,
+    "thai": "การซ่อมแซม",
+    "romanization": "gaan-sâwm-saem",
+    "meaning": "修理",
+    "category": "mechanical_engineering",
+    "level": 2,
+    "sound": "assets/audio/vocab/649.mp3"
+  },
+  {
+    "id": 651,
+    "thai": "พนักงาน",
+    "romanization": "phá-nák-ngaan",
+    "meaning": "従業員",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/651.mp3"
+  },
+  {
+    "id": 653,
+    "thai": "ลูกน้อง",
+    "romanization": "lûuk-náwng",
+    "meaning": "部下",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/653.mp3"
+  },
+  {
+    "id": 655,
+    "thai": "แผนก",
+    "romanization": "phà-nàek",
+    "meaning": "部署",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/655.mp3"
+  },
+  {
+    "id": 656,
+    "thai": "สำนักงาน",
+    "romanization": "săm-nák-ngaan",
+    "meaning": "事務所、オフィス",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/656.mp3"
+  },
+  {
+    "id": 657,
+    "thai": "เงินเดือน",
+    "romanization": "ngern-duean",
+    "meaning": "給料",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/657.mp3"
+  },
+  {
+    "id": 658,
+    "thai": "โบนัส",
+    "romanization": "boo-nát",
+    "meaning": "ボーナス",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/658.mp3"
+  },
+  {
+    "id": 659,
+    "thai": "การลาพักร้อน",
+    "romanization": "gaan-laa-phák-ráwn",
+    "meaning": "休暇",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/659.mp3"
+  },
+  {
+    "id": 660,
+    "thai": "การลางาน",
+    "romanization": "gaan-laa-ngaan",
+    "meaning": "欠勤",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/660.mp3"
+  },
+  {
+    "id": 661,
+    "thai": "การทำงานล่วงเวลา",
+    "romanization": "gaan-tham-ngaan-lûang-wee-laa",
+    "meaning": "残業",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/661.mp3"
+  },
+  {
+    "id": 662,
+    "thai": "การเดินทางไปทำงาน",
+    "romanization": "gaan-dern-thaang-bpai-tham-ngaan",
+    "meaning": "通勤",
+    "category": "transportation",
+    "level": 2,
+    "sound": "assets/audio/vocab/662.mp3"
+  },
+  {
+    "id": 663,
+    "thai": "การเดินทางเพื่อธุรกิจ",
+    "romanization": "gaan-dern-thaang-phûea-thú-rá-gìt",
+    "meaning": "出張",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/663.mp3"
+  },
+  {
+    "id": 664,
+    "thai": "ความรับผิดชอบ",
+    "romanization": "khwaam-ráp-phìt-châwp",
+    "meaning": "責任",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/664.mp3"
+  },
+  {
+    "id": 665,
+    "thai": "หน้าที่",
+    "romanization": "nâa-thîi",
+    "meaning": "役割、義務",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/665.mp3"
+  },
+  {
+    "id": 666,
+    "thai": "ความสำเร็จ",
+    "romanization": "khwaam-săm-rèt",
+    "meaning": "達成",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/666.mp3"
+  },
+  {
+    "id": 667,
+    "thai": "ความท้าทาย",
+    "romanization": "khwaam-tháa-thaai",
+    "meaning": "挑戦、課題",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/667.mp3"
+  },
+  {
+    "id": 668,
+    "thai": "กลยุทธ์",
+    "romanization": "gon-lá-yút",
+    "meaning": "戦略",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/668.mp3"
+  },
+  {
+    "id": 669,
+    "thai": "ยุทธวิธี",
+    "romanization": "yút-thá-wí-thii",
+    "meaning": "戦術",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/669.mp3"
+  },
+  {
+    "id": 670,
+    "thai": "คู่แข่ง",
+    "romanization": "khûu-khàeng",
+    "meaning": "競合他社",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/670.mp3"
+  },
+  {
+    "id": 672,
+    "thai": "โรงเรียน",
+    "romanization": "roong-rian",
+    "meaning": "学校",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/672.mp3"
+  },
+  {
+    "id": 676,
+    "thai": "วิชา",
+    "romanization": "wí-chaa",
+    "meaning": "科目",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/676.mp3"
+  },
+  {
+    "id": 678,
+    "thai": "การบ้าน",
+    "romanization": "gaan-bâan",
+    "meaning": "宿題",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/678.mp3"
+  },
+  {
+    "id": 679,
+    "thai": "สอบ",
+    "romanization": "sàwp",
+    "meaning": "試験を受ける",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/679.mp3"
+  },
+  {
+    "id": 680,
+    "thai": "ผ่าน",
+    "romanization": "phàan",
+    "meaning": "合格する、通過する",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/680.mp3"
+  },
+  {
+    "id": 681,
+    "thai": "ตก",
+    "romanization": "dtòk",
+    "meaning": "不合格になる、落ちる",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/681.mp3"
+  },
+  {
+    "id": 682,
+    "thai": "คะแนน",
+    "romanization": "khá-naen",
+    "meaning": "点数、スコア",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/682.mp3"
+  },
+  {
+    "id": 683,
+    "thai": "ห้องเรียน",
+    "romanization": "hâwng-rian",
+    "meaning": "教室",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/683.mp3"
+  },
+  {
+    "id": 684,
+    "thai": "การท่องเที่ยว",
+    "romanization": "gaan-thâwng-thîao",
+    "meaning": "観光",
+    "category": "travel_accommodation",
+    "level": 2,
+    "sound": "assets/audio/vocab/684.mp3"
+  },
+  {
+    "id": 685,
+    "thai": "นักท่องเที่ยว",
+    "romanization": "nák-thâwng-thîao",
+    "meaning": "観光客",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/685.mp3"
+  },
+  {
+    "id": 686,
+    "thai": "การจอง",
+    "romanization": "gaan-jawng",
+    "meaning": "予約",
+    "category": "hotel_accommodation",
+    "level": 2,
+    "sound": "assets/audio/vocab/686.mp3"
+  },
+  {
+    "id": 687,
+    "thai": "การเดินทาง",
+    "romanization": "gaan-dern-thaang",
+    "meaning": "旅行",
+    "category": "transportation",
+    "level": 2,
+    "sound": "assets/audio/vocab/687.mp3"
+  },
+  {
+    "id": 688,
+    "thai": "ที่พัก",
+    "romanization": "thîi-phák",
+    "meaning": "宿泊施設",
+    "category": "hotel_accommodation",
+    "level": 2,
+    "sound": "assets/audio/vocab/688.mp3"
+  },
+  {
+    "id": 689,
+    "thai": "แผนที่",
+    "romanization": "phăen-thîi",
+    "meaning": "地図",
+    "category": "travel_accommodation",
+    "level": 2,
+    "sound": "assets/audio/vocab/689.mp3"
+  },
+  {
+    "id": 690,
+    "thai": "ทิศทาง",
+    "romanization": "thít-thaang",
+    "meaning": "方向",
+    "category": "transportation",
+    "level": 2,
+    "sound": "assets/audio/vocab/690.mp3"
+  },
+  {
+    "id": 691,
+    "thai": "ของที่ระลึก",
+    "romanization": "khŏng-thîi-rá-lúk",
+    "meaning": "お土産",
+    "category": "shopping",
+    "level": 2,
+    "sound": "assets/audio/vocab/691.mp3"
+  },
+  {
+    "id": 692,
+    "thai": "สกุลเงิน",
+    "romanization": "sà-gun-ngern",
+    "meaning": "通貨",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/692.mp3"
+  },
+  {
+    "id": 693,
+    "thai": "แลกเงิน",
+    "romanization": "lâek-ngern",
+    "meaning": "両替する",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/693.mp3"
+  },
+  {
+    "id": 694,
+    "thai": "วีซ่า",
+    "romanization": "wii-sâa",
+    "meaning": "ビザ",
+    "category": "travel_accommodation",
+    "level": 2,
+    "sound": "assets/audio/vocab/694.mp3"
+  },
+  {
+    "id": 695,
+    "thai": "หนังสือเดินทาง",
+    "romanization": "năng-sĕu-dern-thaang",
+    "meaning": "パスポート",
+    "category": "travel_accommodation",
+    "level": 2,
+    "sound": "assets/audio/vocab/695.mp3"
+  },
+  {
+    "id": 696,
+    "thai": "ศุลกากร",
+    "romanization": "sŭn-lá-gaa-gawn",
+    "meaning": "税関",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/696.mp3"
+  },
+  {
+    "id": 697,
+    "thai": "เหมือน",
+    "romanization": "mĕuan",
+    "meaning": "似ている",
+    "category": "greetings_expressions",
+    "level": 2,
+    "sound": "assets/audio/vocab/697.mp3"
+  },
+  {
+    "id": 707,
+    "thai": "สามารถ",
+    "romanization": "săa-mâat",
+    "meaning": "できる（能力）",
+    "category": "greetings_expressions",
+    "level": 2,
+    "sound": "assets/audio/vocab/707.mp3"
+  },
+  {
+    "id": 720,
+    "thai": "ชนะ",
+    "romanization": "chá-ná",
+    "meaning": "勝つ",
+    "category": "greetings_expressions",
+    "level": 2,
+    "sound": "assets/audio/vocab/720.mp3"
+  },
+  {
+    "id": 721,
+    "thai": "แพ้",
+    "romanization": "pháe",
+    "meaning": "負ける",
+    "category": "greetings_expressions",
+    "level": 2,
+    "sound": "assets/audio/vocab/721.mp3"
+  },
+  {
+    "id": 722,
+    "thai": "อันตราย",
+    "romanization": "an-dtà-raai",
+    "meaning": "危険",
+    "category": "health_medical",
+    "level": 2,
+    "sound": "assets/audio/vocab/722.mp3"
+  },
+  {
+    "id": 730,
+    "thai": "ธรรมชาติ",
+    "romanization": "tham-má-châat",
+    "meaning": "自然",
+    "category": "travel_accommodation",
+    "level": 2,
+    "sound": "assets/audio/vocab/730.mp3"
+  },
+  {
+    "id": 741,
+    "thai": "นักร้อง",
+    "romanization": "nák-ráwng",
+    "meaning": "歌手",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/741.mp3"
+  },
+  {
+    "id": 766,
+    "thai": "เชฟ",
+    "romanization": "chép",
+    "meaning": "シェフ",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/766.mp3"
+  },
+  {
+    "id": 767,
+    "thai": "พนักงานเสิร์ฟ",
+    "romanization": "phá-nák-ngaan-sèrp",
+    "meaning": "ウェイター／ウェイトレス",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/767.mp3"
+  },
+  {
+    "id": 768,
+    "thai": "ช่างตัดผม",
+    "romanization": "châang-dtàt-phŏm",
+    "meaning": "美容師",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/768.mp3"
+  },
+  {
+    "id": 769,
+    "thai": "พนักงานขาย",
+    "romanization": "phá-nák-ngaan-khăai",
+    "meaning": "販売員",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/769.mp3"
+  },
+  {
+    "id": 770,
+    "thai": "คนขับรถ",
+    "romanization": "khon-khàp-rót",
+    "meaning": "運転手",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/770.mp3"
+  },
+  {
+    "id": 771,
+    "thai": "แม่บ้าน",
+    "romanization": "mâe-bâan",
+    "meaning": "主婦、家政婦",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/771.mp3"
+  },
+  {
+    "id": 772,
+    "thai": "พ่อบ้าน",
+    "romanization": "phâw-bâan",
+    "meaning": "主夫、執事",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/772.mp3"
+  },
+  {
+    "id": 777,
+    "thai": "เทศกาล",
+    "romanization": "thêet-sà-gaan",
+    "meaning": "祭り",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/777.mp3"
+  },
+  {
+    "id": 783,
+    "thai": "งานอดิเรก",
+    "romanization": "ngaan-à-dì-rèk",
+    "meaning": "趣味",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/783.mp3"
+  },
+  {
+    "id": 789,
+    "thai": "การทำอาหาร",
+    "romanization": "gaan-tham-aa-hăan",
+    "meaning": "料理",
+    "category": "food_restaurant",
+    "level": 2,
+    "sound": "assets/audio/vocab/789.mp3"
+  },
+  {
+    "id": 790,
+    "thai": "การอ่าน",
+    "romanization": "gaan-àan",
+    "meaning": "読書",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/790.mp3"
+  },
+  {
+    "id": 791,
+    "thai": "การเขียน",
+    "romanization": "gaan-khĭan",
+    "meaning": "執筆",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/791.mp3"
+  },
+  {
+    "id": 793,
+    "thai": "การเต้น",
+    "romanization": "gaan-dtên",
+    "meaning": "ダンス",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/793.mp3"
+  },
+  {
+    "id": 794,
+    "thai": "การร้องเพลง",
+    "romanization": "gaan-ráwng-pleeng",
+    "meaning": "歌うこと",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/794.mp3"
+  },
+  {
+    "id": 795,
+    "thai": "การเล่นเกม",
+    "romanization": "gaan-lên-geem",
+    "meaning": "ゲームをすること",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/795.mp3"
+  },
+  {
+    "id": 872,
+    "thai": "ฤดูใบไม้ผลิ",
+    "romanization": "réu-duu-bai-mái-phlì",
+    "meaning": "春",
+    "category": "travel_accommodation",
+    "level": 2,
+    "sound": "assets/audio/vocab/872.mp3"
+  },
+  {
+    "id": 873,
+    "thai": "ฤดูใบไม้ร่วง",
+    "romanization": "réu-duu-bai-mái-rûang",
+    "meaning": "秋",
+    "category": "travel_accommodation",
+    "level": 2,
+    "sound": "assets/audio/vocab/873.mp3"
+  },
+  {
+    "id": 878,
+    "thai": "ทิศทาง",
+    "romanization": "thít-thaang",
+    "meaning": "方角",
+    "category": "transportation",
+    "level": 2,
+    "sound": "assets/audio/vocab/878.mp3"
+  },
+  {
+    "id": 879,
+    "thai": "ซ้าย",
+    "romanization": "sáai",
+    "meaning": "左",
+    "category": "transportation",
+    "level": 2,
+    "sound": "assets/audio/vocab/879.mp3"
+  },
+  {
+    "id": 880,
+    "thai": "ขวา",
+    "romanization": "khwăa",
+    "meaning": "右",
+    "category": "transportation",
+    "level": 2,
+    "sound": "assets/audio/vocab/880.mp3"
+  },
+  {
+    "id": 881,
+    "thai": "ตรงไป",
+    "romanization": "dtrong-bpai",
+    "meaning": "まっすぐ",
+    "category": "transportation",
+    "level": 2,
+    "sound": "assets/audio/vocab/881.mp3"
+  },
+  {
+    "id": 882,
+    "thai": "ข้างหน้า",
+    "romanization": "khâang-nâa",
+    "meaning": "前",
+    "category": "transportation",
+    "level": 2,
+    "sound": "assets/audio/vocab/882.mp3"
+  },
+  {
+    "id": 883,
+    "thai": "ข้างหลัง",
+    "romanization": "khâang-lăng",
+    "meaning": "後ろ",
+    "category": "transportation",
+    "level": 2,
+    "sound": "assets/audio/vocab/883.mp3"
+  },
+  {
+    "id": 884,
+    "thai": "ข้างบน",
+    "romanization": "khâang-bon",
+    "meaning": "上",
+    "category": "greetings_expressions",
+    "level": 2,
+    "sound": "assets/audio/vocab/884.mp3"
+  },
+  {
+    "id": 885,
+    "thai": "ข้างล่าง",
+    "romanization": "khâang-lâang",
+    "meaning": "下",
+    "category": "greetings_expressions",
+    "level": 2,
+    "sound": "assets/audio/vocab/885.mp3"
+  },
+  {
+    "id": 886,
+    "thai": "ข้างใน",
+    "romanization": "khâang-nai",
+    "meaning": "中",
+    "category": "greetings_expressions",
+    "level": 2,
+    "sound": "assets/audio/vocab/886.mp3"
+  },
+  {
+    "id": 887,
+    "thai": "ข้างนอก",
+    "romanization": "khâang-nâwk",
+    "meaning": "外",
+    "category": "greetings_expressions",
+    "level": 2,
+    "sound": "assets/audio/vocab/887.mp3"
+  },
+  {
+    "id": 891,
+    "thai": "จักรวาล",
+    "romanization": "jàk-grà-waan",
+    "meaning": "宇宙",
+    "category": "technology_it",
+    "level": 2,
+    "sound": "assets/audio/vocab/891.mp3"
+  },
+  {
+    "id": 892,
+    "thai": "ดวงอาทิตย์",
+    "romanization": "duang-aa-thít",
+    "meaning": "太陽",
+    "category": "travel_accommodation",
+    "level": 2,
+    "sound": "assets/audio/vocab/892.mp3"
+  },
+  {
+    "id": 893,
+    "thai": "ดวงจันทร์",
+    "romanization": "duang-jan",
+    "meaning": "月",
+    "category": "travel_accommodation",
+    "level": 2,
+    "sound": "assets/audio/vocab/893.mp3"
+  },
+  {
+    "id": 896,
+    "thai": "ทะเลทราย",
+    "romanization": "thá-lee-saai",
+    "meaning": "砂漠",
+    "category": "travel_accommodation",
+    "level": 2,
+    "sound": "assets/audio/vocab/896.mp3"
+  },
+  {
+    "id": 995,
+    "thai": "การแสดง",
+    "romanization": "gaan-sà-daeng",
+    "meaning": "パフォーマンス",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/995.mp3"
+  },
+  {
+    "id": 996,
+    "thai": "คอนเสิร์ต",
+    "romanization": "khawn-sèrt",
+    "meaning": "コンサート",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/996.mp3"
+  },
+  {
+    "id": 997,
+    "thai": "ละครเวที",
+    "romanization": "lá-khawn-wee-thii",
+    "meaning": "演劇",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/997.mp3"
+  },
+  {
+    "id": 998,
+    "thai": "นิทรรศการ",
+    "romanization": "ní-thát-sà-gaan",
+    "meaning": "展覧会",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/998.mp3"
+  },
+  {
+    "id": 1001,
+    "thai": "สวนสัตว์",
+    "romanization": "sŭan-sàt",
+    "meaning": "動物園",
+    "category": "travel_accommodation",
+    "level": 2,
+    "sound": "assets/audio/vocab/1001.mp3"
+  },
+  {
+    "id": 1002,
+    "thai": "สวนสนุก",
+    "romanization": "sŭan-sà-nùk",
+    "meaning": "遊園地",
+    "category": "travel_accommodation",
+    "level": 2,
+    "sound": "assets/audio/vocab/1002.mp3"
+  },
+  {
+    "id": 1004,
+    "thai": "โรงภาพยนตร์",
+    "romanization": "roong-phâap-phá-yon",
+    "meaning": "映画館",
+    "category": "travel_accommodation",
+    "level": 2,
+    "sound": "assets/audio/vocab/1004.mp3"
+  },
+  {
+    "id": 1005,
+    "thai": "สนามกีฬา",
+    "romanization": "sà-năam-gii-laa",
+    "meaning": "スタジアム",
+    "category": "travel_accommodation",
+    "level": 2,
+    "sound": "assets/audio/vocab/1005.mp3"
+  },
+  {
+    "id": 1006,
+    "thai": "สระว่ายน้ำ",
+    "romanization": "sà-wâai-náam",
+    "meaning": "プール",
+    "category": "travel_accommodation",
+    "level": 2,
+    "sound": "assets/audio/vocab/1006.mp3"
+  },
+  {
+    "id": 1008,
+    "thai": "ภูเขา",
+    "romanization": "phuu-khăo",
+    "meaning": "山",
+    "category": "travel_accommodation",
+    "level": 2,
+    "sound": "assets/audio/vocab/1008.mp3"
+  },
+  {
+    "id": 1009,
+    "thai": "ทะเลสาบ",
+    "romanization": "thá-lee-sàap",
+    "meaning": "湖",
+    "category": "travel_accommodation",
+    "level": 2,
+    "sound": "assets/audio/vocab/1009.mp3"
+  },
+  {
+    "id": 1010,
+    "thai": "แม่น้ำ",
+    "romanization": "mâe-náam",
+    "meaning": "川",
+    "category": "travel_accommodation",
+    "level": 2,
+    "sound": "assets/audio/vocab/1010.mp3"
+  },
+  {
+    "id": 1014,
+    "thai": "น้ำตก",
+    "romanization": "náam-dtòk",
+    "meaning": "滝",
+    "category": "travel_accommodation",
+    "level": 2,
+    "sound": "assets/audio/vocab/1014.mp3"
+  },
+  {
+    "id": 1015,
+    "thai": "ทุ่งหญ้า",
+    "romanization": "thûng-yâa",
+    "meaning": "草原",
+    "category": "travel_accommodation",
+    "level": 2,
+    "sound": "assets/audio/vocab/1015.mp3"
+  },
+  {
+    "id": 1016,
+    "thai": "หุบเขา",
+    "romanization": "hùp-khăo",
+    "meaning": "谷",
+    "category": "travel_accommodation",
+    "level": 2,
+    "sound": "assets/audio/vocab/1016.mp3"
+  },
+  {
+    "id": 1017,
+    "thai": "ถ้ำ",
+    "romanization": "thâm",
+    "meaning": "洞窟",
+    "category": "travel_accommodation",
+    "level": 2,
+    "sound": "assets/audio/vocab/1017.mp3"
+  },
+  {
+    "id": 1018,
+    "thai": "ภูเขาไฟ",
+    "romanization": "phuu-khăo-fai",
+    "meaning": "火山",
+    "category": "travel_accommodation",
+    "level": 2,
+    "sound": "assets/audio/vocab/1018.mp3"
+  },
+  {
+    "id": 1019,
+    "thai": "แผ่นดินไหว",
+    "romanization": "phàen-din-wăi",
+    "meaning": "地震",
+    "category": "travel_accommodation",
+    "level": 2,
+    "sound": "assets/audio/vocab/1019.mp3"
+  },
+  {
+    "id": 1020,
+    "thai": "พายุ",
+    "romanization": "phaa-yú",
+    "meaning": "嵐",
+    "category": "travel_accommodation",
+    "level": 2,
+    "sound": "assets/audio/vocab/1020.mp3"
+  },
+  {
+    "id": 1021,
+    "thai": "น้ำท่วม",
+    "romanization": "náam-thûam",
+    "meaning": "洪水",
+    "category": "travel_accommodation",
+    "level": 2,
+    "sound": "assets/audio/vocab/1021.mp3"
+  },
+  {
+    "id": 1022,
+    "thai": "ภัยแล้ง",
+    "romanization": "phai-láeng",
+    "meaning": "干ばつ",
+    "category": "travel_accommodation",
+    "level": 2,
+    "sound": "assets/audio/vocab/1022.mp3"
+  },
+  {
+    "id": 1023,
+    "thai": "ไฟป่า",
+    "romanization": "fai-bpàa",
+    "meaning": "山火事",
+    "category": "travel_accommodation",
+    "level": 2,
+    "sound": "assets/audio/vocab/1023.mp3"
+  },
+  {
+    "id": 1024,
+    "thai": "สึนามิ",
+    "romanization": "sèu-naa-mí",
+    "meaning": "津波",
+    "category": "travel_accommodation",
+    "level": 2,
+    "sound": "assets/audio/vocab/1024.mp3"
+  },
+  {
+    "id": 1048,
+    "thai": "คำนาม",
+    "romanization": "kham-naam",
+    "meaning": "名詞",
+    "category": "greetings_expressions",
+    "level": 2,
+    "sound": "assets/audio/vocab/1048.mp3"
+  },
+  {
+    "id": 1049,
+    "thai": "คำกริยา",
+    "romanization": "kham-gà-rí-yaa",
+    "meaning": "動詞",
+    "category": "greetings_expressions",
+    "level": 2,
+    "sound": "assets/audio/vocab/1049.mp3"
+  },
+  {
+    "id": 1050,
+    "thai": "คำคุณศัพท์",
+    "romanization": "kham-khun-ná-sàp",
+    "meaning": "形容詞",
+    "category": "greetings_expressions",
+    "level": 2,
+    "sound": "assets/audio/vocab/1050.mp3"
+  },
+  {
+    "id": 1051,
+    "thai": "คำวิเศษณ์",
+    "romanization": "kham-wí-sèet",
+    "meaning": "副詞",
+    "category": "greetings_expressions",
+    "level": 2,
+    "sound": "assets/audio/vocab/1051.mp3"
+  },
+  {
+    "id": 1052,
+    "thai": "คำสรรพนาม",
+    "romanization": "kham-sàp-phá-naam",
+    "meaning": "代名詞",
+    "category": "greetings_expressions",
+    "level": 2,
+    "sound": "assets/audio/vocab/1052.mp3"
+  },
+  {
+    "id": 1053,
+    "thai": "คำบุพบท",
+    "romanization": "kham-bùp-phá-bòt",
+    "meaning": "前置詞",
+    "category": "greetings_expressions",
+    "level": 2,
+    "sound": "assets/audio/vocab/1053.mp3"
+  },
+  {
+    "id": 1054,
+    "thai": "คำสันธาน",
+    "romanization": "kham-săn-thaan",
+    "meaning": "接続詞",
+    "category": "greetings_expressions",
+    "level": 2,
+    "sound": "assets/audio/vocab/1054.mp3"
+  },
+  {
+    "id": 1255,
+    "thai": "ระบบประสาท",
+    "romanization": "rá-bòp-bprà-sàat",
+    "meaning": "神経系",
+    "category": "health_medical",
+    "level": 2,
+    "sound": "assets/audio/vocab/1255.mp3"
+  },
+  {
+    "id": 1290,
+    "thai": "คู่สมรส",
+    "romanization": "khûu-sŏm-rót",
+    "meaning": "配偶者",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1290.mp3"
+  },
+  {
+    "id": 1291,
+    "thai": "สามี",
+    "romanization": "săa-mii",
+    "meaning": "夫",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1291.mp3"
+  },
+  {
+    "id": 1292,
+    "thai": "ภรรยา",
+    "romanization": "phan-rá-yaa",
+    "meaning": "妻",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1292.mp3"
+  },
+  {
+    "id": 1293,
+    "thai": "ลูกชาย",
+    "romanization": "lûuk-chaai",
+    "meaning": "息子",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1293.mp3"
+  },
+  {
+    "id": 1294,
+    "thai": "ลูกสาว",
+    "romanization": "lûuk-săao",
+    "meaning": "娘",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1294.mp3"
+  },
+  {
+    "id": 1295,
+    "thai": "พี่ชาย",
+    "romanization": "phîi-chaai",
+    "meaning": "兄",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1295.mp3"
+  },
+  {
+    "id": 1296,
+    "thai": "น้องชาย",
+    "romanization": "náwng-chaai",
+    "meaning": "弟",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1296.mp3"
+  },
+  {
+    "id": 1297,
+    "thai": "พี่สาว",
+    "romanization": "phîi-săao",
+    "meaning": "姉",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1297.mp3"
+  },
+  {
+    "id": 1298,
+    "thai": "น้องสาว",
+    "romanization": "náwng-săao",
+    "meaning": "妹",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1298.mp3"
+  },
+  {
+    "id": 1299,
+    "thai": "ปู่",
+    "romanization": "bpùu",
+    "meaning": "祖父（父方）",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1299.mp3"
+  },
+  {
+    "id": 1300,
+    "thai": "ย่า",
+    "romanization": "yâa",
+    "meaning": "祖母（父方）",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1300.mp3"
+  },
+  {
+    "id": 1301,
+    "thai": "ตา",
+    "romanization": "dtaa",
+    "meaning": "祖父（母方）",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1301.mp3"
+  },
+  {
+    "id": 1302,
+    "thai": "ยาย",
+    "romanization": "yaai",
+    "meaning": "祖母（母方）",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1302.mp3"
+  },
+  {
+    "id": 1303,
+    "thai": "หลานชาย",
+    "romanization": "lăan-chaai",
+    "meaning": "孫、甥",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1303.mp3"
+  },
+  {
+    "id": 1304,
+    "thai": "หลานสาว",
+    "romanization": "lăan-săao",
+    "meaning": "孫娘、姪",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1304.mp3"
+  },
+  {
+    "id": 1305,
+    "thai": "ลุง",
+    "romanization": "lung",
+    "meaning": "おじ（父母の兄）",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1305.mp3"
+  },
+  {
+    "id": 1306,
+    "thai": "ป้า",
+    "romanization": "bpâa",
+    "meaning": "おば（父母の姉）",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1306.mp3"
+  },
+  {
+    "id": 1307,
+    "thai": "น้า",
+    "romanization": "náa",
+    "meaning": "おじ・おば（母の弟妹）",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1307.mp3"
+  },
+  {
+    "id": 1308,
+    "thai": "อา",
+    "romanization": "aa",
+    "meaning": "おじ・おば（父の弟妹）",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1308.mp3"
+  },
+  {
+    "id": 1309,
+    "thai": "เพื่อน",
+    "romanization": "phûean",
+    "meaning": "友達",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1309.mp3"
+  },
+  {
+    "id": 1310,
+    "thai": "เพื่อนบ้าน",
+    "romanization": "phûean-bâan",
+    "meaning": "隣人",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1310.mp3"
+  },
+  {
+    "id": 1311,
+    "thai": "เจ้านาย",
+    "romanization": "jâo-naai",
+    "meaning": "上司",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1311.mp3"
+  },
+  {
+    "id": 1313,
+    "thai": "เพื่อนร่วมงาน",
+    "romanization": "phûean-rûam-ngaan",
+    "meaning": "同僚",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1313.mp3"
+  },
+  {
+    "id": 1315,
+    "thai": "คนแปลกหน้า",
+    "romanization": "khon-bplàek-nâa",
+    "meaning": "見知らぬ人",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1315.mp3"
+  },
+  {
+    "id": 1316,
+    "thai": "มนุษย์",
+    "romanization": "má-nút",
+    "meaning": "人間",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1316.mp3"
+  },
+  {
+    "id": 1317,
+    "thai": "ผู้คน",
+    "romanization": "phûu-khon",
+    "meaning": "人々",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1317.mp3"
+  },
+  {
+    "id": 1318,
+    "thai": "เด็ก",
+    "romanization": "dèk",
+    "meaning": "子供",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1318.mp3"
+  },
+  {
+    "id": 1319,
+    "thai": "ผู้ใหญ่",
+    "romanization": "phûu-yài",
+    "meaning": "大人",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1319.mp3"
+  },
+  {
+    "id": 1320,
+    "thai": "วัยรุ่น",
+    "romanization": "wai-rûn",
+    "meaning": "若者",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1320.mp3"
+  },
+  {
+    "id": 1321,
+    "thai": "ผู้สูงอายุ",
+    "romanization": "phûu-sŭung-aa-yú",
+    "meaning": "高齢者",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1321.mp3"
+  },
+  {
+    "id": 1322,
+    "thai": "บุคคล",
+    "romanization": "bùk-khon",
+    "meaning": "個人",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1322.mp3"
+  },
+  {
+    "id": 1323,
+    "thai": "กลุ่ม",
+    "romanization": "glùm",
+    "meaning": "グループ",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1323.mp3"
+  },
+  {
+    "id": 1324,
+    "thai": "ทีม",
+    "romanization": "thiim",
+    "meaning": "チーム",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1324.mp3"
+  },
+  {
+    "id": 1325,
+    "thai": "องค์กร",
+    "romanization": "ong-gawn",
+    "meaning": "組織",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1325.mp3"
+  },
+  {
+    "id": 1326,
+    "thai": "รัฐบาล",
+    "romanization": "rát-thà-baan",
+    "meaning": "政府",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1326.mp3"
+  },
+  {
+    "id": 1327,
+    "thai": "ประชาชน",
+    "romanization": "bprà-chaa-chon",
+    "meaning": "国民",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1327.mp3"
+  },
+  {
+    "id": 1328,
+    "thai": "พลเมือง",
+    "romanization": "phon-lá-mueang",
+    "meaning": "市民",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1328.mp3"
+  },
+  {
+    "id": 1329,
+    "thai": "ชาวต่างชาติ",
+    "romanization": "chaao-dtàang-châat",
+    "meaning": "外国人",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1329.mp3"
+  },
+  {
+    "id": 1330,
+    "thai": "อาชีพ",
+    "romanization": "aa-chîip",
+    "meaning": "職業",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1330.mp3"
+  },
+  {
+    "id": 1331,
+    "thai": "นักธุรกิจ",
+    "romanization": "nák-thú-rá-gìt",
+    "meaning": "ビジネスマン",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1331.mp3"
+  },
+  {
+    "id": 1332,
+    "thai": "วิศวกร",
+    "romanization": "wít-sà-wá-gawn",
+    "meaning": "エンジニア",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1332.mp3"
+  },
+  {
+    "id": 1333,
+    "thai": "นักวิทยาศาสตร์",
+    "romanization": "nák-wít-thá-yaa-sàat",
+    "meaning": "科学者",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1333.mp3"
+  },
+  {
+    "id": 1334,
+    "thai": "โปรแกรมเมอร์",
+    "romanization": "bproo-graem-mêr",
+    "meaning": "プログラマー",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1334.mp3"
+  },
+  {
+    "id": 1335,
+    "thai": "นักบิน",
+    "romanization": "nák-bin",
+    "meaning": "パイロット",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1335.mp3"
+  },
+  {
+    "id": 1336,
+    "thai": "เกษตรกร",
+    "romanization": "gà-sèet-dtrà-gawn",
+    "meaning": "農家",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1336.mp3"
+  },
+  {
+    "id": 1337,
+    "thai": "ชาวประมง",
+    "romanization": "chaao-bprà-mong",
+    "meaning": "漁師",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1337.mp3"
+  },
+  {
+    "id": 1338,
+    "thai": "ทหาร",
+    "romanization": "thá-hăan",
+    "meaning": "兵士",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1338.mp3"
+  },
+  {
+    "id": 1339,
+    "thai": "ตำรวจ",
+    "romanization": "dtam-rùat",
+    "meaning": "警察官",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1339.mp3"
+  },
+  {
+    "id": 1340,
+    "thai": "พนักงานดับเพลิง",
+    "romanization": "phá-nák-ngaan-dàp-phleeng",
+    "meaning": "消防士",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1340.mp3"
+  },
+  {
+    "id": 1342,
+    "thai": "ศิลปิน",
+    "romanization": "sĭn-lá-bpin",
+    "meaning": "アーティスト",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1342.mp3"
+  },
+  {
+    "id": 1343,
+    "thai": "นักแสดง",
+    "romanization": "nák-sà-daeng",
+    "meaning": "俳優",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1343.mp3"
+  },
+  {
+    "id": 1344,
+    "thai": "นักเขียน",
+    "romanization": "nák-khĭan",
+    "meaning": "作家",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1344.mp3"
+  },
+  {
+    "id": 1345,
+    "thai": "นักข่าว",
+    "romanization": "nák-khàao",
+    "meaning": "ジャーナリスト",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1345.mp3"
+  },
+  {
+    "id": 1346,
+    "thai": "ช่างภาพ",
+    "romanization": "châang-phâap",
+    "meaning": "写真家",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1346.mp3"
+  },
+  {
+    "id": 1347,
+    "thai": "สถาปนิก",
+    "romanization": "sà-thăa-bpà-ník",
+    "meaning": "建築家",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1347.mp3"
+  },
+  {
+    "id": 1348,
+    "thai": "นักออกแบบ",
+    "romanization": "nák-àwk-bàep",
+    "meaning": "デザイナー",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1348.mp3"
+  },
+  {
+    "id": 1349,
+    "thai": "นักดนตรี",
+    "romanization": "nák-don-dtrii",
+    "meaning": "音楽家",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1349.mp3"
+  },
+  {
+    "id": 1350,
+    "thai": "จิตรกร",
+    "romanization": "jìt-dtrà-gawn",
+    "meaning": "画家",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1350.mp3"
+  },
+  {
+    "id": 1358,
+    "thai": "วันหยุดสุดสัปดาห์",
+    "romanization": "wan-yùt-sùt-sàp-daa",
+    "meaning": "週末",
+    "category": "numbers_time",
+    "level": 2,
+    "sound": "assets/audio/vocab/1358.mp3"
+  },
+  {
+    "id": 1359,
+    "thai": "วันธรรมดา",
+    "romanization": "wan-tham-má-daa",
+    "meaning": "平日",
+    "category": "numbers_time",
+    "level": 2,
+    "sound": "assets/audio/vocab/1359.mp3"
+  },
+  {
+    "id": 1363,
+    "thai": "คริสต์มาส",
+    "romanization": "khrít-mâat",
+    "meaning": "クリスマス",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1363.mp3"
+  },
+  {
+    "id": 1364,
+    "thai": "วันวาเลนไทน์",
+    "romanization": "wan-waa-len-thai",
+    "meaning": "バレンタインデー",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1364.mp3"
+  },
+  {
+    "id": 1365,
+    "thai": "วันฮาโลวีน",
+    "romanization": "wan-haa-loo-wiin",
+    "meaning": "ハロウィン",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1365.mp3"
+  },
+  {
+    "id": 1366,
+    "thai": "วันขอบคุณพระเจ้า",
+    "romanization": "wan-khàwp-khun-phrá-jâo",
+    "meaning": "感謝祭",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1366.mp3"
+  },
+  {
+    "id": 1367,
+    "thai": "วันประกาศอิสรภาพ",
+    "romanization": "wan-bprà-gàat-ìt-sà-rá-phâap",
+    "meaning": "独立記念日",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1367.mp3"
+  },
+  {
+    "id": 1368,
+    "thai": "วันหยุดราชการ",
+    "romanization": "wan-yùt-râat-chá-gaan",
+    "meaning": "祝日",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1368.mp3"
+  },
+  {
+    "id": 1373,
+    "thai": "อาจารย์",
+    "romanization": "aa-jaan",
+    "meaning": "教授、先生",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1373.mp3"
+  },
+  {
+    "id": 1378,
+    "thai": "คะแนน",
+    "romanization": "khá-naen",
+    "meaning": "点数",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1378.mp3"
+  },
+  {
+    "id": 1384,
+    "thai": "โรงอาหาร",
+    "romanization": "roong-aa-hăan",
+    "meaning": "食堂",
+    "category": "food_restaurant",
+    "level": 2,
+    "sound": "assets/audio/vocab/1384.mp3"
+  },
+  {
+    "id": 1385,
+    "thai": "สนาม",
+    "romanization": "sà-năam",
+    "meaning": "校庭、グラウンド",
+    "category": "travel_accommodation",
+    "level": 2,
+    "sound": "assets/audio/vocab/1385.mp3"
+  },
+  {
+    "id": 1387,
+    "thai": "คณิตศาสตร์",
+    "romanization": "khá-nít-dtà-sàat",
+    "meaning": "数学",
+    "category": "technology_it",
+    "level": 2,
+    "sound": "assets/audio/vocab/1387.mp3"
+  },
+  {
+    "id": 1389,
+    "thai": "ภาษาอังกฤษ",
+    "romanization": "phaa-săa-ang-grìt",
+    "meaning": "英語",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1389.mp3"
+  },
+  {
+    "id": 1394,
+    "thai": "การวาดภาพ",
+    "romanization": "gaan-wâat-phâap",
+    "meaning": "絵画",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1394.mp3"
+  },
+  {
+    "id": 1395,
+    "thai": "การถ่ายภาพ",
+    "romanization": "gaan-thàai-phâap",
+    "meaning": "写真撮影",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1395.mp3"
+  },
+  {
+    "id": 1396,
+    "thai": "การปั้น",
+    "romanization": "gaan-bpân",
+    "meaning": "彫刻",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1396.mp3"
+  },
+  {
+    "id": 1401,
+    "thai": "บทกวี",
+    "romanization": "bòt-gà-wii",
+    "meaning": "詩",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1401.mp3"
+  },
+  {
+    "id": 1407,
+    "thai": "การปีนเขา",
+    "romanization": "gaan-bpiin-khăo",
+    "meaning": "登山",
+    "category": "travel_accommodation",
+    "level": 2,
+    "sound": "assets/audio/vocab/1407.mp3"
+  },
+  {
+    "id": 1408,
+    "thai": "การตั้งแคมป์",
+    "romanization": "gaan-dtâng-kháem",
+    "meaning": "キャンプ",
+    "category": "travel_accommodation",
+    "level": 2,
+    "sound": "assets/audio/vocab/1408.mp3"
+  },
+  {
+    "id": 1409,
+    "thai": "การตกปลา",
+    "romanization": "gaan-dtòk-bplaa",
+    "meaning": "釣り",
+    "category": "travel_accommodation",
+    "level": 2,
+    "sound": "assets/audio/vocab/1409.mp3"
+  },
+  {
+    "id": 1442,
+    "thai": "ประมง",
+    "romanization": "bprà-mong",
+    "meaning": "漁業",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1442.mp3"
+  },
+  {
+    "id": 1443,
+    "thai": "ป่าไม้",
+    "romanization": "bpàa-mái",
+    "meaning": "林業",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1443.mp3"
+  },
+  {
+    "id": 1444,
+    "thai": "เหมืองแร่",
+    "romanization": "mĕuang-râe",
+    "meaning": "鉱業",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1444.mp3"
+  },
+  {
+    "id": 1445,
+    "thai": "การผลิต",
+    "romanization": "gaan-phà-lìt",
+    "meaning": "製造業",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1445.mp3"
+  },
+  {
+    "id": 1456,
+    "thai": "ศิลปะการต่อสู้",
+    "romanization": "sĭn-lá-bpà-gaan-dtàw-sûu",
+    "meaning": "格闘技",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1456.mp3"
+  },
+  {
+    "id": 1457,
+    "thai": "การทำสวน",
+    "romanization": "gaan-tham-sŭan",
+    "meaning": "ガーデニング",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1457.mp3"
+  },
+  {
+    "id": 1461,
+    "thai": "การวาดภาพ",
+    "romanization": "gaan-wâat-phâap",
+    "meaning": "絵を描くこと",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1461.mp3"
+  },
+  {
+    "id": 1467,
+    "thai": "การดูหนัง",
+    "romanization": "gaan-duu-năng",
+    "meaning": "映画鑑賞",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1467.mp3"
+  },
+  {
+    "id": 1505,
+    "thai": "วันแรงงาน",
+    "romanization": "wan-raeng-ngaan",
+    "meaning": "労働者の日",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1505.mp3"
+  },
+  {
+    "id": 1506,
+    "thai": "วันแม่",
+    "romanization": "wan-mâe",
+    "meaning": "母の日",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1506.mp3"
+  },
+  {
+    "id": 1507,
+    "thai": "วันพ่อ",
+    "romanization": "wan-phâw",
+    "meaning": "父の日",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1507.mp3"
+  },
+  {
+    "id": 1509,
+    "thai": "วันเกิด",
+    "romanization": "wan-gèrt",
+    "meaning": "誕生日",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1509.mp3"
+  },
+  {
+    "id": 1512,
+    "thai": "วันสงกรานต์",
+    "romanization": "wan-sŏng-graan",
+    "meaning": "ソンクラーン（タイ正月）",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1512.mp3"
+  },
+  {
+    "id": 1513,
+    "thai": "วันลอยกระทง",
+    "romanization": "wan-lawy-grà-thong",
+    "meaning": "ロイクラトン",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1513.mp3"
+  },
+  {
+    "id": 1780,
+    "thai": "ความบันเทิง",
+    "romanization": "khwaam-ban-theeng",
+    "meaning": "エンターテイメント",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1780.mp3"
+  },
+  {
+    "id": 1800,
+    "thai": "สื่อ",
+    "romanization": "sèu",
+    "meaning": "メディア",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1800.mp3"
+  },
+  {
+    "id": 1801,
+    "thai": "การสื่อสารมวลชน",
+    "romanization": "gaan-sèu-săan-muan-chon",
+    "meaning": "マスコミュニケーション",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1801.mp3"
+  },
+  {
+    "id": 1802,
+    "thai": "สื่อสิ่งพิมพ์",
+    "romanization": "sèu-sìng-phim",
+    "meaning": "印刷メディア",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1802.mp3"
+  },
+  {
+    "id": 1803,
+    "thai": "สื่ออิเล็กทรอนิกส์",
+    "romanization": "sèu-ì-lék-thráw-ník",
+    "meaning": "電子メディア",
+    "category": "technology_it",
+    "level": 2,
+    "sound": "assets/audio/vocab/1803.mp3"
+  },
+  {
+    "id": 1804,
+    "thai": "สื่อสังคมออนไลน์",
+    "romanization": "sèu-săng-khom-awn-lai",
+    "meaning": "ソーシャルメディア",
+    "category": "technology_it",
+    "level": 2,
+    "sound": "assets/audio/vocab/1804.mp3"
+  },
+  {
+    "id": 1806,
+    "thai": "บทความ",
+    "romanization": "bòt-khwaam",
+    "meaning": "記事",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1806.mp3"
+  },
+  {
+    "id": 1808,
+    "thai": "การประชาสัมพันธ์",
+    "romanization": "gaan-bprà-chaa-săm-phan",
+    "meaning": "広報",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1808.mp3"
+  },
+  {
+    "id": 1809,
+    "thai": "ความคิดเห็นของประชาชน",
+    "romanization": "khwaam-khít-hĕn-khăwng-bprà-chaa-chon",
+    "meaning": "世論",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1809.mp3"
+  },
+  {
+    "id": 1810,
+    "thai": "เสรีภาพในการพูด",
+    "romanization": "sĕ-rii-phâap-nai-gaan-phûut",
+    "meaning": "言論の自由",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1810.mp3"
+  },
+  {
+    "id": 1811,
+    "thai": "จรรยาบรรณสื่อ",
+    "romanization": "jan-yaa-ban-sèu",
+    "meaning": "メディア倫理",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1811.mp3"
+  },
+  {
+    "id": 1812,
+    "thai": "ข่าวปลอม",
+    "romanization": "khàao-bplawm",
+    "meaning": "フェイクニュース",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1812.mp3"
+  },
+  {
+    "id": 1813,
+    "thai": "การตรวจสอบข้อเท็จจริง",
+    "romanization": "gaan-dtrùat-sàwp-khâw-thét-jing",
+    "meaning": "ファクトチェック",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1813.mp3"
+  },
+  {
+    "id": 1814,
+    "thai": "แหล่งข่าว",
+    "romanization": "làeng-khàao",
+    "meaning": "情報源",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1814.mp3"
+  },
+  {
+    "id": 1815,
+    "thai": "การรายงานข่าว",
+    "romanization": "gaan-raai-ngaan-khàao",
+    "meaning": "報道",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1815.mp3"
+  },
+  {
+    "id": 1816,
+    "thai": "ผู้สื่อข่าว",
+    "romanization": "phûu-sèu-khàao",
+    "meaning": "記者",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1816.mp3"
+  },
+  {
+    "id": 1817,
+    "thai": "บรรณาธิการ",
+    "romanization": "ban-naa-thí-gaan",
+    "meaning": "編集者",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1817.mp3"
+  },
+  {
+    "id": 1818,
+    "thai": "คอลัมนิสต์",
+    "romanization": "khaw-lam-nít",
+    "meaning": "コラムニスト",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1818.mp3"
+  },
+  {
+    "id": 1819,
+    "thai": "นักวิจารณ์",
+    "romanization": "nák-wí-jaan",
+    "meaning": "評論家",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1819.mp3"
+  },
+  {
+    "id": 1820,
+    "thai": "ผู้ชม",
+    "romanization": "phûu-chom",
+    "meaning": "視聴者",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1820.mp3"
+  },
+  {
+    "id": 1821,
+    "thai": "ผู้อ่าน",
+    "romanization": "phûu-àan",
+    "meaning": "読者",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1821.mp3"
+  },
+  {
+    "id": 1822,
+    "thai": "ผู้ฟัง",
+    "romanization": "phûu-fang",
+    "meaning": "聴衆",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1822.mp3"
+  },
+  {
+    "id": 1823,
+    "thai": "การจัดอันดับ",
+    "romanization": "gaan-jàt-an-dàp",
+    "meaning": "視聴率、ランキング",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1823.mp3"
+  },
+  {
+    "id": 1824,
+    "thai": "ความนิยม",
+    "romanization": "khwaam-ní-yom",
+    "meaning": "人気",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1824.mp3"
+  },
+  {
+    "id": 1825,
+    "thai": "กระแส",
+    "romanization": "grà-săe",
+    "meaning": "トレンド",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1825.mp3"
+  },
+  {
+    "id": 1826,
+    "thai": "มีอิทธิพล",
+    "romanization": "mii-ìt-thí-phon",
+    "meaning": "影響力がある",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1826.mp3"
+  },
+  {
+    "id": 1827,
+    "thai": "โน้มน้าว",
+    "romanization": "nóom-náao",
+    "meaning": "説得する",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1827.mp3"
+  },
+  {
+    "id": 1828,
+    "thai": "ให้ข้อมูล",
+    "romanization": "hâi-khâw-muun",
+    "meaning": "情報を提供する",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1828.mp3"
+  },
+  {
+    "id": 1829,
+    "thai": "ให้ความบันเทิง",
+    "romanization": "hâi-khwaam-ban-theeng",
+    "meaning": "楽しませる",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1829.mp3"
+  },
+  {
+    "id": 1830,
+    "thai": "ให้ความรู้",
+    "romanization": "hâi-khwaam-rúu",
+    "meaning": "教育する",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1830.mp3"
+  },
+  {
+    "id": 1831,
+    "thai": "วิพากษ์วิจารณ์",
+    "romanization": "wí-phâak-wí-jaan",
+    "meaning": "批評する",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1831.mp3"
+  },
+  {
+    "id": 1832,
+    "thai": "เปิดโปง",
+    "romanization": "bpèrt-bpoong",
+    "meaning": "暴露する",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1832.mp3"
+  },
+  {
+    "id": 1833,
+    "thai": "กำหนดวาระ",
+    "romanization": "gam-nòt-waa-rá",
+    "meaning": "議題設定する",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1833.mp3"
+  },
+  {
+    "id": 1834,
+    "thai": "ความรับผิดชอบต่อสังคม",
+    "romanization": "khwaam-ráp-phìt-châwp-dtàw-săng-khom",
+    "meaning": "社会的責任",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1834.mp3"
+  },
+  {
+    "id": 1835,
+    "thai": "จรรยาบรรณวิชาชีพ",
+    "romanization": "jan-yaa-ban-wí-chaa-chîip",
+    "meaning": "職業倫理",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1835.mp3"
+  },
+  {
+    "id": 1836,
+    "thai": "การคุ้มครองผู้บริโภค",
+    "romanization": "gaan-khúm-khrawng-phûu-baw-rí-phôok",
+    "meaning": "消費者保護",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1836.mp3"
+  },
+  {
+    "id": 1837,
+    "thai": "ความเป็นส่วนตัว",
+    "romanization": "khwaam-bpen-sùan-dtua",
+    "meaning": "プライバシー",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1837.mp3"
+  },
+  {
+    "id": 1838,
+    "thai": "ความมั่นคงของข้อมูล",
+    "romanization": "khwaam-mân-khong-khăwng-khâw-muun",
+    "meaning": "データセキュリティ",
+    "category": "technology_it",
+    "level": 2,
+    "sound": "assets/audio/vocab/1838.mp3"
+  },
+  {
+    "id": 1839,
+    "thai": "ลิขสิทธิ์",
+    "romanization": "lík-khà-sìt",
+    "meaning": "著作権",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1839.mp3"
+  },
+  {
+    "id": 1840,
+    "thai": "เครื่องหมายการค้า",
+    "romanization": "khrûeang-măai-gaan-kháa",
+    "meaning": "商標",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1840.mp3"
+  },
+  {
+    "id": 1841,
+    "thai": "สิทธิบัตร",
+    "romanization": "sìt-thí-bàt",
+    "meaning": "特許",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1841.mp3"
+  },
+  {
+    "id": 1842,
+    "thai": "ทรัพย์สินทางปัญญา",
+    "romanization": "sáp-sĭn-thaang-bpan-yaa",
+    "meaning": "知的財産",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1842.mp3"
+  },
+  {
+    "id": 1843,
+    "thai": "โลกาภิวัตน์",
+    "romanization": "loo-gaa-phí-wát",
+    "meaning": "グローバリゼーション",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1843.mp3"
+  },
+  {
+    "id": 1844,
+    "thai": "วัฒนธรรมประชานิยม",
+    "romanization": "wát-thá-ná-tham-bprà-chaa-ní-yom",
+    "meaning": "ポピュラーカルチャー",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1844.mp3"
+  },
+  {
+    "id": 1845,
+    "thai": "กระแสหลัก",
+    "romanization": "grà-săe-làk",
+    "meaning": "メインストリーム",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1845.mp3"
+  },
+  {
+    "id": 1846,
+    "thai": "วัฒนธรรมย่อย",
+    "romanization": "wát-thá-ná-tham-yâwy",
+    "meaning": "サブカルチャー",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1846.mp3"
+  },
+  {
+    "id": 1847,
+    "thai": "อัตลักษณ์",
+    "romanization": "àt-dtà-lák",
+    "meaning": "アイデンティティ",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1847.mp3"
+  },
+  {
+    "id": 1848,
+    "thai": "ชุมชน",
+    "romanization": "chum-chon",
+    "meaning": "コミュニティ",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1848.mp3"
+  },
+  {
+    "id": 1849,
+    "thai": "เครือข่ายสังคม",
+    "romanization": "khruea-khàai-săng-khom",
+    "meaning": "ソーシャルネットワーク",
+    "category": "technology_it",
+    "level": 2,
+    "sound": "assets/audio/vocab/1849.mp3"
+  },
+  {
+    "id": 1851,
+    "thai": "การสื่อสารระหว่างบุคคล",
+    "romanization": "gaan-sèu-săan-rá-wàang-bùk-khon",
+    "meaning": "対人コミュニケーション",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1851.mp3"
+  },
+  {
+    "id": 1852,
+    "thai": "การสื่อสารที่ไม่ใช่คำพูด",
+    "romanization": "gaan-sèu-săan-thîi-mâi-châi-kham-phûut",
+    "meaning": "非言語コミュニケーション",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1852.mp3"
+  },
+  {
+    "id": 1853,
+    "thai": "ภาษากาย",
+    "romanization": "phaa-săa-gaai",
+    "meaning": "ボディランゲージ",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1853.mp3"
+  },
+  {
+    "id": 1854,
+    "thai": "การแสดงออกทางสีหน้า",
+    "romanization": "gaan-sà-daeng-àwk-thaang-sĭi-nâa",
+    "meaning": "表情",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1854.mp3"
+  },
+  {
+    "id": 1855,
+    "thai": "น้ำเสียง",
+    "romanization": "náam-sĭang",
+    "meaning": "声のトーン",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1855.mp3"
+  },
+  {
+    "id": 1857,
+    "thai": "ความเห็นอกเห็นใจ",
+    "romanization": "khwaam-hĕn-òk-hĕn-jai",
+    "meaning": "共感",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1857.mp3"
+  },
+  {
+    "id": 1858,
+    "thai": "ความขัดแย้ง",
+    "romanization": "khwaam-khàt-yáeng",
+    "meaning": "対立",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1858.mp3"
+  },
+  {
+    "id": 1859,
+    "thai": "การแก้ไขความขัดแย้ง",
+    "romanization": "gaan-gâe-khăi-khwaam-khàt-yáeng",
+    "meaning": "対立解決",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1859.mp3"
+  },
+  {
+    "id": 1860,
+    "thai": "การเจรจาต่อรอง",
+    "romanization": "gaan-jeen-rá-jaa-dtàw-rawng",
+    "meaning": "交渉",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1860.mp3"
+  },
+  {
+    "id": 1861,
+    "thai": "การโน้มน้าวใจ",
+    "romanization": "gaan-nóom-náao-jai",
+    "meaning": "説得",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1861.mp3"
+  },
+  {
+    "id": 1862,
+    "thai": "อิทธิพล",
+    "romanization": "ìt-thí-phon",
+    "meaning": "影響",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1862.mp3"
+  },
+  {
+    "id": 1863,
+    "thai": "อำนาจ",
+    "romanization": "am-nâat",
+    "meaning": "権力",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1863.mp3"
+  },
+  {
+    "id": 1864,
+    "thai": "ความเป็นผู้นำ",
+    "romanization": "khwaam-bpen-phûu-nam",
+    "meaning": "リーダーシップ",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1864.mp3"
+  },
+  {
+    "id": 1865,
+    "thai": "การทำงานเป็นทีม",
+    "romanization": "gaan-tham-ngaan-bpen-thiim",
+    "meaning": "チームワーク",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1865.mp3"
+  },
+  {
+    "id": 1866,
+    "thai": "ความร่วมมือ",
+    "romanization": "khwaam-rûam-meu",
+    "meaning": "協力",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1866.mp3"
+  },
+  {
+    "id": 1870,
+    "thai": "การประเมินผล",
+    "romanization": "gaan-bprà-mern-phŏn",
+    "meaning": "評価",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1870.mp3"
+  },
+  {
+    "id": 1871,
+    "thai": "ข้อเสนอแนะ",
+    "romanization": "khâw-sà-nĕr-náe",
+    "meaning": "フィードバック",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1871.mp3"
+  },
+  {
+    "id": 1872,
+    "thai": "การปรับปรุง",
+    "romanization": "gaan-bpràp-bprung",
+    "meaning": "改善",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1872.mp3"
+  },
+  {
+    "id": 1873,
+    "thai": "การเติบโต",
+    "romanization": "gaan-dtèrp-dtoo",
+    "meaning": "成長",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1873.mp3"
+  },
+  {
+    "id": 1874,
+    "thai": "การพัฒนาตนเอง",
+    "romanization": "gaan-phát-thá-naa-dton-eeng",
+    "meaning": "自己啓発",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1874.mp3"
+  },
+  {
+    "id": 1875,
+    "thai": "การเรียนรู้ตลอดชีวิต",
+    "romanization": "gaan-rian-rúu-dtà-làwt-chii-wít",
+    "meaning": "生涯学習",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1875.mp3"
+  },
+  {
+    "id": 1882,
+    "thai": "เป้าประสงค์",
+    "romanization": "bpâo-bprà-sŏng",
+    "meaning": "目的",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1882.mp3"
+  },
+  {
+    "id": 1885,
+    "thai": "ความทะเยอทะยาน",
+    "romanization": "khwaam-thá-yer-thá-yaan",
+    "meaning": "野心",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1885.mp3"
+  },
+  {
+    "id": 1889,
+    "thai": "สัญชาตญาณ",
+    "romanization": "săn-châat-dtà-yaan",
+    "meaning": "直感",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1889.mp3"
+  },
+  {
+    "id": 1890,
+    "thai": "เหตุผล",
+    "romanization": "hèt-phŏn",
+    "meaning": "理性",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1890.mp3"
+  },
+  {
+    "id": 1891,
+    "thai": "ตรรกะ",
+    "romanization": "dtàk-gà",
+    "meaning": "論理",
+    "category": "technology_it",
+    "level": 2,
+    "sound": "assets/audio/vocab/1891.mp3"
+  },
+  {
+    "id": 1892,
+    "thai": "การวิเคราะห์",
+    "romanization": "gaan-wí-khráw",
+    "meaning": "分析",
+    "category": "technology_it",
+    "level": 2,
+    "sound": "assets/audio/vocab/1892.mp3"
+  },
+  {
+    "id": 1893,
+    "thai": "การสังเคราะห์",
+    "romanization": "gaan-săng-khráw",
+    "meaning": "統合",
+    "category": "technology_it",
+    "level": 2,
+    "sound": "assets/audio/vocab/1893.mp3"
+  },
+  {
+    "id": 1895,
+    "thai": "การตัดสิน",
+    "romanization": "gaan-dtàt-sĭn",
+    "meaning": "判断",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1895.mp3"
+  },
+  {
+    "id": 1897,
+    "thai": "ทัศนคติ",
+    "romanization": "thát-sà-ná-khà-dtì",
+    "meaning": "態度",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1897.mp3"
+  },
+  {
+    "id": 1898,
+    "thai": "ความเชื่อ",
+    "romanization": "khwaam-chûea",
+    "meaning": "信念",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1898.mp3"
+  },
+  {
+    "id": 1901,
+    "thai": "ศีลธรรม",
+    "romanization": "sĭin-lá-tham",
+    "meaning": "道徳",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1901.mp3"
+  },
+  {
+    "id": 1902,
+    "thai": "จริยธรรม",
+    "romanization": "jà-rí-yá-tham",
+    "meaning": "倫理",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1902.mp3"
+  },
+  {
+    "id": 1903,
+    "thai": "ความดี",
+    "romanization": "khwaam-dii",
+    "meaning": "善",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1903.mp3"
+  },
+  {
+    "id": 1904,
+    "thai": "ความชั่ว",
+    "romanization": "khwaam-chûa",
+    "meaning": "悪",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1904.mp3"
+  },
+  {
+    "id": 1905,
+    "thai": "ความจริง",
+    "romanization": "khwaam-jing",
+    "meaning": "真実",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1905.mp3"
+  },
+  {
+    "id": 1906,
+    "thai": "ความเท็จ",
+    "romanization": "khwaam-thét",
+    "meaning": "虚偽",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1906.mp3"
+  },
+  {
+    "id": 1908,
+    "thai": "ความน่าเกลียด",
+    "romanization": "khwaam-nâa-glìat",
+    "meaning": "醜さ",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1908.mp3"
+  },
+  {
+    "id": 1909,
+    "thai": "ความเป็นระเบียบ",
+    "romanization": "khwaam-bpen-rá-bìap",
+    "meaning": "秩序",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1909.mp3"
+  },
+  {
+    "id": 1910,
+    "thai": "ความวุ่นวาย",
+    "romanization": "khwaam-wûn-waai",
+    "meaning": "混沌",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1910.mp3"
+  },
+  {
+    "id": 1911,
+    "thai": "ความเรียบง่าย",
+    "romanization": "khwaam-rîap-ngâai",
+    "meaning": "単純",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1911.mp3"
+  },
+  {
+    "id": 1912,
+    "thai": "ความซับซ้อน",
+    "romanization": "khwaam-sáp-sâwn",
+    "meaning": "複雑",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1912.mp3"
+  },
+  {
+    "id": 1913,
+    "thai": "ความเป็นเอกภาพ",
+    "romanization": "khwaam-bpen-èek-gà-phâap",
+    "meaning": "統一",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1913.mp3"
+  },
+  {
+    "id": 1914,
+    "thai": "ความหลากหลาย",
+    "romanization": "khwaam-làak-lăai",
+    "meaning": "多様性",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1914.mp3"
+  },
+  {
+    "id": 1915,
+    "thai": "ความสมดุล",
+    "romanization": "khwaam-sŏm-dun",
+    "meaning": "バランス",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1915.mp3"
+  },
+  {
+    "id": 1916,
+    "thai": "ความสามัคคี",
+    "romanization": "khwaam-săa-mák-khii",
+    "meaning": "調和",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1916.mp3"
+  },
+  {
+    "id": 1920,
+    "thai": "ปัจเจกบุคคล",
+    "romanization": "bpàt-jèek-bùk-khon",
+    "meaning": "個人",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1920.mp3"
+  },
+  {
+    "id": 1924,
+    "thai": "ประเทศชาติ",
+    "romanization": "bprà-thêet-châat",
+    "meaning": "国家",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1924.mp3"
+  },
+  {
+    "id": 1928,
+    "thai": "พื้นที่",
+    "romanization": "phúen-thîi",
+    "meaning": "空間",
+    "category": "construction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1928.mp3"
+  },
+  {
+    "id": 1929,
+    "thai": "มิติ",
+    "romanization": "mí-dtì",
+    "meaning": "次元、側面",
+    "category": "technology_it",
+    "level": 2,
+    "sound": "assets/audio/vocab/1929.mp3"
+  },
+  {
+    "id": 1930,
+    "thai": "สสาร",
+    "romanization": "sàt-săan",
+    "meaning": "物質",
+    "category": "technology_it",
+    "level": 2,
+    "sound": "assets/audio/vocab/1930.mp3"
+  },
+  {
+    "id": 1934,
+    "thai": "สัญลักษณ์",
+    "romanization": "săn-yá-lák",
+    "meaning": "象徴",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1934.mp3"
+  },
+  {
+    "id": 1943,
+    "thai": "จิตไร้สำนึก",
+    "romanization": "jìt-rái-săm-néuk",
+    "meaning": "無意識",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1943.mp3"
+  },
+  {
+    "id": 1944,
+    "thai": "ตัวตน",
+    "romanization": "dtua-dton",
+    "meaning": "自己",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1944.mp3"
+  },
+  {
+    "id": 1945,
+    "thai": "อัตตา",
+    "romanization": "àt-dtaa",
+    "meaning": "エゴ",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1945.mp3"
+  },
+  {
+    "id": 1946,
+    "thai": "ตัวตนที่สูงกว่า",
+    "romanization": "dtua-dton-thîi-sŭung-gwàa",
+    "meaning": "ハイヤーセルフ",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1946.mp3"
+  },
+  {
+    "id": 1947,
+    "thai": "การตื่นรู้ทางจิตวิญญาณ",
+    "romanization": "gaan-dtèun-rúu-thaang-jìt-win-yaan",
+    "meaning": "スピリチュアルな目覚め",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1947.mp3"
+  },
+  {
+    "id": 1948,
+    "thai": "การตรัสรู้",
+    "romanization": "gaan-dtràt-sà-rúu",
+    "meaning": "悟り",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1948.mp3"
+  },
+  {
+    "id": 1949,
+    "thai": "ความหลุดพ้น",
+    "romanization": "khwaam-lùt-phón",
+    "meaning": "解脱",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1949.mp3"
+  },
+  {
+    "id": 1950,
+    "thai": "นิพพาน",
+    "romanization": "níp-phaan",
+    "meaning": "涅槃",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1950.mp3"
+  },
+  {
+    "id": 1951,
+    "thai": "การเกิด",
+    "romanization": "gaan-gèrt",
+    "meaning": "誕生",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1951.mp3"
+  },
+  {
+    "id": 1952,
+    "thai": "ชีวิต",
+    "romanization": "chii-wít",
+    "meaning": "生命",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1952.mp3"
+  },
+  {
+    "id": 1953,
+    "thai": "ความตาย",
+    "romanization": "khwaam-dtaai",
+    "meaning": "死",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1953.mp3"
+  },
+  {
+    "id": 1954,
+    "thai": "การเกิดใหม่",
+    "romanization": "gaan-gèrt-mài",
+    "meaning": "再生",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1954.mp3"
+  },
+  {
+    "id": 1955,
+    "thai": "วัฏจักร",
+    "romanization": "wát-dtà-jàk",
+    "meaning": "サイクル",
+    "category": "technology_it",
+    "level": 2,
+    "sound": "assets/audio/vocab/1955.mp3"
+  },
+  {
+    "id": 1958,
+    "thai": "เจตจำนงเสรี",
+    "romanization": "jèet-jam-nong-sĕ-rii",
+    "meaning": "自由意志",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1958.mp3"
+  },
+  {
+    "id": 1963,
+    "thai": "ความทุกข์",
+    "romanization": "khwaam-thúk",
+    "meaning": "苦しみ",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1963.mp3"
+  },
+  {
+    "id": 1964,
+    "thai": "ความสุขสบาย",
+    "romanization": "khwaam-sùk-sà-baai",
+    "meaning": "快楽",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1964.mp3"
+  },
+  {
+    "id": 1967,
+    "thai": "ความเกลียดชัง",
+    "romanization": "khwaam-glìat-chang",
+    "meaning": "嫌悪",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1967.mp3"
+  },
+  {
+    "id": 1968,
+    "thai": "ความยึดติด",
+    "romanization": "khwaam-yéut-dtìt",
+    "meaning": "執着",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1968.mp3"
+  },
+  {
+    "id": 1969,
+    "thai": "ความปล่อยวาง",
+    "romanization": "khwaam-bplàwy-waang",
+    "meaning": "手放し",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1969.mp3"
+  },
+  {
+    "id": 1972,
+    "thai": "ความเป็นหนึ่งเดียว",
+    "romanization": "khwaam-bpen-nùeng-diao",
+    "meaning": "ワンネス",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1972.mp3"
+  },
+  {
+    "id": 1973,
+    "thai": "ความว่างเปล่า",
+    "romanization": "khwaam-wâang-bplào",
+    "meaning": "空",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1973.mp3"
+  },
+  {
+    "id": 1974,
+    "thai": "นิรันดร์",
+    "romanization": "ní-ran",
+    "meaning": "永遠",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1974.mp3"
+  },
+  {
+    "id": 1975,
+    "thai": "อนันต์",
+    "romanization": "à-nan",
+    "meaning": "無限",
+    "category": "technology_it",
+    "level": 2,
+    "sound": "assets/audio/vocab/1975.mp3"
+  },
+  {
+    "id": 1976,
+    "thai": "ปัจจุบันขณะ",
+    "romanization": "bpàt-jù-ban-khà-nà",
+    "meaning": "今この瞬間",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1976.mp3"
+  },
+  {
+    "id": 1977,
+    "thai": "สติ",
+    "romanization": "sà-dtì",
+    "meaning": "マインドフルネス",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1977.mp3"
+  },
+  {
+    "id": 1978,
+    "thai": "การตระหนักรู้",
+    "romanization": "gaan-dtrà-nàk-rúu",
+    "meaning": "気づき",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1978.mp3"
+  },
+  {
+    "id": 1979,
+    "thai": "การยอมรับ",
+    "romanization": "gaan-yawm-ráp",
+    "meaning": "受容",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1979.mp3"
+  },
+  {
+    "id": 1980,
+    "thai": "การให้อภัย",
+    "romanization": "gaan-hâi-à-phai",
+    "meaning": "許し",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1980.mp3"
+  },
+  {
+    "id": 1981,
+    "thai": "ความกตัญญู",
+    "romanization": "khwaam-gà-dtan-yuu",
+    "meaning": "感謝",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1981.mp3"
+  },
+  {
+    "id": 1983,
+    "thai": "ความเมตตา",
+    "romanization": "khwaam-mêt-dtaa",
+    "meaning": "慈悲",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1983.mp3"
+  },
+  {
+    "id": 1984,
+    "thai": "ความกรุณา",
+    "romanization": "khwaam-gà-rú-naa",
+    "meaning": "親切",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1984.mp3"
+  },
+  {
+    "id": 1985,
+    "thai": "ปัญญา",
+    "romanization": "bpan-yaa",
+    "meaning": "知恵",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1985.mp3"
+  },
+  {
+    "id": 1986,
+    "thai": "ความเข้าใจ",
+    "romanization": "khwaam-khâo-jai",
+    "meaning": "理解",
+    "category": "greetings_expressions",
+    "level": 2,
+    "sound": "assets/audio/vocab/1986.mp3"
+  },
+  {
+    "id": 1987,
+    "thai": "ความจริงแท้",
+    "romanization": "khwaam-jing-tháe",
+    "meaning": "真実",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1987.mp3"
+  },
+  {
+    "id": 1989,
+    "thai": "ความดีงาม",
+    "romanization": "khwaam-dii-ngaam",
+    "meaning": "善",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1989.mp3"
+  },
+  {
+    "id": 1990,
+    "thai": "ความเป็นหนึ่งเดียว",
+    "romanization": "khwaam-bpen-nùeng-diao",
+    "meaning": "統一",
+    "category": "office_business",
+    "level": 2,
+    "sound": "assets/audio/vocab/1990.mp3"
+  },
+  {
+    "id": 1993,
+    "thai": "สันติสุข",
+    "romanization": "săn-dtì-sùk",
+    "meaning": "平和",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1993.mp3"
+  },
+  {
+    "id": 1994,
+    "thai": "ความเงียบสงบ",
+    "romanization": "khwaam-ngîap-sà-ngòp",
+    "meaning": "静けさ",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1994.mp3"
+  },
+  {
+    "id": 1995,
+    "thai": "ความว่างเปล่า",
+    "romanization": "khwaam-wâang-bplào",
+    "meaning": "空虚",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1995.mp3"
+  },
+  {
+    "id": 1996,
+    "thai": "โลก",
+    "romanization": "lôok",
+    "meaning": "世界",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1996.mp3"
+  },
+  {
+    "id": 1997,
+    "thai": "อิสรภาพ",
+    "romanization": "ìt-sà-rá-phâap",
+    "meaning": "自由",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/1997.mp3"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": 63,
+    "thai": "เรียน",
+    "romanization": "rian",
+    "meaning": "学ぶ",
+    "category": "office_business",
+    "level": 4,
+    "sound": "assets/audio/vocab/63.mp3"
+  },
+  {
+    "id": 69,
+    "thai": "รอ",
+    "romanization": "raw",
+    "meaning": "待つ",
+    "category": "greetings_expressions",
+    "level": 4,
+    "sound": "assets/audio/vocab/69.mp3"
+  },
+  {
+    "id": 70,
+    "thai": "ส่ง",
+    "romanization": "sòng",
+    "meaning": "送る",
+    "category": "office_business",
+    "level": 4,
+    "sound": "assets/audio/vocab/70.mp3"
+  },
+  {
+    "id": 74,
+    "thai": "ทำงาน",
+    "romanization": "tham-ngaan",
+    "meaning": "働く",
+    "category": "office_business",
+    "level": 4,
+    "sound": "assets/audio/vocab/74.mp3"
+  },
+  {
+    "id": 486,
+    "thai": "คอ",
+    "romanization": "khaw",
+    "meaning": "首",
+    "category": "health_medical",
+    "level": 4,
+    "sound": "assets/audio/vocab/486.mp3"
+  },
+  {
+    "id": 779,
+    "thai": "ปีใหม่",
+    "romanization": "bpii-mài",
+    "meaning": "新年",
+    "category": "people_introduction",
+    "level": 4,
+    "sound": "assets/audio/vocab/779.mp3"
+  },
+  {
+    "id": 798,
+    "thai": "การดูทีวี",
+    "romanization": "gaan-duu-thii-wii",
+    "meaning": "テレビを見ること",
+    "category": "people_introduction",
+    "level": 4,
+    "sound": "assets/audio/vocab/798.mp3"
+  },
+  {
+    "id": 799,
+    "thai": "การฟังเพลง",
+    "romanization": "gaan-fang-pleeng",
+    "meaning": "音楽を聴くこと",
+    "category": "people_introduction",
+    "level": 4,
+    "sound": "assets/audio/vocab/799.mp3"
+  },
+  {
+    "id": 800,
+    "thai": "การไปเที่ยว",
+    "romanization": "gaan-bpai-thîao",
+    "meaning": "遊びに行くこと",
+    "category": "travel_accommodation",
+    "level": 4,
+    "sound": "assets/audio/vocab/800.mp3"
+  },
+  {
+    "id": 835,
+    "thai": "วันที่",
+    "romanization": "wan-thîi",
+    "meaning": "日付",
+    "category": "numbers_time",
+    "level": 4,
+    "sound": "assets/audio/vocab/835.mp3"
+  },
+  {
+    "id": 838,
+    "thai": "เช้า",
+    "romanization": "cháo",
+    "meaning": "朝",
+    "category": "numbers_time",
+    "level": 4,
+    "sound": "assets/audio/vocab/838.mp3"
+  },
+  {
+    "id": 839,
+    "thai": "กลางวัน",
+    "romanization": "glaang-wan",
+    "meaning": "昼",
+    "category": "numbers_time",
+    "level": 4,
+    "sound": "assets/audio/vocab/839.mp3"
+  },
+  {
+    "id": 840,
+    "thai": "เย็น",
+    "romanization": "yen",
+    "meaning": "夕方",
+    "category": "numbers_time",
+    "level": 4,
+    "sound": "assets/audio/vocab/840.mp3"
+  },
+  {
+    "id": 841,
+    "thai": "กลางคืน",
+    "romanization": "glaang-kheun",
+    "meaning": "夜",
+    "category": "numbers_time",
+    "level": 4,
+    "sound": "assets/audio/vocab/841.mp3"
+  }
+]
