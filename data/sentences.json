@@ -45,6 +45,50 @@
       {
         "id": "s076", "level": 5, "thai": "ไม่เข้าใจ", "segmented": "ไม่ / เข้าใจ",
         "romanization": "mâi khâw jai", "meaning": "分かりません"
+      },
+       {
+        "id": "s101", "level": 5, "thai": "สนุกดี", "segmented": "สนุก / ดี",
+        "romanization": "sà-nùk dii", "meaning": "結構楽しい、悪くない"
+      },
+      {
+        "id": "s102", "level": 5, "thai": "ก็ดี", "segmented": "ก็ / ดี",
+        "romanization": "gâw dii", "meaning": "まあまあ良い"
+      },
+      {
+        "id": "s103", "level": 5, "thai": "งั้นๆ", "segmented": "งั้นๆ",
+        "romanization": "ngán-ngán", "meaning": "まあまあ、普通"
+      },
+      {
+        "id": "s104", "level": 4, "thai": "สุดยอด", "segmented": "สุดยอด",
+        "romanization": "sùt-yâwt", "meaning": "最高！素晴らしい！"
+      },
+      {
+        "id": "s105", "level": 5, "thai": "จริงเหรอ", "segmented": "จริง / เหรอ",
+        "romanization": "jing lŏr", "meaning": "本当？マジで？"
+      },
+      {
+        "id": "s106", "level": 4, "thai": "อย่างนั้นเหรอ", "segmented": "อย่างนั้น / เหรอ",
+        "romanization": "yàang nán lŏr", "meaning": "そうなの？"
+      },
+      {
+        "id": "s107", "level": 4, "thai": "แล้วไงต่อ", "segmented": "แล้ว / ไง / ต่อ",
+        "romanization": "láew ngai dtàw", "meaning": "それで、どうなったの？"
+      },
+      {
+        "id": "s108", "level": 5, "thai": "ไปกินข้าวกันไหม", "segmented": "ไป / กินข้าว / กัน / ไหม",
+        "romanization": "bpai gin khâao gan măi", "meaning": "ご飯食べに行かない？"
+      },
+      {
+        "id": "s109", "level": 4, "thai": "ว่าแต่", "segmented": "ว่าแต่",
+        "romanization": "wâa dtàe", "meaning": "ところで… (文頭で)"
+      },
+      {
+        "id": "s110", "level": 4, "thai": "อีกสักครู่", "segmented": "อีก / สักครู่",
+        "romanization": "ìik sàk khrûu", "meaning": "もう少々"
+      },
+      {
+        "id": "s111", "level": 5, "thai": "เมื่อกี้", "segmented": "เมื่อกี้",
+        "romanization": "mûea-gíi", "meaning": "さっき"
       }
     ]
   },
