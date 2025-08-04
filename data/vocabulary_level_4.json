@@ -124,5 +124,70 @@
     "category": "numbers_time",
     "level": 4,
     "sound": "assets/audio/vocab/841.mp3"
+  },
+  {
+    "id": 3101,
+    "thai": "วันจันทร์",
+    "romanization": "wan jan",
+    "meaning": "月曜日",
+    "category": "numbers_time",
+    "level": 4,
+    "sound": "assets/audio/vocab/3101.mp3"
+  },
+  {
+    "id": 3102,
+    "thai": "วันอังคาร",
+    "romanization": "wan ang-khaan",
+    "meaning": "火曜日",
+    "category": "numbers_time",
+    "level": 4,
+    "sound": "assets/audio/vocab/3102.mp3"
+  },
+  {
+    "id": 3103,
+    "thai": "วันพุธ",
+    "romanization": "wan phút",
+    "meaning": "水曜日",
+    "category": "numbers_time",
+    "level": 4,
+    "sound": "assets/audio/vocab/3103.mp3"
+  },
+  {
+    "id": 3104,
+    "thai": "วันพฤหัสบดี",
+    "romanization": "wan phá-réu-hàt-sà-baw-dii",
+    "meaning": "木曜日",
+    "category": "numbers_time",
+    "level": 4,
+    "sound": "assets/audio/vocab/3104.mp3"
+  },
+  {
+    "id": 3105,
+    "thai": "วันศุกร์",
+    "romanization": "wan sùk",
+    "meaning": "金曜日",
+    "category": "numbers_time",
+    "level": 4,
+    "sound": "assets/audio/vocab/3105.mp3"
+  },
+  {
+    "id": 3106,
+    "thai": "วันเสาร์",
+    "romanization": "wan săo",
+    "meaning": "土曜日",
+    "category": "numbers_time",
+    "level": 4,
+    "sound": "assets/audio/vocab/3106.mp3"
+  },
+  {
+    "id": 3107,
+    "thai": "วันอาทิตย์",
+    "romanization": "wan aa-thít",
+    "meaning": "日曜日",
+    "category": "numbers_time",
+    "level": 4,
+    "sound": "assets/audio/vocab/3107.mp3"
   }
+
+
 ]
