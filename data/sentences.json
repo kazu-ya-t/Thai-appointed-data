@@ -312,6 +312,78 @@
       {
         "id": "s206", "level": 4, "thai": "วันนี้รู้สึกไม่ค่อยสบาย", "segmented": "วันนี้ / รู้สึก / ไม่ค่อย / สบาย",
         "romanization": "wan-níi rúu-sèuk mâi khôi sà-baai", "meaning": "今日はあまり調子が良くないです。"
+      },
+      {
+        "id": "s301", "level": 5, "thai": "จริงเหรอ", "segmented": "จริง / เหรอ",
+        "romanization": "jing rĕr", "meaning": "本当に？"
+      },
+      {
+        "id": "s302", "level": 4, "thai": "อย่างนั้นเหรอ", "segmented": "อย่างนั้น / เหรอ",
+        "romanization": "yàang nán rĕr", "meaning": "そうなんですか？"
+      },
+      {
+        "id": "s303", "level": 5, "thai": "แป๊บนึง", "segmented": "แป๊บ / นึง",
+        "romanization": "bpáep neung", "meaning": "ちょっと待って"
+      },
+      {
+        "id": "s304", "level": 3, "thai": "กาแฟก็ได้", "segmented": "กาแฟ / ก็ได้",
+        "romanization": "gaa-fae gâw dâai", "meaning": "コーヒーでもいいですよ"
+      },
+      {
+        "id": "s305", "level": 3, "thai": "แล้วแต่", "segmented": "แล้วแต่",
+        "romanization": "láew dtàe", "meaning": "あなた次第だよ、場合によるよ"
+      },
+      {
+        "id": "s306", "level": 4, "thai": "แน่นอน", "segmented": "แน่นอน",
+        "romanization": "nâe-nawn", "meaning": "もちろん！"
+      },
+            {
+        "id": "s401", "level": 3, "thai": "รบกวนหน่อยครับ/ค่ะ", "segmented": "รบกวน / หน่อย / ครับ/ค่ะ",
+        "romanization": "róp guan nòi khráp/khà", "meaning": "お手数ですが〜"
+      },
+      {
+        "id": "s402", "level": 2, "thai": "พอจะลดราคาอีกหน่อยได้ไหมครับ", "segmented": "พอจะ / ลดราคา / อีกหน่อย / ได้ไหม / ครับ",
+        "romanization": "phaw jà lót raa-khaa ìik nòi dâai măi khráp", "meaning": "もう少しお値段を下げていただくことは可能でしょうか？"
+      },
+      {
+        "id": "s403", "level": 3, "thai": "สำหรับผมแล้ว อาหารไทยอร่อยที่สุด", "segmented": "สำหรับ / ผม / แล้ว / อาหารไทย / อร่อย / ที่สุด",
+        "romanization": "săm-ràp phŏm láew aa-hăan thai à-ròi thîi-sùt", "meaning": "私にとっては、タイ料理が一番美味しいです。"
+      },
+      {
+        "id": "s404", "level": 4, "thai": "น่าจะ...", "segmented": "น่าจะ / ...",
+        "romanization": "nâa jà...", "meaning": "たぶん～だろう"
+      },
+      {
+        "id": "s405", "level": 3, "thai": "รู้สึกเฉยๆ", "segmented": "รู้สึก / เฉยๆ",
+        "romanization": "rúu-sèuk chŏei-chŏei", "meaning": "別に何とも思わない、普通です"
+      },
+      {
+        "id": "s406", "level": 4, "thai": "เป็นห่วง", "segmented": "เป็นห่วง",
+        "romanization": "bpen hùang", "meaning": "（相手を）心配しています"
+      },
+      {
+        "id": "s407", "level": 4, "thai": "นั่นสิ", "segmented": "นั่นสิ",
+        "romanization": "nân sì", "meaning": "まさに！そうなんだよ！"
+      },
+      {
+        "id": "s408", "level": 4, "thai": "ตามสบายเลย", "segmented": "ตามสบาย / เลย",
+        "romanization": "dtaam sà-baai loei", "meaning": "ご自由にどうぞ、おくつろぎください"
+      },
+      {
+        "id": "s409", "level": 4, "thai": "นึกไม่ออก", "segmented": "นึก / ไม่ / ออก",
+        "romanization": "néuk mâi àwk", "meaning": "思い出せない、ど忘れした"
+      },
+      {
+        "id": "s410", "level": 5, "thai": "โชคดีนะ", "segmented": "โชคดี / นะ",
+        "romanization": "chôhk dii ná", "meaning": "頑張って！幸運を！"
+      },
+      {
+        "id": "s411", "level": 3, "thai": "ฝาก...ด้วยนะ", "segmented": "ฝาก / ... / ด้วยนะ",
+        "romanization": "fàak... dûay ná", "meaning": "～をよろしくお願いします"
+      },
+      {
+        "id": "s412", "level": 5, "thai": "เอา...ไหมครับ/คะ", "segmented": "เอา / ... / ไหม / ครับ/คะ",
+        "romanization": "ao... măi khráp/khá", "meaning": "～はいかがですか？"
       }
     ]
   },
@@ -806,5 +878,188 @@
         "meaning": "追加の資材が必要です。"
       }
     ]
+  },
+
+  "colloquial_expressions": {
+    "name": "口語表現・相槌",
+    "items": [
+      {
+        "id": "s501", "level": 3, "thai": "พูดเป็นเล่น", "segmented": "พูด / เป็น / เล่น",
+        "romanization": "phûut bpen lên", "meaning": "マジで！？信じられない！"
+      },
+      {
+        "id": "s502", "level": 4, "thai": "เสียดาย", "segmented": "เสียดาย",
+        "romanization": "sĭa-daai", "meaning": "もったいない！、残念だ"
+      },
+      {
+        "id": "s503", "level": 4, "thai": "ฮามาก", "segmented": "ฮา / มาก",
+        "romanization": "haa mâak", "meaning": "ウケる！、面白い！"
+      },
+      {
+        "id": "s504", "level": 2, "thai": "เอางี้เลยเหรอ", "segmented": "เอา / งี้ / เลย / เหรอ",
+        "romanization": "ao ngíi loei rŏe", "meaning": "（呆れて）もういいよ…、やれやれ"
+      },
+      {
+        "id": "s505", "level": 3, "thai": "ถ้าสะดวก...", "segmented": "ถ้า / สะดวก / ...",
+        "romanization": "thâa sà-dùak...", "meaning": "もしよろしければ〜"
+      },
+      {
+        "id": "s506", "level": 4, "thai": "ไม่ต้อง...ก็ได้", "segmented": "ไม่ / ต้อง / ... / ก็ได้",
+        "romanization": "mâi dtâwng... gâw dâai", "meaning": "〜しなくても大丈夫ですよ"
+      },
+      {
+        "id": "s507", "level": 5, "thai": "เชิญก่อนเลยครับ/ค่ะ", "segmented": "เชิญ / ก่อน / เลย / ครับ/ค่ะ",
+        "romanization": "chern gàwn loei khráp/khà", "meaning": "お先にどうぞ"
+      },
+      {
+        "id": "s508", "level": 4, "thai": "ไม่ไหวแล้ว", "segmented": "ไม่ / ไหว / แล้ว",
+        "romanization": "mâi wăi láew", "meaning": "もう無理、限界だ"
+      },
+      {
+        "id": "s509", "level": 2, "thai": "คิดไม่ตก", "segmented": "คิด / ไม่ / ตก",
+        "romanization": "khít mâi dtòk", "meaning": "（考えが）まとまらない、混乱している"
+      },
+      {
+        "id": "s510", "level": 2, "thai": "สังหรณ์ใจว่า...", "segmented": "สังหรณ์ใจ / ว่า / ...",
+        "romanization": "săng-hŏn jai wâa...", "meaning": "なんとなく〜な気がする"
+      },
+      {
+        "id": "s511", "level": 3, "thai": "เกือบไม่ทัน", "segmented": "เกือบ / ไม่ / ทัน",
+        "romanization": "gèuap mâi than", "meaning": "ギリギリだった、危なかった"
+      },
+            {
+        "id": "s512", "level": 3, "thai": "พูดเป็นเล่น", "segmented": "พูด / เป็น / เล่น",
+        "romanization": "phûut bpen lên", "meaning": "マジで！？信じられない！"
+      },
+      {
+        "id": "s513", "level": 4, "thai": "เสียดาย", "segmented": "เสียดาย",
+        "romanization": "sĭa-daai", "meaning": "もったいない！、残念だ"
+      },
+      {
+        "id": "s514", "level": 4, "thai": "ฮามาก", "segmented": "ฮา / มาก",
+        "romanization": "haa mâak", "meaning": "ウケる！、面白い！"
+      },
+      {
+        "id": "s515", "level": 2, "thai": "เอางี้เลยเหรอ", "segmented": "เอา / งี้ / เลย / เหรอ",
+        "romanization": "ao ngíi loei rŏe", "meaning": "（呆れて）もういいよ…、やれやれ"
+      },
+      {
+        "id": "s516", "level": 3, "thai": "ถ้าสะดวก...", "segmented": "ถ้า / สะดวก / ...",
+        "romanization": "thâa sà-dùak...", "meaning": "もしよろしければ〜"
+      },
+      {
+        "id": "s517", "level": 4, "thai": "ไม่ต้อง...ก็ได้", "segmented": "ไม่ / ต้อง / ... / ก็ได้",
+        "romanization": "mâi dtâwng... gâw dâai", "meaning": "〜しなくても大丈夫ですよ"
+      },
+      {
+        "id": "s518", "level": 5, "thai": "เชิญก่อนเลยครับ/ค่ะ", "segmented": "เชิญ / ก่อน / เลย / ครับ/ค่ะ",
+        "romanization": "chern gàwn loei khráp/khà", "meaning": "お先にどうぞ"
+      },
+      {
+        "id": "s519", "level": 4, "thai": "ไม่ไหวแล้ว", "segmented": "ไม่ / ไหว / แล้ว",
+        "romanization": "mâi wăi láew", "meaning": "もう無理、限界だ"
+      },
+      {
+        "id": "s520", "level": 2, "thai": "คิดไม่ตก", "segmented": "คิด / ไม่ / ตก",
+        "romanization": "khít mâi dtòk", "meaning": "（考えが）まとまらない、混乱している"
+      },
+      {
+        "id": "s521", "level": 2, "thai": "สังหรณ์ใจว่า...", "segmented": "สังหรณ์ใจ / ว่า / ...",
+        "romanization": "săng-hŏn jai wâa...", "meaning": "なんとなく〜な気がする"
+      },
+      {
+        "id": "s522", "level": 3, "thai": "เกือบไม่ทัน", "segmented": "เกือบ / ไม่ / ทัน",
+        "romanization": "gèuap mâi than", "meaning": "ギリギリだった、危なかった"
+      },
+            {
+        "id": "s523", "level": 3, "thai": "พูดเป็นเล่น", "segmented": "พูด / เป็น / เล่น",
+        "romanization": "phûut bpen lên", "meaning": "マジで！？信じられない！"
+      },
+      {
+        "id": "s524", "level": 4, "thai": "เสียดาย", "segmented": "เสียดาย",
+        "romanization": "sĭa-daai", "meaning": "もったいない！、残念だ"
+      },
+      {
+        "id": "s525", "level": 4, "thai": "ฮามาก", "segmented": "ฮา / มาก",
+        "romanization": "haa mâak", "meaning": "ウケる！、面白い！"
+      },
+      {
+        "id": "s526", "level": 2, "thai": "เอางี้เลยเหรอ", "segmented": "เอา / งี้ / เลย / เหรอ",
+        "romanization": "ao ngíi loei rŏe", "meaning": "（呆れて）もういいよ…、やれやれ"
+      },
+      {
+        "id": "s527", "level": 3, "thai": "ถ้าสะดวก...", "segmented": "ถ้า / สะดวก / ...",
+        "romanization": "thâa sà-dùak...", "meaning": "もしよろしければ〜"
+      },
+      {
+        "id": "s528", "level": 4, "thai": "ไม่ต้อง...ก็ได้", "segmented": "ไม่ / ต้อง / ... / ก็ได้",
+        "romanization": "mâi dtâwng... gâw dâai", "meaning": "〜しなくても大丈夫ですよ"
+      },
+      {
+        "id": "s529", "level": 5, "thai": "เชิญก่อนเลยครับ/ค่ะ", "segmented": "เชิญ / ก่อน / เลย / ครับ/ค่ะ",
+        "romanization": "chern gàwn loei khráp/khà", "meaning": "お先にどうぞ"
+      },
+      {
+        "id": "s530", "level": 4, "thai": "ไม่ไหวแล้ว", "segmented": "ไม่ / ไหว / แล้ว",
+        "romanization": "mâi wăi láew", "meaning": "もう無理、限界だ"
+      },
+      {
+        "id": "s531", "level": 2, "thai": "คิดไม่ตก", "segmented": "คิด / ไม่ / ตก",
+        "romanization": "khít mâi dtòk", "meaning": "（考えが）まとまらない、混乱している"
+      },
+      {
+        "id": "s532", "level": 2, "thai": "สังหรณ์ใจว่า...", "segmented": "สังหรณ์ใจ / ว่า / ...",
+        "romanization": "săng-hŏn jai wâa...", "meaning": "なんとなく〜な気がする"
+      },
+      {
+        "id": "s533", "level": 3, "thai": "เกือบไม่ทัน", "segmented": "เกือบ / ไม่ / ทัน",
+        "romanization": "gèuap mâi than", "meaning": "ギリギリだった、危なかった"
+      },
+            {
+        "id": "s534", "level": 3, "thai": "ฟินมาก", "segmented": "ฟิน / มาก",
+        "romanization": "fin mâak", "meaning": "（夢中で）楽しい！ / 最高！"
+      },
+      {
+        "id": "s535", "level": 3, "thai": "ขัดใจ", "segmented": "ขัดใจ",
+        "romanization": "khàt-jai", "meaning": "もどかしい！ / じれったい！"
+      },
+      {
+        "id": "s536", "level": 3, "thai": "ขนลุก", "segmented": "ขน / ลุก",
+        "romanization": "khŏn-lúk", "meaning": "感動して鳥肌が立った！"
+      },
+      {
+        "id": "s537", "level": 4, "thai": "ลอง...ดูไหม", "segmented": "ลอง / ... / ดู / ไหม",
+        "romanization": "lawng... duu măi", "meaning": "〜してみたらどう？"
+      },
+      {
+        "id": "s538", "level": 4, "thai": "ไม่เอาดีกว่า", "segmented": "ไม่ / เอา / ดีกว่า",
+        "romanization": "mâi ao dii gwàa", "meaning": "やっぱりやめておく"
+      },
+      {
+        "id": "s539", "level": 4, "thai": "ยังไงก็ได้", "segmented": "ยังไง / ก็ได้",
+        "romanization": "yang-ngai gâw dâai", "meaning": "どうでもいいよ"
+      },
+      {
+        "id": "s540", "level": 3, "thai": "เปิดทิ้งไว้", "segmented": "เปิด / ทิ้ง / ไว้",
+        "romanization": "bpèrt thíng wái", "meaning": "（電気などを）つけっぱなし"
+      },
+      {
+        "id": "s541", "level": 5, "thai": "ลงตรงนี้ครับ/ค่ะ", "segmented": "ลง / ตรงนี้ / ครับ/ค่ะ",
+        "romanization": "long dtrong-níi khráp/khà", "meaning": "ここで降ります"
+      },
+      {
+        "id": "s542", "level": 4, "thai": "กลับบ้าน", "segmented": "กลับ / บ้าน",
+        "romanization": "glàp bâan", "meaning": "（レストランなどで）持ち帰り"
+      },
+      {
+        "id": "s543", "level": 3, "thai": "สัญญาณไม่ดี", "segmented": "สัญญาณ / ไม่ / ดี",
+        "romanization": "săn-yaan mâi dii", "meaning": "（電話などで）電波が悪い"
+      }
+    ]
   }
 }
+
+
+
+
+

@@ -3652,5 +3652,32 @@
     "category": "people_introduction",
     "level": 2,
     "sound": "assets/audio/vocab/1997.mp3"
+  },
+    {
+    "id": 4051,
+    "thai": "โกหก",
+    "romanization": "goo-hòk",
+    "meaning": "嘘をつく",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/4051.mp3"
+  },
+    {
+    "id": 4068,
+    "thai": "ความลับ",
+    "romanization": "khwaam-láp",
+    "meaning": "秘密",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/4068.mp3"
+  },
+  {
+    "id": 4069,
+    "thai": "ข่าวลือ",
+    "romanization": "khàao-lue",
+    "meaning": "噂",
+    "category": "people_introduction",
+    "level": 2,
+    "sound": "assets/audio/vocab/4069.mp3"
   }
 ]

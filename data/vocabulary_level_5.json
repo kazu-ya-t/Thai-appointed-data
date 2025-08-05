@@ -1630,5 +1630,140 @@
     "category": "office_business",
     "level": 5,
     "sound": "assets/audio/vocab/3069.mp3"
+  },
+    {
+    "id": 4001,
+    "thai": "ไม่เป็นไร",
+    "romanization": "mâi bpen rai",
+    "meaning": "どういたしまして、大丈夫です",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/4001.mp3"
+  },
+  {
+    "id": 4002,
+    "thai": "แล้วเจอกัน",
+    "romanization": "láew jer gan",
+    "meaning": "また会いましょう",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/4002.mp3"
+  },
+  {
+    "id": 4003,
+    "thai": "ดื่ม",
+    "romanization": "dèum",
+    "meaning": "飲む",
+    "category": "food_restaurant",
+    "level": 5,
+    "sound": "assets/audio/vocab/4003.mp3"
+  },
+  {
+    "id": 4004,
+    "thai": "ใส่",
+    "romanization": "sài",
+    "meaning": "着る、履く、入れる",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/4004.mp3"
+  },
+   {
+    "id": 4013,
+    "thai": "อิ่ม",
+    "romanization": "ìm",
+    "meaning": "お腹がいっぱい",
+    "category": "food_restaurant",
+    "level": 5,
+    "sound": "assets/audio/vocab/4013.mp3"
+  },
+  {
+    "id": 4014,
+    "thai": "สีเหลือง",
+    "romanization": "sĭi lĕuang",
+    "meaning": "黄色",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/4014.mp3"
+  },
+  {
+    "id": 4015,
+    "thai": "สีชมพู",
+    "romanization": "sĭi chom-phuu",
+    "meaning": "ピンク",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/4015.mp3"
+  },
+  {
+    "id": 4016,
+    "thai": "สีส้ม",
+    "romanization": "sĭi sôm",
+    "meaning": "オレンジ色",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/4016.mp3"
+  },
+  {
+    "id": 4017,
+    "thai": "สีม่วง",
+    "romanization": "sĭi mûang",
+    "meaning": "紫色",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/4017.mp3"
+  },
+  {
+    "id": 4018,
+    "thai": "สีน้ำตาล",
+    "romanization": "sĭi náam-dtaan",
+    "meaning": "茶色",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/4018.mp3"
+  },
+  {
+    "id": 4019,
+    "thai": "สีเทา",
+    "romanization": "sĭi thao",
+    "meaning": "灰色",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/4019.mp3"
+  },
+   {
+    "id": 4052,
+    "thai": "ก๋วยเตี๋ยว",
+    "romanization": "gŭay-dtĭao",
+    "meaning": "麺類",
+    "category": "food_restaurant",
+    "level": 5,
+    "sound": "assets/audio/vocab/4052.mp3"
+  },
+    {
+    "id": 4054,
+    "thai": "ช้อน",
+    "romanization": "cháwn",
+    "meaning": "スプーン",
+    "category": "food_restaurant",
+    "level": 5,
+    "sound": "assets/audio/vocab/4054.mp3"
+  },
+  {
+    "id": 4055,
+    "thai": "ส้อม",
+    "romanization": "sâwm",
+    "meaning": "フォーク",
+    "category": "food_restaurant",
+    "level": 5,
+    "sound": "assets/audio/vocab/4055.mp3"
+  },
+    {
+    "id": 4057,
+    "thai": "จาน",
+    "romanization": "jaan",
+    "meaning": "皿",
+    "category": "food_restaurant",
+    "level": 5,
+    "sound": "assets/audio/vocab/4057.mp3"
   }
 ]

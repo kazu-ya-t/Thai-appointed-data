@@ -2896,5 +2896,113 @@
     "category": "people_introduction",
     "level": 2,
     "sound": "assets/audio/vocab/1289.mp3"
+  },
+    {
+    "id": 4047,
+    "thai": "ข้าม",
+    "romanization": "khâam",
+    "meaning": "渡る",
+    "category": "transportation",
+    "level": 3,
+    "sound": "assets/audio/vocab/4047.mp3"
+  },
+  {
+    "id": 4048,
+    "thai": "ชวน",
+    "romanization": "chuan",
+    "meaning": "誘う",
+    "category": "people_introduction",
+    "level": 3,
+    "sound": "assets/audio/vocab/4048.mp3"
+  },
+  {
+    "id": 4049,
+    "thai": "แนะนำ",
+    "romanization": "náe-nam",
+    "meaning": "紹介する、勧める",
+    "category": "people_introduction",
+    "level": 3,
+    "sound": "assets/audio/vocab/4049.mp3"
+  },
+  {
+    "id": 4050,
+    "thai": "ชม",
+    "romanization": "chom",
+    "meaning": "褒める",
+    "category": "people_introduction",
+    "level": 3,
+    "sound": "assets/audio/vocab/4050.mp3"
+  },
+    {
+    "id": 4060,
+    "thai": "ทางม้าลาย",
+    "romanization": "thaang máa-laai",
+    "meaning": "横断歩道",
+    "category": "transportation",
+    "level": 3,
+    "sound": "assets/audio/vocab/4060.mp3"
+  },
+    {
+    "id": 4066,
+    "thai": "กระเป๋าสตางค์",
+    "romanization": "grà-bpăo sà-dtaang",
+    "meaning": "財布",
+    "category": "shopping",
+    "level": 3,
+    "sound": "assets/audio/vocab/4066.mp3"
+  },
+  {
+    "id": 4067,
+    "thai": "หวี",
+    "romanization": "wĕe",
+    "meaning": "櫛",
+    "category": "shopping",
+    "level": 3,
+    "sound": "assets/audio/vocab/4067.mp3"
+  },
+    {
+    "id": 4072,
+    "thai": "เปียก",
+    "romanization": "bpìak",
+    "meaning": "濡れている",
+    "category": "greetings_expressions",
+    "level": 3,
+    "sound": "assets/audio/vocab/4072.mp3"
+  },
+  {
+    "id": 4073,
+    "thai": "แห้ง",
+    "romanization": "hâeng",
+    "meaning": "乾いている",
+    "category": "greetings_expressions",
+    "level": 3,
+    "sound": "assets/audio/vocab/4073.mp3"
+  },
+    {
+    "id": 4077,
+    "thai": "เกือบ",
+    "romanization": "gèuap",
+    "meaning": "ほとんど、もう少しで",
+    "category": "greetings_expressions",
+    "level": 3,
+    "sound": "assets/audio/vocab/4077.mp3"
+  },
+  {
+    "id": 4078,
+    "thai": "ส่วนใหญ่",
+    "romanization": "sùan-yài",
+    "meaning": "大部分、たいてい",
+    "category": "greetings_expressions",
+    "level": 3,
+    "sound": "assets/audio/vocab/4078.mp3"
+  },
+    {
+    "id": 4080,
+    "thai": "แปลก",
+    "romanization": "bplàek",
+    "meaning": "変な、奇妙な",
+    "category": "greetings_expressions",
+    "level": 3,
+    "sound": "assets/audio/vocab/4080.mp3"
   }
 ]
