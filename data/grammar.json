@@ -59,6 +59,17 @@
     "example_romanization": "bpàak-gaa sŏng dâam\nmăa săam dtua",
     "example_meaning": "ペン 2本\n犬 3匹"
   },
+
+  {
+    "id": "g008",
+    "level": 3,
+    "title": "【詳細】類別詞一覧表",
+    "pattern": "カテゴリ別の主要な類別詞",
+    "explanation": "タイ語の類別詞は種類が豊富です。カテゴリ別に整理して覚えましょう。\n\n【人・動物】\n・人: คน (khon)\n・動物: ตัว (dtua)\n・僧侶: รูป (rûup)\n\n【モノ（一般）】\n・一般的な物: อัน (an)\n・本/刃物: เล่ม (lêm)\n・紙/皿/カバン: ใบ (bai)\n・服/家具: ตัว (dtua)\n・乗り物/傘: คัน (khan)\n・機械: เครื่อง (khrûeang)\n・ペアのもの: คู่ (khûu)\n\n【飲食物・容器】\n・料理の皿: จาน (jaan)\n・カップ/お椀: ถ้วย (thûay)\n・グラス: แก้ว (kɛ̂ɛw)\n・ボトル/瓶: ขวด (khùat)\n・缶: กระป๋อง (krà-pɔ̌ŋ)",
+    "example_thai": "นักเรียน สอง คน\nหนังสือ สาม เล่ม\nเบียร์ สี่ ขวด",
+    "example_romanization": "nák-rian sŏng khon\nnăng-sĕu săam lêm\nbia sìi khùat",
+    "example_meaning": "学生 2人\n本 3冊\nビール 4本"
+  },
   {
     "id": "g007",
     "level": 5,
@@ -69,14 +80,165 @@
     "example_romanization": "khàwp-khun khráp\nbpai năi khá\nà-ròi ná",
     "example_meaning": "ありがとうございます（男性）\nどこに行くのですか？（女性）\n美味しいね"
   },
+    {
+    "id": "g009",
+    "level": 4,
+    "title": "比較級・最上級",
+    "pattern": "A + 形容詞 + กว่า + B / A + 形容詞 + ที่สุด",
+    "explanation": "形容詞の後に「กว่า (gwàa)」を付けると比較級（〜より）、文末に「ที่สุด (thîi-sùt)」を付けると最上級（一番〜）になります。",
+    "example_thai": "รถคันนี้แพงกว่าคันนั้น\nอาหารไทยอร่อยที่สุด",
+    "example_romanization": "rót khan níi phaeng gwàa khan nán\naa-hăan thai à-ròi thîi-sùt",
+    "example_meaning": "この車はあの車より高いです\nタイ料理が一番美味しいです"
+  },
   {
-    "id": "g008",
+    "id": "g010",
+    "level": 5,
+    "title": "願望 (〜したい)",
+    "pattern": "อยาก + 動詞",
+    "explanation": "動詞の前に「อยาก (yàak)」を置くことで、「〜したい」という願望を表すことができます。",
+    "example_thai": "ฉันอยากไปเที่ยวทะเล\nเขาอยากกินส้มตำ",
+    "example_romanization": "chăn yàak bpai thîao thá-lee\nkhăo yàak gin sôm-dtam",
+    "example_meaning": "私は海へ遊びに行きたいです\n彼はソムタムが食べたいです"
+  },
+  {
+    "id": "g011",
     "level": 3,
-    "title": "【詳細】類別詞一覧表",
-    "pattern": "カテゴリ別の主要な類別詞",
-    "explanation": "タイ語の類別詞は種類が豊富です。カテゴリ別に整理して覚えましょう。\n\n【人・動物】\n・人: คน (khon)\n・動物: ตัว (dtua)\n・僧侶: รูป (rûup)\n\n【モノ（一般）】\n・一般的な物: อัน (an)\n・本/刃物: เล่ม (lêm)\n・紙/皿/カバン: ใบ (bai)\n・服/家具: ตัว (dtua)\n・乗り物/傘: คัน (khan)\n・機械: เครื่อง (khrûeang)\n・ペアのもの: คู่ (khûu)\n\n【飲食物・容器】\n・料理の皿: จาน (jaan)\n・カップ/お椀: ถ้วย (thûay)\n・グラス: แก้ว (kɛ̂ɛw)\n・ボトル/瓶: ขวด (khùat)\n・缶: กระป๋อง (krà-pɔ̌ŋ)",
-    "example_thai": "นักเรียน สอง คน\nหนังสือ สาม เล่ม\nเบียร์ สี่ ขวด",
-    "example_romanization": "nák-rian sŏng khon\nnăng-sĕu săam lêm\nbia sìi khùat",
-    "example_meaning": "学生 2人\n本 3冊\nビール 4本"
+    "title": "経験 (〜したことがある)",
+    "pattern": "เคย + 動詞 / ไม่เคย + 動詞",
+    "explanation": "動詞の前に「เคย (khooei)」を置くと「〜したことがある」という経験を表します。否定する場合は「ไม่เคย (mâi khooei)」となります。",
+    "example_thai": "เคยไปประเทศไทยไหม\nผมไม่เคยกินทุเรียน",
+    "example_romanization": "khooei bpai bprà-thêet thai măi\nphŏm mâi khooei gin thú-rian",
+    "example_meaning": "タイに行ったことがありますか？\n私はドリアンを食べたことがありません"
+  },
+    {
+    "id": "g012",
+    "level": 4,
+    "title": "理由・原因 (〜なので)",
+    "pattern": "...เพราะว่า... / ...ก็เลย...",
+    "explanation": "「เพราะว่า (phráw wâa)」は理由を明確に述べ、「...ก็เลย... (gâw loei)」は結果に焦点を当てた口語的な表現です。",
+    "example_thai": "วันนี้ไม่ไปทำงาน เพราะว่าไม่สบาย\nฝนตกหนัก ก็เลยไม่ได้ออกไปไหน",
+    "example_romanization": "wan-níi mâi bpai tham-ngaan, phráw wâa mâi sà-baai\nfŏn dtòk nàk, gâw loei mâi dâai àwk bpai năi",
+    "example_meaning": "今日は仕事をしません。なぜなら気分が悪いからです。\n雨が激しく降ったので、どこにも出かけませんでした。"
+  },
+  {
+    "id": "g013",
+    "level": 5,
+    "title": "可能・不可能 (〜できる)",
+    "pattern": "動詞 + ได้ / 動詞 + ไม่ได้",
+    "explanation": "動詞の後に「ได้ (dâai)」を付けると「〜できる」という可能性や許可を、「ไม่ได้ (mâi dâai)」を付けると否定を表します。",
+    "example_thai": "คุณพูดภาษาไทยได้ไหม\nพรุ่งนี้ฉันไปไม่ได้",
+    "example_romanization": "khun phûut phaa-săa thai dâai măi\nphrûng-níi chăn bpai mâi dâai",
+    "example_meaning": "あなたはタイ語を話せますか？\n明日、私は行けません。"
+  },
+  {
+    "id": "g014",
+    "level": 4,
+    "title": "許可・依頼",
+    "pattern": "ขอ + 動詞 + ได้ไหม / ช่วย + 動詞 + หน่อย",
+    "explanation": "「ขอ...ได้ไหม (khŏr... dâai măi)」は「〜してもいいですか？」と許可を求める丁寧な聞き方です。「ช่วย...หน่อย (chûay... nòi)」は「〜してください」とお願いする丁寧な依頼表現です。",
+    "example_thai": "ขอนั่งตรงนี้ได้ไหมครับ\nช่วยเปิดประตูให้หน่อยค่ะ",
+    "example_romanization": "khŏr nâng dtrong-níi dâai măi khráp\nchûay bpèrt bprà-dtuu hâi nòi khà",
+    "example_meaning": "ここに座ってもいいですか？\nドアを開けてください。"
+  },
+    {
+    "id": "g015",
+    "level": 4,
+    "title": "進行形 (〜している)",
+    "pattern": "กำลัง + 動詞 + อยู่",
+    "explanation": "動詞の前に「กำลัง (gam-lang)」を、文末に「อยู่ (yùu)」を置くことで、「今〜しているところです」という進行中の動作を強調できます。口語ではどちらか一方だけを使うことも多いです。",
+    "example_thai": "กำลังทำอะไรอยู่\nเขากำลังกินข้าวอยู่",
+    "example_romanization": "gam-lang tham à-rai yùu\nkhăo gam-lang gin khâao yùu",
+    "example_meaning": "今、何をしていますか？\n彼は今、ご飯を食べているところです。"
+  },
+  {
+    "id": "g016",
+    "level": 5,
+    "title": "提案・勧誘 (一緒に〜しませんか？)",
+    "pattern": "...กันไหม",
+    "explanation": "文末に「กันไหม (gan măi)」を付けることで、「一緒に〜しませんか？」と相手を優しく誘う表現になります。「กัน」は「一緒に」という意味の言葉です。",
+    "example_thai": "วันหยุดนี้ไปเที่ยวกันไหม\nไปกินกาแฟกันไหม",
+    "example_romanization": "wan-yùt níi bpai thîao gan măi\nbpai gin gaa-fae gan măi",
+    "example_meaning": "今度の休みに一緒に遊びに行きませんか？\n一緒にコーヒーを飲みに行きませんか？"
+  },
+    {
+    "id": "g017",
+    "level": 3,
+    "title": "授与 (〜に〜をあげる)",
+    "pattern": "主語 + ให้ + モノ + (กับ) + 人",
+    "explanation": "「（人）に（モノ）をあげる」という文を作る際、「ให้ (hâi)」を使います。「誰に」の部分を明確にする場合は「กับ (gàp)」を使って後ろに人を置きますが、文脈で明らかな場合は省略されることも多いです。",
+    "example_thai": "เขาให้ของขวัญกับฉัน\nแม่ทำอาหารให้ลูก",
+    "example_romanization": "khăo hâi khŏng-khwăn gàp chăn\nmâe tham aa-hăan hâi lûuk",
+    "example_meaning": "彼は私にプレゼントをくれました。\n母は子供にご飯を作ってあげます。"
+  },
+  {
+    "id": "g018",
+    "level": 3,
+    "title": "使役 (〜に〜させる)",
+    "pattern": "主語 + ให้ + 人 + 動詞",
+    "explanation": "「ให้ (hâi)」の後ろに「人」と「動詞」を続けることで、「（人）に〜させる」という使役の意味になります。命令だけでなく、許可や依頼の意味で使われることも多いです。",
+    "example_thai": "ครูให้นักเรียนทำการบ้าน\nฉันจะให้เขาช่วย",
+    "example_romanization": "khruu hâi nák-rian tham gaan-bâan\nchăn jà hâi khăo chûay",
+    "example_meaning": "先生は生徒に宿題をさせます。\n私は彼に手伝ってもらうつもりです。"
+  },
+  {
+    "id": "g019",
+    "level": 4,
+    "title": "思考・意見 (〜だと思う)",
+    "pattern": "คิดว่า...",
+    "explanation": "文の前に「คิดว่า (khít wâa)」を置くことで、「私は〜だと思います」という意見や推測を表すことができます。",
+    "example_thai": "ฉันคิดว่าอาหารไทยอร่อย\nเขาคิดว่าพรุ่งนี้ฝนจะไม่ตก",
+    "example_romanization": "chăn khít wâa aa-hăan thai à-ròi\nkhăo khít wâa phrûng-níi fŏn jà mâi dtòk",
+    "example_meaning": "私はタイ料理は美味しいと思います。\n彼は明日は雨が降らないだろうと思っています。"
+  },
+    {
+    "id": "g020",
+    "level": 3,
+    "title": "動作の継続・状態 (〜し続ける / 〜しておく)",
+    "pattern": "動詞 + ไปเรื่อยๆ / 動詞 + ไว้",
+    "explanation": "「ไปเรื่อยๆ (bpai rûeai-rûeai)」は動作を継続することを、「ไว้ (wái)」は「（後々のために）〜しておく」という準備のニュアンスを表します。",
+    "example_thai": "เดินไปเรื่อยๆ เดี๋ยวก็ถึง\nซื้อของไว้ก่อน",
+    "example_romanization": "dern bpai rûeai-rûeai, dĭao gâw thĕung\nséu khŏng wái gàwn",
+    "example_meaning": "そのまま歩き続ければ、そのうち着きますよ。\n先に買い物を済ませておきます。"
+  },
+  {
+    "id": "g021",
+    "level": 4,
+    "title": "動作の様態（〜するのが〜だ）",
+    "pattern": "動詞 + 形容詞",
+    "explanation": "動詞と形容詞を直接つなげることで、「〜するのが〜だ」と動作の様子を具体的に説明できます。",
+    "example_thai": "เขาพูดเร็ว\nทำอาหารไทยยากไหม",
+    "example_romanization": "khăo phûut reo\ntham aa-hăan thai yâak măi",
+    "example_meaning": "彼は話すのが速いです。\nタイ料理を作るのは難しいですか？"
+  },
+    {
+    "id": "g022",
+    "level": 5,
+    "title": "同意・確認 (〜ですよね？)",
+    "pattern": "文 + ใช่ไหม / ใช่ป่ะ / เนาะ",
+    "explanation": "相手に同意を求めたり、確認したりする際に文末に付けます。\n・「ใช่ไหม (châi măi)」: 最も一般的で丁寧な形です。\n・「ใช่ป่ะ (châi bpà)」: 「ใช่ไหม」のくだけた話し言葉です。\n・「เนาะ (nɔ́)」: 「〜だよねぇ」と、より柔らかく共感を求めるニュアンスで使います。",
+    "example_thai": "วันนี้ร้อนใช่ไหม\nหนังเรื่องนี้สนุกใช่ป่ะ\nอากาศดีเนาะ",
+    "example_romanization": "wan-níi ráwn châi măi\nnăng rûeang níi sà-nùk châi bpà\naa-gàat dii nɔ́",
+    "example_meaning": "今日は暑いですよね？\nこの映画、面白いよね？\n良い天気だねぇ。"
+  },
+  {
+    "id": "g023",
+    "level": 4,
+    "title": "推測・様態 (〜のようだ)",
+    "pattern": "ดูเหมือนว่า... / ท่าทางจะ... / คงจะ...",
+    "explanation": "状況から推測して「〜のようだ」と述べる表現です。\n・「ดูเหมือนว่า...」: 「見たところ〜のようだ」という、最も標準的な表現です。\n・「ท่าทางจะ...」: 見た目の雰囲気から「様子が〜そうだ」と述べる口語的な表現です。\n・「คงจะ...」: 「たぶん〜だろう」と、確信はないが推測する際に使います。",
+    "example_thai": "ดูเหมือนว่าฝนจะตก\nท่าทางจะสนุกนะ\nเขาคงจะถึงบ้านแล้ว",
+    "example_romanization": "duu mĕuan wâa fŏn jà dtòk\nthâa thaang jà sà-nùk ná\nkhăo khong jà thĕung bâan láew",
+    "example_meaning": "雨が降りそうですね。\n楽しそうだね！\n彼はもう家に着いたでしょう。"
+  },
+    {
+    "id": "g024",
+    "level": 4,
+    "title": "口語的な疑問文 (〜なの？)",
+    "pattern": "文 + หรือเปล่า",
+    "explanation": "文末に付けることで、「〜ですか、それとも違いますか？」というニュアンスの、より口語的で柔らかい疑問文になります。「...ไหม」よりもインフォーマルな場面でよく使われます。",
+    "example_thai": "เขาเป็นคนไทยหรือเปล่า\nอันนี้จริงหรือเปล่า",
+    "example_romanization": "khăo bpen khon thai rĕu bplào\nan níi jing rĕu bplào",
+    "example_meaning": "彼はタイ人ですか？\nこれは本当ですか？"
   }
+
 ]
