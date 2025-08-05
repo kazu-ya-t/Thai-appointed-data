@@ -1054,6 +1054,46 @@
       {
         "id": "s543", "level": 3, "thai": "สัญญาณไม่ดี", "segmented": "สัญญาณ / ไม่ / ดี",
         "romanization": "săn-yaan mâi dii", "meaning": "（電話などで）電波が悪い"
+      },
+            {
+        "id": "s544", "level": 3, "thai": "ค่อนข้างชอบ...มากกว่า", "segmented": "ค่อนข้าง / ชอบ / ... / มากกว่า",
+        "romanization": "khâwn-khâang châwp... mâak gwàa", "meaning": "（どちらかと言えば）～の方が好き"
+      },
+      {
+        "id": "s545", "level": 3, "thai": "ไม่ใช่ว่า...", "segmented": "ไม่ / ใช่ / ว่า / ...",
+        "romanization": "mâi châi wâa...", "meaning": "～という訳ではない"
+      },
+      {
+        "id": "s546", "level": 4, "thai": "จังหวะดี", "segmented": "จังหวะ / ดี",
+        "romanization": "jang-wà dii", "meaning": "（状況が）ちょうど良かった"
+      },
+      {
+        "id": "s547", "level": 4, "thai": "ขอรบกวนหน่อยนะครับ/คะ", "segmented": "ขอ / รบกวน / หน่อย / นะ / ครับ/คะ",
+        "romanization": "khŏr róp-guan nòi ná khráp/khá", "meaning": "お邪魔します"
+      },
+      {
+        "id": "s548", "level": 4, "thai": "เรื่องเล็กน้อย", "segmented": "เรื่อง / เล็กน้อย",
+        "romanization": "rûeang lék-nói", "meaning": "（気にしないで）大したことないよ"
+      },
+      {
+        "id": "s549", "level": 3, "thai": "จริงอย่างที่ว่า", "segmented": "จริง / อย่าง / ที่ / ว่า",
+        "romanization": "jing yàang thîi wâa", "meaning": "（相手の言う通り）その通りだね"
+      },
+      {
+        "id": "s550", "level": 4, "thai": "เอาอันนี้ก่อนแล้วกัน", "segmented": "เอา / อันนี้ / ก่อน / แล้วกัน",
+        "romanization": "ao an níi gàwn lâew gan", "meaning": "（レストランなどで）とりあえずこれをください"
+      },
+      {
+        "id": "s551", "level": 3, "thai": "ราคาย่อมเยา", "segmented": "ราคา / ย่อมเยา",
+        "romanization": "raa-khaa yâwm-yao", "meaning": "（値段が）手頃だね"
+      },
+      {
+        "id": "s552", "level": 4, "thai": "บรรยากาศดี", "segmented": "บรรยากาศ / ดี",
+        "romanization": "ban-yaa-gàat dii", "meaning": "（場所などが）居心地が良い"
+      },
+      {
+        "id": "s553", "level": 3, "thai": "เพลีย", "segmented": "เพลีย",
+        "romanization": "phlia", "meaning": "（体調が）だるい"
       }
     ]
   }
