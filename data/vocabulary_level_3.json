@@ -6,7 +6,7 @@
     "meaning": "空港",
     "category": "transportation",
     "level": 3,
-    "sound": "assets/audio/vocab/112.mp3"
+    "sound": "assets/audio/vocab/01/112.mp3"
   },
   {
     "id": 113,
@@ -15,7 +15,7 @@
     "meaning": "ホテル",
     "category": "hotel_accommodation",
     "level": 3,
-    "sound": "assets/audio/vocab/113.mp3"
+    "sound": "assets/audio/vocab/01/113.mp3"
   },
   {
     "id": 114,
@@ -24,7 +24,7 @@
     "meaning": "銀行",
     "category": "office_business",
     "level": 3,
-    "sound": "assets/audio/vocab/114.mp3"
+    "sound": "assets/audio/vocab/01/114.mp3"
   },
   {
     "id": 116,
@@ -33,7 +33,7 @@
     "meaning": "警察",
     "category": "office_business",
     "level": 3,
-    "sound": "assets/audio/vocab/116.mp3"
+    "sound": "assets/audio/vocab/01/116.mp3"
   },
   {
     "id": 117,
@@ -42,7 +42,7 @@
     "meaning": "手紙",
     "category": "office_business",
     "level": 3,
-    "sound": "assets/audio/vocab/117.mp3"
+    "sound": "assets/audio/vocab/01/117.mp3"
   },
   {
     "id": 118,
@@ -51,7 +51,7 @@
     "meaning": "本",
     "category": "people_introduction",
     "level": 3,
-    "sound": "assets/audio/vocab/118.mp3"
+    "sound": "assets/audio/vocab/01/118.mp3"
   },
   {
     "id": 119,
@@ -60,7 +60,7 @@
     "meaning": "電話",
     "category": "technology_it",
     "level": 3,
-    "sound": "assets/audio/vocab/119.mp3"
+    "sound": "assets/audio/vocab/01/119.mp3"
   },
   {
     "id": 120,
@@ -69,7 +69,7 @@
     "meaning": "コンピューター",
     "category": "technology_it",
     "level": 3,
-    "sound": "assets/audio/vocab/120.mp3"
+    "sound": "assets/audio/vocab/01/120.mp3"
   },
   {
     "id": 121,
@@ -78,7 +78,7 @@
     "meaning": "服",
     "category": "shopping",
     "level": 3,
-    "sound": "assets/audio/vocab/121.mp3"
+    "sound": "assets/audio/vocab/01/121.mp3"
   },
   {
     "id": 122,
@@ -87,7 +87,7 @@
     "meaning": "靴",
     "category": "shopping",
     "level": 3,
-    "sound": "assets/audio/vocab/122.mp3"
+    "sound": "assets/audio/vocab/01/122.mp3"
   },
   {
     "id": 123,
@@ -96,7 +96,7 @@
     "meaning": "バッグ",
     "category": "shopping",
     "level": 3,
-    "sound": "assets/audio/vocab/123.mp3"
+    "sound": "assets/audio/vocab/01/123.mp3"
   },
   {
     "id": 124,
@@ -105,7 +105,7 @@
     "meaning": "天気、空気",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/124.mp3"
+    "sound": "assets/audio/vocab/01/124.mp3"
   },
   {
     "id": 125,
@@ -114,7 +114,7 @@
     "meaning": "雨",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/125.mp3"
+    "sound": "assets/audio/vocab/01/125.mp3"
   },
   {
     "id": 127,
@@ -123,7 +123,7 @@
     "meaning": "国",
     "category": "people_introduction",
     "level": 3,
-    "sound": "assets/audio/vocab/127.mp3"
+    "sound": "assets/audio/vocab/01/127.mp3"
   },
   {
     "id": 128,
@@ -132,7 +132,7 @@
     "meaning": "都市、街",
     "category": "travel_accommodation",
     "level": 3,
-    "sound": "assets/audio/vocab/128.mp3"
+    "sound": "assets/audio/vocab/01/128.mp3"
   },
   {
     "id": 129,
@@ -141,7 +141,7 @@
     "meaning": "道、道路",
     "category": "transportation",
     "level": 3,
-    "sound": "assets/audio/vocab/129.mp3"
+    "sound": "assets/audio/vocab/01/129.mp3"
   },
   {
     "id": 130,
@@ -150,7 +150,7 @@
     "meaning": "会社",
     "category": "office_business",
     "level": 3,
-    "sound": "assets/audio/vocab/130.mp3"
+    "sound": "assets/audio/vocab/01/130.mp3"
   },
   {
     "id": 131,
@@ -159,7 +159,7 @@
     "meaning": "学生",
     "category": "people_introduction",
     "level": 3,
-    "sound": "assets/audio/vocab/131.mp3"
+    "sound": "assets/audio/vocab/01/131.mp3"
   },
   {
     "id": 132,
@@ -168,7 +168,7 @@
     "meaning": "先生，教師",
     "category": "people_introduction",
     "level": 3,
-    "sound": "assets/audio/vocab/132.mp3"
+    "sound": "assets/audio/vocab/01/132.mp3"
   },
   {
     "id": 133,
@@ -177,7 +177,7 @@
     "meaning": "医者",
     "category": "health_medical",
     "level": 3,
-    "sound": "assets/audio/vocab/133.mp3"
+    "sound": "assets/audio/vocab/01/133.mp3"
   },
   {
     "id": 134,
@@ -186,7 +186,7 @@
     "meaning": "～と思う",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/134.mp3"
+    "sound": "assets/audio/vocab/01/134.mp3"
   },
   {
     "id": 135,
@@ -195,7 +195,7 @@
     "meaning": "必要とする、欲しい",
     "category": "shopping",
     "level": 3,
-    "sound": "assets/audio/vocab/135.mp3"
+    "sound": "assets/audio/vocab/01/135.mp3"
   },
   {
     "id": 136,
@@ -204,7 +204,7 @@
     "meaning": "助ける",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/136.mp3"
+    "sound": "assets/audio/vocab/01/136.mp3"
   },
   {
     "id": 137,
@@ -213,7 +213,7 @@
     "meaning": "使う",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/137.mp3"
+    "sound": "assets/audio/vocab/01/137.mp3"
   },
   {
     "id": 138,
@@ -222,7 +222,7 @@
     "meaning": "言う、告げる",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/138.mp3"
+    "sound": "assets/audio/vocab/01/138.mp3"
   },
   {
     "id": 139,
@@ -231,7 +231,7 @@
     "meaning": "質問する",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/139.mp3"
+    "sound": "assets/audio/vocab/01/139.mp3"
   },
   {
     "id": 140,
@@ -240,7 +240,7 @@
     "meaning": "答える",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/140.mp3"
+    "sound": "assets/audio/vocab/01/140.mp3"
   },
   {
     "id": 141,
@@ -249,7 +249,7 @@
     "meaning": "始める",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/141.mp3"
+    "sound": "assets/audio/vocab/01/141.mp3"
   },
   {
     "id": 142,
@@ -258,7 +258,7 @@
     "meaning": "終える",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/142.mp3"
+    "sound": "assets/audio/vocab/01/142.mp3"
   },
   {
     "id": 143,
@@ -267,7 +267,7 @@
     "meaning": "旅行する、移動する",
     "category": "transportation",
     "level": 3,
-    "sound": "assets/audio/vocab/143.mp3"
+    "sound": "assets/audio/vocab/01/143.mp3"
   },
   {
     "id": 144,
@@ -276,7 +276,7 @@
     "meaning": "重要な",
     "category": "office_business",
     "level": 3,
-    "sound": "assets/audio/vocab/144.mp3"
+    "sound": "assets/audio/vocab/01/144.mp3"
   },
   {
     "id": 145,
@@ -285,7 +285,7 @@
     "meaning": "普通の",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/145.mp3"
+    "sound": "assets/audio/vocab/01/145.mp3"
   },
   {
     "id": 146,
@@ -294,7 +294,7 @@
     "meaning": "特別な",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/146.mp3"
+    "sound": "assets/audio/vocab/01/146.mp3"
   },
   {
     "id": 147,
@@ -303,7 +303,7 @@
     "meaning": "本当に",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/147.mp3"
+    "sound": "assets/audio/vocab/01/147.mp3"
   },
   {
     "id": 148,
@@ -312,7 +312,7 @@
     "meaning": "もちろん、確実に，確かな",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/148.mp3"
+    "sound": "assets/audio/vocab/01/148.mp3"
   },
   {
     "id": 149,
@@ -321,7 +321,7 @@
     "meaning": "～かもしれない",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/149.mp3"
+    "sound": "assets/audio/vocab/01/149.mp3"
   },
   {
     "id": 150,
@@ -330,7 +330,7 @@
     "meaning": "～しなければならない",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/150.mp3"
+    "sound": "assets/audio/vocab/01/150.mp3"
   },
   {
     "id": 151,
@@ -339,7 +339,7 @@
     "meaning": "～したことがある",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/151.mp3"
+    "sound": "assets/audio/vocab/01/151.mp3"
   },
   {
     "id": 152,
@@ -348,7 +348,7 @@
     "meaning": "～している（進行形）",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/152.mp3"
+    "sound": "assets/audio/vocab/01/152.mp3"
   },
   {
     "id": 153,
@@ -357,7 +357,7 @@
     "meaning": "～だろう（未来）",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/153.mp3"
+    "sound": "assets/audio/vocab/01/153.mp3"
   },
   {
     "id": 154,
@@ -366,7 +366,7 @@
     "meaning": "毎～",
     "category": "numbers_time",
     "level": 3,
-    "sound": "assets/audio/vocab/154.mp3"
+    "sound": "assets/audio/vocab/01/154.mp3"
   },
   {
     "id": 155,
@@ -375,7 +375,7 @@
     "meaning": "いくつかの～",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/155.mp3"
+    "sound": "assets/audio/vocab/01/155.mp3"
   },
   {
     "id": 156,
@@ -384,7 +384,7 @@
     "meaning": "他の～",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/156.mp3"
+    "sound": "assets/audio/vocab/01/156.mp3"
   },
   {
     "id": 157,
@@ -393,7 +393,7 @@
     "meaning": "同じ",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/157.mp3"
+    "sound": "assets/audio/vocab/01/157.mp3"
   },
   {
     "id": 158,
@@ -402,7 +402,7 @@
     "meaning": "違う",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/158.mp3"
+    "sound": "assets/audio/vocab/01/158.mp3"
   },
   {
     "id": 159,
@@ -411,7 +411,7 @@
     "meaning": "部分",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/159.mp3"
+    "sound": "assets/audio/vocab/01/159.mp3"
   },
   {
     "id": 160,
@@ -420,7 +420,7 @@
     "meaning": "話、事柄",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/160.mp3"
+    "sound": "assets/audio/vocab/01/160.mp3"
   },
   {
     "id": 161,
@@ -429,7 +429,7 @@
     "meaning": "心、心臓",
     "category": "health_medical",
     "level": 3,
-    "sound": "assets/audio/vocab/161.mp3"
+    "sound": "assets/audio/vocab/01/161.mp3"
   },
   {
     "id": 162,
@@ -438,7 +438,7 @@
     "meaning": "例、サンプル",
     "category": "office_business",
     "level": 3,
-    "sound": "assets/audio/vocab/162.mp3"
+    "sound": "assets/audio/vocab/01/162.mp3"
   },
   {
     "id": 201,
@@ -447,7 +447,7 @@
     "meaning": "飛行機",
     "category": "transportation",
     "level": 3,
-    "sound": "assets/audio/vocab/201.mp3"
+    "sound": "assets/audio/vocab/02/201.mp3"
   },
   {
     "id": 202,
@@ -456,7 +456,7 @@
     "meaning": "電車",
     "category": "transportation",
     "level": 3,
-    "sound": "assets/audio/vocab/202.mp3"
+    "sound": "assets/audio/vocab/02/202.mp3"
   },
   {
     "id": 203,
@@ -465,7 +465,7 @@
     "meaning": "船",
     "category": "transportation",
     "level": 3,
-    "sound": "assets/audio/vocab/203.mp3"
+    "sound": "assets/audio/vocab/02/203.mp3"
   },
   {
     "id": 204,
@@ -474,7 +474,7 @@
     "meaning": "自転車",
     "category": "transportation",
     "level": 3,
-    "sound": "assets/audio/vocab/204.mp3"
+    "sound": "assets/audio/vocab/02/204.mp3"
   },
   {
     "id": 206,
@@ -483,7 +483,7 @@
     "meaning": "チケット",
     "category": "transportation",
     "level": 3,
-    "sound": "assets/audio/vocab/206.mp3"
+    "sound": "assets/audio/vocab/02/206.mp3"
   },
   {
     "id": 207,
@@ -492,7 +492,7 @@
     "meaning": "部屋",
     "category": "hotel_accommodation",
     "level": 3,
-    "sound": "assets/audio/vocab/207.mp3"
+    "sound": "assets/audio/vocab/02/207.mp3"
   },
   {
     "id": 208,
@@ -501,7 +501,7 @@
     "meaning": "鍵",
     "category": "hotel_accommodation",
     "level": 3,
-    "sound": "assets/audio/vocab/208.mp3"
+    "sound": "assets/audio/vocab/02/208.mp3"
   },
   {
     "id": 209,
@@ -510,7 +510,7 @@
     "meaning": "ドア",
     "category": "construction",
     "level": 3,
-    "sound": "assets/audio/vocab/209.mp3"
+    "sound": "assets/audio/vocab/02/209.mp3"
   },
   {
     "id": 210,
@@ -519,7 +519,7 @@
     "meaning": "窓",
     "category": "construction",
     "level": 3,
-    "sound": "assets/audio/vocab/210.mp3"
+    "sound": "assets/audio/vocab/02/210.mp3"
   },
   {
     "id": 211,
@@ -528,7 +528,7 @@
     "meaning": "テーブル",
     "category": "food_restaurant",
     "level": 3,
-    "sound": "assets/audio/vocab/211.mp3"
+    "sound": "assets/audio/vocab/02/211.mp3"
   },
   {
     "id": 212,
@@ -537,7 +537,7 @@
     "meaning": "椅子",
     "category": "food_restaurant",
     "level": 3,
-    "sound": "assets/audio/vocab/212.mp3"
+    "sound": "assets/audio/vocab/02/212.mp3"
   },
   {
     "id": 213,
@@ -546,7 +546,7 @@
     "meaning": "ベッド",
     "category": "hotel_accommodation",
     "level": 3,
-    "sound": "assets/audio/vocab/213.mp3"
+    "sound": "assets/audio/vocab/02/213.mp3"
   },
   {
     "id": 215,
@@ -555,7 +555,7 @@
     "meaning": "携帯電話",
     "category": "technology_it",
     "level": 3,
-    "sound": "assets/audio/vocab/215.mp3"
+    "sound": "assets/audio/vocab/02/215.mp3"
   },
   {
     "id": 217,
@@ -564,7 +564,7 @@
     "meaning": "写真",
     "category": "people_introduction",
     "level": 3,
-    "sound": "assets/audio/vocab/217.mp3"
+    "sound": "assets/audio/vocab/02/217.mp3"
   },
   {
     "id": 218,
@@ -573,7 +573,7 @@
     "meaning": "音楽",
     "category": "people_introduction",
     "level": 3,
-    "sound": "assets/audio/vocab/218.mp3"
+    "sound": "assets/audio/vocab/02/218.mp3"
   },
   {
     "id": 219,
@@ -582,7 +582,7 @@
     "meaning": "映画",
     "category": "people_introduction",
     "level": 3,
-    "sound": "assets/audio/vocab/219.mp3"
+    "sound": "assets/audio/vocab/02/219.mp3"
   },
   {
     "id": 220,
@@ -591,7 +591,7 @@
     "meaning": "スポーツ",
     "category": "people_introduction",
     "level": 3,
-    "sound": "assets/audio/vocab/220.mp3"
+    "sound": "assets/audio/vocab/02/220.mp3"
   },
   {
     "id": 221,
@@ -600,7 +600,7 @@
     "meaning": "ニュース",
     "category": "office_business",
     "level": 3,
-    "sound": "assets/audio/vocab/221.mp3"
+    "sound": "assets/audio/vocab/02/221.mp3"
   },
   {
     "id": 222,
@@ -609,7 +609,7 @@
     "meaning": "質問",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/222.mp3"
+    "sound": "assets/audio/vocab/02/222.mp3"
   },
   {
     "id": 223,
@@ -618,7 +618,7 @@
     "meaning": "答え",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/223.mp3"
+    "sound": "assets/audio/vocab/02/223.mp3"
   },
   {
     "id": 224,
@@ -627,7 +627,7 @@
     "meaning": "理由",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/224.mp3"
+    "sound": "assets/audio/vocab/02/224.mp3"
   },
   {
     "id": 225,
@@ -636,7 +636,7 @@
     "meaning": "考え、意見",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/225.mp3"
+    "sound": "assets/audio/vocab/02/225.mp3"
   },
   {
     "id": 226,
@@ -645,7 +645,7 @@
     "meaning": "感情、気持ち",
     "category": "people_introduction",
     "level": 3,
-    "sound": "assets/audio/vocab/226.mp3"
+    "sound": "assets/audio/vocab/02/226.mp3"
   },
   {
     "id": 229,
@@ -654,7 +654,7 @@
     "meaning": "人生、命",
     "category": "people_introduction",
     "level": 3,
-    "sound": "assets/audio/vocab/229.mp3"
+    "sound": "assets/audio/vocab/02/229.mp3"
   },
   {
     "id": 232,
@@ -663,7 +663,7 @@
     "meaning": "海",
     "category": "travel_accommodation",
     "level": 3,
-    "sound": "assets/audio/vocab/232.mp3"
+    "sound": "assets/audio/vocab/02/232.mp3"
   },
   {
     "id": 235,
@@ -672,7 +672,7 @@
     "meaning": "木",
     "category": "travel_accommodation",
     "level": 3,
-    "sound": "assets/audio/vocab/235.mp3"
+    "sound": "assets/audio/vocab/02/235.mp3"
   },
   {
     "id": 236,
@@ -681,7 +681,7 @@
     "meaning": "花",
     "category": "shopping",
     "level": 3,
-    "sound": "assets/audio/vocab/236.mp3"
+    "sound": "assets/audio/vocab/02/236.mp3"
   },
   {
     "id": 237,
@@ -690,7 +690,7 @@
     "meaning": "動物",
     "category": "people_introduction",
     "level": 3,
-    "sound": "assets/audio/vocab/237.mp3"
+    "sound": "assets/audio/vocab/02/237.mp3"
   },
   {
     "id": 238,
@@ -699,7 +699,7 @@
     "meaning": "犬",
     "category": "people_introduction",
     "level": 3,
-    "sound": "assets/audio/vocab/238.mp3"
+    "sound": "assets/audio/vocab/02/238.mp3"
   },
   {
     "id": 239,
@@ -708,7 +708,7 @@
     "meaning": "猫",
     "category": "people_introduction",
     "level": 3,
-    "sound": "assets/audio/vocab/239.mp3"
+    "sound": "assets/audio/vocab/02/239.mp3"
   },
   {
     "id": 240,
@@ -717,7 +717,7 @@
     "meaning": "鳥",
     "category": "people_introduction",
     "level": 3,
-    "sound": "assets/audio/vocab/240.mp3"
+    "sound": "assets/audio/vocab/02/240.mp3"
   },
   {
     "id": 241,
@@ -726,7 +726,7 @@
     "meaning": "魚",
     "category": "food_restaurant",
     "level": 3,
-    "sound": "assets/audio/vocab/241.mp3"
+    "sound": "assets/audio/vocab/02/241.mp3"
   },
   {
     "id": 242,
@@ -735,7 +735,7 @@
     "meaning": "果物",
     "category": "food_restaurant",
     "level": 3,
-    "sound": "assets/audio/vocab/242.mp3"
+    "sound": "assets/audio/vocab/02/242.mp3"
   },
   {
     "id": 243,
@@ -744,7 +744,7 @@
     "meaning": "野菜",
     "category": "food_restaurant",
     "level": 3,
-    "sound": "assets/audio/vocab/243.mp3"
+    "sound": "assets/audio/vocab/02/243.mp3"
   },
   {
     "id": 244,
@@ -753,7 +753,7 @@
     "meaning": "ご飯、米",
     "category": "food_restaurant",
     "level": 3,
-    "sound": "assets/audio/vocab/244.mp3"
+    "sound": "assets/audio/vocab/02/244.mp3"
   },
   {
     "id": 245,
@@ -762,7 +762,7 @@
     "meaning": "肉",
     "category": "food_restaurant",
     "level": 3,
-    "sound": "assets/audio/vocab/245.mp3"
+    "sound": "assets/audio/vocab/02/245.mp3"
   },
   {
     "id": 246,
@@ -771,7 +771,7 @@
     "meaning": "鶏肉",
     "category": "food_restaurant",
     "level": 3,
-    "sound": "assets/audio/vocab/246.mp3"
+    "sound": "assets/audio/vocab/02/246.mp3"
   },
   {
     "id": 247,
@@ -780,7 +780,7 @@
     "meaning": "豚肉",
     "category": "food_restaurant",
     "level": 3,
-    "sound": "assets/audio/vocab/247.mp3"
+    "sound": "assets/audio/vocab/02/247.mp3"
   },
   {
     "id": 248,
@@ -789,7 +789,7 @@
     "meaning": "卵",
     "category": "food_restaurant",
     "level": 3,
-    "sound": "assets/audio/vocab/248.mp3"
+    "sound": "assets/audio/vocab/02/248.mp3"
   },
   {
     "id": 249,
@@ -798,7 +798,7 @@
     "meaning": "牛乳",
     "category": "food_restaurant",
     "level": 3,
-    "sound": "assets/audio/vocab/249.mp3"
+    "sound": "assets/audio/vocab/02/249.mp3"
   },
   {
     "id": 250,
@@ -807,7 +807,7 @@
     "meaning": "コーヒー",
     "category": "food_restaurant",
     "level": 3,
-    "sound": "assets/audio/vocab/250.mp3"
+    "sound": "assets/audio/vocab/02/250.mp3"
   },
   {
     "id": 251,
@@ -816,7 +816,7 @@
     "meaning": "お茶",
     "category": "food_restaurant",
     "level": 3,
-    "sound": "assets/audio/vocab/251.mp3"
+    "sound": "assets/audio/vocab/02/251.mp3"
   },
   {
     "id": 252,
@@ -825,7 +825,7 @@
     "meaning": "ビール",
     "category": "food_restaurant",
     "level": 3,
-    "sound": "assets/audio/vocab/252.mp3"
+    "sound": "assets/audio/vocab/02/252.mp3"
   },
   {
     "id": 253,
@@ -834,7 +834,7 @@
     "meaning": "が欲しい",
     "category": "shopping",
     "level": 3,
-    "sound": "assets/audio/vocab/253.mp3"
+    "sound": "assets/audio/vocab/02/253.mp3"
   },
   {
     "id": 254,
@@ -843,7 +843,7 @@
     "meaning": "取る、要る",
     "category": "shopping",
     "level": 3,
-    "sound": "assets/audio/vocab/254.mp3"
+    "sound": "assets/audio/vocab/02/254.mp3"
   },
   {
     "id": 255,
@@ -852,7 +852,7 @@
     "meaning": "あげる",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/255.mp3"
+    "sound": "assets/audio/vocab/02/255.mp3"
   },
   {
     "id": 256,
@@ -861,7 +861,7 @@
     "meaning": "もらう、受け取る",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/256.mp3"
+    "sound": "assets/audio/vocab/02/256.mp3"
   },
   {
     "id": 258,
@@ -870,7 +870,7 @@
     "meaning": "帰る",
     "category": "transportation",
     "level": 3,
-    "sound": "assets/audio/vocab/258.mp3"
+    "sound": "assets/audio/vocab/02/258.mp3"
   },
   {
     "id": 259,
@@ -879,7 +879,7 @@
     "meaning": "着く",
     "category": "transportation",
     "level": 3,
-    "sound": "assets/audio/vocab/259.mp3"
+    "sound": "assets/audio/vocab/02/259.mp3"
   },
   {
     "id": 260,
@@ -888,7 +888,7 @@
     "meaning": "出る",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/260.mp3"
+    "sound": "assets/audio/vocab/02/260.mp3"
   },
   {
     "id": 261,
@@ -897,7 +897,7 @@
     "meaning": "入る",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/261.mp3"
+    "sound": "assets/audio/vocab/02/261.mp3"
   },
   {
     "id": 262,
@@ -906,7 +906,7 @@
     "meaning": "上がる、乗る",
     "category": "transportation",
     "level": 3,
-    "sound": "assets/audio/vocab/262.mp3"
+    "sound": "assets/audio/vocab/02/262.mp3"
   },
   {
     "id": 263,
@@ -915,7 +915,7 @@
     "meaning": "下りる",
     "category": "transportation",
     "level": 3,
-    "sound": "assets/audio/vocab/263.mp3"
+    "sound": "assets/audio/vocab/02/263.mp3"
   },
   {
     "id": 264,
@@ -924,7 +924,7 @@
     "meaning": "歩く",
     "category": "transportation",
     "level": 3,
-    "sound": "assets/audio/vocab/264.mp3"
+    "sound": "assets/audio/vocab/02/264.mp3"
   },
   {
     "id": 265,
@@ -933,7 +933,7 @@
     "meaning": "走る",
     "category": "transportation",
     "level": 3,
-    "sound": "assets/audio/vocab/265.mp3"
+    "sound": "assets/audio/vocab/02/265.mp3"
   },
   {
     "id": 266,
@@ -942,7 +942,7 @@
     "meaning": "止まる",
     "category": "transportation",
     "level": 3,
-    "sound": "assets/audio/vocab/266.mp3"
+    "sound": "assets/audio/vocab/02/266.mp3"
   },
   {
     "id": 267,
@@ -951,7 +951,7 @@
     "meaning": "遊ぶ",
     "category": "people_introduction",
     "level": 3,
-    "sound": "assets/audio/vocab/267.mp3"
+    "sound": "assets/audio/vocab/02/267.mp3"
   },
   {
     "id": 268,
@@ -960,7 +960,7 @@
     "meaning": "歌う",
     "category": "people_introduction",
     "level": 3,
-    "sound": "assets/audio/vocab/268.mp3"
+    "sound": "assets/audio/vocab/02/268.mp3"
   },
   {
     "id": 269,
@@ -969,7 +969,7 @@
     "meaning": "踊る",
     "category": "people_introduction",
     "level": 3,
-    "sound": "assets/audio/vocab/269.mp3"
+    "sound": "assets/audio/vocab/02/269.mp3"
   },
   {
     "id": 270,
@@ -978,7 +978,7 @@
     "meaning": "笑う",
     "category": "people_introduction",
     "level": 3,
-    "sound": "assets/audio/vocab/270.mp3"
+    "sound": "assets/audio/vocab/02/270.mp3"
   },
   {
     "id": 271,
@@ -987,7 +987,7 @@
     "meaning": "泣く",
     "category": "people_introduction",
     "level": 3,
-    "sound": "assets/audio/vocab/271.mp3"
+    "sound": "assets/audio/vocab/02/271.mp3"
   },
   {
     "id": 272,
@@ -996,7 +996,7 @@
     "meaning": "死ぬ",
     "category": "health_medical",
     "level": 3,
-    "sound": "assets/audio/vocab/272.mp3"
+    "sound": "assets/audio/vocab/02/272.mp3"
   },
   {
     "id": 273,
@@ -1005,7 +1005,7 @@
     "meaning": "生まれる",
     "category": "people_introduction",
     "level": 3,
-    "sound": "assets/audio/vocab/273.mp3"
+    "sound": "assets/audio/vocab/02/273.mp3"
   },
   {
     "id": 274,
@@ -1014,7 +1014,7 @@
     "meaning": "結婚する",
     "category": "people_introduction",
     "level": 3,
-    "sound": "assets/audio/vocab/274.mp3"
+    "sound": "assets/audio/vocab/02/274.mp3"
   },
   {
     "id": 275,
@@ -1023,7 +1023,7 @@
     "meaning": "離婚する",
     "category": "people_introduction",
     "level": 3,
-    "sound": "assets/audio/vocab/275.mp3"
+    "sound": "assets/audio/vocab/02/275.mp3"
   },
   {
     "id": 276,
@@ -1032,7 +1032,7 @@
     "meaning": "かわいい",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/276.mp3"
+    "sound": "assets/audio/vocab/02/276.mp3"
   },
   {
     "id": 277,
@@ -1041,7 +1041,7 @@
     "meaning": "面白い",
     "category": "people_introduction",
     "level": 3,
-    "sound": "assets/audio/vocab/277.mp3"
+    "sound": "assets/audio/vocab/02/277.mp3"
   },
   {
     "id": 278,
@@ -1050,7 +1050,7 @@
     "meaning": "親切な",
     "category": "people_introduction",
     "level": 3,
-    "sound": "assets/audio/vocab/278.mp3"
+    "sound": "assets/audio/vocab/02/278.mp3"
   },
   {
     "id": 279,
@@ -1059,7 +1059,7 @@
     "meaning": "賢い",
     "category": "people_introduction",
     "level": 3,
-    "sound": "assets/audio/vocab/279.mp3"
+    "sound": "assets/audio/vocab/02/279.mp3"
   },
   {
     "id": 280,
@@ -1068,7 +1068,7 @@
     "meaning": "馬鹿な",
     "category": "people_introduction",
     "level": 3,
-    "sound": "assets/audio/vocab/280.mp3"
+    "sound": "assets/audio/vocab/02/280.mp3"
   },
   {
     "id": 281,
@@ -1077,7 +1077,7 @@
     "meaning": "金持ちの",
     "category": "office_business",
     "level": 3,
-    "sound": "assets/audio/vocab/281.mp3"
+    "sound": "assets/audio/vocab/02/281.mp3"
   },
   {
     "id": 282,
@@ -1086,7 +1086,7 @@
     "meaning": "貧しい",
     "category": "office_business",
     "level": 3,
-    "sound": "assets/audio/vocab/282.mp3"
+    "sound": "assets/audio/vocab/02/282.mp3"
   },
   {
     "id": 283,
@@ -1095,7 +1095,7 @@
     "meaning": "（値段が）高い",
     "category": "shopping",
     "level": 3,
-    "sound": "assets/audio/vocab/283.mp3"
+    "sound": "assets/audio/vocab/02/283.mp3"
   },
   {
     "id": 284,
@@ -1104,7 +1104,7 @@
     "meaning": "（値段が）安い",
     "category": "shopping",
     "level": 3,
-    "sound": "assets/audio/vocab/284.mp3"
+    "sound": "assets/audio/vocab/02/284.mp3"
   },
   {
     "id": 285,
@@ -1113,7 +1113,7 @@
     "meaning": "新しい",
     "category": "shopping",
     "level": 3,
-    "sound": "assets/audio/vocab/285.mp3"
+    "sound": "assets/audio/vocab/02/285.mp3"
   },
   {
     "id": 286,
@@ -1122,7 +1122,7 @@
     "meaning": "古い",
     "category": "shopping",
     "level": 3,
-    "sound": "assets/audio/vocab/286.mp3"
+    "sound": "assets/audio/vocab/02/286.mp3"
   },
   {
     "id": 288,
@@ -1131,7 +1131,7 @@
     "meaning": "悪い",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/288.mp3"
+    "sound": "assets/audio/vocab/02/288.mp3"
   },
   {
     "id": 290,
@@ -1140,7 +1140,7 @@
     "meaning": "違う",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/290.mp3"
+    "sound": "assets/audio/vocab/02/290.mp3"
   },
   {
     "id": 291,
@@ -1149,7 +1149,7 @@
     "meaning": "速い",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/291.mp3"
+    "sound": "assets/audio/vocab/02/291.mp3"
   },
   {
     "id": 292,
@@ -1158,7 +1158,7 @@
     "meaning": "遅い",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/292.mp3"
+    "sound": "assets/audio/vocab/02/292.mp3"
   },
   {
     "id": 293,
@@ -1167,7 +1167,7 @@
     "meaning": "頻繁に",
     "category": "numbers_time",
     "level": 3,
-    "sound": "assets/audio/vocab/293.mp3"
+    "sound": "assets/audio/vocab/02/293.mp3"
   },
   {
     "id": 294,
@@ -1176,7 +1176,7 @@
     "meaning": "時々",
     "category": "numbers_time",
     "level": 3,
-    "sound": "assets/audio/vocab/294.mp3"
+    "sound": "assets/audio/vocab/02/294.mp3"
   },
   {
     "id": 295,
@@ -1185,7 +1185,7 @@
     "meaning": "いつも",
     "category": "numbers_time",
     "level": 3,
-    "sound": "assets/audio/vocab/295.mp3"
+    "sound": "assets/audio/vocab/02/295.mp3"
   },
   {
     "id": 296,
@@ -1194,7 +1194,7 @@
     "meaning": "全部",
     "category": "shopping",
     "level": 3,
-    "sound": "assets/audio/vocab/296.mp3"
+    "sound": "assets/audio/vocab/02/296.mp3"
   },
   {
     "id": 297,
@@ -1203,7 +1203,7 @@
     "meaning": "少しだけ",
     "category": "shopping",
     "level": 3,
-    "sound": "assets/audio/vocab/297.mp3"
+    "sound": "assets/audio/vocab/02/297.mp3"
   },
   {
     "id": 298,
@@ -1212,7 +1212,7 @@
     "meaning": "もっと、再び",
     "category": "shopping",
     "level": 3,
-    "sound": "assets/audio/vocab/298.mp3"
+    "sound": "assets/audio/vocab/02/298.mp3"
   },
   {
     "id": 299,
@@ -1221,7 +1221,7 @@
     "meaning": "～だけ",
     "category": "shopping",
     "level": 3,
-    "sound": "assets/audio/vocab/299.mp3"
+    "sound": "assets/audio/vocab/02/299.mp3"
   },
   {
     "id": 300,
@@ -1230,7 +1230,7 @@
     "meaning": "最も～（最上級）",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/300.mp3"
+    "sound": "assets/audio/vocab/03/300.mp3"
   },
   {
     "id": 301,
@@ -1239,7 +1239,7 @@
     "meaning": "～より（比較級）",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/301.mp3"
+    "sound": "assets/audio/vocab/03/301.mp3"
   },
   {
     "id": 302,
@@ -1248,7 +1248,7 @@
     "meaning": "～について",
     "category": "office_business",
     "level": 3,
-    "sound": "assets/audio/vocab/302.mp3"
+    "sound": "assets/audio/vocab/03/302.mp3"
   },
   {
     "id": 303,
@@ -1257,7 +1257,7 @@
     "meaning": "～のために",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/303.mp3"
+    "sound": "assets/audio/vocab/03/303.mp3"
   },
   {
     "id": 304,
@@ -1266,7 +1266,7 @@
     "meaning": "～によって",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/304.mp3"
+    "sound": "assets/audio/vocab/03/304.mp3"
   },
   {
     "id": 305,
@@ -1275,7 +1275,7 @@
     "meaning": "～から",
     "category": "transportation",
     "level": 3,
-    "sound": "assets/audio/vocab/305.mp3"
+    "sound": "assets/audio/vocab/03/305.mp3"
   },
   {
     "id": 306,
@@ -1284,7 +1284,7 @@
     "meaning": "～まで",
     "category": "transportation",
     "level": 3,
-    "sound": "assets/audio/vocab/306.mp3"
+    "sound": "assets/audio/vocab/03/306.mp3"
   },
   {
     "id": 307,
@@ -1293,7 +1293,7 @@
     "meaning": "中に",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/307.mp3"
+    "sound": "assets/audio/vocab/03/307.mp3"
   },
   {
     "id": 308,
@@ -1302,7 +1302,7 @@
     "meaning": "外に",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/308.mp3"
+    "sound": "assets/audio/vocab/03/308.mp3"
   },
   {
     "id": 309,
@@ -1311,7 +1311,7 @@
     "meaning": "上に",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/309.mp3"
+    "sound": "assets/audio/vocab/03/309.mp3"
   },
   {
     "id": 310,
@@ -1320,7 +1320,7 @@
     "meaning": "下に",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/310.mp3"
+    "sound": "assets/audio/vocab/03/310.mp3"
   },
   {
     "id": 311,
@@ -1329,7 +1329,7 @@
     "meaning": "前に",
     "category": "transportation",
     "level": 3,
-    "sound": "assets/audio/vocab/311.mp3"
+    "sound": "assets/audio/vocab/03/311.mp3"
   },
   {
     "id": 312,
@@ -1338,7 +1338,7 @@
     "meaning": "後ろに",
     "category": "transportation",
     "level": 3,
-    "sound": "assets/audio/vocab/312.mp3"
+    "sound": "assets/audio/vocab/03/312.mp3"
   },
   {
     "id": 313,
@@ -1347,7 +1347,7 @@
     "meaning": "左に",
     "category": "transportation",
     "level": 3,
-    "sound": "assets/audio/vocab/313.mp3"
+    "sound": "assets/audio/vocab/03/313.mp3"
   },
   {
     "id": 314,
@@ -1356,7 +1356,7 @@
     "meaning": "右に",
     "category": "transportation",
     "level": 3,
-    "sound": "assets/audio/vocab/314.mp3"
+    "sound": "assets/audio/vocab/03/314.mp3"
   },
   {
     "id": 315,
@@ -1365,7 +1365,7 @@
     "meaning": "まっすぐ進む",
     "category": "transportation",
     "level": 3,
-    "sound": "assets/audio/vocab/315.mp3"
+    "sound": "assets/audio/vocab/03/315.mp3"
   },
   {
     "id": 316,
@@ -1374,7 +1374,7 @@
     "meaning": "左に曲がる",
     "category": "transportation",
     "level": 3,
-    "sound": "assets/audio/vocab/316.mp3"
+    "sound": "assets/audio/vocab/03/316.mp3"
   },
   {
     "id": 317,
@@ -1383,7 +1383,7 @@
     "meaning": "右に曲がる",
     "category": "transportation",
     "level": 3,
-    "sound": "assets/audio/vocab/317.mp3"
+    "sound": "assets/audio/vocab/03/317.mp3"
   },
   {
     "id": 326,
@@ -1392,7 +1392,7 @@
     "meaning": "年",
     "category": "numbers_time",
     "level": 3,
-    "sound": "assets/audio/vocab/326.mp3"
+    "sound": "assets/audio/vocab/03/326.mp3"
   },
   {
     "id": 327,
@@ -1401,7 +1401,7 @@
     "meaning": "時間",
     "category": "numbers_time",
     "level": 3,
-    "sound": "assets/audio/vocab/327.mp3"
+    "sound": "assets/audio/vocab/03/327.mp3"
   },
   {
     "id": 328,
@@ -1410,7 +1410,7 @@
     "meaning": "分",
     "category": "numbers_time",
     "level": 3,
-    "sound": "assets/audio/vocab/328.mp3"
+    "sound": "assets/audio/vocab/03/328.mp3"
   },
   {
     "id": 329,
@@ -1419,7 +1419,7 @@
     "meaning": "秒",
     "category": "numbers_time",
     "level": 3,
-    "sound": "assets/audio/vocab/329.mp3"
+    "sound": "assets/audio/vocab/03/329.mp3"
   },
   {
     "id": 348,
@@ -1428,7 +1428,7 @@
     "meaning": "教える",
     "category": "office_business",
     "level": 3,
-    "sound": "assets/audio/vocab/348.mp3"
+    "sound": "assets/audio/vocab/03/348.mp3"
   },
   {
     "id": 349,
@@ -1437,7 +1437,7 @@
     "meaning": "忘れる",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/349.mp3"
+    "sound": "assets/audio/vocab/03/349.mp3"
   },
   {
     "id": 350,
@@ -1446,7 +1446,7 @@
     "meaning": "覚える",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/350.mp3"
+    "sound": "assets/audio/vocab/03/350.mp3"
   },
   {
     "id": 351,
@@ -1455,7 +1455,7 @@
     "meaning": "努力する",
     "category": "office_business",
     "level": 3,
-    "sound": "assets/audio/vocab/351.mp3"
+    "sound": "assets/audio/vocab/03/351.mp3"
   },
   {
     "id": 353,
@@ -1464,7 +1464,7 @@
     "meaning": "県",
     "category": "office_business",
     "level": 3,
-    "sound": "assets/audio/vocab/353.mp3"
+    "sound": "assets/audio/vocab/03/353.mp3"
   },
   {
     "id": 354,
@@ -1473,7 +1473,7 @@
     "meaning": "地方",
     "category": "office_business",
     "level": 3,
-    "sound": "assets/audio/vocab/354.mp3"
+    "sound": "assets/audio/vocab/03/354.mp3"
   },
   {
     "id": 450,
@@ -1482,7 +1482,7 @@
     "meaning": "安全な",
     "category": "health_medical",
     "level": 2,
-    "sound": "assets/audio/vocab/450.mp3"
+    "sound": "assets/audio/vocab/04/450.mp3"
   },
   {
     "id": 451,
@@ -1491,7 +1491,7 @@
     "meaning": "清潔な",
     "category": "hotel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/451.mp3"
+    "sound": "assets/audio/vocab/04/451.mp3"
   },
   {
     "id": 452,
@@ -1500,7 +1500,7 @@
     "meaning": "汚い",
     "category": "hotel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/452.mp3"
+    "sound": "assets/audio/vocab/04/452.mp3"
   },
   {
     "id": 453,
@@ -1509,7 +1509,7 @@
     "meaning": "暇な、空いている",
     "category": "greetings_expressions",
     "level": 2,
-    "sound": "assets/audio/vocab/453.mp3"
+    "sound": "assets/audio/vocab/04/453.mp3"
   },
   {
     "id": 454,
@@ -1518,7 +1518,7 @@
     "meaning": "忙しい",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/454.mp3"
+    "sound": "assets/audio/vocab/04/454.mp3"
   },
   {
     "id": 455,
@@ -1527,7 +1527,7 @@
     "meaning": "近い",
     "category": "transportation",
     "level": 2,
-    "sound": "assets/audio/vocab/455.mp3"
+    "sound": "assets/audio/vocab/04/455.mp3"
   },
   {
     "id": 456,
@@ -1536,7 +1536,7 @@
     "meaning": "遠い",
     "category": "transportation",
     "level": 2,
-    "sound": "assets/audio/vocab/456.mp3"
+    "sound": "assets/audio/vocab/04/456.mp3"
   },
   {
     "id": 457,
@@ -1545,7 +1545,7 @@
     "meaning": "近いうちに",
     "category": "numbers_time",
     "level": 2,
-    "sound": "assets/audio/vocab/457.mp3"
+    "sound": "assets/audio/vocab/04/457.mp3"
   },
   {
     "id": 458,
@@ -1554,7 +1554,7 @@
     "meaning": "長い間",
     "category": "numbers_time",
     "level": 2,
-    "sound": "assets/audio/vocab/458.mp3"
+    "sound": "assets/audio/vocab/04/458.mp3"
   },
   {
     "id": 459,
@@ -1563,7 +1563,7 @@
     "meaning": "ほとんど",
     "category": "greetings_expressions",
     "level": 2,
-    "sound": "assets/audio/vocab/459.mp3"
+    "sound": "assets/audio/vocab/04/459.mp3"
   },
   {
     "id": 460,
@@ -1572,7 +1572,7 @@
     "meaning": "約、だいたい",
     "category": "numbers_time",
     "level": 2,
-    "sound": "assets/audio/vocab/460.mp3"
+    "sound": "assets/audio/vocab/04/460.mp3"
   },
   {
     "id": 461,
@@ -1581,7 +1581,7 @@
     "meaning": "～を除いて",
     "category": "greetings_expressions",
     "level": 2,
-    "sound": "assets/audio/vocab/461.mp3"
+    "sound": "assets/audio/vocab/04/461.mp3"
   },
   {
     "id": 462,
@@ -1590,7 +1590,7 @@
     "meaning": "～だけれども",
     "category": "greetings_expressions",
     "level": 2,
-    "sound": "assets/audio/vocab/462.mp3"
+    "sound": "assets/audio/vocab/04/462.mp3"
   },
   {
     "id": 463,
@@ -1599,7 +1599,7 @@
     "meaning": "だから",
     "category": "greetings_expressions",
     "level": 2,
-    "sound": "assets/audio/vocab/463.mp3"
+    "sound": "assets/audio/vocab/04/463.mp3"
   },
   {
     "id": 464,
@@ -1608,7 +1608,7 @@
     "meaning": "例えば",
     "category": "greetings_expressions",
     "level": 2,
-    "sound": "assets/audio/vocab/464.mp3"
+    "sound": "assets/audio/vocab/04/464.mp3"
   },
   {
     "id": 465,
@@ -1617,7 +1617,7 @@
     "meaning": "天気が良い",
     "category": "greetings_expressions",
     "level": 2,
-    "sound": "assets/audio/vocab/465.mp3"
+    "sound": "assets/audio/vocab/04/465.mp3"
   },
   {
     "id": 466,
@@ -1626,7 +1626,7 @@
     "meaning": "天気が悪い",
     "category": "greetings_expressions",
     "level": 2,
-    "sound": "assets/audio/vocab/466.mp3"
+    "sound": "assets/audio/vocab/04/466.mp3"
   },
   {
     "id": 467,
@@ -1635,7 +1635,7 @@
     "meaning": "雨が降る",
     "category": "greetings_expressions",
     "level": 2,
-    "sound": "assets/audio/vocab/467.mp3"
+    "sound": "assets/audio/vocab/04/467.mp3"
   },
   {
     "id": 468,
@@ -1644,7 +1644,7 @@
     "meaning": "雪が降る",
     "category": "greetings_expressions",
     "level": 2,
-    "sound": "assets/audio/vocab/468.mp3"
+    "sound": "assets/audio/vocab/04/468.mp3"
   },
   {
     "id": 469,
@@ -1653,7 +1653,7 @@
     "meaning": "風が強い",
     "category": "greetings_expressions",
     "level": 2,
-    "sound": "assets/audio/vocab/469.mp3"
+    "sound": "assets/audio/vocab/04/469.mp3"
   },
   {
     "id": 470,
@@ -1662,7 +1662,7 @@
     "meaning": "蒸し暑い",
     "category": "greetings_expressions",
     "level": 2,
-    "sound": "assets/audio/vocab/470.mp3"
+    "sound": "assets/audio/vocab/04/470.mp3"
   },
   {
     "id": 471,
@@ -1671,7 +1671,7 @@
     "meaning": "冷える",
     "category": "greetings_expressions",
     "level": 2,
-    "sound": "assets/audio/vocab/471.mp3"
+    "sound": "assets/audio/vocab/04/471.mp3"
   },
   {
     "id": 472,
@@ -1680,7 +1680,7 @@
     "meaning": "空",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/472.mp3"
+    "sound": "assets/audio/vocab/04/472.mp3"
   },
   {
     "id": 473,
@@ -1689,7 +1689,7 @@
     "meaning": "雲",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/473.mp3"
+    "sound": "assets/audio/vocab/04/473.mp3"
   },
   {
     "id": 474,
@@ -1698,7 +1698,7 @@
     "meaning": "太陽",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/474.mp3"
+    "sound": "assets/audio/vocab/04/474.mp3"
   },
   {
     "id": 475,
@@ -1707,7 +1707,7 @@
     "meaning": "月",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/475.mp3"
+    "sound": "assets/audio/vocab/04/475.mp3"
   },
   {
     "id": 476,
@@ -1716,7 +1716,7 @@
     "meaning": "星",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/476.mp3"
+    "sound": "assets/audio/vocab/04/476.mp3"
   },
   {
     "id": 477,
@@ -1725,7 +1725,7 @@
     "meaning": "地球",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/477.mp3"
+    "sound": "assets/audio/vocab/04/477.mp3"
   },
   {
     "id": 478,
@@ -1734,7 +1734,7 @@
     "meaning": "体",
     "category": "health_medical",
     "level": 2,
-    "sound": "assets/audio/vocab/478.mp3"
+    "sound": "assets/audio/vocab/04/478.mp3"
   },
   {
     "id": 479,
@@ -1743,7 +1743,7 @@
     "meaning": "頭",
     "category": "health_medical",
     "level": 2,
-    "sound": "assets/audio/vocab/479.mp3"
+    "sound": "assets/audio/vocab/04/479.mp3"
   },
   {
     "id": 480,
@@ -1752,7 +1752,7 @@
     "meaning": "顔",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/480.mp3"
+    "sound": "assets/audio/vocab/04/480.mp3"
   },
   {
     "id": 481,
@@ -1761,7 +1761,7 @@
     "meaning": "目",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/481.mp3"
+    "sound": "assets/audio/vocab/04/481.mp3"
   },
   {
     "id": 482,
@@ -1770,7 +1770,7 @@
     "meaning": "耳",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/482.mp3"
+    "sound": "assets/audio/vocab/04/482.mp3"
   },
   {
     "id": 483,
@@ -1779,7 +1779,7 @@
     "meaning": "鼻",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/483.mp3"
+    "sound": "assets/audio/vocab/04/483.mp3"
   },
   {
     "id": 484,
@@ -1788,7 +1788,7 @@
     "meaning": "口",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/484.mp3"
+    "sound": "assets/audio/vocab/04/484.mp3"
   },
   {
     "id": 485,
@@ -1797,7 +1797,7 @@
     "meaning": "歯",
     "category": "health_medical",
     "level": 2,
-    "sound": "assets/audio/vocab/485.mp3"
+    "sound": "assets/audio/vocab/04/485.mp3"
   },
   {
     "id": 487,
@@ -1806,7 +1806,7 @@
     "meaning": "手",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/487.mp3"
+    "sound": "assets/audio/vocab/04/487.mp3"
   },
   {
     "id": 488,
@@ -1815,7 +1815,7 @@
     "meaning": "腕",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/488.mp3"
+    "sound": "assets/audio/vocab/04/488.mp3"
   },
   {
     "id": 489,
@@ -1824,7 +1824,7 @@
     "meaning": "脚",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/489.mp3"
+    "sound": "assets/audio/vocab/04/489.mp3"
   },
   {
     "id": 490,
@@ -1833,7 +1833,7 @@
     "meaning": "足",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/490.mp3"
+    "sound": "assets/audio/vocab/04/490.mp3"
   },
   {
     "id": 491,
@@ -1842,7 +1842,7 @@
     "meaning": "病気の",
     "category": "health_medical",
     "level": 2,
-    "sound": "assets/audio/vocab/491.mp3"
+    "sound": "assets/audio/vocab/04/491.mp3"
   },
   {
     "id": 492,
@@ -1851,7 +1851,7 @@
     "meaning": "痛い",
     "category": "health_medical",
     "level": 2,
-    "sound": "assets/audio/vocab/492.mp3"
+    "sound": "assets/audio/vocab/04/492.mp3"
   },
   {
     "id": 493,
@@ -1860,7 +1860,7 @@
     "meaning": "薬",
     "category": "health_medical",
     "level": 2,
-    "sound": "assets/audio/vocab/493.mp3"
+    "sound": "assets/audio/vocab/04/493.mp3"
   },
   {
     "id": 500,
@@ -1869,7 +1869,7 @@
     "meaning": "（能力として）できる",
     "category": "greetings_expressions",
     "level": 2,
-    "sound": "assets/audio/vocab/500.mp3"
+    "sound": "assets/audio/vocab/05/500.mp3"
   },
   {
     "id": 503,
@@ -1878,7 +1878,7 @@
     "meaning": "北",
     "category": "transportation",
     "level": 2,
-    "sound": "assets/audio/vocab/503.mp3"
+    "sound": "assets/audio/vocab/05/503.mp3"
   },
   {
     "id": 504,
@@ -1887,7 +1887,7 @@
     "meaning": "南",
     "category": "transportation",
     "level": 2,
-    "sound": "assets/audio/vocab/504.mp3"
+    "sound": "assets/audio/vocab/05/504.mp3"
   },
   {
     "id": 505,
@@ -1896,7 +1896,7 @@
     "meaning": "東",
     "category": "transportation",
     "level": 2,
-    "sound": "assets/audio/vocab/505.mp3"
+    "sound": "assets/audio/vocab/05/505.mp3"
   },
   {
     "id": 506,
@@ -1905,7 +1905,7 @@
     "meaning": "西",
     "category": "transportation",
     "level": 2,
-    "sound": "assets/audio/vocab/506.mp3"
+    "sound": "assets/audio/vocab/05/506.mp3"
   },
   {
     "id": 507,
@@ -1914,7 +1914,7 @@
     "meaning": "回",
     "category": "numbers_time",
     "level": 2,
-    "sound": "assets/audio/vocab/507.mp3"
+    "sound": "assets/audio/vocab/05/507.mp3"
   },
   {
     "id": 508,
@@ -1923,7 +1923,7 @@
     "meaning": "最初の",
     "category": "numbers_time",
     "level": 2,
-    "sound": "assets/audio/vocab/508.mp3"
+    "sound": "assets/audio/vocab/05/508.mp3"
   },
   {
     "id": 509,
@@ -1932,7 +1932,7 @@
     "meaning": "最後の",
     "category": "numbers_time",
     "level": 2,
-    "sound": "assets/audio/vocab/509.mp3"
+    "sound": "assets/audio/vocab/05/509.mp3"
   },
   {
     "id": 510,
@@ -1941,7 +1941,7 @@
     "meaning": "次の",
     "category": "numbers_time",
     "level": 2,
-    "sound": "assets/audio/vocab/510.mp3"
+    "sound": "assets/audio/vocab/05/510.mp3"
   },
   {
     "id": 511,
@@ -1950,7 +1950,7 @@
     "meaning": "前の",
     "category": "numbers_time",
     "level": 2,
-    "sound": "assets/audio/vocab/511.mp3"
+    "sound": "assets/audio/vocab/05/511.mp3"
   },
   {
     "id": 512,
@@ -1959,7 +1959,7 @@
     "meaning": "毎日",
     "category": "numbers_time",
     "level": 2,
-    "sound": "assets/audio/vocab/512.mp3"
+    "sound": "assets/audio/vocab/05/512.mp3"
   },
   {
     "id": 513,
@@ -1968,7 +1968,7 @@
     "meaning": "週",
     "category": "numbers_time",
     "level": 2,
-    "sound": "assets/audio/vocab/513.mp3"
+    "sound": "assets/audio/vocab/05/513.mp3"
   },
   {
     "id": 514,
@@ -1977,7 +1977,7 @@
     "meaning": "休日",
     "category": "numbers_time",
     "level": 2,
-    "sound": "assets/audio/vocab/514.mp3"
+    "sound": "assets/audio/vocab/05/514.mp3"
   },
   {
     "id": 516,
@@ -1986,7 +1986,7 @@
     "meaning": "下げる、値引く",
     "category": "shopping",
     "level": 2,
-    "sound": "assets/audio/vocab/516.mp3"
+    "sound": "assets/audio/vocab/05/516.mp3"
   },
   {
     "id": 517,
@@ -1995,7 +1995,7 @@
     "meaning": "増やす",
     "category": "shopping",
     "level": 2,
-    "sound": "assets/audio/vocab/517.mp3"
+    "sound": "assets/audio/vocab/05/517.mp3"
   },
   {
     "id": 518,
@@ -2004,7 +2004,7 @@
     "meaning": "変える、交換する",
     "category": "shopping",
     "level": 2,
-    "sound": "assets/audio/vocab/518.mp3"
+    "sound": "assets/audio/vocab/05/518.mp3"
   },
   {
     "id": 519,
@@ -2013,7 +2013,7 @@
     "meaning": "本当の",
     "category": "greetings_expressions",
     "level": 2,
-    "sound": "assets/audio/vocab/519.mp3"
+    "sound": "assets/audio/vocab/05/519.mp3"
   },
   {
     "id": 520,
@@ -2022,7 +2022,7 @@
     "meaning": "偽の",
     "category": "greetings_expressions",
     "level": 2,
-    "sound": "assets/audio/vocab/520.mp3"
+    "sound": "assets/audio/vocab/05/520.mp3"
   },
   {
     "id": 521,
@@ -2031,7 +2031,7 @@
     "meaning": "有名な、うるさい",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/521.mp3"
+    "sound": "assets/audio/vocab/05/521.mp3"
   },
   {
     "id": 522,
@@ -2040,7 +2040,7 @@
     "meaning": "静かな",
     "category": "greetings_expressions",
     "level": 2,
-    "sound": "assets/audio/vocab/522.mp3"
+    "sound": "assets/audio/vocab/05/522.mp3"
   },
   {
     "id": 523,
@@ -2049,7 +2049,7 @@
     "meaning": "危険な",
     "category": "health_medical",
     "level": 2,
-    "sound": "assets/audio/vocab/523.mp3"
+    "sound": "assets/audio/vocab/05/523.mp3"
   },
   {
     "id": 617,
@@ -2058,7 +2058,7 @@
     "meaning": "署名",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/617.mp3"
+    "sound": "assets/audio/vocab/06/617.mp3"
   },
   {
     "id": 618,
@@ -2067,7 +2067,7 @@
     "meaning": "金融",
     "category": "office_business",
     "level": 3,
-    "sound": "assets/audio/vocab/618.mp3"
+    "sound": "assets/audio/vocab/06/618.mp3"
   },
   {
     "id": 620,
@@ -2076,7 +2076,7 @@
     "meaning": "株式",
     "category": "office_business",
     "level": 3,
-    "sound": "assets/audio/vocab/620.mp3"
+    "sound": "assets/audio/vocab/06/620.mp3"
   },
   {
     "id": 621,
@@ -2085,7 +2085,7 @@
     "meaning": "証券取引所",
     "category": "office_business",
     "level": 3,
-    "sound": "assets/audio/vocab/621.mp3"
+    "sound": "assets/audio/vocab/06/621.mp3"
   },
   {
     "id": 622,
@@ -2094,7 +2094,7 @@
     "meaning": "為替レート",
     "category": "office_business",
     "level": 3,
-    "sound": "assets/audio/vocab/622.mp3"
+    "sound": "assets/audio/vocab/06/622.mp3"
   },
   {
     "id": 623,
@@ -2103,7 +2103,7 @@
     "meaning": "インフレーション",
     "category": "office_business",
     "level": 3,
-    "sound": "assets/audio/vocab/623.mp3"
+    "sound": "assets/audio/vocab/06/623.mp3"
   },
   {
     "id": 624,
@@ -2112,7 +2112,7 @@
     "meaning": "デフレーション",
     "category": "office_business",
     "level": 3,
-    "sound": "assets/audio/vocab/624.mp3"
+    "sound": "assets/audio/vocab/06/624.mp3"
   },
   {
     "id": 625,
@@ -2121,7 +2121,7 @@
     "meaning": "国内総生産 (GDP)",
     "category": "office_business",
     "level": 3,
-    "sound": "assets/audio/vocab/625.mp3"
+    "sound": "assets/audio/vocab/06/625.mp3"
   },
   {
     "id": 628,
@@ -2130,7 +2130,7 @@
     "meaning": "消費者",
     "category": "office_business",
     "level": 3,
-    "sound": "assets/audio/vocab/628.mp3"
+    "sound": "assets/audio/vocab/06/628.mp3"
   },
   {
     "id": 638,
@@ -2139,7 +2139,7 @@
     "meaning": "報告書",
     "category": "office_business",
     "level": 3,
-    "sound": "assets/audio/vocab/638.mp3"
+    "sound": "assets/audio/vocab/06/638.mp3"
   },
   {
     "id": 671,
@@ -2148,7 +2148,7 @@
     "meaning": "大学",
     "category": "office_business",
     "level": 3,
-    "sound": "assets/audio/vocab/671.mp3"
+    "sound": "assets/audio/vocab/06/671.mp3"
   },
   {
     "id": 673,
@@ -2157,7 +2157,7 @@
     "meaning": "生徒",
     "category": "people_introduction",
     "level": 3,
-    "sound": "assets/audio/vocab/673.mp3"
+    "sound": "assets/audio/vocab/06/673.mp3"
   },
   {
     "id": 675,
@@ -2166,7 +2166,7 @@
     "meaning": "教師",
     "category": "people_introduction",
     "level": 3,
-    "sound": "assets/audio/vocab/675.mp3"
+    "sound": "assets/audio/vocab/06/675.mp3"
   },
   {
     "id": 703,
@@ -2175,7 +2175,7 @@
     "meaning": "確かな",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/703.mp3"
+    "sound": "assets/audio/vocab/07/703.mp3"
   },
   {
     "id": 704,
@@ -2184,7 +2184,7 @@
     "meaning": "かもしれない",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/704.mp3"
+    "sound": "assets/audio/vocab/07/704.mp3"
   },
   {
     "id": 708,
@@ -2193,7 +2193,7 @@
     "meaning": "試みる",
     "category": "office_business",
     "level": 3,
-    "sound": "assets/audio/vocab/708.mp3"
+    "sound": "assets/audio/vocab/07/708.mp3"
   },
   {
     "id": 796,
@@ -2202,7 +2202,7 @@
     "meaning": "ショッピング",
     "category": "shopping",
     "level": 3,
-    "sound": "assets/audio/vocab/796.mp3"
+    "sound": "assets/audio/vocab/07/796.mp3"
   },
   {
     "id": 821,
@@ -2211,7 +2211,7 @@
     "meaning": "色",
     "category": "shopping",
     "level": 2,
-    "sound": "assets/audio/vocab/821.mp3"
+    "sound": "assets/audio/vocab/08/821.mp3"
   },
   {
     "id": 823,
@@ -2220,7 +2220,7 @@
     "meaning": "形",
     "category": "shopping",
     "level": 2,
-    "sound": "assets/audio/vocab/823.mp3"
+    "sound": "assets/audio/vocab/08/823.mp3"
   },
   {
     "id": 824,
@@ -2229,7 +2229,7 @@
     "meaning": "大きさ",
     "category": "shopping",
     "level": 2,
-    "sound": "assets/audio/vocab/824.mp3"
+    "sound": "assets/audio/vocab/08/824.mp3"
   },
   {
     "id": 825,
@@ -2238,7 +2238,7 @@
     "meaning": "サイズ",
     "category": "shopping",
     "level": 2,
-    "sound": "assets/audio/vocab/825.mp3"
+    "sound": "assets/audio/vocab/08/825.mp3"
   },
   {
     "id": 826,
@@ -2247,7 +2247,7 @@
     "meaning": "重さ",
     "category": "shopping",
     "level": 2,
-    "sound": "assets/audio/vocab/826.mp3"
+    "sound": "assets/audio/vocab/08/826.mp3"
   },
   {
     "id": 827,
@@ -2256,7 +2256,7 @@
     "meaning": "長さ",
     "category": "shopping",
     "level": 2,
-    "sound": "assets/audio/vocab/827.mp3"
+    "sound": "assets/audio/vocab/08/827.mp3"
   },
   {
     "id": 828,
@@ -2265,7 +2265,7 @@
     "meaning": "高さ",
     "category": "shopping",
     "level": 2,
-    "sound": "assets/audio/vocab/828.mp3"
+    "sound": "assets/audio/vocab/08/828.mp3"
   },
   {
     "id": 829,
@@ -2274,7 +2274,7 @@
     "meaning": "幅",
     "category": "shopping",
     "level": 2,
-    "sound": "assets/audio/vocab/829.mp3"
+    "sound": "assets/audio/vocab/08/829.mp3"
   },
   {
     "id": 836,
@@ -2283,7 +2283,7 @@
     "meaning": "カレンダー",
     "category": "numbers_time",
     "level": 2,
-    "sound": "assets/audio/vocab/836.mp3"
+    "sound": "assets/audio/vocab/08/836.mp3"
   },
   {
     "id": 837,
@@ -2292,7 +2292,7 @@
     "meaning": "時計",
     "category": "numbers_time",
     "level": 2,
-    "sound": "assets/audio/vocab/837.mp3"
+    "sound": "assets/audio/vocab/08/837.mp3"
   },
   {
     "id": 842,
@@ -2301,7 +2301,7 @@
     "meaning": "月曜日",
     "category": "numbers_time",
     "level": 2,
-    "sound": "assets/audio/vocab/842.mp3"
+    "sound": "assets/audio/vocab/08/842.mp3"
   },
   {
     "id": 843,
@@ -2310,7 +2310,7 @@
     "meaning": "火曜日",
     "category": "numbers_time",
     "level": 2,
-    "sound": "assets/audio/vocab/843.mp3"
+    "sound": "assets/audio/vocab/08/843.mp3"
   },
   {
     "id": 844,
@@ -2319,7 +2319,7 @@
     "meaning": "水曜日",
     "category": "numbers_time",
     "level": 2,
-    "sound": "assets/audio/vocab/844.mp3"
+    "sound": "assets/audio/vocab/08/844.mp3"
   },
   {
     "id": 845,
@@ -2328,7 +2328,7 @@
     "meaning": "木曜日",
     "category": "numbers_time",
     "level": 2,
-    "sound": "assets/audio/vocab/845.mp3"
+    "sound": "assets/audio/vocab/08/845.mp3"
   },
   {
     "id": 846,
@@ -2337,7 +2337,7 @@
     "meaning": "金曜日",
     "category": "numbers_time",
     "level": 2,
-    "sound": "assets/audio/vocab/846.mp3"
+    "sound": "assets/audio/vocab/08/846.mp3"
   },
   {
     "id": 847,
@@ -2346,7 +2346,7 @@
     "meaning": "土曜日",
     "category": "numbers_time",
     "level": 2,
-    "sound": "assets/audio/vocab/847.mp3"
+    "sound": "assets/audio/vocab/08/847.mp3"
   },
   {
     "id": 848,
@@ -2355,7 +2355,7 @@
     "meaning": "日曜日",
     "category": "numbers_time",
     "level": 2,
-    "sound": "assets/audio/vocab/848.mp3"
+    "sound": "assets/audio/vocab/08/848.mp3"
   },
   {
     "id": 849,
@@ -2364,7 +2364,7 @@
     "meaning": "月",
     "category": "numbers_time",
     "level": 2,
-    "sound": "assets/audio/vocab/849.mp3"
+    "sound": "assets/audio/vocab/08/849.mp3"
   },
   {
     "id": 897,
@@ -2373,7 +2373,7 @@
     "meaning": "森",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/897.mp3"
+    "sound": "assets/audio/vocab/08/897.mp3"
   },
   {
     "id": 898,
@@ -2382,7 +2382,7 @@
     "meaning": "島",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/898.mp3"
+    "sound": "assets/audio/vocab/08/898.mp3"
   },
   {
     "id": 900,
@@ -2391,7 +2391,7 @@
     "meaning": "ビーチ",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/900.mp3"
+    "sound": "assets/audio/vocab/09/900.mp3"
   },
   {
     "id": 910,
@@ -2400,7 +2400,7 @@
     "meaning": "ガラス",
     "category": "construction",
     "level": 2,
-    "sound": "assets/audio/vocab/910.mp3"
+    "sound": "assets/audio/vocab/09/910.mp3"
   },
   {
     "id": 911,
@@ -2409,7 +2409,7 @@
     "meaning": "紙",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/911.mp3"
+    "sound": "assets/audio/vocab/09/911.mp3"
   },
   {
     "id": 912,
@@ -2418,7 +2418,7 @@
     "meaning": "布",
     "category": "shopping",
     "level": 2,
-    "sound": "assets/audio/vocab/912.mp3"
+    "sound": "assets/audio/vocab/09/912.mp3"
   },
   {
     "id": 914,
@@ -2427,7 +2427,7 @@
     "meaning": "石",
     "category": "construction",
     "level": 2,
-    "sound": "assets/audio/vocab/914.mp3"
+    "sound": "assets/audio/vocab/09/914.mp3"
   },
   {
     "id": 915,
@@ -2436,7 +2436,7 @@
     "meaning": "砂",
     "category": "construction",
     "level": 2,
-    "sound": "assets/audio/vocab/915.mp3"
+    "sound": "assets/audio/vocab/09/915.mp3"
   },
   {
     "id": 916,
@@ -2445,7 +2445,7 @@
     "meaning": "土",
     "category": "construction",
     "level": 2,
-    "sound": "assets/audio/vocab/916.mp3"
+    "sound": "assets/audio/vocab/09/916.mp3"
   },
   {
     "id": 924,
@@ -2454,7 +2454,7 @@
     "meaning": "文房具",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/924.mp3"
+    "sound": "assets/audio/vocab/09/924.mp3"
   },
   {
     "id": 927,
@@ -2463,7 +2463,7 @@
     "meaning": "おもちゃ",
     "category": "shopping",
     "level": 2,
-    "sound": "assets/audio/vocab/927.mp3"
+    "sound": "assets/audio/vocab/09/927.mp3"
   },
   {
     "id": 928,
@@ -2472,7 +2472,7 @@
     "meaning": "プレゼント",
     "category": "shopping",
     "level": 2,
-    "sound": "assets/audio/vocab/928.mp3"
+    "sound": "assets/audio/vocab/09/928.mp3"
   },
   {
     "id": 939,
@@ -2481,7 +2481,7 @@
     "meaning": "感情",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/939.mp3"
+    "sound": "assets/audio/vocab/09/939.mp3"
   },
   {
     "id": 940,
@@ -2490,7 +2490,7 @@
     "meaning": "幸福",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/940.mp3"
+    "sound": "assets/audio/vocab/09/940.mp3"
   },
   {
     "id": 945,
@@ -2499,7 +2499,7 @@
     "meaning": "愛",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/945.mp3"
+    "sound": "assets/audio/vocab/09/945.mp3"
   },
   {
     "id": 994,
@@ -2508,7 +2508,7 @@
     "meaning": "モバイル",
     "category": "technology_it",
     "level": 2,
-    "sound": "assets/audio/vocab/994.mp3"
+    "sound": "assets/audio/vocab/09/994.mp3"
   },
   {
     "id": 1030,
@@ -2517,7 +2517,7 @@
     "meaning": "新聞",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1030.mp3"
+    "sound": "assets/audio/vocab/10/1030.mp3"
   },
   {
     "id": 1031,
@@ -2526,7 +2526,7 @@
     "meaning": "雑誌",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1031.mp3"
+    "sound": "assets/audio/vocab/10/1031.mp3"
   },
   {
     "id": 1032,
@@ -2535,7 +2535,7 @@
     "meaning": "ラジオ",
     "category": "technology_it",
     "level": 2,
-    "sound": "assets/audio/vocab/1032.mp3"
+    "sound": "assets/audio/vocab/10/1032.mp3"
   },
   {
     "id": 1033,
@@ -2544,7 +2544,7 @@
     "meaning": "テレビ",
     "category": "technology_it",
     "level": 2,
-    "sound": "assets/audio/vocab/1033.mp3"
+    "sound": "assets/audio/vocab/10/1033.mp3"
   },
   {
     "id": 1034,
@@ -2553,7 +2553,7 @@
     "meaning": "インターネット",
     "category": "technology_it",
     "level": 2,
-    "sound": "assets/audio/vocab/1034.mp3"
+    "sound": "assets/audio/vocab/10/1034.mp3"
   },
   {
     "id": 1035,
@@ -2562,7 +2562,7 @@
     "meaning": "ウェブサイト",
     "category": "technology_it",
     "level": 2,
-    "sound": "assets/audio/vocab/1035.mp3"
+    "sound": "assets/audio/vocab/10/1035.mp3"
   },
   {
     "id": 1037,
@@ -2571,7 +2571,7 @@
     "meaning": "メッセージ",
     "category": "technology_it",
     "level": 2,
-    "sound": "assets/audio/vocab/1037.mp3"
+    "sound": "assets/audio/vocab/10/1037.mp3"
   },
   {
     "id": 1038,
@@ -2580,7 +2580,7 @@
     "meaning": "文法",
     "category": "greetings_expressions",
     "level": 2,
-    "sound": "assets/audio/vocab/1038.mp3"
+    "sound": "assets/audio/vocab/10/1038.mp3"
   },
   {
     "id": 1039,
@@ -2589,7 +2589,7 @@
     "meaning": "言語",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1039.mp3"
+    "sound": "assets/audio/vocab/10/1039.mp3"
   },
   {
     "id": 1040,
@@ -2598,7 +2598,7 @@
     "meaning": "発音",
     "category": "greetings_expressions",
     "level": 2,
-    "sound": "assets/audio/vocab/1040.mp3"
+    "sound": "assets/audio/vocab/10/1040.mp3"
   },
   {
     "id": 1041,
@@ -2607,7 +2607,7 @@
     "meaning": "会話",
     "category": "greetings_expressions",
     "level": 2,
-    "sound": "assets/audio/vocab/1041.mp3"
+    "sound": "assets/audio/vocab/10/1041.mp3"
   },
   {
     "id": 1042,
@@ -2616,7 +2616,7 @@
     "meaning": "文字",
     "category": "greetings_expressions",
     "level": 2,
-    "sound": "assets/audio/vocab/1042.mp3"
+    "sound": "assets/audio/vocab/10/1042.mp3"
   },
   {
     "id": 1043,
@@ -2625,7 +2625,7 @@
     "meaning": "文",
     "category": "greetings_expressions",
     "level": 2,
-    "sound": "assets/audio/vocab/1043.mp3"
+    "sound": "assets/audio/vocab/10/1043.mp3"
   },
   {
     "id": 1046,
@@ -2634,7 +2634,7 @@
     "meaning": "リスニング",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1046.mp3"
+    "sound": "assets/audio/vocab/10/1046.mp3"
   },
   {
     "id": 1047,
@@ -2643,7 +2643,7 @@
     "meaning": "スピーキング",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1047.mp3"
+    "sound": "assets/audio/vocab/10/1047.mp3"
   },
   {
     "id": 1256,
@@ -2652,7 +2652,7 @@
     "meaning": "心臓",
     "category": "health_medical",
     "level": 2,
-    "sound": "assets/audio/vocab/1256.mp3"
+    "sound": "assets/audio/vocab/12/1256.mp3"
   },
   {
     "id": 1257,
@@ -2661,7 +2661,7 @@
     "meaning": "肺",
     "category": "health_medical",
     "level": 2,
-    "sound": "assets/audio/vocab/1257.mp3"
+    "sound": "assets/audio/vocab/12/1257.mp3"
   },
   {
     "id": 1258,
@@ -2670,7 +2670,7 @@
     "meaning": "肝臓",
     "category": "health_medical",
     "level": 2,
-    "sound": "assets/audio/vocab/1258.mp3"
+    "sound": "assets/audio/vocab/12/1258.mp3"
   },
   {
     "id": 1259,
@@ -2679,7 +2679,7 @@
     "meaning": "腎臓",
     "category": "health_medical",
     "level": 2,
-    "sound": "assets/audio/vocab/1259.mp3"
+    "sound": "assets/audio/vocab/12/1259.mp3"
   },
   {
     "id": 1260,
@@ -2688,7 +2688,7 @@
     "meaning": "胃",
     "category": "health_medical",
     "level": 2,
-    "sound": "assets/audio/vocab/1260.mp3"
+    "sound": "assets/audio/vocab/12/1260.mp3"
   },
   {
     "id": 1261,
@@ -2697,7 +2697,7 @@
     "meaning": "腸",
     "category": "health_medical",
     "level": 2,
-    "sound": "assets/audio/vocab/1261.mp3"
+    "sound": "assets/audio/vocab/12/1261.mp3"
   },
   {
     "id": 1262,
@@ -2706,7 +2706,7 @@
     "meaning": "脳",
     "category": "health_medical",
     "level": 2,
-    "sound": "assets/audio/vocab/1262.mp3"
+    "sound": "assets/audio/vocab/12/1262.mp3"
   },
   {
     "id": 1263,
@@ -2715,7 +2715,7 @@
     "meaning": "皮膚",
     "category": "health_medical",
     "level": 2,
-    "sound": "assets/audio/vocab/1263.mp3"
+    "sound": "assets/audio/vocab/12/1263.mp3"
   },
   {
     "id": 1264,
@@ -2724,7 +2724,7 @@
     "meaning": "骨",
     "category": "health_medical",
     "level": 2,
-    "sound": "assets/audio/vocab/1264.mp3"
+    "sound": "assets/audio/vocab/12/1264.mp3"
   },
   {
     "id": 1265,
@@ -2733,7 +2733,7 @@
     "meaning": "筋肉",
     "category": "health_medical",
     "level": 2,
-    "sound": "assets/audio/vocab/1265.mp3"
+    "sound": "assets/audio/vocab/12/1265.mp3"
   },
   {
     "id": 1266,
@@ -2742,7 +2742,7 @@
     "meaning": "血液",
     "category": "health_medical",
     "level": 2,
-    "sound": "assets/audio/vocab/1266.mp3"
+    "sound": "assets/audio/vocab/12/1266.mp3"
   },
   {
     "id": 1267,
@@ -2751,7 +2751,7 @@
     "meaning": "医師",
     "category": "health_medical",
     "level": 2,
-    "sound": "assets/audio/vocab/1267.mp3"
+    "sound": "assets/audio/vocab/12/1267.mp3"
   },
   {
     "id": 1269,
@@ -2760,7 +2760,7 @@
     "meaning": "看護師",
     "category": "health_medical",
     "level": 2,
-    "sound": "assets/audio/vocab/1269.mp3"
+    "sound": "assets/audio/vocab/12/1269.mp3"
   },
   {
     "id": 1270,
@@ -2769,7 +2769,7 @@
     "meaning": "歯科医",
     "category": "health_medical",
     "level": 2,
-    "sound": "assets/audio/vocab/1270.mp3"
+    "sound": "assets/audio/vocab/12/1270.mp3"
   },
   {
     "id": 1271,
@@ -2778,7 +2778,7 @@
     "meaning": "獣医",
     "category": "health_medical",
     "level": 2,
-    "sound": "assets/audio/vocab/1271.mp3"
+    "sound": "assets/audio/vocab/12/1271.mp3"
   },
   {
     "id": 1272,
@@ -2787,7 +2787,7 @@
     "meaning": "患者",
     "category": "health_medical",
     "level": 2,
-    "sound": "assets/audio/vocab/1272.mp3"
+    "sound": "assets/audio/vocab/12/1272.mp3"
   },
   {
     "id": 1278,
@@ -2796,7 +2796,7 @@
     "meaning": "病院",
     "category": "health_medical",
     "level": 2,
-    "sound": "assets/audio/vocab/1278.mp3"
+    "sound": "assets/audio/vocab/12/1278.mp3"
   },
   {
     "id": 1279,
@@ -2805,7 +2805,7 @@
     "meaning": "クリニック",
     "category": "health_medical",
     "level": 2,
-    "sound": "assets/audio/vocab/1279.mp3"
+    "sound": "assets/audio/vocab/12/1279.mp3"
   },
   {
     "id": 1280,
@@ -2814,7 +2814,7 @@
     "meaning": "薬局",
     "category": "health_medical",
     "level": 2,
-    "sound": "assets/audio/vocab/1280.mp3"
+    "sound": "assets/audio/vocab/12/1280.mp3"
   },
   {
     "id": 1281,
@@ -2823,7 +2823,7 @@
     "meaning": "頭痛",
     "category": "health_medical",
     "level": 2,
-    "sound": "assets/audio/vocab/1281.mp3"
+    "sound": "assets/audio/vocab/12/1281.mp3"
   },
   {
     "id": 1282,
@@ -2832,7 +2832,7 @@
     "meaning": "熱がある",
     "category": "health_medical",
     "level": 2,
-    "sound": "assets/audio/vocab/1282.mp3"
+    "sound": "assets/audio/vocab/12/1282.mp3"
   },
   {
     "id": 1283,
@@ -2841,7 +2841,7 @@
     "meaning": "咳",
     "category": "health_medical",
     "level": 2,
-    "sound": "assets/audio/vocab/1283.mp3"
+    "sound": "assets/audio/vocab/12/1283.mp3"
   },
   {
     "id": 1284,
@@ -2850,7 +2850,7 @@
     "meaning": "喉が痛い",
     "category": "health_medical",
     "level": 2,
-    "sound": "assets/audio/vocab/1284.mp3"
+    "sound": "assets/audio/vocab/12/1284.mp3"
   },
   {
     "id": 1285,
@@ -2859,7 +2859,7 @@
     "meaning": "下痢",
     "category": "health_medical",
     "level": 2,
-    "sound": "assets/audio/vocab/1285.mp3"
+    "sound": "assets/audio/vocab/12/1285.mp3"
   },
   {
     "id": 1286,
@@ -2868,7 +2868,7 @@
     "meaning": "家族",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1286.mp3"
+    "sound": "assets/audio/vocab/12/1286.mp3"
   },
   {
     "id": 1287,
@@ -2877,7 +2877,7 @@
     "meaning": "親戚",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1287.mp3"
+    "sound": "assets/audio/vocab/12/1287.mp3"
   },
   {
     "id": 1288,
@@ -2886,7 +2886,7 @@
     "meaning": "婚約者",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1288.mp3"
+    "sound": "assets/audio/vocab/12/1288.mp3"
   },
   {
     "id": 1289,
@@ -2895,16 +2895,16 @@
     "meaning": "恋人",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1289.mp3"
+    "sound": "assets/audio/vocab/12/1289.mp3"
   },
-    {
+  {
     "id": 4047,
     "thai": "ข้าม",
     "romanization": "khâam",
     "meaning": "渡る",
     "category": "transportation",
     "level": 3,
-    "sound": "assets/audio/vocab/4047.mp3"
+    "sound": "assets/audio/vocab/40/4047.mp3"
   },
   {
     "id": 4048,
@@ -2913,7 +2913,7 @@
     "meaning": "誘う",
     "category": "people_introduction",
     "level": 3,
-    "sound": "assets/audio/vocab/4048.mp3"
+    "sound": "assets/audio/vocab/40/4048.mp3"
   },
   {
     "id": 4049,
@@ -2922,7 +2922,7 @@
     "meaning": "紹介する、勧める",
     "category": "people_introduction",
     "level": 3,
-    "sound": "assets/audio/vocab/4049.mp3"
+    "sound": "assets/audio/vocab/40/4049.mp3"
   },
   {
     "id": 4050,
@@ -2931,25 +2931,25 @@
     "meaning": "褒める",
     "category": "people_introduction",
     "level": 3,
-    "sound": "assets/audio/vocab/4050.mp3"
+    "sound": "assets/audio/vocab/40/4050.mp3"
   },
-    {
+  {
     "id": 4060,
     "thai": "ทางม้าลาย",
     "romanization": "thaang máa-laai",
     "meaning": "横断歩道",
     "category": "transportation",
     "level": 3,
-    "sound": "assets/audio/vocab/4060.mp3"
+    "sound": "assets/audio/vocab/40/4060.mp3"
   },
-    {
+  {
     "id": 4066,
     "thai": "กระเป๋าสตางค์",
     "romanization": "grà-bpăo sà-dtaang",
     "meaning": "財布",
     "category": "shopping",
     "level": 3,
-    "sound": "assets/audio/vocab/4066.mp3"
+    "sound": "assets/audio/vocab/40/4066.mp3"
   },
   {
     "id": 4067,
@@ -2958,16 +2958,16 @@
     "meaning": "櫛",
     "category": "shopping",
     "level": 3,
-    "sound": "assets/audio/vocab/4067.mp3"
+    "sound": "assets/audio/vocab/40/4067.mp3"
   },
-    {
+  {
     "id": 4072,
     "thai": "เปียก",
     "romanization": "bpìak",
     "meaning": "濡れている",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/4072.mp3"
+    "sound": "assets/audio/vocab/40/4072.mp3"
   },
   {
     "id": 4073,
@@ -2976,16 +2976,16 @@
     "meaning": "乾いている",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/4073.mp3"
+    "sound": "assets/audio/vocab/40/4073.mp3"
   },
-    {
+  {
     "id": 4077,
     "thai": "เกือบ",
     "romanization": "gèuap",
     "meaning": "ほとんど、もう少しで",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/4077.mp3"
+    "sound": "assets/audio/vocab/40/4077.mp3"
   },
   {
     "id": 4078,
@@ -2994,15 +2994,15 @@
     "meaning": "大部分、たいてい",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/4078.mp3"
+    "sound": "assets/audio/vocab/40/4078.mp3"
   },
-    {
+  {
     "id": 4080,
     "thai": "แปลก",
     "romanization": "bplàek",
     "meaning": "変な、奇妙な",
     "category": "greetings_expressions",
     "level": 3,
-    "sound": "assets/audio/vocab/4080.mp3"
+    "sound": "assets/audio/vocab/40/4080.mp3"
   }
 ]

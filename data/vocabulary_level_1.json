@@ -6,7 +6,7 @@
     "meaning": "憲法",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2001.mp3"
+    "sound": "assets/audio/vocab/20/2001.mp3"
   },
   {
     "id": 2002,
@@ -15,7 +15,7 @@
     "meaning": "民主主義",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2002.mp3"
+    "sound": "assets/audio/vocab/20/2002.mp3"
   },
   {
     "id": 2003,
@@ -24,7 +24,7 @@
     "meaning": "独裁",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2003.mp3"
+    "sound": "assets/audio/vocab/20/2003.mp3"
   },
   {
     "id": 2004,
@@ -33,7 +33,7 @@
     "meaning": "国会",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2004.mp3"
+    "sound": "assets/audio/vocab/20/2004.mp3"
   },
   {
     "id": 2005,
@@ -42,7 +42,7 @@
     "meaning": "内閣",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2005.mp3"
+    "sound": "assets/audio/vocab/20/2005.mp3"
   },
   {
     "id": 2006,
@@ -51,7 +51,7 @@
     "meaning": "首相",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2006.mp3"
+    "sound": "assets/audio/vocab/20/2006.mp3"
   },
   {
     "id": 2007,
@@ -60,7 +60,7 @@
     "meaning": "大統領",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2007.mp3"
+    "sound": "assets/audio/vocab/20/2007.mp3"
   },
   {
     "id": 2008,
@@ -69,7 +69,7 @@
     "meaning": "選挙",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2008.mp3"
+    "sound": "assets/audio/vocab/20/2008.mp3"
   },
   {
     "id": 2009,
@@ -78,7 +78,7 @@
     "meaning": "政党",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2009.mp3"
+    "sound": "assets/audio/vocab/20/2009.mp3"
   },
   {
     "id": 2010,
@@ -87,7 +87,7 @@
     "meaning": "政策",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2010.mp3"
+    "sound": "assets/audio/vocab/20/2010.mp3"
   },
   {
     "id": 2011,
@@ -96,7 +96,7 @@
     "meaning": "法律",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2011.mp3"
+    "sound": "assets/audio/vocab/20/2011.mp3"
   },
   {
     "id": 2012,
@@ -105,7 +105,7 @@
     "meaning": "裁判所",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2012.mp3"
+    "sound": "assets/audio/vocab/20/2012.mp3"
   },
   {
     "id": 2013,
@@ -114,7 +114,7 @@
     "meaning": "裁判官",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2013.mp3"
+    "sound": "assets/audio/vocab/20/2013.mp3"
   },
   {
     "id": 2014,
@@ -123,7 +123,7 @@
     "meaning": "弁護士",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2014.mp3"
+    "sound": "assets/audio/vocab/20/2014.mp3"
   },
   {
     "id": 2015,
@@ -132,7 +132,7 @@
     "meaning": "検察官",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2015.mp3"
+    "sound": "assets/audio/vocab/20/2015.mp3"
   },
   {
     "id": 2016,
@@ -141,7 +141,7 @@
     "meaning": "判決",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2016.mp3"
+    "sound": "assets/audio/vocab/20/2016.mp3"
   },
   {
     "id": 2017,
@@ -150,7 +150,7 @@
     "meaning": "犯罪",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2017.mp3"
+    "sound": "assets/audio/vocab/20/2017.mp3"
   },
   {
     "id": 2018,
@@ -159,7 +159,7 @@
     "meaning": "証拠",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2018.mp3"
+    "sound": "assets/audio/vocab/20/2018.mp3"
   },
   {
     "id": 2019,
@@ -168,7 +168,7 @@
     "meaning": "人権",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2019.mp3"
+    "sound": "assets/audio/vocab/20/2019.mp3"
   },
   {
     "id": 2020,
@@ -177,7 +177,7 @@
     "meaning": "平等",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2020.mp3"
+    "sound": "assets/audio/vocab/20/2020.mp3"
   },
   {
     "id": 2021,
@@ -186,7 +186,7 @@
     "meaning": "自由",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2021.mp3"
+    "sound": "assets/audio/vocab/20/2021.mp3"
   },
   {
     "id": 2022,
@@ -195,7 +195,7 @@
     "meaning": "正義",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2022.mp3"
+    "sound": "assets/audio/vocab/20/2022.mp3"
   },
   {
     "id": 2023,
@@ -204,7 +204,7 @@
     "meaning": "地方自治体",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2023.mp3"
+    "sound": "assets/audio/vocab/20/2023.mp3"
   },
   {
     "id": 2024,
@@ -213,7 +213,7 @@
     "meaning": "予算",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2024.mp3"
+    "sound": "assets/audio/vocab/20/2024.mp3"
   },
   {
     "id": 2025,
@@ -222,7 +222,7 @@
     "meaning": "税金",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2025.mp3"
+    "sound": "assets/audio/vocab/20/2025.mp3"
   },
   {
     "id": 2026,
@@ -231,7 +231,7 @@
     "meaning": "公衆衛生",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2026.mp3"
+    "sound": "assets/audio/vocab/20/2026.mp3"
   },
   {
     "id": 2027,
@@ -240,7 +240,7 @@
     "meaning": "インフラ",
     "category": "construction",
     "level": 1,
-    "sound": "assets/audio/vocab/2027.mp3"
+    "sound": "assets/audio/vocab/20/2027.mp3"
   },
   {
     "id": 2028,
@@ -249,7 +249,7 @@
     "meaning": "外交",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2028.mp3"
+    "sound": "assets/audio/vocab/20/2028.mp3"
   },
   {
     "id": 2029,
@@ -258,7 +258,7 @@
     "meaning": "条約",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2029.mp3"
+    "sound": "assets/audio/vocab/20/2029.mp3"
   },
   {
     "id": 2030,
@@ -267,7 +267,7 @@
     "meaning": "国際関係",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2030.mp3"
+    "sound": "assets/audio/vocab/20/2030.mp3"
   },
   {
     "id": 2031,
@@ -276,7 +276,7 @@
     "meaning": "国際機関",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2031.mp3"
+    "sound": "assets/audio/vocab/20/2031.mp3"
   },
   {
     "id": 2032,
@@ -285,7 +285,7 @@
     "meaning": "難民",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2032.mp3"
+    "sound": "assets/audio/vocab/20/2032.mp3"
   },
   {
     "id": 2033,
@@ -294,7 +294,7 @@
     "meaning": "移住、移民",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2033.mp3"
+    "sound": "assets/audio/vocab/20/2033.mp3"
   },
   {
     "id": 2034,
@@ -303,7 +303,7 @@
     "meaning": "主権",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2034.mp3"
+    "sound": "assets/audio/vocab/20/2034.mp3"
   },
   {
     "id": 2035,
@@ -312,7 +312,7 @@
     "meaning": "国境",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2035.mp3"
+    "sound": "assets/audio/vocab/20/2035.mp3"
   },
   {
     "id": 2036,
@@ -321,7 +321,7 @@
     "meaning": "統治、行政",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2036.mp3"
+    "sound": "assets/audio/vocab/20/2036.mp3"
   },
   {
     "id": 2037,
@@ -330,7 +330,7 @@
     "meaning": "立法府",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2037.mp3"
+    "sound": "assets/audio/vocab/20/2037.mp3"
   },
   {
     "id": 2038,
@@ -339,7 +339,7 @@
     "meaning": "行政府",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2038.mp3"
+    "sound": "assets/audio/vocab/20/2038.mp3"
   },
   {
     "id": 2039,
@@ -348,7 +348,7 @@
     "meaning": "司法府",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2039.mp3"
+    "sound": "assets/audio/vocab/20/2039.mp3"
   },
   {
     "id": 2040,
@@ -357,7 +357,7 @@
     "meaning": "法案",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2040.mp3"
+    "sound": "assets/audio/vocab/20/2040.mp3"
   },
   {
     "id": 2041,
@@ -366,7 +366,7 @@
     "meaning": "承認する、認可する",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2041.mp3"
+    "sound": "assets/audio/vocab/20/2041.mp3"
   },
   {
     "id": 2042,
@@ -375,7 +375,7 @@
     "meaning": "反対する",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2042.mp3"
+    "sound": "assets/audio/vocab/20/2042.mp3"
   },
   {
     "id": 2043,
@@ -384,7 +384,7 @@
     "meaning": "差別",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2043.mp3"
+    "sound": "assets/audio/vocab/20/2043.mp3"
   },
   {
     "id": 2044,
@@ -393,7 +393,7 @@
     "meaning": "偏見",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2044.mp3"
+    "sound": "assets/audio/vocab/20/2044.mp3"
   },
   {
     "id": 2045,
@@ -402,7 +402,7 @@
     "meaning": "紛争、対立",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2045.mp3"
+    "sound": "assets/audio/vocab/20/2045.mp3"
   },
   {
     "id": 2046,
@@ -411,7 +411,7 @@
     "meaning": "抗議",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2046.mp3"
+    "sound": "assets/audio/vocab/20/2046.mp3"
   },
   {
     "id": 2047,
@@ -420,7 +420,7 @@
     "meaning": "革命",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2047.mp3"
+    "sound": "assets/audio/vocab/20/2047.mp3"
   },
   {
     "id": 2048,
@@ -429,7 +429,7 @@
     "meaning": "社会福祉",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2048.mp3"
+    "sound": "assets/audio/vocab/20/2048.mp3"
   },
   {
     "id": 2049,
@@ -438,7 +438,7 @@
     "meaning": "国防",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2049.mp3"
+    "sound": "assets/audio/vocab/20/2049.mp3"
   },
   {
     "id": 2050,
@@ -447,7 +447,7 @@
     "meaning": "軍隊",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2050.mp3"
+    "sound": "assets/audio/vocab/20/2050.mp3"
   },
   {
     "id": 2051,
@@ -456,7 +456,7 @@
     "meaning": "汚職、不正行為",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2051.mp3"
+    "sound": "assets/audio/vocab/20/2051.mp3"
   },
   {
     "id": 2052,
@@ -465,7 +465,7 @@
     "meaning": "汚職、腐敗",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2052.mp3"
+    "sound": "assets/audio/vocab/20/2052.mp3"
   },
   {
     "id": 2053,
@@ -474,7 +474,7 @@
     "meaning": "透明性",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2053.mp3"
+    "sound": "assets/audio/vocab/20/2053.mp3"
   },
   {
     "id": 2054,
@@ -483,7 +483,7 @@
     "meaning": "検査する、監査する",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2054.mp3"
+    "sound": "assets/audio/vocab/20/2054.mp3"
   },
   {
     "id": 2055,
@@ -492,7 +492,7 @@
     "meaning": "司法プロセス",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2055.mp3"
+    "sound": "assets/audio/vocab/20/2055.mp3"
   },
   {
     "id": 2056,
@@ -501,7 +501,7 @@
     "meaning": "市民権",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2056.mp3"
+    "sound": "assets/audio/vocab/20/2056.mp3"
   },
   {
     "id": 2057,
@@ -510,7 +510,7 @@
     "meaning": "市民の義務",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2057.mp3"
+    "sound": "assets/audio/vocab/20/2057.mp3"
   },
   {
     "id": 2058,
@@ -519,7 +519,7 @@
     "meaning": "権力分立、地方分権",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2058.mp3"
+    "sound": "assets/audio/vocab/20/2058.mp3"
   },
   {
     "id": 2059,
@@ -528,7 +528,7 @@
     "meaning": "地方",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2059.mp3"
+    "sound": "assets/audio/vocab/20/2059.mp3"
   },
   {
     "id": 2060,
@@ -537,7 +537,7 @@
     "meaning": "条例",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2060.mp3"
+    "sound": "assets/audio/vocab/20/2060.mp3"
   },
   {
     "id": 2061,
@@ -546,7 +546,7 @@
     "meaning": "供給過剰",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2061.mp3"
+    "sound": "assets/audio/vocab/20/2061.mp3"
   },
   {
     "id": 2062,
@@ -555,7 +555,7 @@
     "meaning": "需要過剰",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2062.mp3"
+    "sound": "assets/audio/vocab/20/2062.mp3"
   },
   {
     "id": 2063,
@@ -564,7 +564,7 @@
     "meaning": "貿易収支",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2063.mp3"
+    "sound": "assets/audio/vocab/20/2063.mp3"
   },
   {
     "id": 2064,
@@ -573,7 +573,7 @@
     "meaning": "黒字",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2064.mp3"
+    "sound": "assets/audio/vocab/20/2064.mp3"
   },
   {
     "id": 2065,
@@ -582,7 +582,7 @@
     "meaning": "赤字",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2065.mp3"
+    "sound": "assets/audio/vocab/20/2065.mp3"
   },
   {
     "id": 2066,
@@ -591,7 +591,7 @@
     "meaning": "国民総生産 (GNP)",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2066.mp3"
+    "sound": "assets/audio/vocab/20/2066.mp3"
   },
   {
     "id": 2067,
@@ -600,7 +600,7 @@
     "meaning": "一人当たりの所得",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2067.mp3"
+    "sound": "assets/audio/vocab/20/2067.mp3"
   },
   {
     "id": 2068,
@@ -609,7 +609,7 @@
     "meaning": "景気後退",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2068.mp3"
+    "sound": "assets/audio/vocab/20/2068.mp3"
   },
   {
     "id": 2069,
@@ -618,7 +618,7 @@
     "meaning": "失業",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2069.mp3"
+    "sound": "assets/audio/vocab/20/2069.mp3"
   },
   {
     "id": 2070,
@@ -627,7 +627,7 @@
     "meaning": "金利",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2070.mp3"
+    "sound": "assets/audio/vocab/20/2070.mp3"
   },
   {
     "id": 2071,
@@ -636,7 +636,7 @@
     "meaning": "財政政策",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2071.mp3"
+    "sound": "assets/audio/vocab/20/2071.mp3"
   },
   {
     "id": 2072,
@@ -645,7 +645,7 @@
     "meaning": "金融政策",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2072.mp3"
+    "sound": "assets/audio/vocab/20/2072.mp3"
   },
   {
     "id": 2073,
@@ -654,7 +654,7 @@
     "meaning": "資本市場",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2073.mp3"
+    "sound": "assets/audio/vocab/20/2073.mp3"
   },
   {
     "id": 2074,
@@ -663,7 +663,7 @@
     "meaning": "債券",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2074.mp3"
+    "sound": "assets/audio/vocab/20/2074.mp3"
   },
   {
     "id": 2075,
@@ -672,7 +672,7 @@
     "meaning": "不動産",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2075.mp3"
+    "sound": "assets/audio/vocab/20/2075.mp3"
   },
   {
     "id": 2076,
@@ -681,7 +681,7 @@
     "meaning": "M&A (合併・買収)",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2076.mp3"
+    "sound": "assets/audio/vocab/20/2076.mp3"
   },
   {
     "id": 2077,
@@ -690,7 +690,7 @@
     "meaning": "株主",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2077.mp3"
+    "sound": "assets/audio/vocab/20/2077.mp3"
   },
   {
     "id": 2078,
@@ -699,7 +699,7 @@
     "meaning": "取締役会、委員会",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2078.mp3"
+    "sound": "assets/audio/vocab/20/2078.mp3"
   },
   {
     "id": 2079,
@@ -708,7 +708,7 @@
     "meaning": "最高経営責任者 (CEO)",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2079.mp3"
+    "sound": "assets/audio/vocab/20/2079.mp3"
   },
   {
     "id": 2080,
@@ -717,7 +717,7 @@
     "meaning": "サプライチェーン",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2080.mp3"
+    "sound": "assets/audio/vocab/20/2080.mp3"
   },
   {
     "id": 2081,
@@ -726,7 +726,7 @@
     "meaning": "物流",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2081.mp3"
+    "sound": "assets/audio/vocab/20/2081.mp3"
   },
   {
     "id": 2083,
@@ -735,7 +735,7 @@
     "meaning": "広報 (PR)",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2083.mp3"
+    "sound": "assets/audio/vocab/20/2083.mp3"
   },
   {
     "id": 2084,
@@ -744,7 +744,7 @@
     "meaning": "ブランド",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2084.mp3"
+    "sound": "assets/audio/vocab/20/2084.mp3"
   },
   {
     "id": 2085,
@@ -753,7 +753,7 @@
     "meaning": "広告",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2085.mp3"
+    "sound": "assets/audio/vocab/20/2085.mp3"
   },
   {
     "id": 2086,
@@ -762,7 +762,7 @@
     "meaning": "人事、人的資源",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2086.mp3"
+    "sound": "assets/audio/vocab/20/2086.mp3"
   },
   {
     "id": 2087,
@@ -771,7 +771,7 @@
     "meaning": "採用",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2087.mp3"
+    "sound": "assets/audio/vocab/20/2087.mp3"
   },
   {
     "id": 2088,
@@ -780,7 +780,7 @@
     "meaning": "研修",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2088.mp3"
+    "sound": "assets/audio/vocab/20/2088.mp3"
   },
   {
     "id": 2089,
@@ -789,7 +789,7 @@
     "meaning": "業績評価",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2089.mp3"
+    "sound": "assets/audio/vocab/20/2089.mp3"
   },
   {
     "id": 2090,
@@ -798,7 +798,7 @@
     "meaning": "報酬",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2090.mp3"
+    "sound": "assets/audio/vocab/20/2090.mp3"
   },
   {
     "id": 2091,
@@ -807,7 +807,7 @@
     "meaning": "福利厚生",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2091.mp3"
+    "sound": "assets/audio/vocab/20/2091.mp3"
   },
   {
     "id": 2092,
@@ -816,7 +816,7 @@
     "meaning": "研究開発 (R&D)",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2092.mp3"
+    "sound": "assets/audio/vocab/20/2092.mp3"
   },
   {
     "id": 2094,
@@ -825,7 +825,7 @@
     "meaning": "工場",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2094.mp3"
+    "sound": "assets/audio/vocab/20/2094.mp3"
   },
   {
     "id": 2095,
@@ -834,7 +834,7 @@
     "meaning": "機械",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2095.mp3"
+    "sound": "assets/audio/vocab/20/2095.mp3"
   },
   {
     "id": 2096,
@@ -843,7 +843,7 @@
     "meaning": "自動の",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2096.mp3"
+    "sound": "assets/audio/vocab/20/2096.mp3"
   },
   {
     "id": 2097,
@@ -852,7 +852,7 @@
     "meaning": "品質管理",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2097.mp3"
+    "sound": "assets/audio/vocab/20/2097.mp3"
   },
   {
     "id": 2098,
@@ -861,7 +861,7 @@
     "meaning": "規則、規制",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2098.mp3"
+    "sound": "assets/audio/vocab/20/2098.mp3"
   },
   {
     "id": 2099,
@@ -870,7 +870,7 @@
     "meaning": "許可証、ライセンス",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2099.mp3"
+    "sound": "assets/audio/vocab/20/2099.mp3"
   },
   {
     "id": 2100,
@@ -879,7 +879,7 @@
     "meaning": "監査",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2100.mp3"
+    "sound": "assets/audio/vocab/21/2100.mp3"
   },
   {
     "id": 2101,
@@ -888,7 +888,7 @@
     "meaning": "輸出",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2101.mp3"
+    "sound": "assets/audio/vocab/21/2101.mp3"
   },
   {
     "id": 2102,
@@ -897,7 +897,7 @@
     "meaning": "輸入",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2102.mp3"
+    "sound": "assets/audio/vocab/21/2102.mp3"
   },
   {
     "id": 2103,
@@ -906,7 +906,7 @@
     "meaning": "関税",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2103.mp3"
+    "sound": "assets/audio/vocab/21/2103.mp3"
   },
   {
     "id": 2104,
@@ -915,7 +915,7 @@
     "meaning": "自由貿易協定",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2104.mp3"
+    "sound": "assets/audio/vocab/21/2104.mp3"
   },
   {
     "id": 2105,
@@ -924,7 +924,7 @@
     "meaning": "世界貿易機関（WTO）",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2105.mp3"
+    "sound": "assets/audio/vocab/21/2105.mp3"
   },
   {
     "id": 2106,
@@ -933,7 +933,7 @@
     "meaning": "世界銀行",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2106.mp3"
+    "sound": "assets/audio/vocab/21/2106.mp3"
   },
   {
     "id": 2107,
@@ -942,7 +942,7 @@
     "meaning": "国際通貨基金（IMF）",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2107.mp3"
+    "sound": "assets/audio/vocab/21/2107.mp3"
   },
   {
     "id": 2108,
@@ -951,7 +951,7 @@
     "meaning": "国際連合（UN）",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2108.mp3"
+    "sound": "assets/audio/vocab/21/2108.mp3"
   },
   {
     "id": 2109,
@@ -960,7 +960,7 @@
     "meaning": "非営利団体（NPO）",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2109.mp3"
+    "sound": "assets/audio/vocab/21/2109.mp3"
   },
   {
     "id": 2110,
@@ -969,7 +969,7 @@
     "meaning": "慈善",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2110.mp3"
+    "sound": "assets/audio/vocab/21/2110.mp3"
   },
   {
     "id": 2111,
@@ -978,7 +978,7 @@
     "meaning": "寄付",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2111.mp3"
+    "sound": "assets/audio/vocab/21/2111.mp3"
   },
   {
     "id": 2112,
@@ -987,7 +987,7 @@
     "meaning": "ボランティア",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2112.mp3"
+    "sound": "assets/audio/vocab/21/2112.mp3"
   },
   {
     "id": 2115,
@@ -996,7 +996,7 @@
     "meaning": "インクルージョン",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2115.mp3"
+    "sound": "assets/audio/vocab/21/2115.mp3"
   },
   {
     "id": 2116,
@@ -1005,7 +1005,7 @@
     "meaning": "社会的責任(CSR)",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2116.mp3"
+    "sound": "assets/audio/vocab/21/2116.mp3"
   },
   {
     "id": 2117,
@@ -1014,7 +1014,7 @@
     "meaning": "ガバナンス",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2117.mp3"
+    "sound": "assets/audio/vocab/21/2117.mp3"
   },
   {
     "id": 2118,
@@ -1023,7 +1023,7 @@
     "meaning": "人材開発",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2118.mp3"
+    "sound": "assets/audio/vocab/21/2118.mp3"
   },
   {
     "id": 2119,
@@ -1032,7 +1032,7 @@
     "meaning": "昇進",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2119.mp3"
+    "sound": "assets/audio/vocab/21/2119.mp3"
   },
   {
     "id": 2120,
@@ -1041,7 +1041,7 @@
     "meaning": "退職",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2120.mp3"
+    "sound": "assets/audio/vocab/21/2120.mp3"
   },
   {
     "id": 2121,
@@ -1050,7 +1050,7 @@
     "meaning": "定年退職",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2121.mp3"
+    "sound": "assets/audio/vocab/21/2121.mp3"
   },
   {
     "id": 2122,
@@ -1059,7 +1059,7 @@
     "meaning": "雇用",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2122.mp3"
+    "sound": "assets/audio/vocab/21/2122.mp3"
   },
   {
     "id": 2124,
@@ -1068,7 +1068,7 @@
     "meaning": "面接",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2124.mp3"
+    "sound": "assets/audio/vocab/21/2124.mp3"
   },
   {
     "id": 2125,
@@ -1077,7 +1077,7 @@
     "meaning": "履歴書",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2125.mp3"
+    "sound": "assets/audio/vocab/21/2125.mp3"
   },
   {
     "id": 2126,
@@ -1086,7 +1086,7 @@
     "meaning": "資格、資質",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2126.mp3"
+    "sound": "assets/audio/vocab/21/2126.mp3"
   },
   {
     "id": 2127,
@@ -1095,7 +1095,7 @@
     "meaning": "カリキュラム",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2127.mp3"
+    "sound": "assets/audio/vocab/21/2127.mp3"
   },
   {
     "id": 2128,
@@ -1104,7 +1104,7 @@
     "meaning": "奨学金",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2128.mp3"
+    "sound": "assets/audio/vocab/21/2128.mp3"
   },
   {
     "id": 2130,
@@ -1113,7 +1113,7 @@
     "meaning": "学部",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2130.mp3"
+    "sound": "assets/audio/vocab/21/2130.mp3"
   },
   {
     "id": 2131,
@@ -1122,7 +1122,7 @@
     "meaning": "学位",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2131.mp3"
+    "sound": "assets/audio/vocab/21/2131.mp3"
   },
   {
     "id": 2132,
@@ -1131,7 +1131,7 @@
     "meaning": "論文",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2132.mp3"
+    "sound": "assets/audio/vocab/21/2132.mp3"
   },
   {
     "id": 2133,
@@ -1140,7 +1140,7 @@
     "meaning": "定量的研究",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2133.mp3"
+    "sound": "assets/audio/vocab/21/2133.mp3"
   },
   {
     "id": 2134,
@@ -1149,7 +1149,7 @@
     "meaning": "定性的研究",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2134.mp3"
+    "sound": "assets/audio/vocab/21/2134.mp3"
   },
   {
     "id": 2135,
@@ -1158,7 +1158,7 @@
     "meaning": "仮説",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2135.mp3"
+    "sound": "assets/audio/vocab/21/2135.mp3"
   },
   {
     "id": 2136,
@@ -1167,7 +1167,7 @@
     "meaning": "従属変数",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2136.mp3"
+    "sound": "assets/audio/vocab/21/2136.mp3"
   },
   {
     "id": 2137,
@@ -1176,7 +1176,7 @@
     "meaning": "独立変数",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2137.mp3"
+    "sound": "assets/audio/vocab/21/2137.mp3"
   },
   {
     "id": 2138,
@@ -1185,7 +1185,7 @@
     "meaning": "標本グループ",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2138.mp3"
+    "sound": "assets/audio/vocab/21/2138.mp3"
   },
   {
     "id": 2139,
@@ -1194,7 +1194,7 @@
     "meaning": "母集団、人口",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2139.mp3"
+    "sound": "assets/audio/vocab/21/2139.mp3"
   },
   {
     "id": 2140,
@@ -1203,7 +1203,7 @@
     "meaning": "確率",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2140.mp3"
+    "sound": "assets/audio/vocab/21/2140.mp3"
   },
   {
     "id": 2141,
@@ -1212,7 +1212,7 @@
     "meaning": "統計的有意性",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2141.mp3"
+    "sound": "assets/audio/vocab/21/2141.mp3"
   },
   {
     "id": 2142,
@@ -1221,7 +1221,7 @@
     "meaning": "相関",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2142.mp3"
+    "sound": "assets/audio/vocab/21/2142.mp3"
   },
   {
     "id": 2143,
@@ -1230,7 +1230,7 @@
     "meaning": "因果関係",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2143.mp3"
+    "sound": "assets/audio/vocab/21/2143.mp3"
   },
   {
     "id": 2145,
@@ -1239,7 +1239,7 @@
     "meaning": "範囲、スコープ",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2145.mp3"
+    "sound": "assets/audio/vocab/21/2145.mp3"
   },
   {
     "id": 2146,
@@ -1248,7 +1248,7 @@
     "meaning": "研究方法論",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2146.mp3"
+    "sound": "assets/audio/vocab/21/2146.mp3"
   },
   {
     "id": 2147,
@@ -1257,7 +1257,7 @@
     "meaning": "参照する、引用する",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2147.mp3"
+    "sound": "assets/audio/vocab/21/2147.mp3"
   },
   {
     "id": 2148,
@@ -1266,7 +1266,7 @@
     "meaning": "参考文献リスト",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2148.mp3"
+    "sound": "assets/audio/vocab/21/2148.mp3"
   },
   {
     "id": 2149,
@@ -1275,7 +1275,7 @@
     "meaning": "要旨、アブストラクト",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2149.mp3"
+    "sound": "assets/audio/vocab/21/2149.mp3"
   },
   {
     "id": 2150,
@@ -1284,7 +1284,7 @@
     "meaning": "目次",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2150.mp3"
+    "sound": "assets/audio/vocab/21/2150.mp3"
   },
   {
     "id": 2151,
@@ -1293,7 +1293,7 @@
     "meaning": "付録",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2151.mp3"
+    "sound": "assets/audio/vocab/21/2151.mp3"
   },
   {
     "id": 2152,
@@ -1302,7 +1302,7 @@
     "meaning": "索引、指標",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2152.mp3"
+    "sound": "assets/audio/vocab/21/2152.mp3"
   },
   {
     "id": 2153,
@@ -1311,7 +1311,7 @@
     "meaning": "条約、規約",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2153.mp3"
+    "sound": "assets/audio/vocab/21/2153.mp3"
   },
   {
     "id": 2154,
@@ -1320,7 +1320,7 @@
     "meaning": "議定書",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2154.mp3"
+    "sound": "assets/audio/vocab/21/2154.mp3"
   },
   {
     "id": 2155,
@@ -1329,7 +1329,7 @@
     "meaning": "委員（会）",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2155.mp3"
+    "sound": "assets/audio/vocab/21/2155.mp3"
   },
   {
     "id": 2156,
@@ -1338,7 +1338,7 @@
     "meaning": "主権",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2156.mp3"
+    "sound": "assets/audio/vocab/21/2156.mp3"
   },
   {
     "id": 2157,
@@ -1347,7 +1347,7 @@
     "meaning": "管轄権",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2157.mp3"
+    "sound": "assets/audio/vocab/21/2157.mp3"
   },
   {
     "id": 2158,
@@ -1356,7 +1356,7 @@
     "meaning": "コーポレートガバナンス",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2158.mp3"
+    "sound": "assets/audio/vocab/21/2158.mp3"
   },
   {
     "id": 2159,
@@ -1365,7 +1365,7 @@
     "meaning": "ステークホルダー",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2159.mp3"
+    "sound": "assets/audio/vocab/21/2159.mp3"
   },
   {
     "id": 2160,
@@ -1374,7 +1374,7 @@
     "meaning": "ビジネス倫理",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2160.mp3"
+    "sound": "assets/audio/vocab/21/2160.mp3"
   },
   {
     "id": 2161,
@@ -1383,7 +1383,7 @@
     "meaning": "バリューチェーン",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2161.mp3"
+    "sound": "assets/audio/vocab/21/2161.mp3"
   },
   {
     "id": 2162,
@@ -1392,7 +1392,7 @@
     "meaning": "競争優位性",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2162.mp3"
+    "sound": "assets/audio/vocab/21/2162.mp3"
   },
   {
     "id": 2163,
@@ -1401,7 +1401,7 @@
     "meaning": "リスク分散",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2163.mp3"
+    "sound": "assets/audio/vocab/21/2163.mp3"
   },
   {
     "id": 2164,
@@ -1410,7 +1410,7 @@
     "meaning": "投資収益率 (ROI)",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2164.mp3"
+    "sound": "assets/audio/vocab/21/2164.mp3"
   },
   {
     "id": 2165,
@@ -1419,7 +1419,7 @@
     "meaning": "ファンダメンタル分析",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2165.mp3"
+    "sound": "assets/audio/vocab/21/2165.mp3"
   },
   {
     "id": 2166,
@@ -1428,7 +1428,7 @@
     "meaning": "テクニカル分析",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2166.mp3"
+    "sound": "assets/audio/vocab/21/2166.mp3"
   },
   {
     "id": 2167,
@@ -1437,7 +1437,7 @@
     "meaning": "無形資産",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2167.mp3"
+    "sound": "assets/audio/vocab/21/2167.mp3"
   },
   {
     "id": 2168,
@@ -1446,7 +1446,7 @@
     "meaning": "減価償却費",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2168.mp3"
+    "sound": "assets/audio/vocab/21/2168.mp3"
   },
   {
     "id": 2169,
@@ -1455,7 +1455,7 @@
     "meaning": "水平統合",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2169.mp3"
+    "sound": "assets/audio/vocab/21/2169.mp3"
   },
   {
     "id": 2170,
@@ -1464,7 +1464,7 @@
     "meaning": "垂直統合",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2170.mp3"
+    "sound": "assets/audio/vocab/21/2170.mp3"
   },
   {
     "id": 2171,
@@ -1473,7 +1473,7 @@
     "meaning": "独占",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2171.mp3"
+    "sound": "assets/audio/vocab/21/2171.mp3"
   },
   {
     "id": 2172,
@@ -1482,7 +1482,7 @@
     "meaning": "完全競争",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2172.mp3"
+    "sound": "assets/audio/vocab/21/2172.mp3"
   },
   {
     "id": 2173,
@@ -1491,7 +1491,7 @@
     "meaning": "参入障壁",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2173.mp3"
+    "sound": "assets/audio/vocab/21/2173.mp3"
   },
   {
     "id": 2174,
@@ -1500,7 +1500,7 @@
     "meaning": "市場シェア",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2174.mp3"
+    "sound": "assets/audio/vocab/21/2174.mp3"
   },
   {
     "id": 2175,
@@ -1509,7 +1509,7 @@
     "meaning": "ターゲット層",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2175.mp3"
+    "sound": "assets/audio/vocab/21/2175.mp3"
   },
   {
     "id": 2176,
@@ -1518,7 +1518,7 @@
     "meaning": "市場細分化",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2176.mp3"
+    "sound": "assets/audio/vocab/21/2176.mp3"
   },
   {
     "id": 2177,
@@ -1527,7 +1527,7 @@
     "meaning": "製品ポジショニング",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2177.mp3"
+    "sound": "assets/audio/vocab/21/2177.mp3"
   },
   {
     "id": 2178,
@@ -1536,7 +1536,7 @@
     "meaning": "製品ライフサイクル",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2178.mp3"
+    "sound": "assets/audio/vocab/21/2178.mp3"
   },
   {
     "id": 2179,
@@ -1545,7 +1545,7 @@
     "meaning": "差別化",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2179.mp3"
+    "sound": "assets/audio/vocab/21/2179.mp3"
   },
   {
     "id": 2180,
@@ -1554,7 +1554,7 @@
     "meaning": "顧客関係管理 (CRM)",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2180.mp3"
+    "sound": "assets/audio/vocab/21/2180.mp3"
   },
   {
     "id": 2181,
@@ -1563,7 +1563,7 @@
     "meaning": "SWOT分析",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2181.mp3"
+    "sound": "assets/audio/vocab/21/2181.mp3"
   },
   {
     "id": 2182,
@@ -1572,7 +1572,7 @@
     "meaning": "重要業績評価指標 (KPI)",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2182.mp3"
+    "sound": "assets/audio/vocab/21/2182.mp3"
   },
   {
     "id": 2183,
@@ -1581,7 +1581,7 @@
     "meaning": "アウトソーシング",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2183.mp3"
+    "sound": "assets/audio/vocab/21/2183.mp3"
   },
   {
     "id": 2184,
@@ -1590,7 +1590,7 @@
     "meaning": "フランチャイズ",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2184.mp3"
+    "sound": "assets/audio/vocab/21/2184.mp3"
   },
   {
     "id": 2185,
@@ -1599,7 +1599,7 @@
     "meaning": "ジョイントベンチャー",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2185.mp3"
+    "sound": "assets/audio/vocab/21/2185.mp3"
   },
   {
     "id": 2186,
@@ -1608,7 +1608,7 @@
     "meaning": "官僚制度",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2186.mp3"
+    "sound": "assets/audio/vocab/21/2186.mp3"
   },
   {
     "id": 2187,
@@ -1617,7 +1617,7 @@
     "meaning": "特権",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2187.mp3"
+    "sound": "assets/audio/vocab/21/2187.mp3"
   },
   {
     "id": 2188,
@@ -1626,7 +1626,7 @@
     "meaning": "上訴",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2188.mp3"
+    "sound": "assets/audio/vocab/21/2188.mp3"
   },
   {
     "id": 2189,
@@ -1635,7 +1635,7 @@
     "meaning": "訴訟",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2189.mp3"
+    "sound": "assets/audio/vocab/21/2189.mp3"
   },
   {
     "id": 2190,
@@ -1644,7 +1644,7 @@
     "meaning": "証拠物件",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2190.mp3"
+    "sound": "assets/audio/vocab/21/2190.mp3"
   },
   {
     "id": 2191,
@@ -1653,7 +1653,7 @@
     "meaning": "尋問",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2191.mp3"
+    "sound": "assets/audio/vocab/21/2191.mp3"
   },
   {
     "id": 2192,
@@ -1662,7 +1662,7 @@
     "meaning": "証言",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2192.mp3"
+    "sound": "assets/audio/vocab/21/2192.mp3"
   },
   {
     "id": 2193,
@@ -1671,7 +1671,7 @@
     "meaning": "侵害、違反",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2193.mp3"
+    "sound": "assets/audio/vocab/21/2193.mp3"
   },
   {
     "id": 2194,
@@ -1680,7 +1680,7 @@
     "meaning": "損害賠償",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2194.mp3"
+    "sound": "assets/audio/vocab/21/2194.mp3"
   },
   {
     "id": 2195,
@@ -1689,7 +1689,7 @@
     "meaning": "法執行",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2195.mp3"
+    "sound": "assets/audio/vocab/21/2195.mp3"
   },
   {
     "id": 2196,
@@ -1698,7 +1698,7 @@
     "meaning": "文献レビュー",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2196.mp3"
+    "sound": "assets/audio/vocab/21/2196.mp3"
   },
   {
     "id": 2197,
@@ -1707,7 +1707,7 @@
     "meaning": "対照群",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2197.mp3"
+    "sound": "assets/audio/vocab/21/2197.mp3"
   },
   {
     "id": 2198,
@@ -1716,7 +1716,7 @@
     "meaning": "メタアナリシス",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2198.mp3"
+    "sound": "assets/audio/vocab/21/2198.mp3"
   },
   {
     "id": 2199,
@@ -1725,7 +1725,7 @@
     "meaning": "誤差",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2199.mp3"
+    "sound": "assets/audio/vocab/21/2199.mp3"
   },
   {
     "id": 2200,
@@ -1734,7 +1734,7 @@
     "meaning": "妥当性、正確性",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2200.mp3"
+    "sound": "assets/audio/vocab/22/2200.mp3"
   },
   {
     "id": 2202,
@@ -1743,7 +1743,7 @@
     "meaning": "伝統、慣習",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2202.mp3"
+    "sound": "assets/audio/vocab/22/2202.mp3"
   },
   {
     "id": 2204,
@@ -1752,7 +1752,7 @@
     "meaning": "考古学",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2204.mp3"
+    "sound": "assets/audio/vocab/22/2204.mp3"
   },
   {
     "id": 2205,
@@ -1761,7 +1761,7 @@
     "meaning": "芸術",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2205.mp3"
+    "sound": "assets/audio/vocab/22/2205.mp3"
   },
   {
     "id": 2206,
@@ -1770,7 +1770,7 @@
     "meaning": "文学",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2206.mp3"
+    "sound": "assets/audio/vocab/22/2206.mp3"
   },
   {
     "id": 2207,
@@ -1779,7 +1779,7 @@
     "meaning": "哲学",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2207.mp3"
+    "sound": "assets/audio/vocab/22/2207.mp3"
   },
   {
     "id": 2208,
@@ -1788,7 +1788,7 @@
     "meaning": "宗教",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2208.mp3"
+    "sound": "assets/audio/vocab/22/2208.mp3"
   },
   {
     "id": 2209,
@@ -1797,7 +1797,7 @@
     "meaning": "信念、信仰",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2209.mp3"
+    "sound": "assets/audio/vocab/22/2209.mp3"
   },
   {
     "id": 2210,
@@ -1806,7 +1806,7 @@
     "meaning": "伝説、神話",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2210.mp3"
+    "sound": "assets/audio/vocab/22/2210.mp3"
   },
   {
     "id": 2211,
@@ -1815,7 +1815,7 @@
     "meaning": "民族",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2211.mp3"
+    "sound": "assets/audio/vocab/22/2211.mp3"
   },
   {
     "id": 2212,
@@ -1824,7 +1824,7 @@
     "meaning": "言語学",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2212.mp3"
+    "sound": "assets/audio/vocab/22/2212.mp3"
   },
   {
     "id": 2213,
@@ -1833,7 +1833,7 @@
     "meaning": "社会学",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2213.mp3"
+    "sound": "assets/audio/vocab/22/2213.mp3"
   },
   {
     "id": 2214,
@@ -1842,7 +1842,7 @@
     "meaning": "人類学",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2214.mp3"
+    "sound": "assets/audio/vocab/22/2214.mp3"
   },
   {
     "id": 2215,
@@ -1851,7 +1851,7 @@
     "meaning": "史跡",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2215.mp3"
+    "sound": "assets/audio/vocab/22/2215.mp3"
   },
   {
     "id": 2216,
@@ -1860,7 +1860,7 @@
     "meaning": "世界遺産",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2216.mp3"
+    "sound": "assets/audio/vocab/22/2216.mp3"
   },
   {
     "id": 2217,
@@ -1869,7 +1869,7 @@
     "meaning": "文明",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2217.mp3"
+    "sound": "assets/audio/vocab/22/2217.mp3"
   },
   {
     "id": 2218,
@@ -1878,7 +1878,7 @@
     "meaning": "時代",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2218.mp3"
+    "sound": "assets/audio/vocab/22/2218.mp3"
   },
   {
     "id": 2219,
@@ -1887,7 +1887,7 @@
     "meaning": "10年間",
     "category": "numbers_time",
     "level": 1,
-    "sound": "assets/audio/vocab/2219.mp3"
+    "sound": "assets/audio/vocab/22/2219.mp3"
   },
   {
     "id": 2220,
@@ -1896,7 +1896,7 @@
     "meaning": "世紀",
     "category": "numbers_time",
     "level": 1,
-    "sound": "assets/audio/vocab/2220.mp3"
+    "sound": "assets/audio/vocab/22/2220.mp3"
   },
   {
     "id": 2221,
@@ -1905,7 +1905,7 @@
     "meaning": "機関、研究所",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2221.mp3"
+    "sound": "assets/audio/vocab/22/2221.mp3"
   },
   {
     "id": 2222,
@@ -1914,7 +1914,7 @@
     "meaning": "博物館",
     "category": "travel_accommodation",
     "level": 1,
-    "sound": "assets/audio/vocab/2222.mp3"
+    "sound": "assets/audio/vocab/22/2222.mp3"
   },
   {
     "id": 2223,
@@ -1923,7 +1923,7 @@
     "meaning": "美術館",
     "category": "travel_accommodation",
     "level": 1,
-    "sound": "assets/audio/vocab/2223.mp3"
+    "sound": "assets/audio/vocab/22/2223.mp3"
   },
   {
     "id": 2224,
@@ -1932,7 +1932,7 @@
     "meaning": "図書館",
     "category": "travel_accommodation",
     "level": 1,
-    "sound": "assets/audio/vocab/2224.mp3"
+    "sound": "assets/audio/vocab/22/2224.mp3"
   },
   {
     "id": 2225,
@@ -1941,7 +1941,7 @@
     "meaning": "アイデンティティ、独自性",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2225.mp3"
+    "sound": "assets/audio/vocab/22/2225.mp3"
   },
   {
     "id": 2226,
@@ -1950,7 +1950,7 @@
     "meaning": "価値観",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2226.mp3"
+    "sound": "assets/audio/vocab/22/2226.mp3"
   },
   {
     "id": 2227,
@@ -1959,7 +1959,7 @@
     "meaning": "態度、考え方",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2227.mp3"
+    "sound": "assets/audio/vocab/22/2227.mp3"
   },
   {
     "id": 2228,
@@ -1968,7 +1968,7 @@
     "meaning": "儀式",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2228.mp3"
+    "sound": "assets/audio/vocab/22/2228.mp3"
   },
   {
     "id": 2230,
@@ -1977,7 +1977,7 @@
     "meaning": "祝賀",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2230.mp3"
+    "sound": "assets/audio/vocab/22/2230.mp3"
   },
   {
     "id": 2231,
@@ -1986,7 +1986,7 @@
     "meaning": "歴史博物館",
     "category": "travel_accommodation",
     "level": 1,
-    "sound": "assets/audio/vocab/2231.mp3"
+    "sound": "assets/audio/vocab/22/2231.mp3"
   },
   {
     "id": 2232,
@@ -1995,7 +1995,7 @@
     "meaning": "現代アート",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2232.mp3"
+    "sound": "assets/audio/vocab/22/2232.mp3"
   },
   {
     "id": 2233,
@@ -2004,7 +2004,7 @@
     "meaning": "古典文学",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2233.mp3"
+    "sound": "assets/audio/vocab/22/2233.mp3"
   },
   {
     "id": 2234,
@@ -2013,7 +2013,7 @@
     "meaning": "詩",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2234.mp3"
+    "sound": "assets/audio/vocab/22/2234.mp3"
   },
   {
     "id": 2235,
@@ -2022,7 +2022,7 @@
     "meaning": "小説",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2235.mp3"
+    "sound": "assets/audio/vocab/22/2235.mp3"
   },
   {
     "id": 2236,
@@ -2031,7 +2031,7 @@
     "meaning": "短編小説",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2236.mp3"
+    "sound": "assets/audio/vocab/22/2236.mp3"
   },
   {
     "id": 2237,
@@ -2040,7 +2040,7 @@
     "meaning": "脚本、戯曲",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2237.mp3"
+    "sound": "assets/audio/vocab/22/2237.mp3"
   },
   {
     "id": 2238,
@@ -2049,7 +2049,7 @@
     "meaning": "自伝",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2238.mp3"
+    "sound": "assets/audio/vocab/22/2238.mp3"
   },
   {
     "id": 2239,
@@ -2058,7 +2058,7 @@
     "meaning": "伝記",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2239.mp3"
+    "sound": "assets/audio/vocab/22/2239.mp3"
   },
   {
     "id": 2240,
@@ -2067,7 +2067,7 @@
     "meaning": "民俗学",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2240.mp3"
+    "sound": "assets/audio/vocab/22/2240.mp3"
   },
   {
     "id": 2241,
@@ -2076,7 +2076,7 @@
     "meaning": "骨董品、古美術品",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2241.mp3"
+    "sound": "assets/audio/vocab/22/2241.mp3"
   },
   {
     "id": 2242,
@@ -2085,7 +2085,7 @@
     "meaning": "碑文",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2242.mp3"
+    "sound": "assets/audio/vocab/22/2242.mp3"
   },
   {
     "id": 2243,
@@ -2094,7 +2094,7 @@
     "meaning": "年代記、王家の記録",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2243.mp3"
+    "sound": "assets/audio/vocab/22/2243.mp3"
   },
   {
     "id": 2244,
@@ -2103,7 +2103,7 @@
     "meaning": "改革",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2244.mp3"
+    "sound": "assets/audio/vocab/22/2244.mp3"
   },
   {
     "id": 2245,
@@ -2112,7 +2112,7 @@
     "meaning": "ルネサンス",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2245.mp3"
+    "sound": "assets/audio/vocab/22/2245.mp3"
   },
   {
     "id": 2246,
@@ -2121,7 +2121,7 @@
     "meaning": "植民地化",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2246.mp3"
+    "sound": "assets/audio/vocab/22/2246.mp3"
   },
   {
     "id": 2247,
@@ -2130,7 +2130,7 @@
     "meaning": "帝国",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2247.mp3"
+    "sound": "assets/audio/vocab/22/2247.mp3"
   },
   {
     "id": 2248,
@@ -2139,7 +2139,7 @@
     "meaning": "世界大戦",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2248.mp3"
+    "sound": "assets/audio/vocab/22/2248.mp3"
   },
   {
     "id": 2249,
@@ -2148,7 +2148,7 @@
     "meaning": "冷戦",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2249.mp3"
+    "sound": "assets/audio/vocab/22/2249.mp3"
   },
   {
     "id": 2250,
@@ -2157,7 +2157,7 @@
     "meaning": "ジェノサイド",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2250.mp3"
+    "sound": "assets/audio/vocab/22/2250.mp3"
   },
   {
     "id": 2253,
@@ -2166,7 +2166,7 @@
     "meaning": "実験",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2253.mp3"
+    "sound": "assets/audio/vocab/22/2253.mp3"
   },
   {
     "id": 2254,
@@ -2175,7 +2175,7 @@
     "meaning": "研究",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2254.mp3"
+    "sound": "assets/audio/vocab/22/2254.mp3"
   },
   {
     "id": 2255,
@@ -2184,7 +2184,7 @@
     "meaning": "方程式",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2255.mp3"
+    "sound": "assets/audio/vocab/22/2255.mp3"
   },
   {
     "id": 2256,
@@ -2193,7 +2193,7 @@
     "meaning": "変数",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2256.mp3"
+    "sound": "assets/audio/vocab/22/2256.mp3"
   },
   {
     "id": 2257,
@@ -2202,7 +2202,7 @@
     "meaning": "定数",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2257.mp3"
+    "sound": "assets/audio/vocab/22/2257.mp3"
   },
   {
     "id": 2258,
@@ -2211,7 +2211,7 @@
     "meaning": "重力",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2258.mp3"
+    "sound": "assets/audio/vocab/22/2258.mp3"
   },
   {
     "id": 2259,
@@ -2220,7 +2220,7 @@
     "meaning": "相対性",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2259.mp3"
+    "sound": "assets/audio/vocab/22/2259.mp3"
   },
   {
     "id": 2260,
@@ -2229,7 +2229,7 @@
     "meaning": "量子",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2260.mp3"
+    "sound": "assets/audio/vocab/22/2260.mp3"
   },
   {
     "id": 2261,
@@ -2238,7 +2238,7 @@
     "meaning": "化学反応",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2261.mp3"
+    "sound": "assets/audio/vocab/22/2261.mp3"
   },
   {
     "id": 2262,
@@ -2247,7 +2247,7 @@
     "meaning": "元素",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2262.mp3"
+    "sound": "assets/audio/vocab/22/2262.mp3"
   },
   {
     "id": 2263,
@@ -2256,7 +2256,7 @@
     "meaning": "化合物",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2263.mp3"
+    "sound": "assets/audio/vocab/22/2263.mp3"
   },
   {
     "id": 2264,
@@ -2265,7 +2265,7 @@
     "meaning": "化学結合",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2264.mp3"
+    "sound": "assets/audio/vocab/22/2264.mp3"
   },
   {
     "id": 2265,
@@ -2274,7 +2274,7 @@
     "meaning": "DNA",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2265.mp3"
+    "sound": "assets/audio/vocab/22/2265.mp3"
   },
   {
     "id": 2266,
@@ -2283,7 +2283,7 @@
     "meaning": "遺伝子",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2266.mp3"
+    "sound": "assets/audio/vocab/22/2266.mp3"
   },
   {
     "id": 2267,
@@ -2292,7 +2292,7 @@
     "meaning": "遺伝",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2267.mp3"
+    "sound": "assets/audio/vocab/22/2267.mp3"
   },
   {
     "id": 2268,
@@ -2301,7 +2301,7 @@
     "meaning": "進化",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2268.mp3"
+    "sound": "assets/audio/vocab/22/2268.mp3"
   },
   {
     "id": 2269,
@@ -2310,7 +2310,7 @@
     "meaning": "生態系",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2269.mp3"
+    "sound": "assets/audio/vocab/22/2269.mp3"
   },
   {
     "id": 2270,
@@ -2319,7 +2319,7 @@
     "meaning": "細胞",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2270.mp3"
+    "sound": "assets/audio/vocab/22/2270.mp3"
   },
   {
     "id": 2271,
@@ -2328,7 +2328,7 @@
     "meaning": "分子",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2271.mp3"
+    "sound": "assets/audio/vocab/22/2271.mp3"
   },
   {
     "id": 2272,
@@ -2337,7 +2337,7 @@
     "meaning": "原子",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2272.mp3"
+    "sound": "assets/audio/vocab/22/2272.mp3"
   },
   {
     "id": 2274,
@@ -2346,7 +2346,7 @@
     "meaning": "天文学",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2274.mp3"
+    "sound": "assets/audio/vocab/22/2274.mp3"
   },
   {
     "id": 2275,
@@ -2355,7 +2355,7 @@
     "meaning": "物理学",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2275.mp3"
+    "sound": "assets/audio/vocab/22/2275.mp3"
   },
   {
     "id": 2276,
@@ -2364,7 +2364,7 @@
     "meaning": "化学",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2276.mp3"
+    "sound": "assets/audio/vocab/22/2276.mp3"
   },
   {
     "id": 2277,
@@ -2373,7 +2373,7 @@
     "meaning": "生物学",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2277.mp3"
+    "sound": "assets/audio/vocab/22/2277.mp3"
   },
   {
     "id": 2280,
@@ -2382,7 +2382,7 @@
     "meaning": "統計",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2280.mp3"
+    "sound": "assets/audio/vocab/22/2280.mp3"
   },
   {
     "id": 2281,
@@ -2391,7 +2391,7 @@
     "meaning": "アルゴリズム",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2281.mp3"
+    "sound": "assets/audio/vocab/22/2281.mp3"
   },
   {
     "id": 2282,
@@ -2400,7 +2400,7 @@
     "meaning": "データベース",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2282.mp3"
+    "sound": "assets/audio/vocab/22/2282.mp3"
   },
   {
     "id": 2283,
@@ -2409,7 +2409,7 @@
     "meaning": "人工知能 (AI)",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2283.mp3"
+    "sound": "assets/audio/vocab/22/2283.mp3"
   },
   {
     "id": 2284,
@@ -2418,7 +2418,7 @@
     "meaning": "ネットワーク",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2284.mp3"
+    "sound": "assets/audio/vocab/22/2284.mp3"
   },
   {
     "id": 2285,
@@ -2427,7 +2427,7 @@
     "meaning": "ソフトウェア",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2285.mp3"
+    "sound": "assets/audio/vocab/22/2285.mp3"
   },
   {
     "id": 2286,
@@ -2436,7 +2436,7 @@
     "meaning": "ハードウェア",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2286.mp3"
+    "sound": "assets/audio/vocab/22/2286.mp3"
   },
   {
     "id": 2287,
@@ -2445,7 +2445,7 @@
     "meaning": "暗号化",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2287.mp3"
+    "sound": "assets/audio/vocab/22/2287.mp3"
   },
   {
     "id": 2288,
@@ -2454,7 +2454,7 @@
     "meaning": "サイバーセキュリティ",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2288.mp3"
+    "sound": "assets/audio/vocab/22/2288.mp3"
   },
   {
     "id": 2289,
@@ -2463,7 +2463,7 @@
     "meaning": "エネルギー",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2289.mp3"
+    "sound": "assets/audio/vocab/22/2289.mp3"
   },
   {
     "id": 2290,
@@ -2472,7 +2472,7 @@
     "meaning": "電磁波",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2290.mp3"
+    "sound": "assets/audio/vocab/22/2290.mp3"
   },
   {
     "id": 2291,
@@ -2481,7 +2481,7 @@
     "meaning": "スペクトル",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2291.mp3"
+    "sound": "assets/audio/vocab/22/2291.mp3"
   },
   {
     "id": 2292,
@@ -2490,7 +2490,7 @@
     "meaning": "遺伝子工学",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2292.mp3"
+    "sound": "assets/audio/vocab/22/2292.mp3"
   },
   {
     "id": 2293,
@@ -2499,7 +2499,7 @@
     "meaning": "クローニング",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2293.mp3"
+    "sound": "assets/audio/vocab/22/2293.mp3"
   },
   {
     "id": 2294,
@@ -2508,7 +2508,7 @@
     "meaning": "合成",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2294.mp3"
+    "sound": "assets/audio/vocab/22/2294.mp3"
   },
   {
     "id": 2295,
@@ -2517,7 +2517,7 @@
     "meaning": "半導体",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2295.mp3"
+    "sound": "assets/audio/vocab/22/2295.mp3"
   },
   {
     "id": 2296,
@@ -2526,7 +2526,7 @@
     "meaning": "超伝導体",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2296.mp3"
+    "sound": "assets/audio/vocab/22/2296.mp3"
   },
   {
     "id": 2297,
@@ -2535,7 +2535,7 @@
     "meaning": "ナノテクノロジー",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2297.mp3"
+    "sound": "assets/audio/vocab/22/2297.mp3"
   },
   {
     "id": 2298,
@@ -2544,7 +2544,7 @@
     "meaning": "ロボット",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2298.mp3"
+    "sound": "assets/audio/vocab/22/2298.mp3"
   },
   {
     "id": 2299,
@@ -2553,7 +2553,7 @@
     "meaning": "航空宇宙",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2299.mp3"
+    "sound": "assets/audio/vocab/22/2299.mp3"
   },
   {
     "id": 2300,
@@ -2562,7 +2562,7 @@
     "meaning": "人工衛星",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2300.mp3"
+    "sound": "assets/audio/vocab/23/2300.mp3"
   },
   {
     "id": 2301,
@@ -2571,7 +2571,7 @@
     "meaning": "電気通信",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2301.mp3"
+    "sound": "assets/audio/vocab/23/2301.mp3"
   },
   {
     "id": 2302,
@@ -2580,7 +2580,7 @@
     "meaning": "仮想現実 (VR)",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2302.mp3"
+    "sound": "assets/audio/vocab/23/2302.mp3"
   },
   {
     "id": 2303,
@@ -2589,7 +2589,7 @@
     "meaning": "拡張現実 (AR)",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2303.mp3"
+    "sound": "assets/audio/vocab/23/2303.mp3"
   },
   {
     "id": 2369,
@@ -2598,7 +2598,7 @@
     "meaning": "機械工学",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2369.mp3"
+    "sound": "assets/audio/vocab/23/2369.mp3"
   },
   {
     "id": 2370,
@@ -2607,7 +2607,7 @@
     "meaning": "電気工学",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2370.mp3"
+    "sound": "assets/audio/vocab/23/2370.mp3"
   },
   {
     "id": 2371,
@@ -2616,7 +2616,7 @@
     "meaning": "化学工学",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2371.mp3"
+    "sound": "assets/audio/vocab/23/2371.mp3"
   },
   {
     "id": 2372,
@@ -2625,7 +2625,7 @@
     "meaning": "設計、デザイン",
     "category": "construction",
     "level": 1,
-    "sound": "assets/audio/vocab/2372.mp3"
+    "sound": "assets/audio/vocab/23/2372.mp3"
   },
   {
     "id": 2373,
@@ -2634,7 +2634,7 @@
     "meaning": "シミュレーション",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2373.mp3"
+    "sound": "assets/audio/vocab/23/2373.mp3"
   },
   {
     "id": 2374,
@@ -2643,7 +2643,7 @@
     "meaning": "最適化",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2374.mp3"
+    "sound": "assets/audio/vocab/23/2374.mp3"
   },
   {
     "id": 2375,
@@ -2652,7 +2652,7 @@
     "meaning": "予防保全",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2375.mp3"
+    "sound": "assets/audio/vocab/23/2375.mp3"
   },
   {
     "id": 2376,
@@ -2661,7 +2661,7 @@
     "meaning": "診断",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2376.mp3"
+    "sound": "assets/audio/vocab/23/2376.mp3"
   },
   {
     "id": 2377,
@@ -2670,7 +2670,7 @@
     "meaning": "センサー",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2377.mp3"
+    "sound": "assets/audio/vocab/23/2377.mp3"
   },
   {
     "id": 2378,
@@ -2679,7 +2679,7 @@
     "meaning": "アクチュエータ",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2378.mp3"
+    "sound": "assets/audio/vocab/23/2378.mp3"
   },
   {
     "id": 2379,
@@ -2688,7 +2688,7 @@
     "meaning": "制御システム",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2379.mp3"
+    "sound": "assets/audio/vocab/23/2379.mp3"
   },
   {
     "id": 2380,
@@ -2697,7 +2697,7 @@
     "meaning": "信号処理",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2380.mp3"
+    "sound": "assets/audio/vocab/23/2380.mp3"
   },
   {
     "id": 2381,
@@ -2706,7 +2706,7 @@
     "meaning": "材料科学",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2381.mp3"
+    "sound": "assets/audio/vocab/23/2381.mp3"
   },
   {
     "id": 2382,
@@ -2715,7 +2715,7 @@
     "meaning": "合金",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2382.mp3"
+    "sound": "assets/audio/vocab/23/2382.mp3"
   },
   {
     "id": 2383,
@@ -2724,7 +2724,7 @@
     "meaning": "ポリマー",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2383.mp3"
+    "sound": "assets/audio/vocab/23/2383.mp3"
   },
   {
     "id": 2384,
@@ -2733,7 +2733,7 @@
     "meaning": "腐食",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2384.mp3"
+    "sound": "assets/audio/vocab/23/2384.mp3"
   },
   {
     "id": 2385,
@@ -2742,7 +2742,7 @@
     "meaning": "疲労（材料の）",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2385.mp3"
+    "sound": "assets/audio/vocab/23/2385.mp3"
   },
   {
     "id": 2386,
@@ -2751,7 +2751,7 @@
     "meaning": "熱力学",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2386.mp3"
+    "sound": "assets/audio/vocab/23/2386.mp3"
   },
   {
     "id": 2387,
@@ -2760,7 +2760,7 @@
     "meaning": "流体力学",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2387.mp3"
+    "sound": "assets/audio/vocab/23/2387.mp3"
   },
   {
     "id": 2388,
@@ -2769,7 +2769,7 @@
     "meaning": "空気力学",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2388.mp3"
+    "sound": "assets/audio/vocab/23/2388.mp3"
   },
   {
     "id": 2389,
@@ -2778,7 +2778,7 @@
     "meaning": "電磁気学",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2389.mp3"
+    "sound": "assets/audio/vocab/23/2389.mp3"
   },
   {
     "id": 2390,
@@ -2787,7 +2787,7 @@
     "meaning": "光学",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2390.mp3"
+    "sound": "assets/audio/vocab/23/2390.mp3"
   },
   {
     "id": 2391,
@@ -2796,7 +2796,7 @@
     "meaning": "音響学",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2391.mp3"
+    "sound": "assets/audio/vocab/23/2391.mp3"
   },
   {
     "id": 2392,
@@ -2805,7 +2805,7 @@
     "meaning": "生化学",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2392.mp3"
+    "sound": "assets/audio/vocab/23/2392.mp3"
   },
   {
     "id": 2393,
@@ -2814,7 +2814,7 @@
     "meaning": "分子生物学",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2393.mp3"
+    "sound": "assets/audio/vocab/23/2393.mp3"
   },
   {
     "id": 2394,
@@ -2823,7 +2823,7 @@
     "meaning": "生態学",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2394.mp3"
+    "sound": "assets/audio/vocab/23/2394.mp3"
   },
   {
     "id": 2395,
@@ -2832,7 +2832,7 @@
     "meaning": "生理学",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2395.mp3"
+    "sound": "assets/audio/vocab/23/2395.mp3"
   },
   {
     "id": 2396,
@@ -2841,7 +2841,7 @@
     "meaning": "解剖学",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2396.mp3"
+    "sound": "assets/audio/vocab/23/2396.mp3"
   },
   {
     "id": 2397,
@@ -2850,7 +2850,7 @@
     "meaning": "植物学",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2397.mp3"
+    "sound": "assets/audio/vocab/23/2397.mp3"
   },
   {
     "id": 2398,
@@ -2859,7 +2859,7 @@
     "meaning": "動物学",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2398.mp3"
+    "sound": "assets/audio/vocab/23/2398.mp3"
   },
   {
     "id": 2399,
@@ -2868,7 +2868,7 @@
     "meaning": "微生物学",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2399.mp3"
+    "sound": "assets/audio/vocab/23/2399.mp3"
   },
   {
     "id": 2400,
@@ -2877,7 +2877,7 @@
     "meaning": "免疫学",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2400.mp3"
+    "sound": "assets/audio/vocab/24/2400.mp3"
   },
   {
     "id": 2421,
@@ -2886,7 +2886,7 @@
     "meaning": "コンセプト、概念",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2421.mp3"
+    "sound": "assets/audio/vocab/24/2421.mp3"
   },
   {
     "id": 2422,
@@ -2895,7 +2895,7 @@
     "meaning": "原則",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2422.mp3"
+    "sound": "assets/audio/vocab/24/2422.mp3"
   },
   {
     "id": 2423,
@@ -2904,7 +2904,7 @@
     "meaning": "要因、ファクター",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2423.mp3"
+    "sound": "assets/audio/vocab/24/2423.mp3"
   },
   {
     "id": 2425,
@@ -2913,7 +2913,7 @@
     "meaning": "プロセス",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2425.mp3"
+    "sound": "assets/audio/vocab/24/2425.mp3"
   },
   {
     "id": 2426,
@@ -2922,7 +2922,7 @@
     "meaning": "構造",
     "category": "construction",
     "level": 1,
-    "sound": "assets/audio/vocab/2426.mp3"
+    "sound": "assets/audio/vocab/24/2426.mp3"
   },
   {
     "id": 2427,
@@ -2931,7 +2931,7 @@
     "meaning": "システム",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2427.mp3"
+    "sound": "assets/audio/vocab/24/2427.mp3"
   },
   {
     "id": 2428,
@@ -2940,7 +2940,7 @@
     "meaning": "構成要素",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2428.mp3"
+    "sound": "assets/audio/vocab/24/2428.mp3"
   },
   {
     "id": 2430,
@@ -2949,7 +2949,7 @@
     "meaning": "視点",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2430.mp3"
+    "sound": "assets/audio/vocab/24/2430.mp3"
   },
   {
     "id": 2431,
@@ -2958,7 +2958,7 @@
     "meaning": "文脈、コンテクスト",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2431.mp3"
+    "sound": "assets/audio/vocab/24/2431.mp3"
   },
   {
     "id": 2433,
@@ -2967,7 +2967,7 @@
     "meaning": "抽象的な",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2433.mp3"
+    "sound": "assets/audio/vocab/24/2433.mp3"
   },
   {
     "id": 2434,
@@ -2976,7 +2976,7 @@
     "meaning": "具体的な",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2434.mp3"
+    "sound": "assets/audio/vocab/24/2434.mp3"
   },
   {
     "id": 2435,
@@ -2985,7 +2985,7 @@
     "meaning": "ポテンシャル、潜在能力",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2435.mp3"
+    "sound": "assets/audio/vocab/24/2435.mp3"
   },
   {
     "id": 2436,
@@ -2994,7 +2994,7 @@
     "meaning": "ダイナミクス、動態",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2436.mp3"
+    "sound": "assets/audio/vocab/24/2436.mp3"
   },
   {
     "id": 2437,
@@ -3003,7 +3003,7 @@
     "meaning": "相互作用",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2437.mp3"
+    "sound": "assets/audio/vocab/24/2437.mp3"
   },
   {
     "id": 2438,
@@ -3012,7 +3012,7 @@
     "meaning": "均衡、バランス",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2438.mp3"
+    "sound": "assets/audio/vocab/24/2438.mp3"
   },
   {
     "id": 2439,
@@ -3021,7 +3021,7 @@
     "meaning": "危機",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2439.mp3"
+    "sound": "assets/audio/vocab/24/2439.mp3"
   },
   {
     "id": 2441,
@@ -3030,7 +3030,7 @@
     "meaning": "制約、制限",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2441.mp3"
+    "sound": "assets/audio/vocab/24/2441.mp3"
   },
   {
     "id": 2442,
@@ -3039,7 +3039,7 @@
     "meaning": "条件",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2442.mp3"
+    "sound": "assets/audio/vocab/24/2442.mp3"
   },
   {
     "id": 2443,
@@ -3048,7 +3048,7 @@
     "meaning": "本質、要点",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2443.mp3"
+    "sound": "assets/audio/vocab/24/2443.mp3"
   },
   {
     "id": 2444,
@@ -3057,7 +3057,7 @@
     "meaning": "現象",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2444.mp3"
+    "sound": "assets/audio/vocab/24/2444.mp3"
   },
   {
     "id": 2445,
@@ -3066,7 +3066,7 @@
     "meaning": "規範",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2445.mp3"
+    "sound": "assets/audio/vocab/24/2445.mp3"
   },
   {
     "id": 2446,
@@ -3075,7 +3075,7 @@
     "meaning": "標準",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2446.mp3"
+    "sound": "assets/audio/vocab/24/2446.mp3"
   },
   {
     "id": 2447,
@@ -3084,7 +3084,7 @@
     "meaning": "意図",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2447.mp3"
+    "sound": "assets/audio/vocab/24/2447.mp3"
   },
   {
     "id": 2448,
@@ -3093,7 +3093,7 @@
     "meaning": "動機、モチベーション",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2448.mp3"
+    "sound": "assets/audio/vocab/24/2448.mp3"
   },
   {
     "id": 2449,
@@ -3102,7 +3102,7 @@
     "meaning": "意識",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2449.mp3"
+    "sound": "assets/audio/vocab/24/2449.mp3"
   },
   {
     "id": 2450,
@@ -3111,7 +3111,7 @@
     "meaning": "潜在意識",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2450.mp3"
+    "sound": "assets/audio/vocab/24/2450.mp3"
   },
   {
     "id": 2452,
@@ -3120,7 +3120,7 @@
     "meaning": "意志、意図",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2452.mp3"
+    "sound": "assets/audio/vocab/24/2452.mp3"
   },
   {
     "id": 2453,
@@ -3129,7 +3129,7 @@
     "meaning": "運命",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2453.mp3"
+    "sound": "assets/audio/vocab/24/2453.mp3"
   },
   {
     "id": 2454,
@@ -3138,7 +3138,7 @@
     "meaning": "本能",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2454.mp3"
+    "sound": "assets/audio/vocab/24/2454.mp3"
   },
   {
     "id": 2455,
@@ -3147,7 +3147,7 @@
     "meaning": "想像力",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2455.mp3"
+    "sound": "assets/audio/vocab/24/2455.mp3"
   },
   {
     "id": 2456,
@@ -3156,7 +3156,7 @@
     "meaning": "インスピレーション",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2456.mp3"
+    "sound": "assets/audio/vocab/24/2456.mp3"
   },
   {
     "id": 2457,
@@ -3165,7 +3165,7 @@
     "meaning": "現実",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2457.mp3"
+    "sound": "assets/audio/vocab/24/2457.mp3"
   },
   {
     "id": 2458,
@@ -3174,7 +3174,7 @@
     "meaning": "幻想",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2458.mp3"
+    "sound": "assets/audio/vocab/24/2458.mp3"
   },
   {
     "id": 2459,
@@ -3183,7 +3183,7 @@
     "meaning": "完全性、インテグリティ",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2459.mp3"
+    "sound": "assets/audio/vocab/24/2459.mp3"
   },
   {
     "id": 2460,
@@ -3192,7 +3192,7 @@
     "meaning": "調和、団結",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2460.mp3"
+    "sound": "assets/audio/vocab/24/2460.mp3"
   },
   {
     "id": 2466,
@@ -3201,7 +3201,7 @@
     "meaning": "病理学",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2466.mp3"
+    "sound": "assets/audio/vocab/24/2466.mp3"
   },
   {
     "id": 2467,
@@ -3210,7 +3210,7 @@
     "meaning": "薬理学",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2467.mp3"
+    "sound": "assets/audio/vocab/24/2467.mp3"
   },
   {
     "id": 2468,
@@ -3219,7 +3219,7 @@
     "meaning": "症状",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2468.mp3"
+    "sound": "assets/audio/vocab/24/2468.mp3"
   },
   {
     "id": 2470,
@@ -3228,7 +3228,7 @@
     "meaning": "治療",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2470.mp3"
+    "sound": "assets/audio/vocab/24/2470.mp3"
   },
   {
     "id": 2471,
@@ -3237,7 +3237,7 @@
     "meaning": "予後",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2471.mp3"
+    "sound": "assets/audio/vocab/24/2471.mp3"
   },
   {
     "id": 2472,
@@ -3246,7 +3246,7 @@
     "meaning": "感染症",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2472.mp3"
+    "sound": "assets/audio/vocab/24/2472.mp3"
   },
   {
     "id": 2473,
@@ -3255,7 +3255,7 @@
     "meaning": "伝染病、エピデミック",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2473.mp3"
+    "sound": "assets/audio/vocab/24/2473.mp3"
   },
   {
     "id": 2474,
@@ -3264,7 +3264,7 @@
     "meaning": "ワクチン",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2474.mp3"
+    "sound": "assets/audio/vocab/24/2474.mp3"
   },
   {
     "id": 2475,
@@ -3273,7 +3273,7 @@
     "meaning": "免疫",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2475.mp3"
+    "sound": "assets/audio/vocab/24/2475.mp3"
   },
   {
     "id": 2476,
@@ -3282,7 +3282,7 @@
     "meaning": "ウイルス",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2476.mp3"
+    "sound": "assets/audio/vocab/24/2476.mp3"
   },
   {
     "id": 2477,
@@ -3291,7 +3291,7 @@
     "meaning": "バクテリア",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2477.mp3"
+    "sound": "assets/audio/vocab/24/2477.mp3"
   },
   {
     "id": 2478,
@@ -3300,7 +3300,7 @@
     "meaning": "炎症",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2478.mp3"
+    "sound": "assets/audio/vocab/24/2478.mp3"
   },
   {
     "id": 2479,
@@ -3309,7 +3309,7 @@
     "meaning": "腫瘍",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2479.mp3"
+    "sound": "assets/audio/vocab/24/2479.mp3"
   },
   {
     "id": 2480,
@@ -3318,7 +3318,7 @@
     "meaning": "がん",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2480.mp3"
+    "sound": "assets/audio/vocab/24/2480.mp3"
   },
   {
     "id": 2481,
@@ -3327,7 +3327,7 @@
     "meaning": "糖尿病",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2481.mp3"
+    "sound": "assets/audio/vocab/24/2481.mp3"
   },
   {
     "id": 2482,
@@ -3336,7 +3336,7 @@
     "meaning": "心臓病",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2482.mp3"
+    "sound": "assets/audio/vocab/24/2482.mp3"
   },
   {
     "id": 2483,
@@ -3345,7 +3345,7 @@
     "meaning": "高血圧",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2483.mp3"
+    "sound": "assets/audio/vocab/24/2483.mp3"
   },
   {
     "id": 2484,
@@ -3354,7 +3354,7 @@
     "meaning": "脳卒中",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2484.mp3"
+    "sound": "assets/audio/vocab/24/2484.mp3"
   },
   {
     "id": 2485,
@@ -3363,7 +3363,7 @@
     "meaning": "アレルギー",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2485.mp3"
+    "sound": "assets/audio/vocab/24/2485.mp3"
   },
   {
     "id": 2486,
@@ -3372,7 +3372,7 @@
     "meaning": "喘息",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2486.mp3"
+    "sound": "assets/audio/vocab/24/2486.mp3"
   },
   {
     "id": 2487,
@@ -3381,7 +3381,7 @@
     "meaning": "メンタルヘルス",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2487.mp3"
+    "sound": "assets/audio/vocab/24/2487.mp3"
   },
   {
     "id": 2488,
@@ -3390,7 +3390,7 @@
     "meaning": "ストレス",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2488.mp3"
+    "sound": "assets/audio/vocab/24/2488.mp3"
   },
   {
     "id": 2489,
@@ -3399,7 +3399,7 @@
     "meaning": "うつ病",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2489.mp3"
+    "sound": "assets/audio/vocab/24/2489.mp3"
   },
   {
     "id": 2490,
@@ -3408,7 +3408,7 @@
     "meaning": "手術",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2490.mp3"
+    "sound": "assets/audio/vocab/24/2490.mp3"
   },
   {
     "id": 2491,
@@ -3417,7 +3417,7 @@
     "meaning": "製薬",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2491.mp3"
+    "sound": "assets/audio/vocab/24/2491.mp3"
   },
   {
     "id": 2492,
@@ -3426,7 +3426,7 @@
     "meaning": "遺伝学",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2492.mp3"
+    "sound": "assets/audio/vocab/24/2492.mp3"
   },
   {
     "id": 2493,
@@ -3435,7 +3435,7 @@
     "meaning": "栄養学",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2493.mp3"
+    "sound": "assets/audio/vocab/24/2493.mp3"
   },
   {
     "id": 2494,
@@ -3444,7 +3444,7 @@
     "meaning": "運動",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2494.mp3"
+    "sound": "assets/audio/vocab/24/2494.mp3"
   },
   {
     "id": 2495,
@@ -3453,7 +3453,7 @@
     "meaning": "休息",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2495.mp3"
+    "sound": "assets/audio/vocab/24/2495.mp3"
   },
   {
     "id": 2496,
@@ -3462,7 +3462,7 @@
     "meaning": "衛生",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2496.mp3"
+    "sound": "assets/audio/vocab/24/2496.mp3"
   },
   {
     "id": 2497,
@@ -3471,7 +3471,7 @@
     "meaning": "応急手当",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2497.mp3"
+    "sound": "assets/audio/vocab/24/2497.mp3"
   },
   {
     "id": 2498,
@@ -3480,7 +3480,7 @@
     "meaning": "緊急事態",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2498.mp3"
+    "sound": "assets/audio/vocab/24/2498.mp3"
   },
   {
     "id": 2499,
@@ -3489,7 +3489,7 @@
     "meaning": "救急車",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2499.mp3"
+    "sound": "assets/audio/vocab/24/2499.mp3"
   },
   {
     "id": 2500,
@@ -3498,7 +3498,7 @@
     "meaning": "救急治療室 (ER)",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2500.mp3"
+    "sound": "assets/audio/vocab/25/2500.mp3"
   },
   {
     "id": 2501,
@@ -3507,7 +3507,7 @@
     "meaning": "建設、工事",
     "category": "construction",
     "level": 1,
-    "sound": "assets/audio/vocab/2501.mp3"
+    "sound": "assets/audio/vocab/25/2501.mp3"
   },
   {
     "id": 2502,
@@ -3516,7 +3516,7 @@
     "meaning": "建築",
     "category": "construction",
     "level": 1,
-    "sound": "assets/audio/vocab/2502.mp3"
+    "sound": "assets/audio/vocab/25/2502.mp3"
   },
   {
     "id": 2503,
@@ -3525,7 +3525,7 @@
     "meaning": "土木工学",
     "category": "construction",
     "level": 1,
-    "sound": "assets/audio/vocab/2503.mp3"
+    "sound": "assets/audio/vocab/25/2503.mp3"
   },
   {
     "id": 2504,
@@ -3534,7 +3534,7 @@
     "meaning": "構造、骨組み",
     "category": "construction",
     "level": 1,
-    "sound": "assets/audio/vocab/2504.mp3"
+    "sound": "assets/audio/vocab/25/2504.mp3"
   },
   {
     "id": 2505,
@@ -3543,7 +3543,7 @@
     "meaning": "基礎（工事の）",
     "category": "construction",
     "level": 1,
-    "sound": "assets/audio/vocab/2505.mp3"
+    "sound": "assets/audio/vocab/25/2505.mp3"
   },
   {
     "id": 2506,
@@ -3552,7 +3552,7 @@
     "meaning": "鉄筋コンクリート",
     "category": "construction",
     "level": 1,
-    "sound": "assets/audio/vocab/2506.mp3"
+    "sound": "assets/audio/vocab/25/2506.mp3"
   },
   {
     "id": 2507,
@@ -3561,7 +3561,7 @@
     "meaning": "材料、素材",
     "category": "construction",
     "level": 1,
-    "sound": "assets/audio/vocab/2507.mp3"
+    "sound": "assets/audio/vocab/25/2507.mp3"
   },
   {
     "id": 2508,
@@ -3570,7 +3570,7 @@
     "meaning": "機械",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2508.mp3"
+    "sound": "assets/audio/vocab/25/2508.mp3"
   },
   {
     "id": 2509,
@@ -3579,7 +3579,7 @@
     "meaning": "エンジン",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2509.mp3"
+    "sound": "assets/audio/vocab/25/2509.mp3"
   },
   {
     "id": 2511,
@@ -3588,7 +3588,7 @@
     "meaning": "オートメーション",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2511.mp3"
+    "sound": "assets/audio/vocab/25/2511.mp3"
   },
   {
     "id": 2512,
@@ -3597,7 +3597,7 @@
     "meaning": "産業用ロボット",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2512.mp3"
+    "sound": "assets/audio/vocab/25/2512.mp3"
   },
   {
     "id": 2513,
@@ -3606,7 +3606,7 @@
     "meaning": "電気",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2513.mp3"
+    "sound": "assets/audio/vocab/25/2513.mp3"
   },
   {
     "id": 2514,
@@ -3615,7 +3615,7 @@
     "meaning": "電子工学",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2514.mp3"
+    "sound": "assets/audio/vocab/25/2514.mp3"
   },
   {
     "id": 2515,
@@ -3624,7 +3624,7 @@
     "meaning": "電気回路",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2515.mp3"
+    "sound": "assets/audio/vocab/25/2515.mp3"
   },
   {
     "id": 2516,
@@ -3633,7 +3633,7 @@
     "meaning": "電圧",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2516.mp3"
+    "sound": "assets/audio/vocab/25/2516.mp3"
   },
   {
     "id": 2517,
@@ -3642,7 +3642,7 @@
     "meaning": "電流",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2517.mp3"
+    "sound": "assets/audio/vocab/25/2517.mp3"
   },
   {
     "id": 2518,
@@ -3651,7 +3651,7 @@
     "meaning": "抵抗",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2518.mp3"
+    "sound": "assets/audio/vocab/25/2518.mp3"
   },
   {
     "id": 2519,
@@ -3660,7 +3660,7 @@
     "meaning": "電力",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2519.mp3"
+    "sound": "assets/audio/vocab/25/2519.mp3"
   },
   {
     "id": 2520,
@@ -3669,7 +3669,7 @@
     "meaning": "変圧器、トランス",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2520.mp3"
+    "sound": "assets/audio/vocab/25/2520.mp3"
   },
   {
     "id": 2521,
@@ -3678,7 +3678,7 @@
     "meaning": "発電機",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2521.mp3"
+    "sound": "assets/audio/vocab/25/2521.mp3"
   },
   {
     "id": 2522,
@@ -3687,7 +3687,7 @@
     "meaning": "太陽電池",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2522.mp3"
+    "sound": "assets/audio/vocab/25/2522.mp3"
   },
   {
     "id": 2523,
@@ -3696,7 +3696,7 @@
     "meaning": "金属",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2523.mp3"
+    "sound": "assets/audio/vocab/25/2523.mp3"
   },
   {
     "id": 2524,
@@ -3705,7 +3705,7 @@
     "meaning": "非金属",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2524.mp3"
+    "sound": "assets/audio/vocab/25/2524.mp3"
   },
   {
     "id": 2525,
@@ -3714,7 +3714,7 @@
     "meaning": "プラスチック",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2525.mp3"
+    "sound": "assets/audio/vocab/25/2525.mp3"
   },
   {
     "id": 2526,
@@ -3723,7 +3723,7 @@
     "meaning": "セラミック",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2526.mp3"
+    "sound": "assets/audio/vocab/25/2526.mp3"
   },
   {
     "id": 2527,
@@ -3732,7 +3732,7 @@
     "meaning": "複合材料",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2527.mp3"
+    "sound": "assets/audio/vocab/25/2527.mp3"
   },
   {
     "id": 2528,
@@ -3741,7 +3741,7 @@
     "meaning": "強度",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2528.mp3"
+    "sound": "assets/audio/vocab/25/2528.mp3"
   },
   {
     "id": 2529,
@@ -3750,7 +3750,7 @@
     "meaning": "靭性",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2529.mp3"
+    "sound": "assets/audio/vocab/25/2529.mp3"
   },
   {
     "id": 2530,
@@ -3759,7 +3759,7 @@
     "meaning": "弾性",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2530.mp3"
+    "sound": "assets/audio/vocab/25/2530.mp3"
   },
   {
     "id": 2531,
@@ -3768,7 +3768,7 @@
     "meaning": "バイオマス",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2531.mp3"
+    "sound": "assets/audio/vocab/25/2531.mp3"
   },
   {
     "id": 2532,
@@ -3777,7 +3777,7 @@
     "meaning": "バイオマスエネルギー",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2532.mp3"
+    "sound": "assets/audio/vocab/25/2532.mp3"
   },
   {
     "id": 2533,
@@ -3786,7 +3786,7 @@
     "meaning": "バイオの、生物の",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2533.mp3"
+    "sound": "assets/audio/vocab/25/2533.mp3"
   },
   {
     "id": 2534,
@@ -3795,7 +3795,7 @@
     "meaning": "発酵",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2534.mp3"
+    "sound": "assets/audio/vocab/25/2534.mp3"
   },
   {
     "id": 2535,
@@ -3804,7 +3804,7 @@
     "meaning": "バイオガス",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2535.mp3"
+    "sound": "assets/audio/vocab/25/2535.mp3"
   },
   {
     "id": 2536,
@@ -3813,7 +3813,7 @@
     "meaning": "バイオ燃料",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2536.mp3"
+    "sound": "assets/audio/vocab/25/2536.mp3"
   },
   {
     "id": 2537,
@@ -3822,7 +3822,7 @@
     "meaning": "エタノール",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2537.mp3"
+    "sound": "assets/audio/vocab/25/2537.mp3"
   },
   {
     "id": 2538,
@@ -3831,7 +3831,7 @@
     "meaning": "バイオディーゼル",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2538.mp3"
+    "sound": "assets/audio/vocab/25/2538.mp3"
   },
   {
     "id": 2539,
@@ -3840,7 +3840,7 @@
     "meaning": "農業",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2539.mp3"
+    "sound": "assets/audio/vocab/25/2539.mp3"
   },
   {
     "id": 2540,
@@ -3849,7 +3849,7 @@
     "meaning": "廃棄物",
     "category": "construction",
     "level": 1,
-    "sound": "assets/audio/vocab/2540.mp3"
+    "sound": "assets/audio/vocab/25/2540.mp3"
   },
   {
     "id": 2541,
@@ -3858,7 +3858,7 @@
     "meaning": "処理、治療",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2541.mp3"
+    "sound": "assets/audio/vocab/25/2541.mp3"
   },
   {
     "id": 2542,
@@ -3867,7 +3867,7 @@
     "meaning": "生分解性の",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2542.mp3"
+    "sound": "assets/audio/vocab/25/2542.mp3"
   },
   {
     "id": 2543,
@@ -3876,7 +3876,7 @@
     "meaning": "再生可能エネルギー",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2543.mp3"
+    "sound": "assets/audio/vocab/25/2543.mp3"
   },
   {
     "id": 2544,
@@ -3885,7 +3885,7 @@
     "meaning": "持続可能な開発",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2544.mp3"
+    "sound": "assets/audio/vocab/25/2544.mp3"
   },
   {
     "id": 2545,
@@ -3894,7 +3894,7 @@
     "meaning": "設計図、ブループリント",
     "category": "construction",
     "level": 1,
-    "sound": "assets/audio/vocab/2545.mp3"
+    "sound": "assets/audio/vocab/25/2545.mp3"
   },
   {
     "id": 2546,
@@ -3903,7 +3903,7 @@
     "meaning": "測量、調査",
     "category": "construction",
     "level": 1,
-    "sound": "assets/audio/vocab/2546.mp3"
+    "sound": "assets/audio/vocab/25/2546.mp3"
   },
   {
     "id": 2547,
@@ -3912,7 +3912,7 @@
     "meaning": "設置、インストール",
     "category": "construction",
     "level": 1,
-    "sound": "assets/audio/vocab/2547.mp3"
+    "sound": "assets/audio/vocab/25/2547.mp3"
   },
   {
     "id": 2548,
@@ -3921,7 +3921,7 @@
     "meaning": "メンテナンス、保守",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2548.mp3"
+    "sound": "assets/audio/vocab/25/2548.mp3"
   },
   {
     "id": 2549,
@@ -3930,7 +3930,7 @@
     "meaning": "解体する",
     "category": "construction",
     "level": 1,
-    "sound": "assets/audio/vocab/2549.mp3"
+    "sound": "assets/audio/vocab/25/2549.mp3"
   },
   {
     "id": 2550,
@@ -3939,7 +3939,7 @@
     "meaning": "建設安全",
     "category": "construction",
     "level": 1,
-    "sound": "assets/audio/vocab/2550.mp3"
+    "sound": "assets/audio/vocab/25/2550.mp3"
   },
   {
     "id": 2551,
@@ -3948,7 +3948,7 @@
     "meaning": "測定器",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2551.mp3"
+    "sound": "assets/audio/vocab/25/2551.mp3"
   },
   {
     "id": 2552,
@@ -3957,7 +3957,7 @@
     "meaning": "校正",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2552.mp3"
+    "sound": "assets/audio/vocab/25/2552.mp3"
   },
   {
     "id": 2553,
@@ -3966,7 +3966,7 @@
     "meaning": "精度",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2553.mp3"
+    "sound": "assets/audio/vocab/25/2553.mp3"
   },
   {
     "id": 2554,
@@ -3975,7 +3975,7 @@
     "meaning": "解像度、分解能",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2554.mp3"
+    "sound": "assets/audio/vocab/25/2554.mp3"
   },
   {
     "id": 2555,
@@ -3984,7 +3984,7 @@
     "meaning": "振動",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2555.mp3"
+    "sound": "assets/audio/vocab/25/2555.mp3"
   },
   {
     "id": 2556,
@@ -3993,7 +3993,7 @@
     "meaning": "騒音",
     "category": "construction",
     "level": 1,
-    "sound": "assets/audio/vocab/2556.mp3"
+    "sound": "assets/audio/vocab/25/2556.mp3"
   },
   {
     "id": 2557,
@@ -4002,7 +4002,7 @@
     "meaning": "断熱材、絶縁体",
     "category": "construction",
     "level": 1,
-    "sound": "assets/audio/vocab/2557.mp3"
+    "sound": "assets/audio/vocab/25/2557.mp3"
   },
   {
     "id": 2558,
@@ -4011,7 +4011,7 @@
     "meaning": "熱伝導",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2558.mp3"
+    "sound": "assets/audio/vocab/25/2558.mp3"
   },
   {
     "id": 2559,
@@ -4020,7 +4020,7 @@
     "meaning": "対流",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2559.mp3"
+    "sound": "assets/audio/vocab/25/2559.mp3"
   },
   {
     "id": 2560,
@@ -4029,7 +4029,7 @@
     "meaning": "放射",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2560.mp3"
+    "sound": "assets/audio/vocab/25/2560.mp3"
   },
   {
     "id": 2561,
@@ -4038,7 +4038,7 @@
     "meaning": "トルク",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2561.mp3"
+    "sound": "assets/audio/vocab/25/2561.mp3"
   },
   {
     "id": 2562,
@@ -4047,7 +4047,7 @@
     "meaning": "歯車、ギア",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2562.mp3"
+    "sound": "assets/audio/vocab/25/2562.mp3"
   },
   {
     "id": 2563,
@@ -4056,7 +4056,7 @@
     "meaning": "ベアリング",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2563.mp3"
+    "sound": "assets/audio/vocab/25/2563.mp3"
   },
   {
     "id": 2564,
@@ -4065,7 +4065,7 @@
     "meaning": "油圧",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2564.mp3"
+    "sound": "assets/audio/vocab/25/2564.mp3"
   },
   {
     "id": 2565,
@@ -4074,7 +4074,7 @@
     "meaning": "空圧",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2565.mp3"
+    "sound": "assets/audio/vocab/25/2565.mp3"
   },
   {
     "id": 2566,
@@ -4083,7 +4083,7 @@
     "meaning": "溶接",
     "category": "construction",
     "level": 1,
-    "sound": "assets/audio/vocab/2566.mp3"
+    "sound": "assets/audio/vocab/25/2566.mp3"
   },
   {
     "id": 2567,
@@ -4092,7 +4092,7 @@
     "meaning": "旋盤加工",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2567.mp3"
+    "sound": "assets/audio/vocab/25/2567.mp3"
   },
   {
     "id": 2568,
@@ -4101,7 +4101,7 @@
     "meaning": "フライス加工",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2568.mp3"
+    "sound": "assets/audio/vocab/25/2568.mp3"
   },
   {
     "id": 2569,
@@ -4110,7 +4110,7 @@
     "meaning": "鋳造",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2569.mp3"
+    "sound": "assets/audio/vocab/25/2569.mp3"
   },
   {
     "id": 2570,
@@ -4119,7 +4119,7 @@
     "meaning": "3Dプリンティング",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2570.mp3"
+    "sound": "assets/audio/vocab/25/2570.mp3"
   },
   {
     "id": 2571,
@@ -4128,7 +4128,7 @@
     "meaning": "石油化学",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2571.mp3"
+    "sound": "assets/audio/vocab/25/2571.mp3"
   },
   {
     "id": 2572,
@@ -4137,7 +4137,7 @@
     "meaning": "重合",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2572.mp3"
+    "sound": "assets/audio/vocab/25/2572.mp3"
   },
   {
     "id": 2573,
@@ -4146,7 +4146,7 @@
     "meaning": "触媒",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2573.mp3"
+    "sound": "assets/audio/vocab/25/2573.mp3"
   },
   {
     "id": 2574,
@@ -4155,7 +4155,7 @@
     "meaning": "蒸留",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2574.mp3"
+    "sound": "assets/audio/vocab/25/2574.mp3"
   },
   {
     "id": 2575,
@@ -4164,7 +4164,7 @@
     "meaning": "抽出",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2575.mp3"
+    "sound": "assets/audio/vocab/25/2575.mp3"
   },
   {
     "id": 2576,
@@ -4173,7 +4173,7 @@
     "meaning": "結晶化",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2576.mp3"
+    "sound": "assets/audio/vocab/25/2576.mp3"
   },
   {
     "id": 2577,
@@ -4182,7 +4182,7 @@
     "meaning": "クロマトグラフィー",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2577.mp3"
+    "sound": "assets/audio/vocab/25/2577.mp3"
   },
   {
     "id": 2578,
@@ -4191,7 +4191,7 @@
     "meaning": "分光法",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2578.mp3"
+    "sound": "assets/audio/vocab/25/2578.mp3"
   },
   {
     "id": 2579,
@@ -4200,7 +4200,7 @@
     "meaning": "遺伝子組換え生物(GMO)",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2579.mp3"
+    "sound": "assets/audio/vocab/25/2579.mp3"
   },
   {
     "id": 2580,
@@ -4209,7 +4209,7 @@
     "meaning": "廃水処理",
     "category": "construction",
     "level": 1,
-    "sound": "assets/audio/vocab/2580.mp3"
+    "sound": "assets/audio/vocab/25/2580.mp3"
   },
   {
     "id": 2581,
@@ -4218,7 +4218,7 @@
     "meaning": "廃棄物管理",
     "category": "construction",
     "level": 1,
-    "sound": "assets/audio/vocab/2581.mp3"
+    "sound": "assets/audio/vocab/25/2581.mp3"
   },
   {
     "id": 2582,
@@ -4227,7 +4227,7 @@
     "meaning": "環境影響評価(EIA)",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2582.mp3"
+    "sound": "assets/audio/vocab/25/2582.mp3"
   },
   {
     "id": 2583,
@@ -4236,7 +4236,7 @@
     "meaning": "循環経済",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2583.mp3"
+    "sound": "assets/audio/vocab/25/2583.mp3"
   },
   {
     "id": 2584,
@@ -4245,7 +4245,7 @@
     "meaning": "風力タービン",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2584.mp3"
+    "sound": "assets/audio/vocab/25/2584.mp3"
   },
   {
     "id": 2585,
@@ -4254,7 +4254,7 @@
     "meaning": "ダム",
     "category": "construction",
     "level": 1,
-    "sound": "assets/audio/vocab/2585.mp3"
+    "sound": "assets/audio/vocab/25/2585.mp3"
   },
   {
     "id": 2586,
@@ -4263,7 +4263,7 @@
     "meaning": "発電所",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2586.mp3"
+    "sound": "assets/audio/vocab/25/2586.mp3"
   },
   {
     "id": 2587,
@@ -4272,7 +4272,7 @@
     "meaning": "送電網",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2587.mp3"
+    "sound": "assets/audio/vocab/25/2587.mp3"
   },
   {
     "id": 2588,
@@ -4281,7 +4281,7 @@
     "meaning": "機械設計",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2588.mp3"
+    "sound": "assets/audio/vocab/25/2588.mp3"
   },
   {
     "id": 2589,
@@ -4290,7 +4290,7 @@
     "meaning": "製図",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2589.mp3"
+    "sound": "assets/audio/vocab/25/2589.mp3"
   },
   {
     "id": 2590,
@@ -4299,7 +4299,7 @@
     "meaning": "公差",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2590.mp3"
+    "sound": "assets/audio/vocab/25/2590.mp3"
   },
   {
     "id": 2591,
@@ -4308,7 +4308,7 @@
     "meaning": "非破壊検査",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2591.mp3"
+    "sound": "assets/audio/vocab/25/2591.mp3"
   },
   {
     "id": 2592,
@@ -4317,7 +4317,7 @@
     "meaning": "冶金学",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2592.mp3"
+    "sound": "assets/audio/vocab/25/2592.mp3"
   },
   {
     "id": 2593,
@@ -4326,7 +4326,7 @@
     "meaning": "侵食",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2593.mp3"
+    "sound": "assets/audio/vocab/25/2593.mp3"
   },
   {
     "id": 2594,
@@ -4335,7 +4335,7 @@
     "meaning": "破壊、骨折",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2594.mp3"
+    "sound": "assets/audio/vocab/25/2594.mp3"
   },
   {
     "id": 2595,
@@ -4344,7 +4344,7 @@
     "meaning": "変形",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2595.mp3"
+    "sound": "assets/audio/vocab/25/2595.mp3"
   },
   {
     "id": 2596,
@@ -4353,7 +4353,7 @@
     "meaning": "電力システム",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2596.mp3"
+    "sound": "assets/audio/vocab/25/2596.mp3"
   },
   {
     "id": 2597,
@@ -4362,7 +4362,7 @@
     "meaning": "パワーエレクトロニクス",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2597.mp3"
+    "sound": "assets/audio/vocab/25/2597.mp3"
   },
   {
     "id": 2598,
@@ -4371,7 +4371,7 @@
     "meaning": "電気モーター",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2598.mp3"
+    "sound": "assets/audio/vocab/25/2598.mp3"
   },
   {
     "id": 2599,
@@ -4380,7 +4380,7 @@
     "meaning": "エネルギー変換",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2599.mp3"
+    "sound": "assets/audio/vocab/25/2599.mp3"
   },
   {
     "id": 2600,
@@ -4389,7 +4389,7 @@
     "meaning": "エネルギー作物",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2600.mp3"
+    "sound": "assets/audio/vocab/26/2600.mp3"
   },
   {
     "id": 2610,
@@ -4398,7 +4398,7 @@
     "meaning": "製造、生産",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2610.mp3"
+    "sound": "assets/audio/vocab/26/2610.mp3"
   },
   {
     "id": 2750,
@@ -4407,7 +4407,7 @@
     "meaning": "収穫",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2750.mp3"
+    "sound": "assets/audio/vocab/27/2750.mp3"
   },
   {
     "id": 2751,
@@ -4416,7 +4416,7 @@
     "meaning": "加工",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2751.mp3"
+    "sound": "assets/audio/vocab/27/2751.mp3"
   },
   {
     "id": 2752,
@@ -4425,7 +4425,7 @@
     "meaning": "リグノセルロース系バイオマス",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2752.mp3"
+    "sound": "assets/audio/vocab/27/2752.mp3"
   },
   {
     "id": 2753,
@@ -4434,7 +4434,7 @@
     "meaning": "燃焼",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2753.mp3"
+    "sound": "assets/audio/vocab/27/2753.mp3"
   },
   {
     "id": 2754,
@@ -4443,7 +4443,7 @@
     "meaning": "ガス化",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2754.mp3"
+    "sound": "assets/audio/vocab/27/2754.mp3"
   },
   {
     "id": 2755,
@@ -4452,7 +4452,7 @@
     "meaning": "熱分解",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2755.mp3"
+    "sound": "assets/audio/vocab/27/2755.mp3"
   },
   {
     "id": 2756,
@@ -4461,7 +4461,7 @@
     "meaning": "嫌気性消化",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2756.mp3"
+    "sound": "assets/audio/vocab/27/2756.mp3"
   },
   {
     "id": 2757,
@@ -4470,7 +4470,7 @@
     "meaning": "バイオリファイナリー",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2757.mp3"
+    "sound": "assets/audio/vocab/27/2757.mp3"
   },
   {
     "id": 2758,
@@ -4479,7 +4479,7 @@
     "meaning": "石油",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2758.mp3"
+    "sound": "assets/audio/vocab/27/2758.mp3"
   },
   {
     "id": 2759,
@@ -4488,7 +4488,7 @@
     "meaning": "石炭",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2759.mp3"
+    "sound": "assets/audio/vocab/27/2759.mp3"
   },
   {
     "id": 2760,
@@ -4497,7 +4497,7 @@
     "meaning": "天然ガス",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2760.mp3"
+    "sound": "assets/audio/vocab/27/2760.mp3"
   },
   {
     "id": 2761,
@@ -4506,7 +4506,7 @@
     "meaning": "引張強度",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2761.mp3"
+    "sound": "assets/audio/vocab/27/2761.mp3"
   },
   {
     "id": 2762,
@@ -4515,7 +4515,7 @@
     "meaning": "圧縮強度",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2762.mp3"
+    "sound": "assets/audio/vocab/27/2762.mp3"
   },
   {
     "id": 2763,
@@ -4524,7 +4524,7 @@
     "meaning": "曲げ強度",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2763.mp3"
+    "sound": "assets/audio/vocab/27/2763.mp3"
   },
   {
     "id": 2764,
@@ -4533,7 +4533,7 @@
     "meaning": "電気伝導性",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2764.mp3"
+    "sound": "assets/audio/vocab/27/2764.mp3"
   },
   {
     "id": 2765,
@@ -4542,7 +4542,7 @@
     "meaning": "電気絶縁体",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2765.mp3"
+    "sound": "assets/audio/vocab/27/2765.mp3"
   },
   {
     "id": 2766,
@@ -4551,7 +4551,7 @@
     "meaning": "ボイラー",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2766.mp3"
+    "sound": "assets/audio/vocab/27/2766.mp3"
   },
   {
     "id": 2767,
@@ -4560,7 +4560,7 @@
     "meaning": "蒸気タービン",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2767.mp3"
+    "sound": "assets/audio/vocab/27/2767.mp3"
   },
   {
     "id": 2768,
@@ -4569,7 +4569,7 @@
     "meaning": "ポンプ",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2768.mp3"
+    "sound": "assets/audio/vocab/27/2768.mp3"
   },
   {
     "id": 2769,
@@ -4578,7 +4578,7 @@
     "meaning": "バルブ",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2769.mp3"
+    "sound": "assets/audio/vocab/27/2769.mp3"
   },
   {
     "id": 2770,
@@ -4587,7 +4587,7 @@
     "meaning": "パイプ",
     "category": "construction",
     "level": 1,
-    "sound": "assets/audio/vocab/2770.mp3"
+    "sound": "assets/audio/vocab/27/2770.mp3"
   },
   {
     "id": 2771,
@@ -4596,7 +4596,7 @@
     "meaning": "予知保全",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2771.mp3"
+    "sound": "assets/audio/vocab/27/2771.mp3"
   },
   {
     "id": 2772,
@@ -4605,7 +4605,7 @@
     "meaning": "故障解析",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2772.mp3"
+    "sound": "assets/audio/vocab/27/2772.mp3"
   },
   {
     "id": 2773,
@@ -4614,7 +4614,7 @@
     "meaning": "信頼性",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2773.mp3"
+    "sound": "assets/audio/vocab/27/2773.mp3"
   },
   {
     "id": 2774,
@@ -4623,7 +4623,7 @@
     "meaning": "製造性設計(DFM)",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2774.mp3"
+    "sound": "assets/audio/vocab/27/2774.mp3"
   },
   {
     "id": 2775,
@@ -4632,7 +4632,7 @@
     "meaning": "プリント基板(PCB)",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2775.mp3"
+    "sound": "assets/audio/vocab/27/2775.mp3"
   },
   {
     "id": 2776,
@@ -4641,7 +4641,7 @@
     "meaning": "集積回路(IC)",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2776.mp3"
+    "sound": "assets/audio/vocab/27/2776.mp3"
   },
   {
     "id": 2777,
@@ -4650,7 +4650,7 @@
     "meaning": "マイクロプロセッサ",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2777.mp3"
+    "sound": "assets/audio/vocab/27/2777.mp3"
   },
   {
     "id": 2778,
@@ -4659,7 +4659,7 @@
     "meaning": "メモリ",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2778.mp3"
+    "sound": "assets/audio/vocab/27/2778.mp3"
   },
   {
     "id": 2779,
@@ -4668,7 +4668,7 @@
     "meaning": "組み込みシステム",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2779.mp3"
+    "sound": "assets/audio/vocab/27/2779.mp3"
   },
   {
     "id": 2780,
@@ -4677,7 +4677,7 @@
     "meaning": "ファームウェア",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2780.mp3"
+    "sound": "assets/audio/vocab/27/2780.mp3"
   },
   {
     "id": 2781,
@@ -4686,7 +4686,7 @@
     "meaning": "コンピュータアーキテクチャ",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2781.mp3"
+    "sound": "assets/audio/vocab/27/2781.mp3"
   },
   {
     "id": 2783,
@@ -4695,7 +4695,7 @@
     "meaning": "機械学習",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2783.mp3"
+    "sound": "assets/audio/vocab/27/2783.mp3"
   },
   {
     "id": 2784,
@@ -4704,7 +4704,7 @@
     "meaning": "ニューラルネットワーク",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2784.mp3"
+    "sound": "assets/audio/vocab/27/2784.mp3"
   },
   {
     "id": 2785,
@@ -4713,7 +4713,7 @@
     "meaning": "自然言語処理(NLP)",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2785.mp3"
+    "sound": "assets/audio/vocab/27/2785.mp3"
   },
   {
     "id": 2786,
@@ -4722,7 +4722,7 @@
     "meaning": "コンピュータビジョン",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2786.mp3"
+    "sound": "assets/audio/vocab/27/2786.mp3"
   },
   {
     "id": 2787,
@@ -4731,7 +4731,7 @@
     "meaning": "ビッグデータ",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2787.mp3"
+    "sound": "assets/audio/vocab/27/2787.mp3"
   },
   {
     "id": 2788,
@@ -4740,7 +4740,7 @@
     "meaning": "モノのインターネット(IoT)",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2788.mp3"
+    "sound": "assets/audio/vocab/27/2788.mp3"
   },
   {
     "id": 2789,
@@ -4749,7 +4749,7 @@
     "meaning": "クラウドコンピューティング",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2789.mp3"
+    "sound": "assets/audio/vocab/27/2789.mp3"
   },
   {
     "id": 2790,
@@ -4758,7 +4758,7 @@
     "meaning": "ブロックチェーン",
     "category": "technology_it",
     "level": 1,
-    "sound": "assets/audio/vocab/2790.mp3"
+    "sound": "assets/audio/vocab/27/2790.mp3"
   },
   {
     "id": 2791,
@@ -4767,7 +4767,7 @@
     "meaning": "暗号資産",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2791.mp3"
+    "sound": "assets/audio/vocab/27/2791.mp3"
   },
   {
     "id": 2792,
@@ -4776,7 +4776,7 @@
     "meaning": "柱",
     "category": "construction",
     "level": 1,
-    "sound": "assets/audio/vocab/2792.mp3"
+    "sound": "assets/audio/vocab/27/2792.mp3"
   },
   {
     "id": 2793,
@@ -4785,7 +4785,7 @@
     "meaning": "梁",
     "category": "construction",
     "level": 1,
-    "sound": "assets/audio/vocab/2793.mp3"
+    "sound": "assets/audio/vocab/27/2793.mp3"
   },
   {
     "id": 2794,
@@ -4794,7 +4794,7 @@
     "meaning": "床",
     "category": "construction",
     "level": 1,
-    "sound": "assets/audio/vocab/2794.mp3"
+    "sound": "assets/audio/vocab/27/2794.mp3"
   },
   {
     "id": 2795,
@@ -4803,7 +4803,7 @@
     "meaning": "壁",
     "category": "construction",
     "level": 1,
-    "sound": "assets/audio/vocab/2795.mp3"
+    "sound": "assets/audio/vocab/27/2795.mp3"
   },
   {
     "id": 2796,
@@ -4812,7 +4812,7 @@
     "meaning": "屋根",
     "category": "construction",
     "level": 1,
-    "sound": "assets/audio/vocab/2796.mp3"
+    "sound": "assets/audio/vocab/27/2796.mp3"
   },
   {
     "id": 2797,
@@ -4821,7 +4821,7 @@
     "meaning": "鉄筋",
     "category": "construction",
     "level": 1,
-    "sound": "assets/audio/vocab/2797.mp3"
+    "sound": "assets/audio/vocab/27/2797.mp3"
   },
   {
     "id": 2798,
@@ -4830,7 +4830,7 @@
     "meaning": "セメント",
     "category": "construction",
     "level": 1,
-    "sound": "assets/audio/vocab/2798.mp3"
+    "sound": "assets/audio/vocab/27/2798.mp3"
   },
   {
     "id": 2799,
@@ -4839,7 +4839,7 @@
     "meaning": "レンガ",
     "category": "construction",
     "level": 1,
-    "sound": "assets/audio/vocab/2799.mp3"
+    "sound": "assets/audio/vocab/27/2799.mp3"
   },
   {
     "id": 2800,
@@ -4848,7 +4848,7 @@
     "meaning": "木材",
     "category": "construction",
     "level": 1,
-    "sound": "assets/audio/vocab/2800.mp3"
+    "sound": "assets/audio/vocab/28/2800.mp3"
   },
   {
     "id": 2801,
@@ -4857,7 +4857,7 @@
     "meaning": "ガラス",
     "category": "construction",
     "level": 1,
-    "sound": "assets/audio/vocab/2801.mp3"
+    "sound": "assets/audio/vocab/28/2801.mp3"
   },
   {
     "id": 2802,
@@ -4866,7 +4866,7 @@
     "meaning": "断熱材",
     "category": "construction",
     "level": 1,
-    "sound": "assets/audio/vocab/2802.mp3"
+    "sound": "assets/audio/vocab/28/2802.mp3"
   },
   {
     "id": 2803,
@@ -4875,7 +4875,7 @@
     "meaning": "防水",
     "category": "construction",
     "level": 1,
-    "sound": "assets/audio/vocab/2803.mp3"
+    "sound": "assets/audio/vocab/28/2803.mp3"
   },
   {
     "id": 2804,
@@ -4884,7 +4884,7 @@
     "meaning": "空調システム",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2804.mp3"
+    "sound": "assets/audio/vocab/28/2804.mp3"
   },
   {
     "id": 2805,
@@ -4893,7 +4893,7 @@
     "meaning": "配管システム",
     "category": "construction",
     "level": 1,
-    "sound": "assets/audio/vocab/2805.mp3"
+    "sound": "assets/audio/vocab/28/2805.mp3"
   },
   {
     "id": 2806,
@@ -4902,7 +4902,7 @@
     "meaning": "電気システム",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2806.mp3"
+    "sound": "assets/audio/vocab/28/2806.mp3"
   },
   {
     "id": 2807,
@@ -4911,7 +4911,7 @@
     "meaning": "重機",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2807.mp3"
+    "sound": "assets/audio/vocab/28/2807.mp3"
   },
   {
     "id": 2808,
@@ -4920,7 +4920,7 @@
     "meaning": "掘削機",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2808.mp3"
+    "sound": "assets/audio/vocab/28/2808.mp3"
   },
   {
     "id": 2809,
@@ -4929,7 +4929,7 @@
     "meaning": "ブルドーザー",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2809.mp3"
+    "sound": "assets/audio/vocab/28/2809.mp3"
   },
   {
     "id": 2810,
@@ -4938,7 +4938,7 @@
     "meaning": "クレーン",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2810.mp3"
+    "sound": "assets/audio/vocab/28/2810.mp3"
   },
   {
     "id": 2811,
@@ -4947,7 +4947,7 @@
     "meaning": "潤滑",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2811.mp3"
+    "sound": "assets/audio/vocab/28/2811.mp3"
   },
   {
     "id": 2812,
@@ -4956,7 +4956,7 @@
     "meaning": "摩耗",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2812.mp3"
+    "sound": "assets/audio/vocab/28/2812.mp3"
   },
   {
     "id": 2813,
@@ -4965,7 +4965,7 @@
     "meaning": "メンテナンス",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2813.mp3"
+    "sound": "assets/audio/vocab/28/2813.mp3"
   },
   {
     "id": 2814,
@@ -4974,7 +4974,7 @@
     "meaning": "キャリブレーション",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2814.mp3"
+    "sound": "assets/audio/vocab/28/2814.mp3"
   },
   {
     "id": 2815,
@@ -4983,7 +4983,7 @@
     "meaning": "耐久性",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2815.mp3"
+    "sound": "assets/audio/vocab/28/2815.mp3"
   },
   {
     "id": 2816,
@@ -4992,7 +4992,7 @@
     "meaning": "材料疲労",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2816.mp3"
+    "sound": "assets/audio/vocab/28/2816.mp3"
   },
   {
     "id": 2818,
@@ -5001,7 +5001,7 @@
     "meaning": "コーティング",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2818.mp3"
+    "sound": "assets/audio/vocab/28/2818.mp3"
   },
   {
     "id": 2819,
@@ -5010,7 +5010,7 @@
     "meaning": "ステンレス鋼",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2819.mp3"
+    "sound": "assets/audio/vocab/28/2819.mp3"
   },
   {
     "id": 2820,
@@ -5019,7 +5019,7 @@
     "meaning": "アルミニウム",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2820.mp3"
+    "sound": "assets/audio/vocab/28/2820.mp3"
   },
   {
     "id": 2821,
@@ -5028,7 +5028,7 @@
     "meaning": "銅",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2821.mp3"
+    "sound": "assets/audio/vocab/28/2821.mp3"
   },
   {
     "id": 2822,
@@ -5037,7 +5037,7 @@
     "meaning": "亜鉛",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2822.mp3"
+    "sound": "assets/audio/vocab/28/2822.mp3"
   },
   {
     "id": 2823,
@@ -5046,7 +5046,7 @@
     "meaning": "鉛",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2823.mp3"
+    "sound": "assets/audio/vocab/28/2823.mp3"
   },
   {
     "id": 2824,
@@ -5055,7 +5055,7 @@
     "meaning": "スズ",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2824.mp3"
+    "sound": "assets/audio/vocab/28/2824.mp3"
   },
   {
     "id": 2825,
@@ -5064,7 +5064,7 @@
     "meaning": "ニッケル",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2825.mp3"
+    "sound": "assets/audio/vocab/28/2825.mp3"
   },
   {
     "id": 2826,
@@ -5073,7 +5073,7 @@
     "meaning": "クロム",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2826.mp3"
+    "sound": "assets/audio/vocab/28/2826.mp3"
   },
   {
     "id": 2827,
@@ -5082,7 +5082,7 @@
     "meaning": "チタン",
     "category": "mechanical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2827.mp3"
+    "sound": "assets/audio/vocab/28/2827.mp3"
   },
   {
     "id": 2828,
@@ -5091,7 +5091,7 @@
     "meaning": "発電",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2828.mp3"
+    "sound": "assets/audio/vocab/28/2828.mp3"
   },
   {
     "id": 2829,
@@ -5100,7 +5100,7 @@
     "meaning": "送電",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2829.mp3"
+    "sound": "assets/audio/vocab/28/2829.mp3"
   },
   {
     "id": 2830,
@@ -5109,7 +5109,7 @@
     "meaning": "配電",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2830.mp3"
+    "sound": "assets/audio/vocab/28/2830.mp3"
   },
   {
     "id": 2831,
@@ -5118,7 +5118,7 @@
     "meaning": "変電所",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2831.mp3"
+    "sound": "assets/audio/vocab/28/2831.mp3"
   },
   {
     "id": 2832,
@@ -5127,7 +5127,7 @@
     "meaning": "交流(AC)",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2832.mp3"
+    "sound": "assets/audio/vocab/28/2832.mp3"
   },
   {
     "id": 2833,
@@ -5136,7 +5136,7 @@
     "meaning": "直流(DC)",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2833.mp3"
+    "sound": "assets/audio/vocab/28/2833.mp3"
   },
   {
     "id": 2834,
@@ -5145,7 +5145,7 @@
     "meaning": "遮断器、ブレーカー",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2834.mp3"
+    "sound": "assets/audio/vocab/28/2834.mp3"
   },
   {
     "id": 2835,
@@ -5154,7 +5154,7 @@
     "meaning": "ヒューズ",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2835.mp3"
+    "sound": "assets/audio/vocab/28/2835.mp3"
   },
   {
     "id": 2836,
@@ -5163,7 +5163,7 @@
     "meaning": "アース、接地",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2836.mp3"
+    "sound": "assets/audio/vocab/28/2836.mp3"
   },
   {
     "id": 2837,
@@ -5172,7 +5172,7 @@
     "meaning": "電気絶縁",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2837.mp3"
+    "sound": "assets/audio/vocab/28/2837.mp3"
   },
   {
     "id": 2838,
@@ -5181,7 +5181,7 @@
     "meaning": "サージプロテクター",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2838.mp3"
+    "sound": "assets/audio/vocab/28/2838.mp3"
   },
   {
     "id": 2839,
@@ -5190,7 +5190,7 @@
     "meaning": "太陽エネルギー",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2839.mp3"
+    "sound": "assets/audio/vocab/28/2839.mp3"
   },
   {
     "id": 2840,
@@ -5199,7 +5199,7 @@
     "meaning": "風力エネルギー",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2840.mp3"
+    "sound": "assets/audio/vocab/28/2840.mp3"
   },
   {
     "id": 2841,
@@ -5208,7 +5208,7 @@
     "meaning": "水力エネルギー",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2841.mp3"
+    "sound": "assets/audio/vocab/28/2841.mp3"
   },
   {
     "id": 2842,
@@ -5217,7 +5217,7 @@
     "meaning": "地熱エネルギー",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2842.mp3"
+    "sound": "assets/audio/vocab/28/2842.mp3"
   },
   {
     "id": 2843,
@@ -5226,7 +5226,7 @@
     "meaning": "原子力エネルギー",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2843.mp3"
+    "sound": "assets/audio/vocab/28/2843.mp3"
   },
   {
     "id": 2844,
@@ -5235,7 +5235,7 @@
     "meaning": "省エネルギー",
     "category": "electrical_engineering",
     "level": 1,
-    "sound": "assets/audio/vocab/2844.mp3"
+    "sound": "assets/audio/vocab/28/2844.mp3"
   },
   {
     "id": 2845,
@@ -5244,7 +5244,7 @@
     "meaning": "温室効果ガス排出",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2845.mp3"
+    "sound": "assets/audio/vocab/28/2845.mp3"
   },
   {
     "id": 2846,
@@ -5253,7 +5253,7 @@
     "meaning": "カーボンフットプリント",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2846.mp3"
+    "sound": "assets/audio/vocab/28/2846.mp3"
   },
   {
     "id": 2847,
@@ -5262,7 +5262,7 @@
     "meaning": "気候変動",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2847.mp3"
+    "sound": "assets/audio/vocab/28/2847.mp3"
   },
   {
     "id": 2848,
@@ -5271,7 +5271,7 @@
     "meaning": "地球温暖化",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2848.mp3"
+    "sound": "assets/audio/vocab/28/2848.mp3"
   },
   {
     "id": 2849,
@@ -5280,7 +5280,7 @@
     "meaning": "汚染",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2849.mp3"
+    "sound": "assets/audio/vocab/28/2849.mp3"
   },
   {
     "id": 2850,
@@ -5289,7 +5289,7 @@
     "meaning": "リサイクル",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2850.mp3"
+    "sound": "assets/audio/vocab/28/2850.mp3"
   },
   {
     "id": 2856,
@@ -5298,7 +5298,7 @@
     "meaning": "傾聴",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2856.mp3"
+    "sound": "assets/audio/vocab/28/2856.mp3"
   },
   {
     "id": 2876,
@@ -5307,7 +5307,7 @@
     "meaning": "身体的健康",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2876.mp3"
+    "sound": "assets/audio/vocab/28/2876.mp3"
   },
   {
     "id": 2877,
@@ -5316,7 +5316,7 @@
     "meaning": "精神的健康",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2877.mp3"
+    "sound": "assets/audio/vocab/28/2877.mp3"
   },
   {
     "id": 2878,
@@ -5325,7 +5325,7 @@
     "meaning": "ウェルビーイング",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2878.mp3"
+    "sound": "assets/audio/vocab/28/2878.mp3"
   },
   {
     "id": 2879,
@@ -5334,7 +5334,7 @@
     "meaning": "人生の意味",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2879.mp3"
+    "sound": "assets/audio/vocab/28/2879.mp3"
   },
   {
     "id": 2881,
@@ -5343,7 +5343,7 @@
     "meaning": "価値",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2881.mp3"
+    "sound": "assets/audio/vocab/28/2881.mp3"
   },
   {
     "id": 2883,
@@ -5352,7 +5352,7 @@
     "meaning": "夢",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2883.mp3"
+    "sound": "assets/audio/vocab/28/2883.mp3"
   },
   {
     "id": 2884,
@@ -5361,7 +5361,7 @@
     "meaning": "願望",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2884.mp3"
+    "sound": "assets/audio/vocab/28/2884.mp3"
   },
   {
     "id": 2887,
@@ -5370,7 +5370,7 @@
     "meaning": "創造性",
     "category": "office_business",
     "level": 1,
-    "sound": "assets/audio/vocab/2887.mp3"
+    "sound": "assets/audio/vocab/28/2887.mp3"
   },
   {
     "id": 2907,
@@ -5379,7 +5379,7 @@
     "meaning": "美",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2907.mp3"
+    "sound": "assets/audio/vocab/29/2907.mp3"
   },
   {
     "id": 2925,
@@ -5388,7 +5388,7 @@
     "meaning": "人類",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2925.mp3"
+    "sound": "assets/audio/vocab/29/2925.mp3"
   },
   {
     "id": 2927,
@@ -5397,7 +5397,7 @@
     "meaning": "時間",
     "category": "numbers_time",
     "level": 1,
-    "sound": "assets/audio/vocab/2927.mp3"
+    "sound": "assets/audio/vocab/29/2927.mp3"
   },
   {
     "id": 2938,
@@ -5406,7 +5406,7 @@
     "meaning": "感情",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2938.mp3"
+    "sound": "assets/audio/vocab/29/2938.mp3"
   },
   {
     "id": 2956,
@@ -5415,7 +5415,7 @@
     "meaning": "カルマ",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2956.mp3"
+    "sound": "assets/audio/vocab/29/2956.mp3"
   },
   {
     "id": 2959,
@@ -5424,7 +5424,7 @@
     "meaning": "意味",
     "category": "greetings_expressions",
     "level": 1,
-    "sound": "assets/audio/vocab/2959.mp3"
+    "sound": "assets/audio/vocab/29/2959.mp3"
   },
   {
     "id": 2965,
@@ -5433,7 +5433,7 @@
     "meaning": "痛み",
     "category": "health_medical",
     "level": 1,
-    "sound": "assets/audio/vocab/2965.mp3"
+    "sound": "assets/audio/vocab/29/2965.mp3"
   },
   {
     "id": 2966,
@@ -5442,6 +5442,6 @@
     "meaning": "欲望",
     "category": "people_introduction",
     "level": 1,
-    "sound": "assets/audio/vocab/2966.mp3"
+    "sound": "assets/audio/vocab/29/2966.mp3"
   }
 ]

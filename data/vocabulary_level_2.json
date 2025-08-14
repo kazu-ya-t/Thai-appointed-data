@@ -6,7 +6,7 @@
     "meaning": "経済",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/163.mp3"
+    "sound": "assets/audio/vocab/01/163.mp3"
   },
   {
     "id": 164,
@@ -15,7 +15,7 @@
     "meaning": "政治",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/164.mp3"
+    "sound": "assets/audio/vocab/01/164.mp3"
   },
   {
     "id": 165,
@@ -24,7 +24,7 @@
     "meaning": "社会",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/165.mp3"
+    "sound": "assets/audio/vocab/01/165.mp3"
   },
   {
     "id": 166,
@@ -33,7 +33,7 @@
     "meaning": "文化",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/166.mp3"
+    "sound": "assets/audio/vocab/01/166.mp3"
   },
   {
     "id": 167,
@@ -42,7 +42,7 @@
     "meaning": "歴史",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/167.mp3"
+    "sound": "assets/audio/vocab/01/167.mp3"
   },
   {
     "id": 168,
@@ -51,7 +51,7 @@
     "meaning": "環境",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/168.mp3"
+    "sound": "assets/audio/vocab/01/168.mp3"
   },
   {
     "id": 169,
@@ -60,7 +60,7 @@
     "meaning": "技術、テクノロジー",
     "category": "technology_it",
     "level": 2,
-    "sound": "assets/audio/vocab/169.mp3"
+    "sound": "assets/audio/vocab/01/169.mp3"
   },
   {
     "id": 170,
@@ -69,7 +69,7 @@
     "meaning": "科学",
     "category": "technology_it",
     "level": 2,
-    "sound": "assets/audio/vocab/170.mp3"
+    "sound": "assets/audio/vocab/01/170.mp3"
   },
   {
     "id": 171,
@@ -78,7 +78,7 @@
     "meaning": "教育",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/171.mp3"
+    "sound": "assets/audio/vocab/01/171.mp3"
   },
   {
     "id": 172,
@@ -87,7 +87,7 @@
     "meaning": "健康",
     "category": "health_medical",
     "level": 2,
-    "sound": "assets/audio/vocab/172.mp3"
+    "sound": "assets/audio/vocab/01/172.mp3"
   },
   {
     "id": 175,
@@ -96,7 +96,7 @@
     "meaning": "投資",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/175.mp3"
+    "sound": "assets/audio/vocab/01/175.mp3"
   },
   {
     "id": 176,
@@ -105,7 +105,7 @@
     "meaning": "マーケティング",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/176.mp3"
+    "sound": "assets/audio/vocab/01/176.mp3"
   },
   {
     "id": 177,
@@ -114,7 +114,7 @@
     "meaning": "管理、マネジメント",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/177.mp3"
+    "sound": "assets/audio/vocab/01/177.mp3"
   },
   {
     "id": 178,
@@ -123,7 +123,7 @@
     "meaning": "ビジネス",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/178.mp3"
+    "sound": "assets/audio/vocab/01/178.mp3"
   },
   {
     "id": 179,
@@ -132,7 +132,7 @@
     "meaning": "産業",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/179.mp3"
+    "sound": "assets/audio/vocab/01/179.mp3"
   },
   {
     "id": 180,
@@ -141,7 +141,7 @@
     "meaning": "知識",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/180.mp3"
+    "sound": "assets/audio/vocab/01/180.mp3"
   },
   {
     "id": 181,
@@ -150,7 +150,7 @@
     "meaning": "情報",
     "category": "technology_it",
     "level": 2,
-    "sound": "assets/audio/vocab/181.mp3"
+    "sound": "assets/audio/vocab/01/181.mp3"
   },
   {
     "id": 182,
@@ -159,7 +159,7 @@
     "meaning": "コミュニケーション",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/182.mp3"
+    "sound": "assets/audio/vocab/01/182.mp3"
   },
   {
     "id": 183,
@@ -168,7 +168,7 @@
     "meaning": "関係",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/183.mp3"
+    "sound": "assets/audio/vocab/01/183.mp3"
   },
   {
     "id": 184,
@@ -177,7 +177,7 @@
     "meaning": "機会",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/184.mp3"
+    "sound": "assets/audio/vocab/01/184.mp3"
   },
   {
     "id": 185,
@@ -186,7 +186,7 @@
     "meaning": "問題",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/185.mp3"
+    "sound": "assets/audio/vocab/01/185.mp3"
   },
   {
     "id": 186,
@@ -195,7 +195,7 @@
     "meaning": "問題解決",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/186.mp3"
+    "sound": "assets/audio/vocab/01/186.mp3"
   },
   {
     "id": 187,
@@ -204,7 +204,7 @@
     "meaning": "目標",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/187.mp3"
+    "sound": "assets/audio/vocab/01/187.mp3"
   },
   {
     "id": 189,
@@ -213,7 +213,7 @@
     "meaning": "プロジェクト",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/189.mp3"
+    "sound": "assets/audio/vocab/01/189.mp3"
   },
   {
     "id": 190,
@@ -222,7 +222,7 @@
     "meaning": "結果",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/190.mp3"
+    "sound": "assets/audio/vocab/01/190.mp3"
   },
   {
     "id": 191,
@@ -231,7 +231,7 @@
     "meaning": "成功",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/191.mp3"
+    "sound": "assets/audio/vocab/01/191.mp3"
   },
   {
     "id": 192,
@@ -240,7 +240,7 @@
     "meaning": "失敗",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/192.mp3"
+    "sound": "assets/audio/vocab/01/192.mp3"
   },
   {
     "id": 193,
@@ -249,7 +249,7 @@
     "meaning": "経験",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/193.mp3"
+    "sound": "assets/audio/vocab/01/193.mp3"
   },
   {
     "id": 194,
@@ -258,7 +258,7 @@
     "meaning": "スキル",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/194.mp3"
+    "sound": "assets/audio/vocab/01/194.mp3"
   },
   {
     "id": 195,
@@ -267,7 +267,7 @@
     "meaning": "能力",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/195.mp3"
+    "sound": "assets/audio/vocab/01/195.mp3"
   },
   {
     "id": 196,
@@ -276,7 +276,7 @@
     "meaning": "品質",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/196.mp3"
+    "sound": "assets/audio/vocab/01/196.mp3"
   },
   {
     "id": 197,
@@ -285,7 +285,7 @@
     "meaning": "量",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/197.mp3"
+    "sound": "assets/audio/vocab/01/197.mp3"
   },
   {
     "id": 198,
@@ -294,7 +294,7 @@
     "meaning": "価格",
     "category": "shopping",
     "level": 2,
-    "sound": "assets/audio/vocab/198.mp3"
+    "sound": "assets/audio/vocab/01/198.mp3"
   },
   {
     "id": 199,
@@ -303,7 +303,7 @@
     "meaning": "コスト",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/199.mp3"
+    "sound": "assets/audio/vocab/01/199.mp3"
   },
   {
     "id": 200,
@@ -312,7 +312,7 @@
     "meaning": "利益",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/200.mp3"
+    "sound": "assets/audio/vocab/02/200.mp3"
   },
   {
     "id": 601,
@@ -321,7 +321,7 @@
     "meaning": "会議",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/601.mp3"
+    "sound": "assets/audio/vocab/06/601.mp3"
   },
   {
     "id": 602,
@@ -330,7 +330,7 @@
     "meaning": "議題",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/602.mp3"
+    "sound": "assets/audio/vocab/06/602.mp3"
   },
   {
     "id": 603,
@@ -339,7 +339,7 @@
     "meaning": "参加者",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/603.mp3"
+    "sound": "assets/audio/vocab/06/603.mp3"
   },
   {
     "id": 604,
@@ -348,7 +348,7 @@
     "meaning": "意思決定",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/604.mp3"
+    "sound": "assets/audio/vocab/06/604.mp3"
   },
   {
     "id": 605,
@@ -357,7 +357,7 @@
     "meaning": "提案",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/605.mp3"
+    "sound": "assets/audio/vocab/06/605.mp3"
   },
   {
     "id": 606,
@@ -366,7 +366,7 @@
     "meaning": "プレゼンテーション",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/606.mp3"
+    "sound": "assets/audio/vocab/06/606.mp3"
   },
   {
     "id": 607,
@@ -375,7 +375,7 @@
     "meaning": "報告，報告書",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/607.mp3"
+    "sound": "assets/audio/vocab/06/607.mp3"
   },
   {
     "id": 608,
@@ -384,7 +384,7 @@
     "meaning": "書類",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/608.mp3"
+    "sound": "assets/audio/vocab/06/608.mp3"
   },
   {
     "id": 609,
@@ -393,7 +393,7 @@
     "meaning": "締め切り",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/609.mp3"
+    "sound": "assets/audio/vocab/06/609.mp3"
   },
   {
     "id": 610,
@@ -402,7 +402,7 @@
     "meaning": "スケジュール",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/610.mp3"
+    "sound": "assets/audio/vocab/06/610.mp3"
   },
   {
     "id": 611,
@@ -411,7 +411,7 @@
     "meaning": "アポイントメント",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/611.mp3"
+    "sound": "assets/audio/vocab/06/611.mp3"
   },
   {
     "id": 612,
@@ -420,7 +420,7 @@
     "meaning": "Eメール",
     "category": "technology_it",
     "level": 2,
-    "sound": "assets/audio/vocab/612.mp3"
+    "sound": "assets/audio/vocab/06/612.mp3"
   },
   {
     "id": 615,
@@ -429,7 +429,7 @@
     "meaning": "契約",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/615.mp3"
+    "sound": "assets/audio/vocab/06/615.mp3"
   },
   {
     "id": 629,
@@ -438,7 +438,7 @@
     "meaning": "生産者",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/629.mp3"
+    "sound": "assets/audio/vocab/06/629.mp3"
   },
   {
     "id": 630,
@@ -447,7 +447,7 @@
     "meaning": "需要",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/630.mp3"
+    "sound": "assets/audio/vocab/06/630.mp3"
   },
   {
     "id": 631,
@@ -456,7 +456,7 @@
     "meaning": "供給",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/631.mp3"
+    "sound": "assets/audio/vocab/06/631.mp3"
   },
   {
     "id": 632,
@@ -465,7 +465,7 @@
     "meaning": "競争",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/632.mp3"
+    "sound": "assets/audio/vocab/06/632.mp3"
   },
   {
     "id": 633,
@@ -474,7 +474,7 @@
     "meaning": "交渉",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/633.mp3"
+    "sound": "assets/audio/vocab/06/633.mp3"
   },
   {
     "id": 635,
@@ -483,7 +483,7 @@
     "meaning": "合意",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/635.mp3"
+    "sound": "assets/audio/vocab/06/635.mp3"
   },
   {
     "id": 641,
@@ -492,7 +492,7 @@
     "meaning": "輸送",
     "category": "transportation",
     "level": 2,
-    "sound": "assets/audio/vocab/641.mp3"
+    "sound": "assets/audio/vocab/06/641.mp3"
   },
   {
     "id": 642,
@@ -501,7 +501,7 @@
     "meaning": "倉庫",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/642.mp3"
+    "sound": "assets/audio/vocab/06/642.mp3"
   },
   {
     "id": 643,
@@ -510,7 +510,7 @@
     "meaning": "在庫",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/643.mp3"
+    "sound": "assets/audio/vocab/06/643.mp3"
   },
   {
     "id": 644,
@@ -519,7 +519,7 @@
     "meaning": "購買",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/644.mp3"
+    "sound": "assets/audio/vocab/06/644.mp3"
   },
   {
     "id": 645,
@@ -528,7 +528,7 @@
     "meaning": "販売",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/645.mp3"
+    "sound": "assets/audio/vocab/06/645.mp3"
   },
   {
     "id": 646,
@@ -537,7 +537,7 @@
     "meaning": "顧客",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/646.mp3"
+    "sound": "assets/audio/vocab/06/646.mp3"
   },
   {
     "id": 647,
@@ -546,7 +546,7 @@
     "meaning": "顧客サービス",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/647.mp3"
+    "sound": "assets/audio/vocab/06/647.mp3"
   },
   {
     "id": 648,
@@ -555,7 +555,7 @@
     "meaning": "保証",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/648.mp3"
+    "sound": "assets/audio/vocab/06/648.mp3"
   },
   {
     "id": 649,
@@ -564,7 +564,7 @@
     "meaning": "修理",
     "category": "mechanical_engineering",
     "level": 2,
-    "sound": "assets/audio/vocab/649.mp3"
+    "sound": "assets/audio/vocab/06/649.mp3"
   },
   {
     "id": 651,
@@ -573,7 +573,7 @@
     "meaning": "従業員",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/651.mp3"
+    "sound": "assets/audio/vocab/06/651.mp3"
   },
   {
     "id": 653,
@@ -582,7 +582,7 @@
     "meaning": "部下",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/653.mp3"
+    "sound": "assets/audio/vocab/06/653.mp3"
   },
   {
     "id": 655,
@@ -591,7 +591,7 @@
     "meaning": "部署",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/655.mp3"
+    "sound": "assets/audio/vocab/06/655.mp3"
   },
   {
     "id": 656,
@@ -600,7 +600,7 @@
     "meaning": "事務所、オフィス",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/656.mp3"
+    "sound": "assets/audio/vocab/06/656.mp3"
   },
   {
     "id": 657,
@@ -609,7 +609,7 @@
     "meaning": "給料",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/657.mp3"
+    "sound": "assets/audio/vocab/06/657.mp3"
   },
   {
     "id": 658,
@@ -618,7 +618,7 @@
     "meaning": "ボーナス",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/658.mp3"
+    "sound": "assets/audio/vocab/06/658.mp3"
   },
   {
     "id": 659,
@@ -627,7 +627,7 @@
     "meaning": "休暇",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/659.mp3"
+    "sound": "assets/audio/vocab/06/659.mp3"
   },
   {
     "id": 660,
@@ -636,7 +636,7 @@
     "meaning": "欠勤",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/660.mp3"
+    "sound": "assets/audio/vocab/06/660.mp3"
   },
   {
     "id": 661,
@@ -645,7 +645,7 @@
     "meaning": "残業",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/661.mp3"
+    "sound": "assets/audio/vocab/06/661.mp3"
   },
   {
     "id": 662,
@@ -654,7 +654,7 @@
     "meaning": "通勤",
     "category": "transportation",
     "level": 2,
-    "sound": "assets/audio/vocab/662.mp3"
+    "sound": "assets/audio/vocab/06/662.mp3"
   },
   {
     "id": 663,
@@ -663,7 +663,7 @@
     "meaning": "出張",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/663.mp3"
+    "sound": "assets/audio/vocab/06/663.mp3"
   },
   {
     "id": 664,
@@ -672,7 +672,7 @@
     "meaning": "責任",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/664.mp3"
+    "sound": "assets/audio/vocab/06/664.mp3"
   },
   {
     "id": 665,
@@ -681,7 +681,7 @@
     "meaning": "役割、義務",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/665.mp3"
+    "sound": "assets/audio/vocab/06/665.mp3"
   },
   {
     "id": 666,
@@ -690,7 +690,7 @@
     "meaning": "達成",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/666.mp3"
+    "sound": "assets/audio/vocab/06/666.mp3"
   },
   {
     "id": 667,
@@ -699,7 +699,7 @@
     "meaning": "挑戦、課題",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/667.mp3"
+    "sound": "assets/audio/vocab/06/667.mp3"
   },
   {
     "id": 668,
@@ -708,7 +708,7 @@
     "meaning": "戦略",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/668.mp3"
+    "sound": "assets/audio/vocab/06/668.mp3"
   },
   {
     "id": 669,
@@ -717,7 +717,7 @@
     "meaning": "戦術",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/669.mp3"
+    "sound": "assets/audio/vocab/06/669.mp3"
   },
   {
     "id": 670,
@@ -726,7 +726,7 @@
     "meaning": "競合他社",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/670.mp3"
+    "sound": "assets/audio/vocab/06/670.mp3"
   },
   {
     "id": 672,
@@ -735,7 +735,7 @@
     "meaning": "学校",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/672.mp3"
+    "sound": "assets/audio/vocab/06/672.mp3"
   },
   {
     "id": 676,
@@ -744,7 +744,7 @@
     "meaning": "科目",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/676.mp3"
+    "sound": "assets/audio/vocab/06/676.mp3"
   },
   {
     "id": 678,
@@ -753,7 +753,7 @@
     "meaning": "宿題",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/678.mp3"
+    "sound": "assets/audio/vocab/06/678.mp3"
   },
   {
     "id": 679,
@@ -762,7 +762,7 @@
     "meaning": "試験を受ける",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/679.mp3"
+    "sound": "assets/audio/vocab/06/679.mp3"
   },
   {
     "id": 680,
@@ -771,7 +771,7 @@
     "meaning": "合格する、通過する",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/680.mp3"
+    "sound": "assets/audio/vocab/06/680.mp3"
   },
   {
     "id": 681,
@@ -780,7 +780,7 @@
     "meaning": "不合格になる、落ちる",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/681.mp3"
+    "sound": "assets/audio/vocab/06/681.mp3"
   },
   {
     "id": 682,
@@ -789,7 +789,7 @@
     "meaning": "点数、スコア",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/682.mp3"
+    "sound": "assets/audio/vocab/06/682.mp3"
   },
   {
     "id": 683,
@@ -798,7 +798,7 @@
     "meaning": "教室",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/683.mp3"
+    "sound": "assets/audio/vocab/06/683.mp3"
   },
   {
     "id": 684,
@@ -807,7 +807,7 @@
     "meaning": "観光",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/684.mp3"
+    "sound": "assets/audio/vocab/06/684.mp3"
   },
   {
     "id": 685,
@@ -816,7 +816,7 @@
     "meaning": "観光客",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/685.mp3"
+    "sound": "assets/audio/vocab/06/685.mp3"
   },
   {
     "id": 686,
@@ -825,7 +825,7 @@
     "meaning": "予約",
     "category": "hotel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/686.mp3"
+    "sound": "assets/audio/vocab/06/686.mp3"
   },
   {
     "id": 687,
@@ -834,7 +834,7 @@
     "meaning": "旅行",
     "category": "transportation",
     "level": 2,
-    "sound": "assets/audio/vocab/687.mp3"
+    "sound": "assets/audio/vocab/06/687.mp3"
   },
   {
     "id": 688,
@@ -843,7 +843,7 @@
     "meaning": "宿泊施設",
     "category": "hotel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/688.mp3"
+    "sound": "assets/audio/vocab/06/688.mp3"
   },
   {
     "id": 689,
@@ -852,7 +852,7 @@
     "meaning": "地図",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/689.mp3"
+    "sound": "assets/audio/vocab/06/689.mp3"
   },
   {
     "id": 690,
@@ -861,7 +861,7 @@
     "meaning": "方向",
     "category": "transportation",
     "level": 2,
-    "sound": "assets/audio/vocab/690.mp3"
+    "sound": "assets/audio/vocab/06/690.mp3"
   },
   {
     "id": 691,
@@ -870,7 +870,7 @@
     "meaning": "お土産",
     "category": "shopping",
     "level": 2,
-    "sound": "assets/audio/vocab/691.mp3"
+    "sound": "assets/audio/vocab/06/691.mp3"
   },
   {
     "id": 692,
@@ -879,7 +879,7 @@
     "meaning": "通貨",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/692.mp3"
+    "sound": "assets/audio/vocab/06/692.mp3"
   },
   {
     "id": 693,
@@ -888,7 +888,7 @@
     "meaning": "両替する",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/693.mp3"
+    "sound": "assets/audio/vocab/06/693.mp3"
   },
   {
     "id": 694,
@@ -897,7 +897,7 @@
     "meaning": "ビザ",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/694.mp3"
+    "sound": "assets/audio/vocab/06/694.mp3"
   },
   {
     "id": 695,
@@ -906,7 +906,7 @@
     "meaning": "パスポート",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/695.mp3"
+    "sound": "assets/audio/vocab/06/695.mp3"
   },
   {
     "id": 696,
@@ -915,7 +915,7 @@
     "meaning": "税関",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/696.mp3"
+    "sound": "assets/audio/vocab/06/696.mp3"
   },
   {
     "id": 697,
@@ -924,7 +924,7 @@
     "meaning": "似ている",
     "category": "greetings_expressions",
     "level": 2,
-    "sound": "assets/audio/vocab/697.mp3"
+    "sound": "assets/audio/vocab/06/697.mp3"
   },
   {
     "id": 707,
@@ -933,7 +933,7 @@
     "meaning": "できる（能力）",
     "category": "greetings_expressions",
     "level": 2,
-    "sound": "assets/audio/vocab/707.mp3"
+    "sound": "assets/audio/vocab/07/707.mp3"
   },
   {
     "id": 720,
@@ -942,7 +942,7 @@
     "meaning": "勝つ",
     "category": "greetings_expressions",
     "level": 2,
-    "sound": "assets/audio/vocab/720.mp3"
+    "sound": "assets/audio/vocab/07/720.mp3"
   },
   {
     "id": 721,
@@ -951,7 +951,7 @@
     "meaning": "負ける",
     "category": "greetings_expressions",
     "level": 2,
-    "sound": "assets/audio/vocab/721.mp3"
+    "sound": "assets/audio/vocab/07/721.mp3"
   },
   {
     "id": 722,
@@ -960,7 +960,7 @@
     "meaning": "危険",
     "category": "health_medical",
     "level": 2,
-    "sound": "assets/audio/vocab/722.mp3"
+    "sound": "assets/audio/vocab/07/722.mp3"
   },
   {
     "id": 730,
@@ -969,7 +969,7 @@
     "meaning": "自然",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/730.mp3"
+    "sound": "assets/audio/vocab/07/730.mp3"
   },
   {
     "id": 741,
@@ -978,7 +978,7 @@
     "meaning": "歌手",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/741.mp3"
+    "sound": "assets/audio/vocab/07/741.mp3"
   },
   {
     "id": 766,
@@ -987,7 +987,7 @@
     "meaning": "シェフ",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/766.mp3"
+    "sound": "assets/audio/vocab/07/766.mp3"
   },
   {
     "id": 767,
@@ -996,7 +996,7 @@
     "meaning": "ウェイター／ウェイトレス",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/767.mp3"
+    "sound": "assets/audio/vocab/07/767.mp3"
   },
   {
     "id": 768,
@@ -1005,7 +1005,7 @@
     "meaning": "美容師",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/768.mp3"
+    "sound": "assets/audio/vocab/07/768.mp3"
   },
   {
     "id": 769,
@@ -1014,7 +1014,7 @@
     "meaning": "販売員",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/769.mp3"
+    "sound": "assets/audio/vocab/07/769.mp3"
   },
   {
     "id": 770,
@@ -1023,7 +1023,7 @@
     "meaning": "運転手",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/770.mp3"
+    "sound": "assets/audio/vocab/07/770.mp3"
   },
   {
     "id": 771,
@@ -1032,7 +1032,7 @@
     "meaning": "主婦、家政婦",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/771.mp3"
+    "sound": "assets/audio/vocab/07/771.mp3"
   },
   {
     "id": 772,
@@ -1041,7 +1041,7 @@
     "meaning": "主夫、執事",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/772.mp3"
+    "sound": "assets/audio/vocab/07/772.mp3"
   },
   {
     "id": 777,
@@ -1050,7 +1050,7 @@
     "meaning": "祭り",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/777.mp3"
+    "sound": "assets/audio/vocab/07/777.mp3"
   },
   {
     "id": 783,
@@ -1059,7 +1059,7 @@
     "meaning": "趣味",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/783.mp3"
+    "sound": "assets/audio/vocab/07/783.mp3"
   },
   {
     "id": 789,
@@ -1068,7 +1068,7 @@
     "meaning": "料理",
     "category": "food_restaurant",
     "level": 2,
-    "sound": "assets/audio/vocab/789.mp3"
+    "sound": "assets/audio/vocab/07/789.mp3"
   },
   {
     "id": 790,
@@ -1077,7 +1077,7 @@
     "meaning": "読書",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/790.mp3"
+    "sound": "assets/audio/vocab/07/790.mp3"
   },
   {
     "id": 791,
@@ -1086,7 +1086,7 @@
     "meaning": "執筆",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/791.mp3"
+    "sound": "assets/audio/vocab/07/791.mp3"
   },
   {
     "id": 793,
@@ -1095,7 +1095,7 @@
     "meaning": "ダンス",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/793.mp3"
+    "sound": "assets/audio/vocab/07/793.mp3"
   },
   {
     "id": 794,
@@ -1104,7 +1104,7 @@
     "meaning": "歌うこと",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/794.mp3"
+    "sound": "assets/audio/vocab/07/794.mp3"
   },
   {
     "id": 795,
@@ -1113,7 +1113,7 @@
     "meaning": "ゲームをすること",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/795.mp3"
+    "sound": "assets/audio/vocab/07/795.mp3"
   },
   {
     "id": 872,
@@ -1122,7 +1122,7 @@
     "meaning": "春",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/872.mp3"
+    "sound": "assets/audio/vocab/08/872.mp3"
   },
   {
     "id": 873,
@@ -1131,7 +1131,7 @@
     "meaning": "秋",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/873.mp3"
+    "sound": "assets/audio/vocab/08/873.mp3"
   },
   {
     "id": 878,
@@ -1140,7 +1140,7 @@
     "meaning": "方角",
     "category": "transportation",
     "level": 2,
-    "sound": "assets/audio/vocab/878.mp3"
+    "sound": "assets/audio/vocab/08/878.mp3"
   },
   {
     "id": 879,
@@ -1149,7 +1149,7 @@
     "meaning": "左",
     "category": "transportation",
     "level": 2,
-    "sound": "assets/audio/vocab/879.mp3"
+    "sound": "assets/audio/vocab/08/879.mp3"
   },
   {
     "id": 880,
@@ -1158,7 +1158,7 @@
     "meaning": "右",
     "category": "transportation",
     "level": 2,
-    "sound": "assets/audio/vocab/880.mp3"
+    "sound": "assets/audio/vocab/08/880.mp3"
   },
   {
     "id": 881,
@@ -1167,7 +1167,7 @@
     "meaning": "まっすぐ",
     "category": "transportation",
     "level": 2,
-    "sound": "assets/audio/vocab/881.mp3"
+    "sound": "assets/audio/vocab/08/881.mp3"
   },
   {
     "id": 882,
@@ -1176,7 +1176,7 @@
     "meaning": "前",
     "category": "transportation",
     "level": 2,
-    "sound": "assets/audio/vocab/882.mp3"
+    "sound": "assets/audio/vocab/08/882.mp3"
   },
   {
     "id": 883,
@@ -1185,7 +1185,7 @@
     "meaning": "後ろ",
     "category": "transportation",
     "level": 2,
-    "sound": "assets/audio/vocab/883.mp3"
+    "sound": "assets/audio/vocab/08/883.mp3"
   },
   {
     "id": 884,
@@ -1194,7 +1194,7 @@
     "meaning": "上",
     "category": "greetings_expressions",
     "level": 2,
-    "sound": "assets/audio/vocab/884.mp3"
+    "sound": "assets/audio/vocab/08/884.mp3"
   },
   {
     "id": 885,
@@ -1203,7 +1203,7 @@
     "meaning": "下",
     "category": "greetings_expressions",
     "level": 2,
-    "sound": "assets/audio/vocab/885.mp3"
+    "sound": "assets/audio/vocab/08/885.mp3"
   },
   {
     "id": 886,
@@ -1212,7 +1212,7 @@
     "meaning": "中",
     "category": "greetings_expressions",
     "level": 2,
-    "sound": "assets/audio/vocab/886.mp3"
+    "sound": "assets/audio/vocab/08/886.mp3"
   },
   {
     "id": 887,
@@ -1221,7 +1221,7 @@
     "meaning": "外",
     "category": "greetings_expressions",
     "level": 2,
-    "sound": "assets/audio/vocab/887.mp3"
+    "sound": "assets/audio/vocab/08/887.mp3"
   },
   {
     "id": 891,
@@ -1230,7 +1230,7 @@
     "meaning": "宇宙",
     "category": "technology_it",
     "level": 2,
-    "sound": "assets/audio/vocab/891.mp3"
+    "sound": "assets/audio/vocab/08/891.mp3"
   },
   {
     "id": 892,
@@ -1239,7 +1239,7 @@
     "meaning": "太陽",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/892.mp3"
+    "sound": "assets/audio/vocab/08/892.mp3"
   },
   {
     "id": 893,
@@ -1248,7 +1248,7 @@
     "meaning": "月",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/893.mp3"
+    "sound": "assets/audio/vocab/08/893.mp3"
   },
   {
     "id": 896,
@@ -1257,7 +1257,7 @@
     "meaning": "砂漠",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/896.mp3"
+    "sound": "assets/audio/vocab/08/896.mp3"
   },
   {
     "id": 995,
@@ -1266,7 +1266,7 @@
     "meaning": "パフォーマンス",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/995.mp3"
+    "sound": "assets/audio/vocab/09/995.mp3"
   },
   {
     "id": 996,
@@ -1275,7 +1275,7 @@
     "meaning": "コンサート",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/996.mp3"
+    "sound": "assets/audio/vocab/09/996.mp3"
   },
   {
     "id": 997,
@@ -1284,7 +1284,7 @@
     "meaning": "演劇",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/997.mp3"
+    "sound": "assets/audio/vocab/09/997.mp3"
   },
   {
     "id": 998,
@@ -1293,7 +1293,7 @@
     "meaning": "展覧会",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/998.mp3"
+    "sound": "assets/audio/vocab/09/998.mp3"
   },
   {
     "id": 1001,
@@ -1302,7 +1302,7 @@
     "meaning": "動物園",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/1001.mp3"
+    "sound": "assets/audio/vocab/10/1001.mp3"
   },
   {
     "id": 1002,
@@ -1311,7 +1311,7 @@
     "meaning": "遊園地",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/1002.mp3"
+    "sound": "assets/audio/vocab/10/1002.mp3"
   },
   {
     "id": 1004,
@@ -1320,7 +1320,7 @@
     "meaning": "映画館",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/1004.mp3"
+    "sound": "assets/audio/vocab/10/1004.mp3"
   },
   {
     "id": 1005,
@@ -1329,7 +1329,7 @@
     "meaning": "スタジアム",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/1005.mp3"
+    "sound": "assets/audio/vocab/10/1005.mp3"
   },
   {
     "id": 1006,
@@ -1338,7 +1338,7 @@
     "meaning": "プール",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/1006.mp3"
+    "sound": "assets/audio/vocab/10/1006.mp3"
   },
   {
     "id": 1008,
@@ -1347,7 +1347,7 @@
     "meaning": "山",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/1008.mp3"
+    "sound": "assets/audio/vocab/10/1008.mp3"
   },
   {
     "id": 1009,
@@ -1356,7 +1356,7 @@
     "meaning": "湖",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/1009.mp3"
+    "sound": "assets/audio/vocab/10/1009.mp3"
   },
   {
     "id": 1010,
@@ -1365,7 +1365,7 @@
     "meaning": "川",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/1010.mp3"
+    "sound": "assets/audio/vocab/10/1010.mp3"
   },
   {
     "id": 1014,
@@ -1374,7 +1374,7 @@
     "meaning": "滝",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/1014.mp3"
+    "sound": "assets/audio/vocab/10/1014.mp3"
   },
   {
     "id": 1015,
@@ -1383,7 +1383,7 @@
     "meaning": "草原",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/1015.mp3"
+    "sound": "assets/audio/vocab/10/1015.mp3"
   },
   {
     "id": 1016,
@@ -1392,7 +1392,7 @@
     "meaning": "谷",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/1016.mp3"
+    "sound": "assets/audio/vocab/10/1016.mp3"
   },
   {
     "id": 1017,
@@ -1401,7 +1401,7 @@
     "meaning": "洞窟",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/1017.mp3"
+    "sound": "assets/audio/vocab/10/1017.mp3"
   },
   {
     "id": 1018,
@@ -1410,7 +1410,7 @@
     "meaning": "火山",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/1018.mp3"
+    "sound": "assets/audio/vocab/10/1018.mp3"
   },
   {
     "id": 1019,
@@ -1419,7 +1419,7 @@
     "meaning": "地震",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/1019.mp3"
+    "sound": "assets/audio/vocab/10/1019.mp3"
   },
   {
     "id": 1020,
@@ -1428,7 +1428,7 @@
     "meaning": "嵐",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/1020.mp3"
+    "sound": "assets/audio/vocab/10/1020.mp3"
   },
   {
     "id": 1021,
@@ -1437,7 +1437,7 @@
     "meaning": "洪水",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/1021.mp3"
+    "sound": "assets/audio/vocab/10/1021.mp3"
   },
   {
     "id": 1022,
@@ -1446,7 +1446,7 @@
     "meaning": "干ばつ",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/1022.mp3"
+    "sound": "assets/audio/vocab/10/1022.mp3"
   },
   {
     "id": 1023,
@@ -1455,7 +1455,7 @@
     "meaning": "山火事",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/1023.mp3"
+    "sound": "assets/audio/vocab/10/1023.mp3"
   },
   {
     "id": 1024,
@@ -1464,7 +1464,7 @@
     "meaning": "津波",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/1024.mp3"
+    "sound": "assets/audio/vocab/10/1024.mp3"
   },
   {
     "id": 1048,
@@ -1473,7 +1473,7 @@
     "meaning": "名詞",
     "category": "greetings_expressions",
     "level": 2,
-    "sound": "assets/audio/vocab/1048.mp3"
+    "sound": "assets/audio/vocab/10/1048.mp3"
   },
   {
     "id": 1049,
@@ -1482,7 +1482,7 @@
     "meaning": "動詞",
     "category": "greetings_expressions",
     "level": 2,
-    "sound": "assets/audio/vocab/1049.mp3"
+    "sound": "assets/audio/vocab/10/1049.mp3"
   },
   {
     "id": 1050,
@@ -1491,7 +1491,7 @@
     "meaning": "形容詞",
     "category": "greetings_expressions",
     "level": 2,
-    "sound": "assets/audio/vocab/1050.mp3"
+    "sound": "assets/audio/vocab/10/1050.mp3"
   },
   {
     "id": 1051,
@@ -1500,7 +1500,7 @@
     "meaning": "副詞",
     "category": "greetings_expressions",
     "level": 2,
-    "sound": "assets/audio/vocab/1051.mp3"
+    "sound": "assets/audio/vocab/10/1051.mp3"
   },
   {
     "id": 1052,
@@ -1509,7 +1509,7 @@
     "meaning": "代名詞",
     "category": "greetings_expressions",
     "level": 2,
-    "sound": "assets/audio/vocab/1052.mp3"
+    "sound": "assets/audio/vocab/10/1052.mp3"
   },
   {
     "id": 1053,
@@ -1518,7 +1518,7 @@
     "meaning": "前置詞",
     "category": "greetings_expressions",
     "level": 2,
-    "sound": "assets/audio/vocab/1053.mp3"
+    "sound": "assets/audio/vocab/10/1053.mp3"
   },
   {
     "id": 1054,
@@ -1527,7 +1527,7 @@
     "meaning": "接続詞",
     "category": "greetings_expressions",
     "level": 2,
-    "sound": "assets/audio/vocab/1054.mp3"
+    "sound": "assets/audio/vocab/10/1054.mp3"
   },
   {
     "id": 1255,
@@ -1536,7 +1536,7 @@
     "meaning": "神経系",
     "category": "health_medical",
     "level": 2,
-    "sound": "assets/audio/vocab/1255.mp3"
+    "sound": "assets/audio/vocab/12/1255.mp3"
   },
   {
     "id": 1290,
@@ -1545,7 +1545,7 @@
     "meaning": "配偶者",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1290.mp3"
+    "sound": "assets/audio/vocab/12/1290.mp3"
   },
   {
     "id": 1291,
@@ -1554,7 +1554,7 @@
     "meaning": "夫",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1291.mp3"
+    "sound": "assets/audio/vocab/12/1291.mp3"
   },
   {
     "id": 1292,
@@ -1563,7 +1563,7 @@
     "meaning": "妻",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1292.mp3"
+    "sound": "assets/audio/vocab/12/1292.mp3"
   },
   {
     "id": 1293,
@@ -1572,7 +1572,7 @@
     "meaning": "息子",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1293.mp3"
+    "sound": "assets/audio/vocab/12/1293.mp3"
   },
   {
     "id": 1294,
@@ -1581,7 +1581,7 @@
     "meaning": "娘",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1294.mp3"
+    "sound": "assets/audio/vocab/12/1294.mp3"
   },
   {
     "id": 1295,
@@ -1590,7 +1590,7 @@
     "meaning": "兄",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1295.mp3"
+    "sound": "assets/audio/vocab/12/1295.mp3"
   },
   {
     "id": 1296,
@@ -1599,7 +1599,7 @@
     "meaning": "弟",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1296.mp3"
+    "sound": "assets/audio/vocab/12/1296.mp3"
   },
   {
     "id": 1297,
@@ -1608,7 +1608,7 @@
     "meaning": "姉",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1297.mp3"
+    "sound": "assets/audio/vocab/12/1297.mp3"
   },
   {
     "id": 1298,
@@ -1617,7 +1617,7 @@
     "meaning": "妹",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1298.mp3"
+    "sound": "assets/audio/vocab/12/1298.mp3"
   },
   {
     "id": 1299,
@@ -1626,7 +1626,7 @@
     "meaning": "祖父（父方）",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1299.mp3"
+    "sound": "assets/audio/vocab/12/1299.mp3"
   },
   {
     "id": 1300,
@@ -1635,7 +1635,7 @@
     "meaning": "祖母（父方）",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1300.mp3"
+    "sound": "assets/audio/vocab/13/1300.mp3"
   },
   {
     "id": 1301,
@@ -1644,7 +1644,7 @@
     "meaning": "祖父（母方）",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1301.mp3"
+    "sound": "assets/audio/vocab/13/1301.mp3"
   },
   {
     "id": 1302,
@@ -1653,7 +1653,7 @@
     "meaning": "祖母（母方）",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1302.mp3"
+    "sound": "assets/audio/vocab/13/1302.mp3"
   },
   {
     "id": 1303,
@@ -1662,7 +1662,7 @@
     "meaning": "孫、甥",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1303.mp3"
+    "sound": "assets/audio/vocab/13/1303.mp3"
   },
   {
     "id": 1304,
@@ -1671,7 +1671,7 @@
     "meaning": "孫娘、姪",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1304.mp3"
+    "sound": "assets/audio/vocab/13/1304.mp3"
   },
   {
     "id": 1305,
@@ -1680,7 +1680,7 @@
     "meaning": "おじ（父母の兄）",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1305.mp3"
+    "sound": "assets/audio/vocab/13/1305.mp3"
   },
   {
     "id": 1306,
@@ -1689,7 +1689,7 @@
     "meaning": "おば（父母の姉）",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1306.mp3"
+    "sound": "assets/audio/vocab/13/1306.mp3"
   },
   {
     "id": 1307,
@@ -1698,7 +1698,7 @@
     "meaning": "おじ・おば（母の弟妹）",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1307.mp3"
+    "sound": "assets/audio/vocab/13/1307.mp3"
   },
   {
     "id": 1308,
@@ -1707,7 +1707,7 @@
     "meaning": "おじ・おば（父の弟妹）",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1308.mp3"
+    "sound": "assets/audio/vocab/13/1308.mp3"
   },
   {
     "id": 1309,
@@ -1716,7 +1716,7 @@
     "meaning": "友達",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1309.mp3"
+    "sound": "assets/audio/vocab/13/1309.mp3"
   },
   {
     "id": 1310,
@@ -1725,7 +1725,7 @@
     "meaning": "隣人",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1310.mp3"
+    "sound": "assets/audio/vocab/13/1310.mp3"
   },
   {
     "id": 1311,
@@ -1734,7 +1734,7 @@
     "meaning": "上司",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1311.mp3"
+    "sound": "assets/audio/vocab/13/1311.mp3"
   },
   {
     "id": 1313,
@@ -1743,7 +1743,7 @@
     "meaning": "同僚",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1313.mp3"
+    "sound": "assets/audio/vocab/13/1313.mp3"
   },
   {
     "id": 1315,
@@ -1752,7 +1752,7 @@
     "meaning": "見知らぬ人",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1315.mp3"
+    "sound": "assets/audio/vocab/13/1315.mp3"
   },
   {
     "id": 1316,
@@ -1761,7 +1761,7 @@
     "meaning": "人間",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1316.mp3"
+    "sound": "assets/audio/vocab/13/1316.mp3"
   },
   {
     "id": 1317,
@@ -1770,7 +1770,7 @@
     "meaning": "人々",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1317.mp3"
+    "sound": "assets/audio/vocab/13/1317.mp3"
   },
   {
     "id": 1318,
@@ -1779,7 +1779,7 @@
     "meaning": "子供",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1318.mp3"
+    "sound": "assets/audio/vocab/13/1318.mp3"
   },
   {
     "id": 1319,
@@ -1788,7 +1788,7 @@
     "meaning": "大人",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1319.mp3"
+    "sound": "assets/audio/vocab/13/1319.mp3"
   },
   {
     "id": 1320,
@@ -1797,7 +1797,7 @@
     "meaning": "若者",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1320.mp3"
+    "sound": "assets/audio/vocab/13/1320.mp3"
   },
   {
     "id": 1321,
@@ -1806,7 +1806,7 @@
     "meaning": "高齢者",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1321.mp3"
+    "sound": "assets/audio/vocab/13/1321.mp3"
   },
   {
     "id": 1322,
@@ -1815,7 +1815,7 @@
     "meaning": "個人",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1322.mp3"
+    "sound": "assets/audio/vocab/13/1322.mp3"
   },
   {
     "id": 1323,
@@ -1824,7 +1824,7 @@
     "meaning": "グループ",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1323.mp3"
+    "sound": "assets/audio/vocab/13/1323.mp3"
   },
   {
     "id": 1324,
@@ -1833,7 +1833,7 @@
     "meaning": "チーム",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1324.mp3"
+    "sound": "assets/audio/vocab/13/1324.mp3"
   },
   {
     "id": 1325,
@@ -1842,7 +1842,7 @@
     "meaning": "組織",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1325.mp3"
+    "sound": "assets/audio/vocab/13/1325.mp3"
   },
   {
     "id": 1326,
@@ -1851,7 +1851,7 @@
     "meaning": "政府",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1326.mp3"
+    "sound": "assets/audio/vocab/13/1326.mp3"
   },
   {
     "id": 1327,
@@ -1860,7 +1860,7 @@
     "meaning": "国民",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1327.mp3"
+    "sound": "assets/audio/vocab/13/1327.mp3"
   },
   {
     "id": 1328,
@@ -1869,7 +1869,7 @@
     "meaning": "市民",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1328.mp3"
+    "sound": "assets/audio/vocab/13/1328.mp3"
   },
   {
     "id": 1329,
@@ -1878,7 +1878,7 @@
     "meaning": "外国人",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1329.mp3"
+    "sound": "assets/audio/vocab/13/1329.mp3"
   },
   {
     "id": 1330,
@@ -1887,7 +1887,7 @@
     "meaning": "職業",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1330.mp3"
+    "sound": "assets/audio/vocab/13/1330.mp3"
   },
   {
     "id": 1331,
@@ -1896,7 +1896,7 @@
     "meaning": "ビジネスマン",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1331.mp3"
+    "sound": "assets/audio/vocab/13/1331.mp3"
   },
   {
     "id": 1332,
@@ -1905,7 +1905,7 @@
     "meaning": "エンジニア",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1332.mp3"
+    "sound": "assets/audio/vocab/13/1332.mp3"
   },
   {
     "id": 1333,
@@ -1914,7 +1914,7 @@
     "meaning": "科学者",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1333.mp3"
+    "sound": "assets/audio/vocab/13/1333.mp3"
   },
   {
     "id": 1334,
@@ -1923,7 +1923,7 @@
     "meaning": "プログラマー",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1334.mp3"
+    "sound": "assets/audio/vocab/13/1334.mp3"
   },
   {
     "id": 1335,
@@ -1932,7 +1932,7 @@
     "meaning": "パイロット",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1335.mp3"
+    "sound": "assets/audio/vocab/13/1335.mp3"
   },
   {
     "id": 1336,
@@ -1941,7 +1941,7 @@
     "meaning": "農家",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1336.mp3"
+    "sound": "assets/audio/vocab/13/1336.mp3"
   },
   {
     "id": 1337,
@@ -1950,7 +1950,7 @@
     "meaning": "漁師",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1337.mp3"
+    "sound": "assets/audio/vocab/13/1337.mp3"
   },
   {
     "id": 1338,
@@ -1959,7 +1959,7 @@
     "meaning": "兵士",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1338.mp3"
+    "sound": "assets/audio/vocab/13/1338.mp3"
   },
   {
     "id": 1339,
@@ -1968,7 +1968,7 @@
     "meaning": "警察官",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1339.mp3"
+    "sound": "assets/audio/vocab/13/1339.mp3"
   },
   {
     "id": 1340,
@@ -1977,7 +1977,7 @@
     "meaning": "消防士",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1340.mp3"
+    "sound": "assets/audio/vocab/13/1340.mp3"
   },
   {
     "id": 1342,
@@ -1986,7 +1986,7 @@
     "meaning": "アーティスト",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1342.mp3"
+    "sound": "assets/audio/vocab/13/1342.mp3"
   },
   {
     "id": 1343,
@@ -1995,7 +1995,7 @@
     "meaning": "俳優",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1343.mp3"
+    "sound": "assets/audio/vocab/13/1343.mp3"
   },
   {
     "id": 1344,
@@ -2004,7 +2004,7 @@
     "meaning": "作家",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1344.mp3"
+    "sound": "assets/audio/vocab/13/1344.mp3"
   },
   {
     "id": 1345,
@@ -2013,7 +2013,7 @@
     "meaning": "ジャーナリスト",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1345.mp3"
+    "sound": "assets/audio/vocab/13/1345.mp3"
   },
   {
     "id": 1346,
@@ -2022,7 +2022,7 @@
     "meaning": "写真家",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1346.mp3"
+    "sound": "assets/audio/vocab/13/1346.mp3"
   },
   {
     "id": 1347,
@@ -2031,7 +2031,7 @@
     "meaning": "建築家",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1347.mp3"
+    "sound": "assets/audio/vocab/13/1347.mp3"
   },
   {
     "id": 1348,
@@ -2040,7 +2040,7 @@
     "meaning": "デザイナー",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1348.mp3"
+    "sound": "assets/audio/vocab/13/1348.mp3"
   },
   {
     "id": 1349,
@@ -2049,7 +2049,7 @@
     "meaning": "音楽家",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1349.mp3"
+    "sound": "assets/audio/vocab/13/1349.mp3"
   },
   {
     "id": 1350,
@@ -2058,7 +2058,7 @@
     "meaning": "画家",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1350.mp3"
+    "sound": "assets/audio/vocab/13/1350.mp3"
   },
   {
     "id": 1358,
@@ -2067,7 +2067,7 @@
     "meaning": "週末",
     "category": "numbers_time",
     "level": 2,
-    "sound": "assets/audio/vocab/1358.mp3"
+    "sound": "assets/audio/vocab/13/1358.mp3"
   },
   {
     "id": 1359,
@@ -2076,7 +2076,7 @@
     "meaning": "平日",
     "category": "numbers_time",
     "level": 2,
-    "sound": "assets/audio/vocab/1359.mp3"
+    "sound": "assets/audio/vocab/13/1359.mp3"
   },
   {
     "id": 1363,
@@ -2085,7 +2085,7 @@
     "meaning": "クリスマス",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1363.mp3"
+    "sound": "assets/audio/vocab/13/1363.mp3"
   },
   {
     "id": 1364,
@@ -2094,7 +2094,7 @@
     "meaning": "バレンタインデー",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1364.mp3"
+    "sound": "assets/audio/vocab/13/1364.mp3"
   },
   {
     "id": 1365,
@@ -2103,7 +2103,7 @@
     "meaning": "ハロウィン",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1365.mp3"
+    "sound": "assets/audio/vocab/13/1365.mp3"
   },
   {
     "id": 1366,
@@ -2112,7 +2112,7 @@
     "meaning": "感謝祭",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1366.mp3"
+    "sound": "assets/audio/vocab/13/1366.mp3"
   },
   {
     "id": 1367,
@@ -2121,7 +2121,7 @@
     "meaning": "独立記念日",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1367.mp3"
+    "sound": "assets/audio/vocab/13/1367.mp3"
   },
   {
     "id": 1368,
@@ -2130,7 +2130,7 @@
     "meaning": "祝日",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1368.mp3"
+    "sound": "assets/audio/vocab/13/1368.mp3"
   },
   {
     "id": 1373,
@@ -2139,7 +2139,7 @@
     "meaning": "教授、先生",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1373.mp3"
+    "sound": "assets/audio/vocab/13/1373.mp3"
   },
   {
     "id": 1378,
@@ -2148,7 +2148,7 @@
     "meaning": "点数",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1378.mp3"
+    "sound": "assets/audio/vocab/13/1378.mp3"
   },
   {
     "id": 1384,
@@ -2157,7 +2157,7 @@
     "meaning": "食堂",
     "category": "food_restaurant",
     "level": 2,
-    "sound": "assets/audio/vocab/1384.mp3"
+    "sound": "assets/audio/vocab/13/1384.mp3"
   },
   {
     "id": 1385,
@@ -2166,7 +2166,7 @@
     "meaning": "校庭、グラウンド",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/1385.mp3"
+    "sound": "assets/audio/vocab/13/1385.mp3"
   },
   {
     "id": 1387,
@@ -2175,7 +2175,7 @@
     "meaning": "数学",
     "category": "technology_it",
     "level": 2,
-    "sound": "assets/audio/vocab/1387.mp3"
+    "sound": "assets/audio/vocab/13/1387.mp3"
   },
   {
     "id": 1389,
@@ -2184,7 +2184,7 @@
     "meaning": "英語",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1389.mp3"
+    "sound": "assets/audio/vocab/13/1389.mp3"
   },
   {
     "id": 1394,
@@ -2193,7 +2193,7 @@
     "meaning": "絵画",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1394.mp3"
+    "sound": "assets/audio/vocab/13/1394.mp3"
   },
   {
     "id": 1395,
@@ -2202,7 +2202,7 @@
     "meaning": "写真撮影",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1395.mp3"
+    "sound": "assets/audio/vocab/13/1395.mp3"
   },
   {
     "id": 1396,
@@ -2211,7 +2211,7 @@
     "meaning": "彫刻",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1396.mp3"
+    "sound": "assets/audio/vocab/13/1396.mp3"
   },
   {
     "id": 1401,
@@ -2220,7 +2220,7 @@
     "meaning": "詩",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1401.mp3"
+    "sound": "assets/audio/vocab/14/1401.mp3"
   },
   {
     "id": 1407,
@@ -2229,7 +2229,7 @@
     "meaning": "登山",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/1407.mp3"
+    "sound": "assets/audio/vocab/14/1407.mp3"
   },
   {
     "id": 1408,
@@ -2238,7 +2238,7 @@
     "meaning": "キャンプ",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/1408.mp3"
+    "sound": "assets/audio/vocab/14/1408.mp3"
   },
   {
     "id": 1409,
@@ -2247,7 +2247,7 @@
     "meaning": "釣り",
     "category": "travel_accommodation",
     "level": 2,
-    "sound": "assets/audio/vocab/1409.mp3"
+    "sound": "assets/audio/vocab/14/1409.mp3"
   },
   {
     "id": 1442,
@@ -2256,7 +2256,7 @@
     "meaning": "漁業",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1442.mp3"
+    "sound": "assets/audio/vocab/14/1442.mp3"
   },
   {
     "id": 1443,
@@ -2265,7 +2265,7 @@
     "meaning": "林業",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1443.mp3"
+    "sound": "assets/audio/vocab/14/1443.mp3"
   },
   {
     "id": 1444,
@@ -2274,7 +2274,7 @@
     "meaning": "鉱業",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1444.mp3"
+    "sound": "assets/audio/vocab/14/1444.mp3"
   },
   {
     "id": 1445,
@@ -2283,7 +2283,7 @@
     "meaning": "製造業",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1445.mp3"
+    "sound": "assets/audio/vocab/14/1445.mp3"
   },
   {
     "id": 1456,
@@ -2292,7 +2292,7 @@
     "meaning": "格闘技",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1456.mp3"
+    "sound": "assets/audio/vocab/14/1456.mp3"
   },
   {
     "id": 1457,
@@ -2301,7 +2301,7 @@
     "meaning": "ガーデニング",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1457.mp3"
+    "sound": "assets/audio/vocab/14/1457.mp3"
   },
   {
     "id": 1461,
@@ -2310,7 +2310,7 @@
     "meaning": "絵を描くこと",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1461.mp3"
+    "sound": "assets/audio/vocab/14/1461.mp3"
   },
   {
     "id": 1467,
@@ -2319,7 +2319,7 @@
     "meaning": "映画鑑賞",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1467.mp3"
+    "sound": "assets/audio/vocab/14/1467.mp3"
   },
   {
     "id": 1505,
@@ -2328,7 +2328,7 @@
     "meaning": "労働者の日",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1505.mp3"
+    "sound": "assets/audio/vocab/15/1505.mp3"
   },
   {
     "id": 1506,
@@ -2337,7 +2337,7 @@
     "meaning": "母の日",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1506.mp3"
+    "sound": "assets/audio/vocab/15/1506.mp3"
   },
   {
     "id": 1507,
@@ -2346,7 +2346,7 @@
     "meaning": "父の日",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1507.mp3"
+    "sound": "assets/audio/vocab/15/1507.mp3"
   },
   {
     "id": 1509,
@@ -2355,7 +2355,7 @@
     "meaning": "誕生日",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1509.mp3"
+    "sound": "assets/audio/vocab/15/1509.mp3"
   },
   {
     "id": 1512,
@@ -2364,7 +2364,7 @@
     "meaning": "ソンクラーン（タイ正月）",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1512.mp3"
+    "sound": "assets/audio/vocab/15/1512.mp3"
   },
   {
     "id": 1513,
@@ -2373,7 +2373,7 @@
     "meaning": "ロイクラトン",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1513.mp3"
+    "sound": "assets/audio/vocab/15/1513.mp3"
   },
   {
     "id": 1780,
@@ -2382,7 +2382,7 @@
     "meaning": "エンターテイメント",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1780.mp3"
+    "sound": "assets/audio/vocab/17/1780.mp3"
   },
   {
     "id": 1800,
@@ -2391,7 +2391,7 @@
     "meaning": "メディア",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1800.mp3"
+    "sound": "assets/audio/vocab/18/1800.mp3"
   },
   {
     "id": 1801,
@@ -2400,7 +2400,7 @@
     "meaning": "マスコミュニケーション",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1801.mp3"
+    "sound": "assets/audio/vocab/18/1801.mp3"
   },
   {
     "id": 1802,
@@ -2409,7 +2409,7 @@
     "meaning": "印刷メディア",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1802.mp3"
+    "sound": "assets/audio/vocab/18/1802.mp3"
   },
   {
     "id": 1803,
@@ -2418,7 +2418,7 @@
     "meaning": "電子メディア",
     "category": "technology_it",
     "level": 2,
-    "sound": "assets/audio/vocab/1803.mp3"
+    "sound": "assets/audio/vocab/18/1803.mp3"
   },
   {
     "id": 1804,
@@ -2427,7 +2427,7 @@
     "meaning": "ソーシャルメディア",
     "category": "technology_it",
     "level": 2,
-    "sound": "assets/audio/vocab/1804.mp3"
+    "sound": "assets/audio/vocab/18/1804.mp3"
   },
   {
     "id": 1806,
@@ -2436,7 +2436,7 @@
     "meaning": "記事",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1806.mp3"
+    "sound": "assets/audio/vocab/18/1806.mp3"
   },
   {
     "id": 1808,
@@ -2445,7 +2445,7 @@
     "meaning": "広報",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1808.mp3"
+    "sound": "assets/audio/vocab/18/1808.mp3"
   },
   {
     "id": 1809,
@@ -2454,7 +2454,7 @@
     "meaning": "世論",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1809.mp3"
+    "sound": "assets/audio/vocab/18/1809.mp3"
   },
   {
     "id": 1810,
@@ -2463,7 +2463,7 @@
     "meaning": "言論の自由",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1810.mp3"
+    "sound": "assets/audio/vocab/18/1810.mp3"
   },
   {
     "id": 1811,
@@ -2472,7 +2472,7 @@
     "meaning": "メディア倫理",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1811.mp3"
+    "sound": "assets/audio/vocab/18/1811.mp3"
   },
   {
     "id": 1812,
@@ -2481,7 +2481,7 @@
     "meaning": "フェイクニュース",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1812.mp3"
+    "sound": "assets/audio/vocab/18/1812.mp3"
   },
   {
     "id": 1813,
@@ -2490,7 +2490,7 @@
     "meaning": "ファクトチェック",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1813.mp3"
+    "sound": "assets/audio/vocab/18/1813.mp3"
   },
   {
     "id": 1814,
@@ -2499,7 +2499,7 @@
     "meaning": "情報源",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1814.mp3"
+    "sound": "assets/audio/vocab/18/1814.mp3"
   },
   {
     "id": 1815,
@@ -2508,7 +2508,7 @@
     "meaning": "報道",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1815.mp3"
+    "sound": "assets/audio/vocab/18/1815.mp3"
   },
   {
     "id": 1816,
@@ -2517,7 +2517,7 @@
     "meaning": "記者",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1816.mp3"
+    "sound": "assets/audio/vocab/18/1816.mp3"
   },
   {
     "id": 1817,
@@ -2526,7 +2526,7 @@
     "meaning": "編集者",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1817.mp3"
+    "sound": "assets/audio/vocab/18/1817.mp3"
   },
   {
     "id": 1818,
@@ -2535,7 +2535,7 @@
     "meaning": "コラムニスト",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1818.mp3"
+    "sound": "assets/audio/vocab/18/1818.mp3"
   },
   {
     "id": 1819,
@@ -2544,7 +2544,7 @@
     "meaning": "評論家",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1819.mp3"
+    "sound": "assets/audio/vocab/18/1819.mp3"
   },
   {
     "id": 1820,
@@ -2553,7 +2553,7 @@
     "meaning": "視聴者",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1820.mp3"
+    "sound": "assets/audio/vocab/18/1820.mp3"
   },
   {
     "id": 1821,
@@ -2562,7 +2562,7 @@
     "meaning": "読者",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1821.mp3"
+    "sound": "assets/audio/vocab/18/1821.mp3"
   },
   {
     "id": 1822,
@@ -2571,7 +2571,7 @@
     "meaning": "聴衆",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1822.mp3"
+    "sound": "assets/audio/vocab/18/1822.mp3"
   },
   {
     "id": 1823,
@@ -2580,7 +2580,7 @@
     "meaning": "視聴率、ランキング",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1823.mp3"
+    "sound": "assets/audio/vocab/18/1823.mp3"
   },
   {
     "id": 1824,
@@ -2589,7 +2589,7 @@
     "meaning": "人気",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1824.mp3"
+    "sound": "assets/audio/vocab/18/1824.mp3"
   },
   {
     "id": 1825,
@@ -2598,7 +2598,7 @@
     "meaning": "トレンド",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1825.mp3"
+    "sound": "assets/audio/vocab/18/1825.mp3"
   },
   {
     "id": 1826,
@@ -2607,7 +2607,7 @@
     "meaning": "影響力がある",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1826.mp3"
+    "sound": "assets/audio/vocab/18/1826.mp3"
   },
   {
     "id": 1827,
@@ -2616,7 +2616,7 @@
     "meaning": "説得する",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1827.mp3"
+    "sound": "assets/audio/vocab/18/1827.mp3"
   },
   {
     "id": 1828,
@@ -2625,7 +2625,7 @@
     "meaning": "情報を提供する",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1828.mp3"
+    "sound": "assets/audio/vocab/18/1828.mp3"
   },
   {
     "id": 1829,
@@ -2634,7 +2634,7 @@
     "meaning": "楽しませる",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1829.mp3"
+    "sound": "assets/audio/vocab/18/1829.mp3"
   },
   {
     "id": 1830,
@@ -2643,7 +2643,7 @@
     "meaning": "教育する",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1830.mp3"
+    "sound": "assets/audio/vocab/18/1830.mp3"
   },
   {
     "id": 1831,
@@ -2652,7 +2652,7 @@
     "meaning": "批評する",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1831.mp3"
+    "sound": "assets/audio/vocab/18/1831.mp3"
   },
   {
     "id": 1832,
@@ -2661,7 +2661,7 @@
     "meaning": "暴露する",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1832.mp3"
+    "sound": "assets/audio/vocab/18/1832.mp3"
   },
   {
     "id": 1833,
@@ -2670,7 +2670,7 @@
     "meaning": "議題設定する",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1833.mp3"
+    "sound": "assets/audio/vocab/18/1833.mp3"
   },
   {
     "id": 1834,
@@ -2679,7 +2679,7 @@
     "meaning": "社会的責任",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1834.mp3"
+    "sound": "assets/audio/vocab/18/1834.mp3"
   },
   {
     "id": 1835,
@@ -2688,7 +2688,7 @@
     "meaning": "職業倫理",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1835.mp3"
+    "sound": "assets/audio/vocab/18/1835.mp3"
   },
   {
     "id": 1836,
@@ -2697,7 +2697,7 @@
     "meaning": "消費者保護",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1836.mp3"
+    "sound": "assets/audio/vocab/18/1836.mp3"
   },
   {
     "id": 1837,
@@ -2706,7 +2706,7 @@
     "meaning": "プライバシー",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1837.mp3"
+    "sound": "assets/audio/vocab/18/1837.mp3"
   },
   {
     "id": 1838,
@@ -2715,7 +2715,7 @@
     "meaning": "データセキュリティ",
     "category": "technology_it",
     "level": 2,
-    "sound": "assets/audio/vocab/1838.mp3"
+    "sound": "assets/audio/vocab/18/1838.mp3"
   },
   {
     "id": 1839,
@@ -2724,7 +2724,7 @@
     "meaning": "著作権",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1839.mp3"
+    "sound": "assets/audio/vocab/18/1839.mp3"
   },
   {
     "id": 1840,
@@ -2733,7 +2733,7 @@
     "meaning": "商標",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1840.mp3"
+    "sound": "assets/audio/vocab/18/1840.mp3"
   },
   {
     "id": 1841,
@@ -2742,7 +2742,7 @@
     "meaning": "特許",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1841.mp3"
+    "sound": "assets/audio/vocab/18/1841.mp3"
   },
   {
     "id": 1842,
@@ -2751,7 +2751,7 @@
     "meaning": "知的財産",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1842.mp3"
+    "sound": "assets/audio/vocab/18/1842.mp3"
   },
   {
     "id": 1843,
@@ -2760,7 +2760,7 @@
     "meaning": "グローバリゼーション",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1843.mp3"
+    "sound": "assets/audio/vocab/18/1843.mp3"
   },
   {
     "id": 1844,
@@ -2769,7 +2769,7 @@
     "meaning": "ポピュラーカルチャー",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1844.mp3"
+    "sound": "assets/audio/vocab/18/1844.mp3"
   },
   {
     "id": 1845,
@@ -2778,7 +2778,7 @@
     "meaning": "メインストリーム",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1845.mp3"
+    "sound": "assets/audio/vocab/18/1845.mp3"
   },
   {
     "id": 1846,
@@ -2787,7 +2787,7 @@
     "meaning": "サブカルチャー",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1846.mp3"
+    "sound": "assets/audio/vocab/18/1846.mp3"
   },
   {
     "id": 1847,
@@ -2796,7 +2796,7 @@
     "meaning": "アイデンティティ",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1847.mp3"
+    "sound": "assets/audio/vocab/18/1847.mp3"
   },
   {
     "id": 1848,
@@ -2805,7 +2805,7 @@
     "meaning": "コミュニティ",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1848.mp3"
+    "sound": "assets/audio/vocab/18/1848.mp3"
   },
   {
     "id": 1849,
@@ -2814,7 +2814,7 @@
     "meaning": "ソーシャルネットワーク",
     "category": "technology_it",
     "level": 2,
-    "sound": "assets/audio/vocab/1849.mp3"
+    "sound": "assets/audio/vocab/18/1849.mp3"
   },
   {
     "id": 1851,
@@ -2823,7 +2823,7 @@
     "meaning": "対人コミュニケーション",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1851.mp3"
+    "sound": "assets/audio/vocab/18/1851.mp3"
   },
   {
     "id": 1852,
@@ -2832,7 +2832,7 @@
     "meaning": "非言語コミュニケーション",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1852.mp3"
+    "sound": "assets/audio/vocab/18/1852.mp3"
   },
   {
     "id": 1853,
@@ -2841,7 +2841,7 @@
     "meaning": "ボディランゲージ",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1853.mp3"
+    "sound": "assets/audio/vocab/18/1853.mp3"
   },
   {
     "id": 1854,
@@ -2850,7 +2850,7 @@
     "meaning": "表情",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1854.mp3"
+    "sound": "assets/audio/vocab/18/1854.mp3"
   },
   {
     "id": 1855,
@@ -2859,7 +2859,7 @@
     "meaning": "声のトーン",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1855.mp3"
+    "sound": "assets/audio/vocab/18/1855.mp3"
   },
   {
     "id": 1857,
@@ -2868,7 +2868,7 @@
     "meaning": "共感",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1857.mp3"
+    "sound": "assets/audio/vocab/18/1857.mp3"
   },
   {
     "id": 1858,
@@ -2877,7 +2877,7 @@
     "meaning": "対立",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1858.mp3"
+    "sound": "assets/audio/vocab/18/1858.mp3"
   },
   {
     "id": 1859,
@@ -2886,7 +2886,7 @@
     "meaning": "対立解決",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1859.mp3"
+    "sound": "assets/audio/vocab/18/1859.mp3"
   },
   {
     "id": 1860,
@@ -2895,7 +2895,7 @@
     "meaning": "交渉",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1860.mp3"
+    "sound": "assets/audio/vocab/18/1860.mp3"
   },
   {
     "id": 1861,
@@ -2904,7 +2904,7 @@
     "meaning": "説得",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1861.mp3"
+    "sound": "assets/audio/vocab/18/1861.mp3"
   },
   {
     "id": 1862,
@@ -2913,7 +2913,7 @@
     "meaning": "影響",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1862.mp3"
+    "sound": "assets/audio/vocab/18/1862.mp3"
   },
   {
     "id": 1863,
@@ -2922,7 +2922,7 @@
     "meaning": "権力",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1863.mp3"
+    "sound": "assets/audio/vocab/18/1863.mp3"
   },
   {
     "id": 1864,
@@ -2931,7 +2931,7 @@
     "meaning": "リーダーシップ",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1864.mp3"
+    "sound": "assets/audio/vocab/18/1864.mp3"
   },
   {
     "id": 1865,
@@ -2940,7 +2940,7 @@
     "meaning": "チームワーク",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1865.mp3"
+    "sound": "assets/audio/vocab/18/1865.mp3"
   },
   {
     "id": 1866,
@@ -2949,7 +2949,7 @@
     "meaning": "協力",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1866.mp3"
+    "sound": "assets/audio/vocab/18/1866.mp3"
   },
   {
     "id": 1870,
@@ -2958,7 +2958,7 @@
     "meaning": "評価",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1870.mp3"
+    "sound": "assets/audio/vocab/18/1870.mp3"
   },
   {
     "id": 1871,
@@ -2967,7 +2967,7 @@
     "meaning": "フィードバック",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1871.mp3"
+    "sound": "assets/audio/vocab/18/1871.mp3"
   },
   {
     "id": 1872,
@@ -2976,7 +2976,7 @@
     "meaning": "改善",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1872.mp3"
+    "sound": "assets/audio/vocab/18/1872.mp3"
   },
   {
     "id": 1873,
@@ -2985,7 +2985,7 @@
     "meaning": "成長",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1873.mp3"
+    "sound": "assets/audio/vocab/18/1873.mp3"
   },
   {
     "id": 1874,
@@ -2994,7 +2994,7 @@
     "meaning": "自己啓発",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1874.mp3"
+    "sound": "assets/audio/vocab/18/1874.mp3"
   },
   {
     "id": 1875,
@@ -3003,7 +3003,7 @@
     "meaning": "生涯学習",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1875.mp3"
+    "sound": "assets/audio/vocab/18/1875.mp3"
   },
   {
     "id": 1882,
@@ -3012,7 +3012,7 @@
     "meaning": "目的",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1882.mp3"
+    "sound": "assets/audio/vocab/18/1882.mp3"
   },
   {
     "id": 1885,
@@ -3021,7 +3021,7 @@
     "meaning": "野心",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1885.mp3"
+    "sound": "assets/audio/vocab/18/1885.mp3"
   },
   {
     "id": 1889,
@@ -3030,7 +3030,7 @@
     "meaning": "直感",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1889.mp3"
+    "sound": "assets/audio/vocab/18/1889.mp3"
   },
   {
     "id": 1890,
@@ -3039,7 +3039,7 @@
     "meaning": "理性",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1890.mp3"
+    "sound": "assets/audio/vocab/18/1890.mp3"
   },
   {
     "id": 1891,
@@ -3048,7 +3048,7 @@
     "meaning": "論理",
     "category": "technology_it",
     "level": 2,
-    "sound": "assets/audio/vocab/1891.mp3"
+    "sound": "assets/audio/vocab/18/1891.mp3"
   },
   {
     "id": 1892,
@@ -3057,7 +3057,7 @@
     "meaning": "分析",
     "category": "technology_it",
     "level": 2,
-    "sound": "assets/audio/vocab/1892.mp3"
+    "sound": "assets/audio/vocab/18/1892.mp3"
   },
   {
     "id": 1893,
@@ -3066,7 +3066,7 @@
     "meaning": "統合",
     "category": "technology_it",
     "level": 2,
-    "sound": "assets/audio/vocab/1893.mp3"
+    "sound": "assets/audio/vocab/18/1893.mp3"
   },
   {
     "id": 1895,
@@ -3075,7 +3075,7 @@
     "meaning": "判断",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1895.mp3"
+    "sound": "assets/audio/vocab/18/1895.mp3"
   },
   {
     "id": 1897,
@@ -3084,7 +3084,7 @@
     "meaning": "態度",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1897.mp3"
+    "sound": "assets/audio/vocab/18/1897.mp3"
   },
   {
     "id": 1898,
@@ -3093,7 +3093,7 @@
     "meaning": "信念",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1898.mp3"
+    "sound": "assets/audio/vocab/18/1898.mp3"
   },
   {
     "id": 1901,
@@ -3102,7 +3102,7 @@
     "meaning": "道徳",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1901.mp3"
+    "sound": "assets/audio/vocab/19/1901.mp3"
   },
   {
     "id": 1902,
@@ -3111,7 +3111,7 @@
     "meaning": "倫理",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1902.mp3"
+    "sound": "assets/audio/vocab/19/1902.mp3"
   },
   {
     "id": 1903,
@@ -3120,7 +3120,7 @@
     "meaning": "善",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1903.mp3"
+    "sound": "assets/audio/vocab/19/1903.mp3"
   },
   {
     "id": 1904,
@@ -3129,7 +3129,7 @@
     "meaning": "悪",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1904.mp3"
+    "sound": "assets/audio/vocab/19/1904.mp3"
   },
   {
     "id": 1905,
@@ -3138,7 +3138,7 @@
     "meaning": "真実",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1905.mp3"
+    "sound": "assets/audio/vocab/19/1905.mp3"
   },
   {
     "id": 1906,
@@ -3147,7 +3147,7 @@
     "meaning": "虚偽",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1906.mp3"
+    "sound": "assets/audio/vocab/19/1906.mp3"
   },
   {
     "id": 1908,
@@ -3156,7 +3156,7 @@
     "meaning": "醜さ",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1908.mp3"
+    "sound": "assets/audio/vocab/19/1908.mp3"
   },
   {
     "id": 1909,
@@ -3165,7 +3165,7 @@
     "meaning": "秩序",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1909.mp3"
+    "sound": "assets/audio/vocab/19/1909.mp3"
   },
   {
     "id": 1910,
@@ -3174,7 +3174,7 @@
     "meaning": "混沌",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1910.mp3"
+    "sound": "assets/audio/vocab/19/1910.mp3"
   },
   {
     "id": 1911,
@@ -3183,7 +3183,7 @@
     "meaning": "単純",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1911.mp3"
+    "sound": "assets/audio/vocab/19/1911.mp3"
   },
   {
     "id": 1912,
@@ -3192,7 +3192,7 @@
     "meaning": "複雑",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1912.mp3"
+    "sound": "assets/audio/vocab/19/1912.mp3"
   },
   {
     "id": 1913,
@@ -3201,7 +3201,7 @@
     "meaning": "統一",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1913.mp3"
+    "sound": "assets/audio/vocab/19/1913.mp3"
   },
   {
     "id": 1914,
@@ -3210,7 +3210,7 @@
     "meaning": "多様性",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1914.mp3"
+    "sound": "assets/audio/vocab/19/1914.mp3"
   },
   {
     "id": 1915,
@@ -3219,7 +3219,7 @@
     "meaning": "バランス",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1915.mp3"
+    "sound": "assets/audio/vocab/19/1915.mp3"
   },
   {
     "id": 1916,
@@ -3228,7 +3228,7 @@
     "meaning": "調和",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1916.mp3"
+    "sound": "assets/audio/vocab/19/1916.mp3"
   },
   {
     "id": 1920,
@@ -3237,7 +3237,7 @@
     "meaning": "個人",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1920.mp3"
+    "sound": "assets/audio/vocab/19/1920.mp3"
   },
   {
     "id": 1924,
@@ -3246,7 +3246,7 @@
     "meaning": "国家",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1924.mp3"
+    "sound": "assets/audio/vocab/19/1924.mp3"
   },
   {
     "id": 1928,
@@ -3255,7 +3255,7 @@
     "meaning": "空間",
     "category": "construction",
     "level": 2,
-    "sound": "assets/audio/vocab/1928.mp3"
+    "sound": "assets/audio/vocab/19/1928.mp3"
   },
   {
     "id": 1929,
@@ -3264,7 +3264,7 @@
     "meaning": "次元、側面",
     "category": "technology_it",
     "level": 2,
-    "sound": "assets/audio/vocab/1929.mp3"
+    "sound": "assets/audio/vocab/19/1929.mp3"
   },
   {
     "id": 1930,
@@ -3273,7 +3273,7 @@
     "meaning": "物質",
     "category": "technology_it",
     "level": 2,
-    "sound": "assets/audio/vocab/1930.mp3"
+    "sound": "assets/audio/vocab/19/1930.mp3"
   },
   {
     "id": 1934,
@@ -3282,7 +3282,7 @@
     "meaning": "象徴",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1934.mp3"
+    "sound": "assets/audio/vocab/19/1934.mp3"
   },
   {
     "id": 1943,
@@ -3291,7 +3291,7 @@
     "meaning": "無意識",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1943.mp3"
+    "sound": "assets/audio/vocab/19/1943.mp3"
   },
   {
     "id": 1944,
@@ -3300,7 +3300,7 @@
     "meaning": "自己",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1944.mp3"
+    "sound": "assets/audio/vocab/19/1944.mp3"
   },
   {
     "id": 1945,
@@ -3309,7 +3309,7 @@
     "meaning": "エゴ",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1945.mp3"
+    "sound": "assets/audio/vocab/19/1945.mp3"
   },
   {
     "id": 1946,
@@ -3318,7 +3318,7 @@
     "meaning": "ハイヤーセルフ",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1946.mp3"
+    "sound": "assets/audio/vocab/19/1946.mp3"
   },
   {
     "id": 1947,
@@ -3327,7 +3327,7 @@
     "meaning": "スピリチュアルな目覚め",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1947.mp3"
+    "sound": "assets/audio/vocab/19/1947.mp3"
   },
   {
     "id": 1948,
@@ -3336,7 +3336,7 @@
     "meaning": "悟り",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1948.mp3"
+    "sound": "assets/audio/vocab/19/1948.mp3"
   },
   {
     "id": 1949,
@@ -3345,7 +3345,7 @@
     "meaning": "解脱",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1949.mp3"
+    "sound": "assets/audio/vocab/19/1949.mp3"
   },
   {
     "id": 1950,
@@ -3354,7 +3354,7 @@
     "meaning": "涅槃",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1950.mp3"
+    "sound": "assets/audio/vocab/19/1950.mp3"
   },
   {
     "id": 1951,
@@ -3363,7 +3363,7 @@
     "meaning": "誕生",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1951.mp3"
+    "sound": "assets/audio/vocab/19/1951.mp3"
   },
   {
     "id": 1952,
@@ -3372,7 +3372,7 @@
     "meaning": "生命",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1952.mp3"
+    "sound": "assets/audio/vocab/19/1952.mp3"
   },
   {
     "id": 1953,
@@ -3381,7 +3381,7 @@
     "meaning": "死",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1953.mp3"
+    "sound": "assets/audio/vocab/19/1953.mp3"
   },
   {
     "id": 1954,
@@ -3390,7 +3390,7 @@
     "meaning": "再生",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1954.mp3"
+    "sound": "assets/audio/vocab/19/1954.mp3"
   },
   {
     "id": 1955,
@@ -3399,7 +3399,7 @@
     "meaning": "サイクル",
     "category": "technology_it",
     "level": 2,
-    "sound": "assets/audio/vocab/1955.mp3"
+    "sound": "assets/audio/vocab/19/1955.mp3"
   },
   {
     "id": 1958,
@@ -3408,7 +3408,7 @@
     "meaning": "自由意志",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1958.mp3"
+    "sound": "assets/audio/vocab/19/1958.mp3"
   },
   {
     "id": 1963,
@@ -3417,7 +3417,7 @@
     "meaning": "苦しみ",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1963.mp3"
+    "sound": "assets/audio/vocab/19/1963.mp3"
   },
   {
     "id": 1964,
@@ -3426,7 +3426,7 @@
     "meaning": "快楽",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1964.mp3"
+    "sound": "assets/audio/vocab/19/1964.mp3"
   },
   {
     "id": 1967,
@@ -3435,7 +3435,7 @@
     "meaning": "嫌悪",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1967.mp3"
+    "sound": "assets/audio/vocab/19/1967.mp3"
   },
   {
     "id": 1968,
@@ -3444,7 +3444,7 @@
     "meaning": "執着",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1968.mp3"
+    "sound": "assets/audio/vocab/19/1968.mp3"
   },
   {
     "id": 1969,
@@ -3453,7 +3453,7 @@
     "meaning": "手放し",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1969.mp3"
+    "sound": "assets/audio/vocab/19/1969.mp3"
   },
   {
     "id": 1972,
@@ -3462,7 +3462,7 @@
     "meaning": "ワンネス",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1972.mp3"
+    "sound": "assets/audio/vocab/19/1972.mp3"
   },
   {
     "id": 1973,
@@ -3471,7 +3471,7 @@
     "meaning": "空",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1973.mp3"
+    "sound": "assets/audio/vocab/19/1973.mp3"
   },
   {
     "id": 1974,
@@ -3480,7 +3480,7 @@
     "meaning": "永遠",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1974.mp3"
+    "sound": "assets/audio/vocab/19/1974.mp3"
   },
   {
     "id": 1975,
@@ -3489,7 +3489,7 @@
     "meaning": "無限",
     "category": "technology_it",
     "level": 2,
-    "sound": "assets/audio/vocab/1975.mp3"
+    "sound": "assets/audio/vocab/19/1975.mp3"
   },
   {
     "id": 1976,
@@ -3498,7 +3498,7 @@
     "meaning": "今この瞬間",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1976.mp3"
+    "sound": "assets/audio/vocab/19/1976.mp3"
   },
   {
     "id": 1977,
@@ -3507,7 +3507,7 @@
     "meaning": "マインドフルネス",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1977.mp3"
+    "sound": "assets/audio/vocab/19/1977.mp3"
   },
   {
     "id": 1978,
@@ -3516,7 +3516,7 @@
     "meaning": "気づき",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1978.mp3"
+    "sound": "assets/audio/vocab/19/1978.mp3"
   },
   {
     "id": 1979,
@@ -3525,7 +3525,7 @@
     "meaning": "受容",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1979.mp3"
+    "sound": "assets/audio/vocab/19/1979.mp3"
   },
   {
     "id": 1980,
@@ -3534,7 +3534,7 @@
     "meaning": "許し",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1980.mp3"
+    "sound": "assets/audio/vocab/19/1980.mp3"
   },
   {
     "id": 1981,
@@ -3543,7 +3543,7 @@
     "meaning": "感謝",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1981.mp3"
+    "sound": "assets/audio/vocab/19/1981.mp3"
   },
   {
     "id": 1983,
@@ -3552,7 +3552,7 @@
     "meaning": "慈悲",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1983.mp3"
+    "sound": "assets/audio/vocab/19/1983.mp3"
   },
   {
     "id": 1984,
@@ -3561,7 +3561,7 @@
     "meaning": "親切",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1984.mp3"
+    "sound": "assets/audio/vocab/19/1984.mp3"
   },
   {
     "id": 1985,
@@ -3570,7 +3570,7 @@
     "meaning": "知恵",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1985.mp3"
+    "sound": "assets/audio/vocab/19/1985.mp3"
   },
   {
     "id": 1986,
@@ -3579,7 +3579,7 @@
     "meaning": "理解",
     "category": "greetings_expressions",
     "level": 2,
-    "sound": "assets/audio/vocab/1986.mp3"
+    "sound": "assets/audio/vocab/19/1986.mp3"
   },
   {
     "id": 1987,
@@ -3588,7 +3588,7 @@
     "meaning": "真実",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1987.mp3"
+    "sound": "assets/audio/vocab/19/1987.mp3"
   },
   {
     "id": 1989,
@@ -3597,7 +3597,7 @@
     "meaning": "善",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1989.mp3"
+    "sound": "assets/audio/vocab/19/1989.mp3"
   },
   {
     "id": 1990,
@@ -3606,7 +3606,7 @@
     "meaning": "統一",
     "category": "office_business",
     "level": 2,
-    "sound": "assets/audio/vocab/1990.mp3"
+    "sound": "assets/audio/vocab/19/1990.mp3"
   },
   {
     "id": 1993,
@@ -3615,7 +3615,7 @@
     "meaning": "平和",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1993.mp3"
+    "sound": "assets/audio/vocab/19/1993.mp3"
   },
   {
     "id": 1994,
@@ -3624,7 +3624,7 @@
     "meaning": "静けさ",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1994.mp3"
+    "sound": "assets/audio/vocab/19/1994.mp3"
   },
   {
     "id": 1995,
@@ -3633,7 +3633,7 @@
     "meaning": "空虚",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1995.mp3"
+    "sound": "assets/audio/vocab/19/1995.mp3"
   },
   {
     "id": 1996,
@@ -3642,7 +3642,7 @@
     "meaning": "世界",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1996.mp3"
+    "sound": "assets/audio/vocab/19/1996.mp3"
   },
   {
     "id": 1997,
@@ -3651,25 +3651,25 @@
     "meaning": "自由",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/1997.mp3"
+    "sound": "assets/audio/vocab/19/1997.mp3"
   },
-    {
+  {
     "id": 4051,
     "thai": "โกหก",
     "romanization": "goo-hòk",
     "meaning": "嘘をつく",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/4051.mp3"
+    "sound": "assets/audio/vocab/40/4051.mp3"
   },
-    {
+  {
     "id": 4068,
     "thai": "ความลับ",
     "romanization": "khwaam-láp",
     "meaning": "秘密",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/4068.mp3"
+    "sound": "assets/audio/vocab/40/4068.mp3"
   },
   {
     "id": 4069,
@@ -3678,6 +3678,6 @@
     "meaning": "噂",
     "category": "people_introduction",
     "level": 2,
-    "sound": "assets/audio/vocab/4069.mp3"
+    "sound": "assets/audio/vocab/40/4069.mp3"
   }
 ]
