@@ -1,0 +1,641 @@
+[
+  {
+    "id": 63,
+    "thai": "เรียน",
+    "romanization": "rian",
+    "meaning": "学ぶ",
+    "category": "office_business",
+    "level": 4,
+    "sound": "assets/audio/vocab/00/63.mp3"
+  },
+  {
+    "id": 69,
+    "thai": "รอ",
+    "romanization": "raw",
+    "meaning": "待つ",
+    "category": "greetings_expressions",
+    "level": 4,
+    "sound": "assets/audio/vocab/00/69.mp3"
+  },
+  {
+    "id": 70,
+    "thai": "ส่ง",
+    "romanization": "sòng",
+    "meaning": "送る",
+    "category": "office_business",
+    "level": 4,
+    "sound": "assets/audio/vocab/00/70.mp3"
+  },
+  {
+    "id": 74,
+    "thai": "ทำงาน",
+    "romanization": "tham-ngaan",
+    "meaning": "働く",
+    "category": "office_business",
+    "level": 4,
+    "sound": "assets/audio/vocab/00/74.mp3"
+  },
+  {
+    "id": 486,
+    "thai": "คอ",
+    "romanization": "khaw",
+    "meaning": "首",
+    "category": "health_medical",
+    "level": 4,
+    "sound": "assets/audio/vocab/04/486.mp3"
+  },
+  {
+    "id": 779,
+    "thai": "ปีใหม่",
+    "romanization": "bpii-mài",
+    "meaning": "新年",
+    "category": "people_introduction",
+    "level": 4,
+    "sound": "assets/audio/vocab/07/779.mp3"
+  },
+  {
+    "id": 798,
+    "thai": "การดูทีวี",
+    "romanization": "gaan-duu-thii-wii",
+    "meaning": "テレビを見ること",
+    "category": "people_introduction",
+    "level": 4,
+    "sound": "assets/audio/vocab/07/798.mp3"
+  },
+  {
+    "id": 799,
+    "thai": "การฟังเพลง",
+    "romanization": "gaan-fang-pleeng",
+    "meaning": "音楽を聴くこと",
+    "category": "people_introduction",
+    "level": 4,
+    "sound": "assets/audio/vocab/07/799.mp3"
+  },
+  {
+    "id": 800,
+    "thai": "การไปเที่ยว",
+    "romanization": "gaan-bpai-thîao",
+    "meaning": "遊びに行くこと",
+    "category": "travel_accommodation",
+    "level": 4,
+    "sound": "assets/audio/vocab/08/800.mp3"
+  },
+  {
+    "id": 835,
+    "thai": "วันที่",
+    "romanization": "wan-thîi",
+    "meaning": "日付",
+    "category": "numbers_time",
+    "level": 4,
+    "sound": "assets/audio/vocab/08/835.mp3"
+  },
+  {
+    "id": 838,
+    "thai": "เช้า",
+    "romanization": "cháo",
+    "meaning": "朝",
+    "category": "numbers_time",
+    "level": 4,
+    "sound": "assets/audio/vocab/08/838.mp3"
+  },
+  {
+    "id": 839,
+    "thai": "กลางวัน",
+    "romanization": "glaang-wan",
+    "meaning": "昼",
+    "category": "numbers_time",
+    "level": 4,
+    "sound": "assets/audio/vocab/08/839.mp3"
+  },
+  {
+    "id": 840,
+    "thai": "เย็น",
+    "romanization": "yen",
+    "meaning": "夕方",
+    "category": "numbers_time",
+    "level": 4,
+    "sound": "assets/audio/vocab/08/840.mp3"
+  },
+  {
+    "id": 841,
+    "thai": "กลางคืน",
+    "romanization": "glaang-kheun",
+    "meaning": "夜",
+    "category": "numbers_time",
+    "level": 4,
+    "sound": "assets/audio/vocab/08/841.mp3"
+  },
+  {
+    "id": 3101,
+    "thai": "วันจันทร์",
+    "romanization": "wan jan",
+    "meaning": "月曜日",
+    "category": "numbers_time",
+    "level": 4,
+    "sound": "assets/audio/vocab/31/3101.mp3"
+  },
+  {
+    "id": 3102,
+    "thai": "วันอังคาร",
+    "romanization": "wan ang-khaan",
+    "meaning": "火曜日",
+    "category": "numbers_time",
+    "level": 4,
+    "sound": "assets/audio/vocab/31/3102.mp3"
+  },
+  {
+    "id": 3103,
+    "thai": "วันพุธ",
+    "romanization": "wan phút",
+    "meaning": "水曜日",
+    "category": "numbers_time",
+    "level": 4,
+    "sound": "assets/audio/vocab/31/3103.mp3"
+  },
+  {
+    "id": 3104,
+    "thai": "วันพฤหัสบดี",
+    "romanization": "wan phá-réu-hàt-sà-baw-dii",
+    "meaning": "木曜日",
+    "category": "numbers_time",
+    "level": 4,
+    "sound": "assets/audio/vocab/31/3104.mp3"
+  },
+  {
+    "id": 3105,
+    "thai": "วันศุกร์",
+    "romanization": "wan sùk",
+    "meaning": "金曜日",
+    "category": "numbers_time",
+    "level": 4,
+    "sound": "assets/audio/vocab/31/3105.mp3"
+  },
+  {
+    "id": 3106,
+    "thai": "วันเสาร์",
+    "romanization": "wan săo",
+    "meaning": "土曜日",
+    "category": "numbers_time",
+    "level": 4,
+    "sound": "assets/audio/vocab/31/3106.mp3"
+  },
+  {
+    "id": 3107,
+    "thai": "วันอาทิตย์",
+    "romanization": "wan aa-thít",
+    "meaning": "日曜日",
+    "category": "numbers_time",
+    "level": 4,
+    "sound": "assets/audio/vocab/31/3107.mp3"
+  },
+  {
+    "id": 4005,
+    "thai": "ขับรถ",
+    "romanization": "khàp rót",
+    "meaning": "運転する",
+    "category": "transportation",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4005.mp3"
+  },
+  {
+    "id": 4006,
+    "thai": "จ่ายเงิน",
+    "romanization": "jàai ngern",
+    "meaning": "支払う",
+    "category": "shopping",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4006.mp3"
+  },
+  {
+    "id": 4007,
+    "thai": "หา",
+    "romanization": "hăa",
+    "meaning": "探す",
+    "category": "greetings_expressions",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4007.mp3"
+  },
+  {
+    "id": 4008,
+    "thai": "เจอ",
+    "romanization": "jer",
+    "meaning": "会う、見つける",
+    "category": "greetings_expressions",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4008.mp3"
+  },
+  {
+    "id": 4009,
+    "thai": "ล้าง",
+    "romanization": "láang",
+    "meaning": "洗う",
+    "category": "greetings_expressions",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4009.mp3"
+  },
+  {
+    "id": 4010,
+    "thai": "ทำความสะอาด",
+    "romanization": "tham khwaam sà-àat",
+    "meaning": "掃除する",
+    "category": "greetings_expressions",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4010.mp3"
+  },
+  {
+    "id": 4011,
+    "thai": "ง่าย",
+    "romanization": "ngâai",
+    "meaning": "簡単",
+    "category": "greetings_expressions",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4011.mp3"
+  },
+  {
+    "id": 4012,
+    "thai": "ยาก",
+    "romanization": "yâak",
+    "meaning": "難しい",
+    "category": "greetings_expressions",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4012.mp3"
+  },
+  {
+    "id": 4020,
+    "thai": "ตู้เย็น",
+    "romanization": "dtûu yen",
+    "meaning": "冷蔵庫",
+    "category": "food_restaurant",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4020.mp3"
+  },
+  {
+    "id": 4021,
+    "thai": "พัดลม",
+    "romanization": "phát lom",
+    "meaning": "扇風機",
+    "category": "hotel_accommodation",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4021.mp3"
+  },
+  {
+    "id": 4022,
+    "thai": "กางเกง",
+    "romanization": "gaang-geeng",
+    "meaning": "ズボン",
+    "category": "shopping",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4022.mp3"
+  },
+  {
+    "id": 4023,
+    "thai": "กระโปรง",
+    "romanization": "grà-bproong",
+    "meaning": "スカート",
+    "category": "shopping",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4023.mp3"
+  },
+  {
+    "id": 4024,
+    "thai": "ไปรษณีย์",
+    "romanization": "bprai-sà-nii",
+    "meaning": "郵便局",
+    "category": "office_business",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4024.mp3"
+  },
+  {
+    "id": 4025,
+    "thai": "สถานีตำรวจ",
+    "romanization": "sà-thăa-nii dtam-rùat",
+    "meaning": "警察署",
+    "category": "office_business",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4025.mp3"
+  },
+  {
+    "id": 4026,
+    "thai": "ที่ทำงาน",
+    "romanization": "thîi tham-ngaan",
+    "meaning": "職場",
+    "category": "office_business",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4026.mp3"
+  },
+  {
+    "id": 4027,
+    "thai": "เครื่องดื่ม",
+    "romanization": "khrûeang-dèum",
+    "meaning": "飲み物",
+    "category": "food_restaurant",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4027.mp3"
+  },
+  {
+    "id": 4028,
+    "thai": "มะม่วง",
+    "romanization": "má-mûang",
+    "meaning": "マンゴー",
+    "category": "food_restaurant",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4028.mp3"
+  },
+  {
+    "id": 4029,
+    "thai": "ทุเรียน",
+    "romanization": "thú-rian",
+    "meaning": "ドリアン",
+    "category": "food_restaurant",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4029.mp3"
+  },
+  {
+    "id": 4030,
+    "thai": "พริก",
+    "romanization": "phrík",
+    "meaning": "唐辛子",
+    "category": "food_restaurant",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4030.mp3"
+  },
+  {
+    "id": 4031,
+    "thai": "กระเทียม",
+    "romanization": "grà-thiam",
+    "meaning": "ニンニク",
+    "category": "food_restaurant",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4031.mp3"
+  },
+  {
+    "id": 4032,
+    "thai": "ลูกพี่ลูกน้อง",
+    "romanization": "lûuk-phîi-lûuk-náwng",
+    "meaning": "いとこ",
+    "category": "people_introduction",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4032.mp3"
+  },
+  {
+    "id": 4033,
+    "thai": "ผม",
+    "romanization": "phŏm",
+    "meaning": "髪",
+    "category": "people_introduction",
+    "level": 5,
+    "sound": "assets/audio/vocab/40/4033.mp3"
+  },
+  {
+    "id": 4034,
+    "thai": "ท้อง",
+    "romanization": "tháwng",
+    "meaning": "お腹",
+    "category": "health_medical",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4034.mp3"
+  },
+  {
+    "id": 4035,
+    "thai": "หลัง",
+    "romanization": "lăng",
+    "meaning": "背中",
+    "category": "health_medical",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4035.mp3"
+  },
+  {
+    "id": 4036,
+    "thai": "หรือ",
+    "romanization": "rĕu",
+    "meaning": "～か、または",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/40/4036.mp3"
+  },
+  {
+    "id": 4037,
+    "thai": "ฤดูร้อน",
+    "romanization": "réu-duu ráwn",
+    "meaning": "暑季",
+    "category": "travel_accommodation",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4037.mp3"
+  },
+  {
+    "id": 4038,
+    "thai": "ฤดูฝน",
+    "romanization": "réu-duu fŏn",
+    "meaning": "雨季",
+    "category": "travel_accommodation",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4038.mp3"
+  },
+  {
+    "id": 4039,
+    "thai": "ฤดูหนาว",
+    "romanization": "réu-duu năao",
+    "meaning": "乾季（涼しい季節）",
+    "category": "travel_accommodation",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4039.mp3"
+  },
+  {
+    "id": 4040,
+    "thai": "มกราคม",
+    "romanization": "mák-gà-raa-khom",
+    "meaning": "1月",
+    "category": "numbers_time",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4040.mp3"
+  },
+  {
+    "id": 4041,
+    "thai": "กุมภาพันธ์",
+    "romanization": "gum-phaa-phan",
+    "meaning": "2月",
+    "category": "numbers_time",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4041.mp3"
+  },
+  {
+    "id": 4042,
+    "thai": "ธรรมดา",
+    "romanization": "tham-má-daa",
+    "meaning": "普通、通常",
+    "category": "greetings_expressions",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4042.mp3"
+  },
+  {
+    "id": 4043,
+    "thai": "หยิบ",
+    "romanization": "yìp",
+    "meaning": "（手で）拾う、取る",
+    "category": "greetings_expressions",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4043.mp3"
+  },
+  {
+    "id": 4044,
+    "thai": "วาง",
+    "romanization": "waang",
+    "meaning": "置く",
+    "category": "greetings_expressions",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4044.mp3"
+  },
+  {
+    "id": 4045,
+    "thai": "ทิ้ง",
+    "romanization": "thíng",
+    "meaning": "捨てる",
+    "category": "greetings_expressions",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4045.mp3"
+  },
+  {
+    "id": 4046,
+    "thai": "เก็บ",
+    "romanization": "gèp",
+    "meaning": "片付ける、保管する",
+    "category": "greetings_expressions",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4046.mp3"
+  },
+  {
+    "id": 4053,
+    "thai": "ส้มตำ",
+    "romanization": "sôm-dtam",
+    "meaning": "ソムタム",
+    "category": "food_restaurant",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4053.mp3"
+  },
+  {
+    "id": 4056,
+    "thai": "ตะเกียบ",
+    "romanization": "dtà-gìap",
+    "meaning": "箸",
+    "category": "food_restaurant",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4056.mp3"
+  },
+  {
+    "id": 4058,
+    "thai": "ชาม",
+    "romanization": "chaam",
+    "meaning": "丼、ボウル",
+    "category": "food_restaurant",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4058.mp3"
+  },
+  {
+    "id": 4059,
+    "thai": "ป้ายรถเมล์",
+    "romanization": "bpâai rót-mee",
+    "meaning": "バス停",
+    "category": "transportation",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4059.mp3"
+  },
+  {
+    "id": 4061,
+    "thai": "ที่จอดรถ",
+    "romanization": "thîi jàwt rót",
+    "meaning": "駐車場",
+    "category": "transportation",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4061.mp3"
+  },
+  {
+    "id": 4062,
+    "thai": "บันได",
+    "romanization": "ban-dai",
+    "meaning": "階段",
+    "category": "construction",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4062.mp3"
+  },
+  {
+    "id": 4063,
+    "thai": "ลิฟต์",
+    "romanization": "líp",
+    "meaning": "エレベーター",
+    "category": "construction",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4063.mp3"
+  },
+  {
+    "id": 4064,
+    "thai": "ร่ม",
+    "romanization": "rôm",
+    "meaning": "傘",
+    "category": "shopping",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4064.mp3"
+  },
+  {
+    "id": 4065,
+    "thai": "แว่นตา",
+    "romanization": "wâen-dtaa",
+    "meaning": "メガネ",
+    "category": "shopping",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4065.mp3"
+  },
+  {
+    "id": 4070,
+    "thai": "สว่าง",
+    "romanization": "sà-wàang",
+    "meaning": "明るい",
+    "category": "greetings_expressions",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4070.mp3"
+  },
+  {
+    "id": 4071,
+    "thai": "มืด",
+    "romanization": "mêut",
+    "meaning": "暗い",
+    "category": "greetings_expressions",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4071.mp3"
+  },
+  {
+    "id": 4074,
+    "thai": "เต็ม",
+    "romanization": "dtem",
+    "meaning": "いっぱいの",
+    "category": "greetings_expressions",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4074.mp3"
+  },
+  {
+    "id": 4075,
+    "thai": "ว่าง",
+    "romanization": "wâang",
+    "meaning": "空の",
+    "category": "greetings_expressions",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4075.mp3"
+  },
+  {
+    "id": 4076,
+    "thai": "แข็ง",
+    "romanization": "khăeng",
+    "meaning": "硬い",
+    "category": "greetings_expressions",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4076.mp3"
+  },
+  {
+    "id": 4079,
+    "thai": "พอดี",
+    "romanization": "phaw-dii",
+    "meaning": "ちょうど、ぴったり",
+    "category": "greetings_expressions",
+    "level": 4,
+    "sound": "assets/audio/vocab/40/4079.mp3"
+  }
+]

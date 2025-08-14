@@ -1,0 +1,1766 @@
+[
+  {
+    "id": 1,
+    "thai": "ไป",
+    "romanization": "bpai",
+    "meaning": "行く",
+    "category": "transportation",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/1.mp3"
+  },
+  {
+    "id": 2,
+    "thai": "มา",
+    "romanization": "maa",
+    "meaning": "来る",
+    "category": "transportation",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/2.mp3"
+  },
+  {
+    "id": 3,
+    "thai": "กิน",
+    "romanization": "gin",
+    "meaning": "食べる",
+    "category": "food_restaurant",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/3.mp3"
+  },
+  {
+    "id": 4,
+    "thai": "ทำ",
+    "romanization": "tham",
+    "meaning": "する、作る",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/4.mp3"
+  },
+  {
+    "id": 5,
+    "thai": "อยู่",
+    "romanization": "yòo",
+    "meaning": "いる、ある、住む",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/5.mp3"
+  },
+  {
+    "id": 6,
+    "thai": "มี",
+    "romanization": "mii",
+    "meaning": "ある、持っている",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/6.mp3"
+  },
+  {
+    "id": 7,
+    "thai": "เป็น",
+    "romanization": "bpen",
+    "meaning": "～です（be動詞）",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/7.mp3"
+  },
+  {
+    "id": 8,
+    "thai": "คือ",
+    "romanization": "kheu",
+    "meaning": "～は～です（A is B）",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/8.mp3"
+  },
+  {
+    "id": 9,
+    "thai": "พูด",
+    "romanization": "phûut",
+    "meaning": "話す",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/9.mp3"
+  },
+  {
+    "id": 10,
+    "thai": "ดู",
+    "romanization": "duu",
+    "meaning": "見る",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/10.mp3"
+  },
+  {
+    "id": 11,
+    "thai": "ฟัง",
+    "romanization": "fang",
+    "meaning": "聞く",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/11.mp3"
+  },
+  {
+    "id": 12,
+    "thai": "อ่าน",
+    "romanization": "àan",
+    "meaning": "読む",
+    "category": "people_introduction",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/12.mp3"
+  },
+  {
+    "id": 13,
+    "thai": "เขียน",
+    "romanization": "khĭan",
+    "meaning": "書く",
+    "category": "office_business",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/13.mp3"
+  },
+  {
+    "id": 14,
+    "thai": "นอน",
+    "romanization": "nawn",
+    "meaning": "寝る",
+    "category": "hotel_accommodation",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/14.mp3"
+  },
+  {
+    "id": 15,
+    "thai": "ตื่น",
+    "romanization": "dtèun",
+    "meaning": "起きる",
+    "category": "hotel_accommodation",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/15.mp3"
+  },
+  {
+    "id": 16,
+    "thai": "ซื้อ",
+    "romanization": "séu",
+    "meaning": "買う",
+    "category": "shopping",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/16.mp3"
+  },
+  {
+    "id": 17,
+    "thai": "ขาย",
+    "romanization": "khăai",
+    "meaning": "売る",
+    "category": "shopping",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/17.mp3"
+  },
+  {
+    "id": 18,
+    "thai": "เปิด",
+    "romanization": "bpèrt",
+    "meaning": "開ける",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/18.mp3"
+  },
+  {
+    "id": 19,
+    "thai": "ปิด",
+    "romanization": "bpìt",
+    "meaning": "閉める",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/19.mp3"
+  },
+  {
+    "id": 20,
+    "thai": "รู้",
+    "romanization": "rúu",
+    "meaning": "知っている",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/20.mp3"
+  },
+  {
+    "id": 21,
+    "thai": "เข้าใจ",
+    "romanization": "khâo-jai",
+    "meaning": "理解する",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/21.mp3"
+  },
+  {
+    "id": 22,
+    "thai": "ชอบ",
+    "romanization": "châwp",
+    "meaning": "好き",
+    "category": "people_introduction",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/22.mp3"
+  },
+  {
+    "id": 23,
+    "thai": "รัก",
+    "romanization": "rák",
+    "meaning": "愛している",
+    "category": "people_introduction",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/23.mp3"
+  },
+  {
+    "id": 24,
+    "thai": "เกลียด",
+    "romanization": "glìat",
+    "meaning": "嫌い",
+    "category": "people_introduction",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/24.mp3"
+  },
+  {
+    "id": 25,
+    "thai": "ต้องการ",
+    "romanization": "dtâwng-gaan",
+    "meaning": "欲しい",
+    "category": "shopping",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/25.mp3"
+  },
+  {
+    "id": 26,
+    "thai": "อยาก",
+    "romanization": "yàak",
+    "meaning": "～したい",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/26.mp3"
+  },
+  {
+    "id": 27,
+    "thai": "ได้",
+    "romanization": "dâai",
+    "meaning": "できる、得る",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/27.mp3"
+  },
+  {
+    "id": 28,
+    "thai": "ไม่",
+    "romanization": "mâi",
+    "meaning": "いいえ、～ない（否定）",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/28.mp3"
+  },
+  {
+    "id": 29,
+    "thai": "ใช่",
+    "romanization": "châi",
+    "meaning": "はい（そうです）",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/29.mp3"
+  },
+  {
+    "id": 30,
+    "thai": "ครับ",
+    "romanization": "khráp",
+    "meaning": "です、ます（男性）",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/30.mp3"
+  },
+  {
+    "id": 31,
+    "thai": "ค่ะ",
+    "romanization": "khà",
+    "meaning": "です、ます（女性）",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/31.mp3"
+  },
+  {
+    "id": 32,
+    "thai": "สวัสดี",
+    "romanization": "sà-wàt-dii",
+    "meaning": "こんにちは",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/32.mp3"
+  },
+  {
+    "id": 33,
+    "thai": "ขอบคุณ",
+    "romanization": "khàwp-khun",
+    "meaning": "ありがとう",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/33.mp3"
+  },
+  {
+    "id": 34,
+    "thai": "ขอโทษ",
+    "romanization": "khŏr-thôot",
+    "meaning": "ごめんなさい",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/34.mp3"
+  },
+  {
+    "id": 35,
+    "thai": "อะไร",
+    "romanization": "à-rai",
+    "meaning": "何",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/35.mp3"
+  },
+  {
+    "id": 36,
+    "thai": "ที่ไหน",
+    "romanization": "thîi-năi",
+    "meaning": "どこ",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/36.mp3"
+  },
+  {
+    "id": 37,
+    "thai": "เมื่อไหร่",
+    "romanization": "mûea-rài",
+    "meaning": "いつ",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/37.mp3"
+  },
+  {
+    "id": 38,
+    "thai": "ใคร",
+    "romanization": "khrai",
+    "meaning": "誰",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/38.mp3"
+  },
+  {
+    "id": 39,
+    "thai": "ทำไม",
+    "romanization": "tham-mai",
+    "meaning": "なぜ",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/39.mp3"
+  },
+  {
+    "id": 40,
+    "thai": "อย่างไร",
+    "romanization": "yàang-rai",
+    "meaning": "どのように",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/40.mp3"
+  },
+  {
+    "id": 41,
+    "thai": "อันไหน",
+    "romanization": "an-năi",
+    "meaning": "どれ",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/41.mp3"
+  },
+  {
+    "id": 42,
+    "thai": "เท่าไหร่",
+    "romanization": "thâo-rài",
+    "meaning": "いくら",
+    "category": "shopping",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/42.mp3"
+  },
+  {
+    "id": 43,
+    "thai": "กี่",
+    "romanization": "gìi",
+    "meaning": "いくつ",
+    "category": "shopping",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/43.mp3"
+  },
+  {
+    "id": 44,
+    "thai": "นี่",
+    "romanization": "nîi",
+    "meaning": "これ",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/44.mp3"
+  },
+  {
+    "id": 45,
+    "thai": "นั่น",
+    "romanization": "nân",
+    "meaning": "それ",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/45.mp3"
+  },
+  {
+    "id": 46,
+    "thai": "โน่น",
+    "romanization": "nôon",
+    "meaning": "あれ",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/46.mp3"
+  },
+  {
+    "id": 47,
+    "thai": "ที่นี่",
+    "romanization": "thîi-nîi",
+    "meaning": "ここ",
+    "category": "transportation",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/47.mp3"
+  },
+  {
+    "id": 48,
+    "thai": "ที่นั่น",
+    "romanization": "thîi-nân",
+    "meaning": "そこ",
+    "category": "transportation",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/48.mp3"
+  },
+  {
+    "id": 49,
+    "thai": "ที่โน่น",
+    "romanization": "thîi-nôon",
+    "meaning": "あそこ",
+    "category": "transportation",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/49.mp3"
+  },
+  {
+    "id": 50,
+    "thai": "ฉัน",
+    "romanization": "chăn",
+    "meaning": "私",
+    "category": "people_introduction",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/50.mp3"
+  },
+  {
+    "id": 51,
+    "thai": "คุณ",
+    "romanization": "khun",
+    "meaning": "あなた",
+    "category": "people_introduction",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/51.mp3"
+  },
+  {
+    "id": 52,
+    "thai": "เขา",
+    "romanization": "khăo",
+    "meaning": "彼、彼女",
+    "category": "people_introduction",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/52.mp3"
+  },
+  {
+    "id": 53,
+    "thai": "เรา",
+    "romanization": "rao",
+    "meaning": "私たち",
+    "category": "people_introduction",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/53.mp3"
+  },
+  {
+    "id": 54,
+    "thai": "พวกเขา",
+    "romanization": "phûak-khăo",
+    "meaning": "彼ら",
+    "category": "people_introduction",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/54.mp3"
+  },
+  {
+    "id": 55,
+    "thai": "ของฉัน",
+    "romanization": "khŏng-chăn",
+    "meaning": "私の",
+    "category": "people_introduction",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/55.mp3"
+  },
+  {
+    "id": 56,
+    "thai": "ของคุณ",
+    "romanization": "khŏng-khun",
+    "meaning": "あなたの",
+    "category": "people_introduction",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/56.mp3"
+  },
+  {
+    "id": 57,
+    "thai": "ของเขา",
+    "romanization": "khŏng-khăo",
+    "meaning": "彼の、彼女の",
+    "category": "people_introduction",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/57.mp3"
+  },
+  {
+    "id": 58,
+    "thai": "ของเรา",
+    "romanization": "khŏng-rao",
+    "meaning": "私たちの",
+    "category": "people_introduction",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/58.mp3"
+  },
+  {
+    "id": 59,
+    "thai": "ของพวกเขา",
+    "romanization": "khŏng-phûak-khăo",
+    "meaning": "彼らの",
+    "category": "people_introduction",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/59.mp3"
+  },
+  {
+    "id": 60,
+    "thai": "คน",
+    "romanization": "khon",
+    "meaning": "人",
+    "category": "people_introduction",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/60.mp3"
+  },
+  {
+    "id": 64,
+    "thai": "ผู้หญิง",
+    "romanization": "phûu-yĭng",
+    "meaning": "女性",
+    "category": "people_introduction",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/64.mp3"
+  },
+  {
+    "id": 65,
+    "thai": "ซอย",
+    "romanization": "soi",
+    "meaning": "路地、小道",
+    "category": "transportation",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/65.mp3"
+  },
+  {
+    "id": 66,
+    "thai": "หนึ่ง",
+    "romanization": "nèung",
+    "meaning": "一（1）",
+    "category": "numbers_time",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/66.mp3"
+  },
+  {
+    "id": 67,
+    "thai": "สอง",
+    "romanization": "sŏng",
+    "meaning": "二（2）",
+    "category": "numbers_time",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/67.mp3"
+  },
+  {
+    "id": 68,
+    "thai": "สาม",
+    "romanization": "săam",
+    "meaning": "三（3）",
+    "category": "numbers_time",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/68.mp3"
+  },
+  {
+    "id": 71,
+    "thai": "อัน",
+    "romanization": "an",
+    "meaning": "〜個（類別詞）",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/71.mp3"
+  },
+  {
+    "id": 72,
+    "thai": "ตัว",
+    "romanization": "dtua",
+    "meaning": "〜匹、〜着（類別詞）",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/72.mp3"
+  },
+  {
+    "id": 73,
+    "thai": "พ่อ",
+    "romanization": "phâw",
+    "meaning": "父",
+    "category": "people_introduction",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/73.mp3"
+  },
+  {
+    "id": 75,
+    "thai": "แม่",
+    "romanization": "mâe",
+    "meaning": "母",
+    "category": "people_introduction",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/75.mp3"
+  },
+  {
+    "id": 76,
+    "thai": "น้ำ",
+    "romanization": "náam",
+    "meaning": "水",
+    "category": "food_restaurant",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/76.mp3"
+  },
+  {
+    "id": 77,
+    "thai": "อร่อย",
+    "romanization": "à-ròi",
+    "meaning": "美味しい",
+    "category": "food_restaurant",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/77.mp3"
+  },
+  {
+    "id": 78,
+    "thai": "ใหญ่",
+    "romanization": "yài",
+    "meaning": "大きい",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/78.mp3"
+  },
+  {
+    "id": 79,
+    "thai": "เล็ก",
+    "romanization": "lék",
+    "meaning": "小さい",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/79.mp3"
+  },
+  {
+    "id": 80,
+    "thai": "สี่",
+    "romanization": "sìi",
+    "meaning": "四（4）",
+    "category": "numbers_time",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/80.mp3"
+  },
+  {
+    "id": 81,
+    "thai": "ห้า",
+    "romanization": "hâa",
+    "meaning": "五（5）",
+    "category": "numbers_time",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/81.mp3"
+  },
+  {
+    "id": 82,
+    "thai": "หก",
+    "romanization": "hòk",
+    "meaning": "六（6）",
+    "category": "numbers_time",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/82.mp3"
+  },
+  {
+    "id": 83,
+    "thai": "เจ็ด",
+    "romanization": "jèt",
+    "meaning": "七（7）",
+    "category": "numbers_time",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/83.mp3"
+  },
+  {
+    "id": 84,
+    "thai": "แปด",
+    "romanization": "bpàet",
+    "meaning": "八（8）",
+    "category": "numbers_time",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/84.mp3"
+  },
+  {
+    "id": 85,
+    "thai": "เก้า",
+    "romanization": "gâo",
+    "meaning": "九（9）",
+    "category": "numbers_time",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/85.mp3"
+  },
+  {
+    "id": 86,
+    "thai": "สิบ",
+    "romanization": "sìp",
+    "meaning": "十（10）",
+    "category": "numbers_time",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/86.mp3"
+  },
+  {
+    "id": 87,
+    "thai": "ร้อย",
+    "romanization": "ráwy",
+    "meaning": "百（100）",
+    "category": "numbers_time",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/87.mp3"
+  },
+  {
+    "id": 88,
+    "thai": "พัน",
+    "romanization": "phan",
+    "meaning": "千（1,000）",
+    "category": "numbers_time",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/88.mp3"
+  },
+  {
+    "id": 89,
+    "thai": "หมื่น",
+    "romanization": "mèun",
+    "meaning": "万（10,000）",
+    "category": "numbers_time",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/89.mp3"
+  },
+  {
+    "id": 90,
+    "thai": "แสน",
+    "romanization": "săen",
+    "meaning": "十万（100,000）",
+    "category": "numbers_time",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/90.mp3"
+  },
+  {
+    "id": 91,
+    "thai": "ล้าน",
+    "romanization": "láan",
+    "meaning": "百万（1,000,000）",
+    "category": "numbers_time",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/91.mp3"
+  },
+  {
+    "id": 92,
+    "thai": "คน",
+    "romanization": "khon",
+    "meaning": "〜人（類別詞）",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/92.mp3"
+  },
+  {
+    "id": 93,
+    "thai": "ใบ",
+    "romanization": "bai",
+    "meaning": "〜個、〜枚（類別詞）",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/93.mp3"
+  },
+  {
+    "id": 94,
+    "thai": "สวย",
+    "romanization": "sŭay",
+    "meaning": "美しい、きれい",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/94.mp3"
+  },
+  {
+    "id": 95,
+    "thai": "ร้อน",
+    "romanization": "ráwn",
+    "meaning": "暑い、熱い",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/95.mp3"
+  },
+  {
+    "id": 96,
+    "thai": "หนาว",
+    "romanization": "năao",
+    "meaning": "寒い",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/96.mp3"
+  },
+  {
+    "id": 97,
+    "thai": "สีแดง",
+    "romanization": "sĭi daeng",
+    "meaning": "赤色",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/97.mp3"
+  },
+  {
+    "id": 98,
+    "thai": "สีดำ",
+    "romanization": "sĭi dam",
+    "meaning": "黒色",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/98.mp3"
+  },
+  {
+    "id": 99,
+    "thai": "สีขาว",
+    "romanization": "sĭi khăao",
+    "meaning": "白色",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/00/99.mp3"
+  },
+  {
+    "id": 100,
+    "thai": "สีเขียว",
+    "romanization": "sĭi khĭao",
+    "meaning": "緑色",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/01/100.mp3"
+  },
+  {
+    "id": 101,
+    "thai": "สีน้ำเงิน",
+    "romanization": "sĭi náam-ngern",
+    "meaning": "青色",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/01/101.mp3"
+  },
+  {
+    "id": 102,
+    "thai": "รอ",
+    "romanization": "raw",
+    "meaning": "待つ",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/01/102.mp3"
+  },
+  {
+    "id": 103,
+    "thai": "กว่า",
+    "romanization": "gwàa",
+    "meaning": "～より（比較）",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/01/103.mp3"
+  },
+  {
+    "id": 104,
+    "thai": "ที่สุด",
+    "romanization": "thîi-sùt",
+    "meaning": "最も（最上級）",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/01/104.mp3"
+  },
+  {
+    "id": 105,
+    "thai": "อากาศ",
+    "romanization": "aa-gàat",
+    "meaning": "天気、空気",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/01/105.mp3"
+  },
+  {
+    "id": 106,
+    "thai": "ความรู้สึก",
+    "romanization": "khwaam-rúu-sèuk",
+    "meaning": "気持ち、感覚",
+    "category": "people_introduction",
+    "level": 5,
+    "sound": "assets/audio/vocab/01/106.mp3"
+  },
+  {
+    "id": 107,
+    "thai": "ข้างหน้า",
+    "romanization": "khâang-nâa",
+    "meaning": "前",
+    "category": "transportation",
+    "level": 5,
+    "sound": "assets/audio/vocab/01/107.mp3"
+  },
+  {
+    "id": 108,
+    "thai": "ข้างหลัง",
+    "romanization": "khâang-lăng",
+    "meaning": "後ろ",
+    "category": "transportation",
+    "level": 5,
+    "sound": "assets/audio/vocab/01/108.mp3"
+  },
+  {
+    "id": 109,
+    "thai": "เช้า",
+    "romanization": "cháo",
+    "meaning": "朝",
+    "category": "numbers_time",
+    "level": 5,
+    "sound": "assets/audio/vocab/01/109.mp3"
+  },
+  {
+    "id": 110,
+    "thai": "กลางวัน",
+    "romanization": "glaang-wan",
+    "meaning": "昼間",
+    "category": "numbers_time",
+    "level": 5,
+    "sound": "assets/audio/vocab/01/110.mp3"
+  },
+  {
+    "id": 111,
+    "thai": "เย็น",
+    "romanization": "yen",
+    "meaning": "夕方",
+    "category": "numbers_time",
+    "level": 5,
+    "sound": "assets/audio/vocab/01/111.mp3"
+  },
+  {
+    "id": 115,
+    "thai": "กลางคืน",
+    "romanization": "glaang-kheun",
+    "meaning": "夜間",
+    "category": "numbers_time",
+    "level": 5,
+    "sound": "assets/audio/vocab/01/115.mp3"
+  },
+  {
+    "id": 227,
+    "thai": "แดดออก",
+    "romanization": "dàet àwk",
+    "meaning": "晴れ、日が出ている",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/02/227.mp3"
+  },
+  {
+    "id": 228,
+    "thai": "ฝนตก",
+    "romanization": "fŏn dtòk",
+    "meaning": "雨が降る",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/02/228.mp3"
+  },
+  {
+    "id": 230,
+    "thai": "มีเมฆมาก",
+    "romanization": "mii mêek mâak",
+    "meaning": "曇り",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/02/230.mp3"
+  },
+  {
+    "id": 231,
+    "thai": "พายุ",
+    "romanization": "phaa-yú",
+    "meaning": "嵐、台風",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/02/231.mp3"
+  },
+  {
+    "id": 287,
+    "thai": "ดี",
+    "romanization": "dii",
+    "meaning": "良い",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/02/287.mp3"
+  },
+  {
+    "id": 1720,
+    "thai": "ผู้ชาย",
+    "romanization": "phûu-chaai",
+    "meaning": "男性",
+    "category": "people_introduction",
+    "level": 5,
+    "sound": "assets/audio/vocab/17/1720.mp3"
+  },
+  {
+    "id": 3001,
+    "thai": "บ้าน",
+    "romanization": "bâan",
+    "meaning": "家",
+    "category": "travel_accommodation",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3001.mp3"
+  },
+  {
+    "id": 3002,
+    "thai": "โรงเรียน",
+    "romanization": "roong-rian",
+    "meaning": "学校",
+    "category": "office_business",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3002.mp3"
+  },
+  {
+    "id": 3003,
+    "thai": "ร้านอาหาร",
+    "romanization": "ráan aa-hăan",
+    "meaning": "レストラン",
+    "category": "food_restaurant",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3003.mp3"
+  },
+  {
+    "id": 3004,
+    "thai": "ตลาด",
+    "romanization": "dtà-làat",
+    "meaning": "市場",
+    "category": "shopping",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3004.mp3"
+  },
+  {
+    "id": 3005,
+    "thai": "ห้องน้ำ",
+    "romanization": "hâwng-náam",
+    "meaning": "トイレ、バスルーム",
+    "category": "hotel_accommodation",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3005.mp3"
+  },
+  {
+    "id": 3006,
+    "thai": "วัด",
+    "romanization": "wát",
+    "meaning": "寺院",
+    "category": "travel_accommodation",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3006.mp3"
+  },
+  {
+    "id": 3007,
+    "thai": "ข้าว",
+    "romanization": "khâao",
+    "meaning": "ご飯、米",
+    "category": "food_restaurant",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3007.mp3"
+  },
+  {
+    "id": 3008,
+    "thai": "เผ็ด",
+    "romanization": "phèt",
+    "meaning": "辛い",
+    "category": "food_restaurant",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3008.mp3"
+  },
+  {
+    "id": 3009,
+    "thai": "หวาน",
+    "romanization": "wăan",
+    "meaning": "甘い",
+    "category": "food_restaurant",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3009.mp3"
+  },
+  {
+    "id": 3010,
+    "thai": "นั่ง",
+    "romanization": "nâng",
+    "meaning": "座る",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3010.mp3"
+  },
+  {
+    "id": 3011,
+    "thai": "ยืน",
+    "romanization": "yuen",
+    "meaning": "立つ",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3011.mp3"
+  },
+  {
+    "id": 3012,
+    "thai": "ให้",
+    "romanization": "hâi",
+    "meaning": "あげる、〜させる",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3012.mp3"
+  },
+  {
+    "id": 3013,
+    "thai": "เอา",
+    "romanization": "ao",
+    "meaning": "取る、要る、欲しい",
+    "category": "shopping",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3013.mp3"
+  },
+  {
+    "id": 3014,
+    "thai": "สนุก",
+    "romanization": "sà-nùk",
+    "meaning": "楽しい",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3014.mp3"
+  },
+  {
+    "id": 3015,
+    "thai": "เงิน",
+    "romanization": "ngern",
+    "meaning": "お金",
+    "category": "shopping",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3015.mp3"
+  },
+  {
+    "id": 3016,
+    "thai": "เพื่อน",
+    "romanization": "phûean",
+    "meaning": "友達",
+    "category": "people_introduction",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3016.mp3"
+  },
+  {
+    "id": 3017,
+    "thai": "ดีใจ",
+    "romanization": "dii-jai",
+    "meaning": "嬉しい",
+    "category": "people_introduction",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3017.mp3"
+  },
+  {
+    "id": 3018,
+    "thai": "เสียใจ",
+    "romanization": "sĭa-jai",
+    "meaning": "悲しい、残念",
+    "category": "people_introduction",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3018.mp3"
+  },
+  {
+    "id": 3019,
+    "thai": "โกรธ",
+    "romanization": "gròht",
+    "meaning": "怒っている",
+    "category": "people_introduction",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3019.mp3"
+  },
+  {
+    "id": 3020,
+    "thai": "กลัว",
+    "romanization": "glua",
+    "meaning": "怖い",
+    "category": "people_introduction",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3020.mp3"
+  },
+  {
+    "id": 3021,
+    "thai": "เหนื่อย",
+    "romanization": "nèuay",
+    "meaning": "疲れた",
+    "category": "people_introduction",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3021.mp3"
+  },
+  {
+    "id": 3022,
+    "thai": "เหงา",
+    "romanization": "ngăo",
+    "meaning": "寂しい",
+    "category": "people_introduction",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3022.mp3"
+  },
+  {
+    "id": 3023,
+    "thai": "เบื่อ",
+    "romanization": "bèua",
+    "meaning": "退屈だ、うんざり",
+    "category": "people_introduction",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3023.mp3"
+  },
+  {
+    "id": 3024,
+    "thai": "ตื่นเต้น",
+    "romanization": "dtèun-dtên",
+    "meaning": "興奮する、わくわくする",
+    "category": "people_introduction",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3024.mp3"
+  },
+  {
+    "id": 3025,
+    "thai": "กังวล",
+    "romanization": "gang-won",
+    "meaning": "心配だ",
+    "category": "people_introduction",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3025.mp3"
+  },
+  {
+    "id": 3026,
+    "thai": "แปลกใจ",
+    "romanization": "bplàek-jai",
+    "meaning": "驚く、びっくりする",
+    "category": "people_introduction",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3026.mp3"
+  },
+  {
+    "id": 3027,
+    "thai": "หิว",
+    "romanization": "hĭu",
+    "meaning": "お腹がすいた",
+    "category": "food_restaurant",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3027.mp3"
+  },
+  {
+    "id": 3028,
+    "thai": "ง่วง",
+    "romanization": "ngûang",
+    "meaning": "眠い",
+    "category": "hotel_accommodation",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3028.mp3"
+  },
+  {
+    "id": 3029,
+    "thai": "สบายใจ",
+    "romanization": "sà-baai-jai",
+    "meaning": "安心する、リラックスする",
+    "category": "people_introduction",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3029.mp3"
+  },
+  {
+    "id": 3030,
+    "thai": "เปรี้ยว",
+    "romanization": "bprîao",
+    "meaning": "酸っぱい",
+    "category": "food_restaurant",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3030.mp3"
+  },
+  {
+    "id": 3031,
+    "thai": "เค็ม",
+    "romanization": "khem",
+    "meaning": "しょっぱい",
+    "category": "food_restaurant",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3031.mp3"
+  },
+  {
+    "id": 3032,
+    "thai": "ขม",
+    "romanization": "kŏm",
+    "meaning": "苦い",
+    "category": "food_restaurant",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3032.mp3"
+  },
+  {
+    "id": 3033,
+    "thai": "จืด",
+    "romanization": "jèut",
+    "meaning": "味が薄い",
+    "category": "food_restaurant",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3033.mp3"
+  },
+  {
+    "id": 3034,
+    "thai": "มัน",
+    "romanization": "man",
+    "meaning": "油っこい、脂っぽい",
+    "category": "food_restaurant",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3034.mp3"
+  },
+  {
+    "id": 3035,
+    "thai": "หอม",
+    "romanization": "hŏm",
+    "meaning": "香りが良い",
+    "category": "food_restaurant",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3035.mp3"
+  },
+  {
+    "id": 3036,
+    "thai": "กลมกล่อม",
+    "romanization": "glom-glòm",
+    "meaning": "まろやか、コクがある",
+    "category": "food_restaurant",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3036.mp3"
+  },
+  {
+    "id": 3037,
+    "thai": "กรอบ",
+    "romanization": "gràwp",
+    "meaning": "カリカリ、サクサク",
+    "category": "food_restaurant",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3037.mp3"
+  },
+  {
+    "id": 3038,
+    "thai": "นุ่ม",
+    "romanization": "nûm",
+    "meaning": "柔らかい",
+    "category": "food_restaurant",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3038.mp3"
+  },
+  {
+    "id": 3039,
+    "thai": "ดู",
+    "romanization": "duu",
+    "meaning": "見る、観る",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3039.mp3"
+  },
+  {
+    "id": 3040,
+    "thai": "ฟัง",
+    "romanization": "fang",
+    "meaning": "聞く",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3040.mp3"
+  },
+  {
+    "id": 3041,
+    "thai": "อ่าน",
+    "romanization": "àan",
+    "meaning": "読む",
+    "category": "office_business",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3041.mp3"
+  },
+  {
+    "id": 3042,
+    "thai": "เขียน",
+    "romanization": "khĭan",
+    "meaning": "書く",
+    "category": "office_business",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3042.mp3"
+  },
+  {
+    "id": 3043,
+    "thai": "ซื้อ",
+    "romanization": "séu",
+    "meaning": "買う",
+    "category": "shopping",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3043.mp3"
+  },
+  {
+    "id": 3044,
+    "thai": "ขาย",
+    "romanization": "khăai",
+    "meaning": "売る",
+    "category": "shopping",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3044.mp3"
+  },
+  {
+    "id": 3045,
+    "thai": "ใน",
+    "romanization": "nai",
+    "meaning": "中に、内側に",
+    "category": "transportation",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3045.mp3"
+  },
+  {
+    "id": 3046,
+    "thai": "บน",
+    "romanization": "bon",
+    "meaning": "上に",
+    "category": "transportation",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3046.mp3"
+  },
+  {
+    "id": 3047,
+    "thai": "ใต้",
+    "romanization": "dtâi",
+    "meaning": "下に",
+    "category": "transportation",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3047.mp3"
+  },
+  {
+    "id": 3048,
+    "thai": "ราคา",
+    "romanization": "raa-khaa",
+    "meaning": "値段",
+    "category": "shopping",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3048.mp3"
+  },
+  {
+    "id": 3049,
+    "thai": "ถูก",
+    "romanization": "thòok",
+    "meaning": "安い",
+    "category": "shopping",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3049.mp3"
+  },
+  {
+    "id": 3050,
+    "thai": "แพง",
+    "romanization": "phaeng",
+    "meaning": "高い（値段が）",
+    "category": "shopping",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3050.mp3"
+  },
+  {
+    "id": 3051,
+    "thai": "หัว",
+    "romanization": "hŭa",
+    "meaning": "頭",
+    "category": "people_introduction",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3051.mp3"
+  },
+  {
+    "id": 3052,
+    "thai": "ตา",
+    "romanization": "dtaa",
+    "meaning": "目",
+    "category": "people_introduction",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3052.mp3"
+  },
+  {
+    "id": 3053,
+    "thai": "หู",
+    "romanization": "hŭu",
+    "meaning": "耳",
+    "category": "people_introduction",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3053.mp3"
+  },
+  {
+    "id": 3054,
+    "thai": "มือ",
+    "romanization": "meu",
+    "meaning": "手",
+    "category": "people_introduction",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3054.mp3"
+  },
+  {
+    "id": 3055,
+    "thai": "และ",
+    "romanization": "láe",
+    "meaning": "～と、そして",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3055.mp3"
+  },
+  {
+    "id": 3056,
+    "thai": "แต่",
+    "romanization": "dtàe",
+    "meaning": "しかし、でも",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3056.mp3"
+  },
+  {
+    "id": 3057,
+    "thai": "เพราะว่า",
+    "romanization": "phráw-wâa",
+    "meaning": "なぜなら～",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3057.mp3"
+  },
+  {
+    "id": 3058,
+    "thai": "ก็เลย",
+    "romanization": "gâw-looei",
+    "meaning": "だから、それで",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3058.mp3"
+  },
+  {
+    "id": 3059,
+    "thai": "ด้วยกัน",
+    "romanization": "dûay-gan",
+    "meaning": "一緒に",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3059.mp3"
+  },
+  {
+    "id": 3060,
+    "thai": "คนเดียว",
+    "romanization": "khon-diao",
+    "meaning": "一人で",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3060.mp3"
+  },
+  {
+    "id": 3061,
+    "thai": "เมื่อวาน",
+    "romanization": "mûea-waan",
+    "meaning": "昨日",
+    "category": "numbers_time",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3061.mp3"
+  },
+  {
+    "id": 3062,
+    "thai": "วันนี้",
+    "romanization": "wan-níi",
+    "meaning": "今日",
+    "category": "numbers_time",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3062.mp3"
+  },
+  {
+    "id": 3063,
+    "thai": "พรุ่งนี้",
+    "romanization": "phrûng-níi",
+    "meaning": "明日",
+    "category": "numbers_time",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3063.mp3"
+  },
+  {
+    "id": 3064,
+    "thai": "ตอนนี้",
+    "romanization": "dtawn-níi",
+    "meaning": "今",
+    "category": "numbers_time",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3064.mp3"
+  },
+  {
+    "id": 3065,
+    "thai": "ก่อน",
+    "romanization": "gàwn",
+    "meaning": "～の前",
+    "category": "numbers_time",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3065.mp3"
+  },
+  {
+    "id": 3066,
+    "thai": "หลัง",
+    "romanization": "lăng",
+    "meaning": "～の後",
+    "category": "numbers_time",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3066.mp3"
+  },
+  {
+    "id": 3067,
+    "thai": "เหมือน",
+    "romanization": "mĕuan",
+    "meaning": "同じ、似ている",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3067.mp3"
+  },
+  {
+    "id": 3068,
+    "thai": "ว่าง",
+    "romanization": "wâang",
+    "meaning": "空いている、暇",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3068.mp3"
+  },
+  {
+    "id": 3069,
+    "thai": "ยุ่ง",
+    "romanization": "yûng",
+    "meaning": "忙しい",
+    "category": "office_business",
+    "level": 5,
+    "sound": "assets/audio/vocab/30/3069.mp3"
+  },
+  {
+    "id": 4001,
+    "thai": "ไม่เป็นไร",
+    "romanization": "mâi bpen rai",
+    "meaning": "どういたしまして、大丈夫です",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/40/4001.mp3"
+  },
+  {
+    "id": 4002,
+    "thai": "แล้วเจอกัน",
+    "romanization": "láew jer gan",
+    "meaning": "また会いましょう",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/40/4002.mp3"
+  },
+  {
+    "id": 4003,
+    "thai": "ดื่ม",
+    "romanization": "dèum",
+    "meaning": "飲む",
+    "category": "food_restaurant",
+    "level": 5,
+    "sound": "assets/audio/vocab/40/4003.mp3"
+  },
+  {
+    "id": 4004,
+    "thai": "ใส่",
+    "romanization": "sài",
+    "meaning": "着る、履く、入れる",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/40/4004.mp3"
+  },
+  {
+    "id": 4013,
+    "thai": "อิ่ม",
+    "romanization": "ìm",
+    "meaning": "お腹がいっぱい",
+    "category": "food_restaurant",
+    "level": 5,
+    "sound": "assets/audio/vocab/40/4013.mp3"
+  },
+  {
+    "id": 4014,
+    "thai": "สีเหลือง",
+    "romanization": "sĭi lĕuang",
+    "meaning": "黄色",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/40/4014.mp3"
+  },
+  {
+    "id": 4015,
+    "thai": "สีชมพู",
+    "romanization": "sĭi chom-phuu",
+    "meaning": "ピンク",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/40/4015.mp3"
+  },
+  {
+    "id": 4016,
+    "thai": "สีส้ม",
+    "romanization": "sĭi sôm",
+    "meaning": "オレンジ色",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/40/4016.mp3"
+  },
+  {
+    "id": 4017,
+    "thai": "สีม่วง",
+    "romanization": "sĭi mûang",
+    "meaning": "紫色",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/40/4017.mp3"
+  },
+  {
+    "id": 4018,
+    "thai": "สีน้ำตาล",
+    "romanization": "sĭi náam-dtaan",
+    "meaning": "茶色",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/40/4018.mp3"
+  },
+  {
+    "id": 4019,
+    "thai": "สีเทา",
+    "romanization": "sĭi thao",
+    "meaning": "灰色",
+    "category": "greetings_expressions",
+    "level": 5,
+    "sound": "assets/audio/vocab/40/4019.mp3"
+  },
+  {
+    "id": 4052,
+    "thai": "ก๋วยเตี๋ยว",
+    "romanization": "gŭay-dtĭao",
+    "meaning": "麺類",
+    "category": "food_restaurant",
+    "level": 5,
+    "sound": "assets/audio/vocab/40/4052.mp3"
+  },
+  {
+    "id": 4054,
+    "thai": "ช้อน",
+    "romanization": "cháwn",
+    "meaning": "スプーン",
+    "category": "food_restaurant",
+    "level": 5,
+    "sound": "assets/audio/vocab/40/4054.mp3"
+  },
+  {
+    "id": 4055,
+    "thai": "ส้อม",
+    "romanization": "sâwm",
+    "meaning": "フォーク",
+    "category": "food_restaurant",
+    "level": 5,
+    "sound": "assets/audio/vocab/40/4055.mp3"
+  },
+  {
+    "id": 4057,
+    "thai": "จาน",
+    "romanization": "jaan",
+    "meaning": "皿",
+    "category": "food_restaurant",
+    "level": 5,
+    "sound": "assets/audio/vocab/40/4057.mp3"
+  }
+]

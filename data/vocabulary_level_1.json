@@ -1,0 +1,5447 @@
+[
+  {
+    "id": 2001,
+    "thai": "รัฐธรรมนูญ",
+    "romanization": "rát-thà-tham-má-nuun",
+    "meaning": "憲法",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2001.mp3"
+  },
+  {
+    "id": 2002,
+    "thai": "ประชาธิปไตย",
+    "romanization": "bprà-chaa-thíp-bpà-dtai",
+    "meaning": "民主主義",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2002.mp3"
+  },
+  {
+    "id": 2003,
+    "thai": "เผด็จการ",
+    "romanization": "phà-dèt-gaan",
+    "meaning": "独裁",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2003.mp3"
+  },
+  {
+    "id": 2004,
+    "thai": "รัฐสภา",
+    "romanization": "rát-thà-sà-phaa",
+    "meaning": "国会",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2004.mp3"
+  },
+  {
+    "id": 2005,
+    "thai": "คณะรัฐมนตรี",
+    "romanization": "khá-ná-rát-thà-mon-dtrii",
+    "meaning": "内閣",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2005.mp3"
+  },
+  {
+    "id": 2006,
+    "thai": "นายกรัฐมนตรี",
+    "romanization": "naa-yók-rát-thà-mon-dtrii",
+    "meaning": "首相",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2006.mp3"
+  },
+  {
+    "id": 2007,
+    "thai": "ประธานาธิบดี",
+    "romanization": "bprà-thaa-naa-thí-baw-dii",
+    "meaning": "大統領",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2007.mp3"
+  },
+  {
+    "id": 2008,
+    "thai": "การเลือกตั้ง",
+    "romanization": "gaan-lûeak-dtâng",
+    "meaning": "選挙",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2008.mp3"
+  },
+  {
+    "id": 2009,
+    "thai": "พรรคการเมือง",
+    "romanization": "phák-gaan-mueang",
+    "meaning": "政党",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2009.mp3"
+  },
+  {
+    "id": 2010,
+    "thai": "นโยบาย",
+    "romanization": "ná-yoo-baai",
+    "meaning": "政策",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2010.mp3"
+  },
+  {
+    "id": 2011,
+    "thai": "กฎหมาย",
+    "romanization": "gòt-măai",
+    "meaning": "法律",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2011.mp3"
+  },
+  {
+    "id": 2012,
+    "thai": "ศาล",
+    "romanization": "săan",
+    "meaning": "裁判所",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2012.mp3"
+  },
+  {
+    "id": 2013,
+    "thai": "ผู้พิพากษา",
+    "romanization": "phûu-phí-phâak-săa",
+    "meaning": "裁判官",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2013.mp3"
+  },
+  {
+    "id": 2014,
+    "thai": "ทนายความ",
+    "romanization": "thá-naai-khwaam",
+    "meaning": "弁護士",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2014.mp3"
+  },
+  {
+    "id": 2015,
+    "thai": "อัยการ",
+    "romanization": "ai-yá-gaan",
+    "meaning": "検察官",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2015.mp3"
+  },
+  {
+    "id": 2016,
+    "thai": "คำพิพากษา",
+    "romanization": "kham-phí-phâak-săa",
+    "meaning": "判決",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2016.mp3"
+  },
+  {
+    "id": 2017,
+    "thai": "อาชญากรรม",
+    "romanization": "àat-chá-yaa-gam",
+    "meaning": "犯罪",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2017.mp3"
+  },
+  {
+    "id": 2018,
+    "thai": "หลักฐาน",
+    "romanization": "làk-thăan",
+    "meaning": "証拠",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2018.mp3"
+  },
+  {
+    "id": 2019,
+    "thai": "สิทธิมนุษยชน",
+    "romanization": "sìt-thí-má-nút-sà-yá-chon",
+    "meaning": "人権",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2019.mp3"
+  },
+  {
+    "id": 2020,
+    "thai": "ความเท่าเทียม",
+    "romanization": "khwaam-thâo-thiam",
+    "meaning": "平等",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2020.mp3"
+  },
+  {
+    "id": 2021,
+    "thai": "เสรีภาพ",
+    "romanization": "sĕ-rii-phâap",
+    "meaning": "自由",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2021.mp3"
+  },
+  {
+    "id": 2022,
+    "thai": "ความยุติธรรม",
+    "romanization": "khwaam-yút-dtì-tham",
+    "meaning": "正義",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2022.mp3"
+  },
+  {
+    "id": 2023,
+    "thai": "เทศบาล",
+    "romanization": "thêet-sà-baan",
+    "meaning": "地方自治体",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2023.mp3"
+  },
+  {
+    "id": 2024,
+    "thai": "งบประมาณ",
+    "romanization": "ngóp-bprà-maan",
+    "meaning": "予算",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2024.mp3"
+  },
+  {
+    "id": 2025,
+    "thai": "ภาษี",
+    "romanization": "phaa-sĭi",
+    "meaning": "税金",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2025.mp3"
+  },
+  {
+    "id": 2026,
+    "thai": "สาธารณสุข",
+    "romanization": "săa-thaa-rá-ná-sùk",
+    "meaning": "公衆衛生",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2026.mp3"
+  },
+  {
+    "id": 2027,
+    "thai": "โครงสร้างพื้นฐาน",
+    "romanization": "khroong-sâang-phúen-thăan",
+    "meaning": "インフラ",
+    "category": "construction",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2027.mp3"
+  },
+  {
+    "id": 2028,
+    "thai": "การทูต",
+    "romanization": "gaan-thûut",
+    "meaning": "外交",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2028.mp3"
+  },
+  {
+    "id": 2029,
+    "thai": "สนธิสัญญา",
+    "romanization": "sŏn-thí-săn-yaa",
+    "meaning": "条約",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2029.mp3"
+  },
+  {
+    "id": 2030,
+    "thai": "ความสัมพันธ์ระหว่างประเทศ",
+    "romanization": "khwaam-săm-phan-rá-wàang-bprà-thêet",
+    "meaning": "国際関係",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2030.mp3"
+  },
+  {
+    "id": 2031,
+    "thai": "องค์กรระหว่างประเทศ",
+    "romanization": "ong-gawn-rá-wàang-bprà-thêet",
+    "meaning": "国際機関",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2031.mp3"
+  },
+  {
+    "id": 2032,
+    "thai": "ผู้ลี้ภัย",
+    "romanization": "phûu-líi-phai",
+    "meaning": "難民",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2032.mp3"
+  },
+  {
+    "id": 2033,
+    "thai": "การอพยพ",
+    "romanization": "gaan-òp-phá-yóp",
+    "meaning": "移住、移民",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2033.mp3"
+  },
+  {
+    "id": 2034,
+    "thai": "อธิปไตย",
+    "romanization": "à-thíp-bpà-dtai",
+    "meaning": "主権",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2034.mp3"
+  },
+  {
+    "id": 2035,
+    "thai": "เขตแดน",
+    "romanization": "khèet-daen",
+    "meaning": "国境",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2035.mp3"
+  },
+  {
+    "id": 2036,
+    "thai": "การปกครอง",
+    "romanization": "gaan-bpòk-khrawng",
+    "meaning": "統治、行政",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2036.mp3"
+  },
+  {
+    "id": 2037,
+    "thai": "ฝ่ายนิติบัญญัติ",
+    "romanization": "fàai-ní-dtì-ban-yàt",
+    "meaning": "立法府",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2037.mp3"
+  },
+  {
+    "id": 2038,
+    "thai": "ฝ่ายบริหาร",
+    "romanization": "fàai-baw-rí-hăan",
+    "meaning": "行政府",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2038.mp3"
+  },
+  {
+    "id": 2039,
+    "thai": "ฝ่ายตุลาการ",
+    "romanization": "fàai-dtù-laa-gaan",
+    "meaning": "司法府",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2039.mp3"
+  },
+  {
+    "id": 2040,
+    "thai": "ร่างกฎหมาย",
+    "romanization": "râang-gòt-măai",
+    "meaning": "法案",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2040.mp3"
+  },
+  {
+    "id": 2041,
+    "thai": "อนุมัติ",
+    "romanization": "à-nú-mát",
+    "meaning": "承認する、認可する",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2041.mp3"
+  },
+  {
+    "id": 2042,
+    "thai": "คัดค้าน",
+    "romanization": "khát-kháan",
+    "meaning": "反対する",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2042.mp3"
+  },
+  {
+    "id": 2043,
+    "thai": "การเลือกปฏิบัติ",
+    "romanization": "gaan-lûeak-bpà-dtì-bàt",
+    "meaning": "差別",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2043.mp3"
+  },
+  {
+    "id": 2044,
+    "thai": "อคติ",
+    "romanization": "à-khà-dtì",
+    "meaning": "偏見",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2044.mp3"
+  },
+  {
+    "id": 2045,
+    "thai": "ความขัดแย้ง",
+    "romanization": "khwaam-khàt-yáeng",
+    "meaning": "紛争、対立",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2045.mp3"
+  },
+  {
+    "id": 2046,
+    "thai": "การประท้วง",
+    "romanization": "gaan-bprà-thúang",
+    "meaning": "抗議",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2046.mp3"
+  },
+  {
+    "id": 2047,
+    "thai": "การปฏิวัติ",
+    "romanization": "gaan-bpà-dtì-wát",
+    "meaning": "革命",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2047.mp3"
+  },
+  {
+    "id": 2048,
+    "thai": "สวัสดิการสังคม",
+    "romanization": "sà-wàt-dì-gaan-săng-khom",
+    "meaning": "社会福祉",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2048.mp3"
+  },
+  {
+    "id": 2049,
+    "thai": "การป้องกันประเทศ",
+    "romanization": "gaan-bpâwng-gan-bprà-thêet",
+    "meaning": "国防",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2049.mp3"
+  },
+  {
+    "id": 2050,
+    "thai": "กองทัพ",
+    "romanization": "gawng-tháp",
+    "meaning": "軍隊",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2050.mp3"
+  },
+  {
+    "id": 2051,
+    "thai": "การทุจริต",
+    "romanization": "gaan-thút-jà-rìt",
+    "meaning": "汚職、不正行為",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2051.mp3"
+  },
+  {
+    "id": 2052,
+    "thai": "คอร์รัปชัน",
+    "romanization": "khaw-ráp-chân",
+    "meaning": "汚職、腐敗",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2052.mp3"
+  },
+  {
+    "id": 2053,
+    "thai": "ความโปร่งใส",
+    "romanization": "khwaam-bpròong-săi",
+    "meaning": "透明性",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2053.mp3"
+  },
+  {
+    "id": 2054,
+    "thai": "ตรวจสอบ",
+    "romanization": "dtrùat-sàwp",
+    "meaning": "検査する、監査する",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2054.mp3"
+  },
+  {
+    "id": 2055,
+    "thai": "กระบวนการยุติธรรม",
+    "romanization": "grà-buan-gaan-yút-dtì-tham",
+    "meaning": "司法プロセス",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2055.mp3"
+  },
+  {
+    "id": 2056,
+    "thai": "สิทธิพลเมือง",
+    "romanization": "sìt-thí-phon-lá-mueang",
+    "meaning": "市民権",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2056.mp3"
+  },
+  {
+    "id": 2057,
+    "thai": "หน้าที่พลเมือง",
+    "romanization": "nâa-thîi-phon-lá-mueang",
+    "meaning": "市民の義務",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2057.mp3"
+  },
+  {
+    "id": 2058,
+    "thai": "การกระจายอำนาจ",
+    "romanization": "gaan-grà-jaai-am-nâat",
+    "meaning": "権力分立、地方分権",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2058.mp3"
+  },
+  {
+    "id": 2059,
+    "thai": "ส่วนท้องถิ่น",
+    "romanization": "sùan-tháwng-thìn",
+    "meaning": "地方",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2059.mp3"
+  },
+  {
+    "id": 2060,
+    "thai": "เทศบัญญัติ",
+    "romanization": "thêet-sà-ban-yàt",
+    "meaning": "条例",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2060.mp3"
+  },
+  {
+    "id": 2061,
+    "thai": "อุปทานส่วนเกิน",
+    "romanization": "ùp-bpà-thaan-sùan-gern",
+    "meaning": "供給過剰",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2061.mp3"
+  },
+  {
+    "id": 2062,
+    "thai": "อุปสงค์ส่วนเกิน",
+    "romanization": "ùp-bpà-sŏng-sùan-gern",
+    "meaning": "需要過剰",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2062.mp3"
+  },
+  {
+    "id": 2063,
+    "thai": "ดุลการค้า",
+    "romanization": "dun-gaan-kháa",
+    "meaning": "貿易収支",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2063.mp3"
+  },
+  {
+    "id": 2064,
+    "thai": "เกินดุล",
+    "romanization": "gern-dun",
+    "meaning": "黒字",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2064.mp3"
+  },
+  {
+    "id": 2065,
+    "thai": "ขาดดุล",
+    "romanization": "khàat-dun",
+    "meaning": "赤字",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2065.mp3"
+  },
+  {
+    "id": 2066,
+    "thai": "ผลิตภัณฑ์มวลรวมประชาชาติ",
+    "romanization": "phà-lìt-dtà-phan-muan-ruam-bprà-chaa-châat",
+    "meaning": "国民総生産 (GNP)",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2066.mp3"
+  },
+  {
+    "id": 2067,
+    "thai": "รายได้ต่อหัว",
+    "romanization": "raai-dâai-dtàw-hŭa",
+    "meaning": "一人当たりの所得",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2067.mp3"
+  },
+  {
+    "id": 2068,
+    "thai": "ภาวะเศรษฐกิจถดถอย",
+    "romanization": "phaa-wá-sèet-thà-gìt-thòt-thăwy",
+    "meaning": "景気後退",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2068.mp3"
+  },
+  {
+    "id": 2069,
+    "thai": "การว่างงาน",
+    "romanization": "gaan-wâang-ngaan",
+    "meaning": "失業",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2069.mp3"
+  },
+  {
+    "id": 2070,
+    "thai": "อัตราดอกเบี้ย",
+    "romanization": "àt-dtraa-dàwk-bîa",
+    "meaning": "金利",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2070.mp3"
+  },
+  {
+    "id": 2071,
+    "thai": "นโยบายการคลัง",
+    "romanization": "ná-yoo-baai-gaan-khlang",
+    "meaning": "財政政策",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2071.mp3"
+  },
+  {
+    "id": 2072,
+    "thai": "นโยบายการเงิน",
+    "romanization": "ná-yoo-baai-gaan-ngern",
+    "meaning": "金融政策",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2072.mp3"
+  },
+  {
+    "id": 2073,
+    "thai": "ตลาดทุน",
+    "romanization": "dtà-làat-thun",
+    "meaning": "資本市場",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2073.mp3"
+  },
+  {
+    "id": 2074,
+    "thai": "ตราสารหนี้",
+    "romanization": "dtraa-săan-nîi",
+    "meaning": "債券",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2074.mp3"
+  },
+  {
+    "id": 2075,
+    "thai": "อสังหาริมทรัพย์",
+    "romanization": "à-săng-hăa-rim-má-sáp",
+    "meaning": "不動産",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2075.mp3"
+  },
+  {
+    "id": 2076,
+    "thai": "การควบรวมกิจการ",
+    "romanization": "gaan-khûap-ruam-gìt-jà-gaan",
+    "meaning": "M&A (合併・買収)",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2076.mp3"
+  },
+  {
+    "id": 2077,
+    "thai": "ผู้ถือหุ้น",
+    "romanization": "phûu-thĕu-hûn",
+    "meaning": "株主",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2077.mp3"
+  },
+  {
+    "id": 2078,
+    "thai": "คณะกรรมการ",
+    "romanization": "khá-ná-gam-má-gaan",
+    "meaning": "取締役会、委員会",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2078.mp3"
+  },
+  {
+    "id": 2079,
+    "thai": "ประธานเจ้าหน้าที่บริหาร",
+    "romanization": "bprà-thaan-jâo-nâa-thîi-baw-rí-hăan",
+    "meaning": "最高経営責任者 (CEO)",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2079.mp3"
+  },
+  {
+    "id": 2080,
+    "thai": "ห่วงโซ่อุปทาน",
+    "romanization": "hùang-sôo-ùp-bpà-thaan",
+    "meaning": "サプライチェーン",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2080.mp3"
+  },
+  {
+    "id": 2081,
+    "thai": "โลจิสติกส์",
+    "romanization": "loo-jít-dtìk",
+    "meaning": "物流",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2081.mp3"
+  },
+  {
+    "id": 2083,
+    "thai": "การประชาสัมพันธ์",
+    "romanization": "gaan-bprà-chaa-săm-phan",
+    "meaning": "広報 (PR)",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2083.mp3"
+  },
+  {
+    "id": 2084,
+    "thai": "แบรนด์",
+    "romanization": "braen",
+    "meaning": "ブランド",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2084.mp3"
+  },
+  {
+    "id": 2085,
+    "thai": "โฆษณา",
+    "romanization": "khôot-sà-naa",
+    "meaning": "広告",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2085.mp3"
+  },
+  {
+    "id": 2086,
+    "thai": "ทรัพยากรมนุษย์",
+    "romanization": "sáp-phá-yaa-gawn-má-nút",
+    "meaning": "人事、人的資源",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2086.mp3"
+  },
+  {
+    "id": 2087,
+    "thai": "การสรรหา",
+    "romanization": "gaan-săn-hăa",
+    "meaning": "採用",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2087.mp3"
+  },
+  {
+    "id": 2088,
+    "thai": "การฝึกอบรม",
+    "romanization": "gaan-fèuk-òp-rom",
+    "meaning": "研修",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2088.mp3"
+  },
+  {
+    "id": 2089,
+    "thai": "การประเมินผลงาน",
+    "romanization": "gaan-bprà-mern-phŏn-ngaan",
+    "meaning": "業績評価",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2089.mp3"
+  },
+  {
+    "id": 2090,
+    "thai": "ค่าตอบแทน",
+    "romanization": "khâa-dtàwp-thaen",
+    "meaning": "報酬",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2090.mp3"
+  },
+  {
+    "id": 2091,
+    "thai": "สวัสดิการ",
+    "romanization": "sà-wàt-dì-gaan",
+    "meaning": "福利厚生",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2091.mp3"
+  },
+  {
+    "id": 2092,
+    "thai": "การวิจัยและพัฒนา",
+    "romanization": "gaan-wí-jai-láe-phát-thá-naa",
+    "meaning": "研究開発 (R&D)",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2092.mp3"
+  },
+  {
+    "id": 2094,
+    "thai": "โรงงาน",
+    "romanization": "roong-ngaan",
+    "meaning": "工場",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2094.mp3"
+  },
+  {
+    "id": 2095,
+    "thai": "เครื่องจักร",
+    "romanization": "khrûeang-jàk",
+    "meaning": "機械",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2095.mp3"
+  },
+  {
+    "id": 2096,
+    "thai": "อัตโนมัติ",
+    "romanization": "àt-dtà-noo-mát",
+    "meaning": "自動の",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2096.mp3"
+  },
+  {
+    "id": 2097,
+    "thai": "การควบคุมคุณภาพ",
+    "romanization": "gaan-khûap-khum-khun-ná-phâap",
+    "meaning": "品質管理",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2097.mp3"
+  },
+  {
+    "id": 2098,
+    "thai": "ข้อบังคับ",
+    "romanization": "khâw-bang-kháp",
+    "meaning": "規則、規制",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2098.mp3"
+  },
+  {
+    "id": 2099,
+    "thai": "ใบอนุญาต",
+    "romanization": "bai-à-nú-yâat",
+    "meaning": "許可証、ライセンス",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/20/2099.mp3"
+  },
+  {
+    "id": 2100,
+    "thai": "การตรวจสอบ",
+    "romanization": "gaan-dtrùat-sàwp",
+    "meaning": "監査",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2100.mp3"
+  },
+  {
+    "id": 2101,
+    "thai": "การส่งออก",
+    "romanization": "gaan-sòng-àwk",
+    "meaning": "輸出",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2101.mp3"
+  },
+  {
+    "id": 2102,
+    "thai": "การนำเข้า",
+    "romanization": "gaan-nam-khâo",
+    "meaning": "輸入",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2102.mp3"
+  },
+  {
+    "id": 2103,
+    "thai": "ภาษีศุลกากร",
+    "romanization": "phaa-sĭi-sŭn-lá-gaa-gawn",
+    "meaning": "関税",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2103.mp3"
+  },
+  {
+    "id": 2104,
+    "thai": "ข้อตกลงการค้าเสรี",
+    "romanization": "khâw-dtòk-long-gaan-kháa-sĕ-rii",
+    "meaning": "自由貿易協定",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2104.mp3"
+  },
+  {
+    "id": 2105,
+    "thai": "องค์การการค้าโลก",
+    "romanization": "ong-gaan-gaan-kháa-lôok",
+    "meaning": "世界貿易機関（WTO）",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2105.mp3"
+  },
+  {
+    "id": 2106,
+    "thai": "ธนาคารโลก",
+    "romanization": "thá-naa-khaan-lôok",
+    "meaning": "世界銀行",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2106.mp3"
+  },
+  {
+    "id": 2107,
+    "thai": "กองทุนการเงินระหว่างประเทศ",
+    "romanization": "gawng-thun-gaan-ngern-rá-wàang-bprà-thêet",
+    "meaning": "国際通貨基金（IMF）",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2107.mp3"
+  },
+  {
+    "id": 2108,
+    "thai": "สหประชาชาติ",
+    "romanization": "sà-hà-bprà-chaa-châat",
+    "meaning": "国際連合（UN）",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2108.mp3"
+  },
+  {
+    "id": 2109,
+    "thai": "องค์กรไม่แสวงหาผลกำไร",
+    "romanization": "ong-gawn-mâi-sà-wăeng-hăa-phŏn-gam-rai",
+    "meaning": "非営利団体（NPO）",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2109.mp3"
+  },
+  {
+    "id": 2110,
+    "thai": "การกุศล",
+    "romanization": "gaan-gù-sŏn",
+    "meaning": "慈善",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2110.mp3"
+  },
+  {
+    "id": 2111,
+    "thai": "การบริจาค",
+    "romanization": "gaan-baw-rí-jàak",
+    "meaning": "寄付",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2111.mp3"
+  },
+  {
+    "id": 2112,
+    "thai": "อาสาสมัคร",
+    "romanization": "aa-săa-sà-màk",
+    "meaning": "ボランティア",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2112.mp3"
+  },
+  {
+    "id": 2115,
+    "thai": "การยอมรับความแตกต่าง",
+    "romanization": "gaan-yawm-ráp-khwaam-dtàek-dtàang",
+    "meaning": "インクルージョン",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2115.mp3"
+  },
+  {
+    "id": 2116,
+    "thai": "ความรับผิดชอบต่อสังคม",
+    "romanization": "khwaam-ráp-phìt-châwp-dtàw-săng-khom",
+    "meaning": "社会的責任(CSR)",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2116.mp3"
+  },
+  {
+    "id": 2117,
+    "thai": "ธรรมาภิบาล",
+    "romanization": "tham-maa-phí-baan",
+    "meaning": "ガバナンス",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2117.mp3"
+  },
+  {
+    "id": 2118,
+    "thai": "การพัฒนาบุคลากร",
+    "romanization": "gaan-phát-thá-naa-bùk-khá-laa-gawn",
+    "meaning": "人材開発",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2118.mp3"
+  },
+  {
+    "id": 2119,
+    "thai": "การเลื่อนตำแหน่ง",
+    "romanization": "gaan-lûean-dtam-nàeng",
+    "meaning": "昇進",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2119.mp3"
+  },
+  {
+    "id": 2120,
+    "thai": "การลาออก",
+    "romanization": "gaan-laa-àwk",
+    "meaning": "退職",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2120.mp3"
+  },
+  {
+    "id": 2121,
+    "thai": "การเกษียณอายุ",
+    "romanization": "gaan-gà-sĭan-aa-yú",
+    "meaning": "定年退職",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2121.mp3"
+  },
+  {
+    "id": 2122,
+    "thai": "การจ้างงาน",
+    "romanization": "gaan-jâang-ngaan",
+    "meaning": "雇用",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2122.mp3"
+  },
+  {
+    "id": 2124,
+    "thai": "การสัมภาษณ์",
+    "romanization": "gaan-săm-phâat",
+    "meaning": "面接",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2124.mp3"
+  },
+  {
+    "id": 2125,
+    "thai": "ประวัติย่อ",
+    "romanization": "bprà-wàt-yâw",
+    "meaning": "履歴書",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2125.mp3"
+  },
+  {
+    "id": 2126,
+    "thai": "คุณสมบัติ",
+    "romanization": "khun-ná-sŏm-bàt",
+    "meaning": "資格、資質",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2126.mp3"
+  },
+  {
+    "id": 2127,
+    "thai": "หลักสูตร",
+    "romanization": "làk-sùut",
+    "meaning": "カリキュラム",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2127.mp3"
+  },
+  {
+    "id": 2128,
+    "thai": "ทุนการศึกษา",
+    "romanization": "thun-gaan-sèuk-săa",
+    "meaning": "奨学金",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2128.mp3"
+  },
+  {
+    "id": 2130,
+    "thai": "คณะ",
+    "romanization": "khá-ná",
+    "meaning": "学部",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2130.mp3"
+  },
+  {
+    "id": 2131,
+    "thai": "ปริญญา",
+    "romanization": "bpà-rin-yaa",
+    "meaning": "学位",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2131.mp3"
+  },
+  {
+    "id": 2132,
+    "thai": "วิทยานิพนธ์",
+    "romanization": "wít-thá-yaa-ní-phon",
+    "meaning": "論文",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2132.mp3"
+  },
+  {
+    "id": 2133,
+    "thai": "การวิจัยเชิงปริมาณ",
+    "romanization": "gaan-wí-jai-cherng-bpà-rí-maan",
+    "meaning": "定量的研究",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2133.mp3"
+  },
+  {
+    "id": 2134,
+    "thai": "การวิจัยเชิงคุณภาพ",
+    "romanization": "gaan-wí-jai-cherng-khun-ná-phâap",
+    "meaning": "定性的研究",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2134.mp3"
+  },
+  {
+    "id": 2135,
+    "thai": "สมมติฐาน",
+    "romanization": "sŏm-mút-dtì-thăan",
+    "meaning": "仮説",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2135.mp3"
+  },
+  {
+    "id": 2136,
+    "thai": "ตัวแปรตาม",
+    "romanization": "dtua-bplae-dtaam",
+    "meaning": "従属変数",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2136.mp3"
+  },
+  {
+    "id": 2137,
+    "thai": "ตัวแปรอิสระ",
+    "romanization": "dtua-bplae-ìt-sà-rà",
+    "meaning": "独立変数",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2137.mp3"
+  },
+  {
+    "id": 2138,
+    "thai": "กลุ่มตัวอย่าง",
+    "romanization": "glùm-dtua-yàang",
+    "meaning": "標本グループ",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2138.mp3"
+  },
+  {
+    "id": 2139,
+    "thai": "ประชากร",
+    "romanization": "bprà-chaa-gawn",
+    "meaning": "母集団、人口",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2139.mp3"
+  },
+  {
+    "id": 2140,
+    "thai": "ความน่าจะเป็น",
+    "romanization": "khwaam-nâa-jà-bpen",
+    "meaning": "確率",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2140.mp3"
+  },
+  {
+    "id": 2141,
+    "thai": "นัยสำคัญทางสถิติ",
+    "romanization": "nai-yá-săm-khan-thaang-sà-thì-dtì",
+    "meaning": "統計的有意性",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2141.mp3"
+  },
+  {
+    "id": 2142,
+    "thai": "สหสัมพันธ์",
+    "romanization": "sà-hà-săm-phan",
+    "meaning": "相関",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2142.mp3"
+  },
+  {
+    "id": 2143,
+    "thai": "เหตุและผล",
+    "romanization": "hèet-láe-phŏn",
+    "meaning": "因果関係",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2143.mp3"
+  },
+  {
+    "id": 2145,
+    "thai": "ขอบเขต",
+    "romanization": "khàwp-khèet",
+    "meaning": "範囲、スコープ",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2145.mp3"
+  },
+  {
+    "id": 2146,
+    "thai": "ระเบียบวิธีวิจัย",
+    "romanization": "rá-bìap-wí-thii-wí-jai",
+    "meaning": "研究方法論",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2146.mp3"
+  },
+  {
+    "id": 2147,
+    "thai": "อ้างอิง",
+    "romanization": "âang-ing",
+    "meaning": "参照する、引用する",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2147.mp3"
+  },
+  {
+    "id": 2148,
+    "thai": "บรรณานุกรม",
+    "romanization": "ban-naa-nú-grom",
+    "meaning": "参考文献リスト",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2148.mp3"
+  },
+  {
+    "id": 2149,
+    "thai": "บทคัดย่อ",
+    "romanization": "bòt-khát-yâw",
+    "meaning": "要旨、アブストラクト",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2149.mp3"
+  },
+  {
+    "id": 2150,
+    "thai": "สารบัญ",
+    "romanization": "săa-rá-ban",
+    "meaning": "目次",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2150.mp3"
+  },
+  {
+    "id": 2151,
+    "thai": "ภาคผนวก",
+    "romanization": "phâak-phà-nùak",
+    "meaning": "付録",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2151.mp3"
+  },
+  {
+    "id": 2152,
+    "thai": "ดัชนี",
+    "romanization": "dàt-chá-nii",
+    "meaning": "索引、指標",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2152.mp3"
+  },
+  {
+    "id": 2153,
+    "thai": "อนุสัญญา",
+    "romanization": "à-nú-săn-yaa",
+    "meaning": "条約、規約",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2153.mp3"
+  },
+  {
+    "id": 2154,
+    "thai": "พิธีสาร",
+    "romanization": "phí-thii-săan",
+    "meaning": "議定書",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2154.mp3"
+  },
+  {
+    "id": 2155,
+    "thai": "กรรมาธิการ",
+    "romanization": "gam-maa-thí-gaan",
+    "meaning": "委員（会）",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2155.mp3"
+  },
+  {
+    "id": 2156,
+    "thai": "อำนาจอธิปไตย",
+    "romanization": "am-nâat-à-thíp-bpà-dtai",
+    "meaning": "主権",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2156.mp3"
+  },
+  {
+    "id": 2157,
+    "thai": "เขตอำนาจศาล",
+    "romanization": "khèet-am-nâat-săan",
+    "meaning": "管轄権",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2157.mp3"
+  },
+  {
+    "id": 2158,
+    "thai": "บรรษัทภิบาล",
+    "romanization": "ban-sàt-thà-phí-baan",
+    "meaning": "コーポレートガバナンス",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2158.mp3"
+  },
+  {
+    "id": 2159,
+    "thai": "ผู้มีส่วนได้ส่วนเสีย",
+    "romanization": "phûu-mii-sùan-dâai-sùan-sĭa",
+    "meaning": "ステークホルダー",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2159.mp3"
+  },
+  {
+    "id": 2160,
+    "thai": "จริยธรรมทางธุรกิจ",
+    "romanization": "jà-rí-yá-tham-thaang-thú-rá-gìt",
+    "meaning": "ビジネス倫理",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2160.mp3"
+  },
+  {
+    "id": 2161,
+    "thai": "ห่วงโซ่คุณค่า",
+    "romanization": "hùang-sôo-khun-ná-khâa",
+    "meaning": "バリューチェーン",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2161.mp3"
+  },
+  {
+    "id": 2162,
+    "thai": "ข้อได้เปรียบทางการแข่งขัน",
+    "romanization": "khâw-dâai-bprìap-thaang-gaan-khàeng-khăn",
+    "meaning": "競争優位性",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2162.mp3"
+  },
+  {
+    "id": 2163,
+    "thai": "การกระจายความเสี่ยง",
+    "romanization": "gaan-grà-jaai-khwaam-sìang",
+    "meaning": "リスク分散",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2163.mp3"
+  },
+  {
+    "id": 2164,
+    "thai": "ผลตอบแทนจากการลงทุน",
+    "romanization": "phŏn-dtàwp-thaen-jàak-gaan-long-thun",
+    "meaning": "投資収益率 (ROI)",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2164.mp3"
+  },
+  {
+    "id": 2165,
+    "thai": "การวิเคราะห์ปัจจัยพื้นฐาน",
+    "romanization": "gaan-wí-khráw-bpàt-jai-phúen-thăan",
+    "meaning": "ファンダメンタル分析",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2165.mp3"
+  },
+  {
+    "id": 2166,
+    "thai": "การวิเคราะห์ทางเทคนิค",
+    "romanization": "gaan-wí-khráw-thaang-thék-ník",
+    "meaning": "テクニカル分析",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2166.mp3"
+  },
+  {
+    "id": 2167,
+    "thai": "ทรัพย์สินไม่มีตัวตน",
+    "romanization": "sáp-sĭn-mâi-mii-dtua-dton",
+    "meaning": "無形資産",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2167.mp3"
+  },
+  {
+    "id": 2168,
+    "thai": "ค่าเสื่อมราคา",
+    "romanization": "khâa-sèuam-raa-khaa",
+    "meaning": "減価償却費",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2168.mp3"
+  },
+  {
+    "id": 2169,
+    "thai": "การควบรวมกิจการตามแนวนอน",
+    "romanization": "gaan-khûap-ruam-gìt-jà-gaan-dtaam-naeo-nawn",
+    "meaning": "水平統合",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2169.mp3"
+  },
+  {
+    "id": 2170,
+    "thai": "การควบรวมกิจการตามแนวตั้ง",
+    "romanization": "gaan-khûap-ruam-gìt-jà-gaan-dtaam-naeo-dtâng",
+    "meaning": "垂直統合",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2170.mp3"
+  },
+  {
+    "id": 2171,
+    "thai": "การผูกขาด",
+    "romanization": "gaan-phùuk-khàat",
+    "meaning": "独占",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2171.mp3"
+  },
+  {
+    "id": 2172,
+    "thai": "การแข่งขันโดยสมบูรณ์",
+    "romanization": "gaan-khàeng-khăn-dooi-sŏm-buun",
+    "meaning": "完全競争",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2172.mp3"
+  },
+  {
+    "id": 2173,
+    "thai": "อุปสรรคในการเข้าสู่ตลาด",
+    "romanization": "ùp-bpà-sàk-nai-gaan-khâo-sùu-dtà-làat",
+    "meaning": "参入障壁",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2173.mp3"
+  },
+  {
+    "id": 2174,
+    "thai": "ส่วนแบ่งการตลาด",
+    "romanization": "sùan-bàeng-gaan-dtà-làat",
+    "meaning": "市場シェア",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2174.mp3"
+  },
+  {
+    "id": 2175,
+    "thai": "กลุ่มเป้าหมาย",
+    "romanization": "glùm-bpâo-măai",
+    "meaning": "ターゲット層",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2175.mp3"
+  },
+  {
+    "id": 2176,
+    "thai": "การแบ่งส่วนตลาด",
+    "romanization": "gaan-bàeng-sùan-dtà-làat",
+    "meaning": "市場細分化",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2176.mp3"
+  },
+  {
+    "id": 2177,
+    "thai": "การวางตำแหน่งผลิตภัณฑ์",
+    "romanization": "gaan-waang-dtam-nàeng-phà-lìt-dtà-phan",
+    "meaning": "製品ポジショニング",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2177.mp3"
+  },
+  {
+    "id": 2178,
+    "thai": "วงจรชีวิตผลิตภัณฑ์",
+    "romanization": "wong-jawn-chii-wít-phà-lìt-dtà-phan",
+    "meaning": "製品ライフサイクル",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2178.mp3"
+  },
+  {
+    "id": 2179,
+    "thai": "การสร้างความแตกต่าง",
+    "romanization": "gaan-sâang-khwaam-dtàek-dtàang",
+    "meaning": "差別化",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2179.mp3"
+  },
+  {
+    "id": 2180,
+    "thai": "การจัดการลูกค้าสัมพันธ์",
+    "romanization": "gaan-jàt-gaan-lûuk-kháa-săm-phan",
+    "meaning": "顧客関係管理 (CRM)",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2180.mp3"
+  },
+  {
+    "id": 2181,
+    "thai": "การวิเคราะห์สวอต",
+    "romanization": "gaan-wí-khráw-sà-wàwt",
+    "meaning": "SWOT分析",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2181.mp3"
+  },
+  {
+    "id": 2182,
+    "thai": "ตัวชี้วัดผลการดำเนินงานหลัก",
+    "romanization": "dtua-chîi-wát-phŏn-gaan-dam-nern-ngaan-làk",
+    "meaning": "重要業績評価指標 (KPI)",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2182.mp3"
+  },
+  {
+    "id": 2183,
+    "thai": "การเอาท์ซอร์ส",
+    "romanization": "gaan-ao-sâwt",
+    "meaning": "アウトソーシング",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2183.mp3"
+  },
+  {
+    "id": 2184,
+    "thai": "แฟรนไชส์",
+    "romanization": "fraen-chai",
+    "meaning": "フランチャイズ",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2184.mp3"
+  },
+  {
+    "id": 2185,
+    "thai": "การร่วมทุน",
+    "romanization": "gaan-rûam-thun",
+    "meaning": "ジョイントベンチャー",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2185.mp3"
+  },
+  {
+    "id": 2186,
+    "thai": "ระบบราชการ",
+    "romanization": "rá-bòp-râat-chá-gaan",
+    "meaning": "官僚制度",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2186.mp3"
+  },
+  {
+    "id": 2187,
+    "thai": "เอกสิทธิ์",
+    "romanization": "èek-gà-sìt",
+    "meaning": "特権",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2187.mp3"
+  },
+  {
+    "id": 2188,
+    "thai": "การอุทธรณ์",
+    "romanization": "gaan-ù-thawn",
+    "meaning": "上訴",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2188.mp3"
+  },
+  {
+    "id": 2189,
+    "thai": "การฟ้องร้อง",
+    "romanization": "gaan-fáwng-ráwng",
+    "meaning": "訴訟",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2189.mp3"
+  },
+  {
+    "id": 2190,
+    "thai": "พยานหลักฐาน",
+    "romanization": "phá-yaan-làk-thăan",
+    "meaning": "証拠物件",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2190.mp3"
+  },
+  {
+    "id": 2191,
+    "thai": "การไต่สวน",
+    "romanization": "gaan-dtài-sŭan",
+    "meaning": "尋問",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2191.mp3"
+  },
+  {
+    "id": 2192,
+    "thai": "การให้การ",
+    "romanization": "gaan-hâi-gaan",
+    "meaning": "証言",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2192.mp3"
+  },
+  {
+    "id": 2193,
+    "thai": "การละเมิด",
+    "romanization": "gaan-lá-mêrt",
+    "meaning": "侵害、違反",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2193.mp3"
+  },
+  {
+    "id": 2194,
+    "thai": "ค่าเสียหาย",
+    "romanization": "khâa-sĭa-hăai",
+    "meaning": "損害賠償",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2194.mp3"
+  },
+  {
+    "id": 2195,
+    "thai": "การบังคับใช้กฎหมาย",
+    "romanization": "gaan-bang-kháp-chái-gòt-măai",
+    "meaning": "法執行",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2195.mp3"
+  },
+  {
+    "id": 2196,
+    "thai": "การทบทวนวรรณกรรม",
+    "romanization": "gaan-thóp-thuan-wan-ná-gam",
+    "meaning": "文献レビュー",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2196.mp3"
+  },
+  {
+    "id": 2197,
+    "thai": "กลุ่มควบคุม",
+    "romanization": "glùm-khûap-khum",
+    "meaning": "対照群",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2197.mp3"
+  },
+  {
+    "id": 2198,
+    "thai": "การวิเคราะห์อภิมาน",
+    "romanization": "gaan-wí-khráw-à-phí-maan",
+    "meaning": "メタアナリシス",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2198.mp3"
+  },
+  {
+    "id": 2199,
+    "thai": "ความคลาดเคลื่อน",
+    "romanization": "khwaam-khlâat-khlûean",
+    "meaning": "誤差",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/21/2199.mp3"
+  },
+  {
+    "id": 2200,
+    "thai": "ความเที่ยงตรง",
+    "romanization": "khwaam-thîang-dtrong",
+    "meaning": "妥当性、正確性",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2200.mp3"
+  },
+  {
+    "id": 2202,
+    "thai": "ประเพณี",
+    "romanization": "bprà-phee-nii",
+    "meaning": "伝統、慣習",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2202.mp3"
+  },
+  {
+    "id": 2204,
+    "thai": "โบราณคดี",
+    "romanization": "boo-raan-ná-khá-dii",
+    "meaning": "考古学",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2204.mp3"
+  },
+  {
+    "id": 2205,
+    "thai": "ศิลปะ",
+    "romanization": "sĭn-lá-bpà",
+    "meaning": "芸術",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2205.mp3"
+  },
+  {
+    "id": 2206,
+    "thai": "วรรณกรรม",
+    "romanization": "wan-ná-gam",
+    "meaning": "文学",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2206.mp3"
+  },
+  {
+    "id": 2207,
+    "thai": "ปรัชญา",
+    "romanization": "bpràt-yaa",
+    "meaning": "哲学",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2207.mp3"
+  },
+  {
+    "id": 2208,
+    "thai": "ศาสนา",
+    "romanization": "sàat-sà-năa",
+    "meaning": "宗教",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2208.mp3"
+  },
+  {
+    "id": 2209,
+    "thai": "ความเชื่อ",
+    "romanization": "khwaam-chûea",
+    "meaning": "信念、信仰",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2209.mp3"
+  },
+  {
+    "id": 2210,
+    "thai": "ตำนาน",
+    "romanization": "dtam-naan",
+    "meaning": "伝説、神話",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2210.mp3"
+  },
+  {
+    "id": 2211,
+    "thai": "ชาติพันธุ์",
+    "romanization": "châat-tì-phan",
+    "meaning": "民族",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2211.mp3"
+  },
+  {
+    "id": 2212,
+    "thai": "ภาษาศาสตร์",
+    "romanization": "phaa-săa-sàat",
+    "meaning": "言語学",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2212.mp3"
+  },
+  {
+    "id": 2213,
+    "thai": "สังคมวิทยา",
+    "romanization": "săng-khom-wít-thá-yaa",
+    "meaning": "社会学",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2213.mp3"
+  },
+  {
+    "id": 2214,
+    "thai": "มนุษยวิทยา",
+    "romanization": "má-nút-sà-yá-wít-thá-yaa",
+    "meaning": "人類学",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2214.mp3"
+  },
+  {
+    "id": 2215,
+    "thai": "โบราณสถาน",
+    "romanization": "boo-raan-nà-sà-thăan",
+    "meaning": "史跡",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2215.mp3"
+  },
+  {
+    "id": 2216,
+    "thai": "มรดกโลก",
+    "romanization": "maw-rá-dòk-lôok",
+    "meaning": "世界遺産",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2216.mp3"
+  },
+  {
+    "id": 2217,
+    "thai": "อารยธรรม",
+    "romanization": "aa-rá-yá-tham",
+    "meaning": "文明",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2217.mp3"
+  },
+  {
+    "id": 2218,
+    "thai": "ยุค",
+    "romanization": "yúk",
+    "meaning": "時代",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2218.mp3"
+  },
+  {
+    "id": 2219,
+    "thai": "ทศวรรษ",
+    "romanization": "thót-sà-wát",
+    "meaning": "10年間",
+    "category": "numbers_time",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2219.mp3"
+  },
+  {
+    "id": 2220,
+    "thai": "ศตวรรษ",
+    "romanization": "sà-dtà-wát",
+    "meaning": "世紀",
+    "category": "numbers_time",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2220.mp3"
+  },
+  {
+    "id": 2221,
+    "thai": "สถาบัน",
+    "romanization": "sà-thăa-ban",
+    "meaning": "機関、研究所",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2221.mp3"
+  },
+  {
+    "id": 2222,
+    "thai": "พิพิธภัณฑ์",
+    "romanization": "phí-phít-thá-phan",
+    "meaning": "博物館",
+    "category": "travel_accommodation",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2222.mp3"
+  },
+  {
+    "id": 2223,
+    "thai": "หอศิลป์",
+    "romanization": "hŏr-sĭn",
+    "meaning": "美術館",
+    "category": "travel_accommodation",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2223.mp3"
+  },
+  {
+    "id": 2224,
+    "thai": "ห้องสมุด",
+    "romanization": "hâwng-sà-mùt",
+    "meaning": "図書館",
+    "category": "travel_accommodation",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2224.mp3"
+  },
+  {
+    "id": 2225,
+    "thai": "เอกลักษณ์",
+    "romanization": "èek-gà-lák",
+    "meaning": "アイデンティティ、独自性",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2225.mp3"
+  },
+  {
+    "id": 2226,
+    "thai": "ค่านิยม",
+    "romanization": "khâa-ní-yom",
+    "meaning": "価値観",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2226.mp3"
+  },
+  {
+    "id": 2227,
+    "thai": "ทัศนคติ",
+    "romanization": "thát-sà-ná-khà-dtì",
+    "meaning": "態度、考え方",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2227.mp3"
+  },
+  {
+    "id": 2228,
+    "thai": "พิธีกรรม",
+    "romanization": "phí-thii-gam",
+    "meaning": "儀式",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2228.mp3"
+  },
+  {
+    "id": 2230,
+    "thai": "การเฉลิมฉลอง",
+    "romanization": "gaan-chà-lĕrm-chà-lŏng",
+    "meaning": "祝賀",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2230.mp3"
+  },
+  {
+    "id": 2231,
+    "thai": "พิพิธภัณฑ์ประวัติศาสตร์",
+    "romanization": "phí-phít-thá-phan-bprà-wàt-dtì-sàat",
+    "meaning": "歴史博物館",
+    "category": "travel_accommodation",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2231.mp3"
+  },
+  {
+    "id": 2232,
+    "thai": "ศิลปะร่วมสมัย",
+    "romanization": "sĭn-lá-bpà-rûam-sà-măi",
+    "meaning": "現代アート",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2232.mp3"
+  },
+  {
+    "id": 2233,
+    "thai": "วรรณคดี",
+    "romanization": "wan-ná-khá-dii",
+    "meaning": "古典文学",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2233.mp3"
+  },
+  {
+    "id": 2234,
+    "thai": "กวีนิพนธ์",
+    "romanization": "gà-wii-ní-phon",
+    "meaning": "詩",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2234.mp3"
+  },
+  {
+    "id": 2235,
+    "thai": "นวนิยาย",
+    "romanization": "ná-wá-ní-yaai",
+    "meaning": "小説",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2235.mp3"
+  },
+  {
+    "id": 2236,
+    "thai": "เรื่องสั้น",
+    "romanization": "rûeang-sân",
+    "meaning": "短編小説",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2236.mp3"
+  },
+  {
+    "id": 2237,
+    "thai": "บทละคร",
+    "romanization": "bòt-lá-khawn",
+    "meaning": "脚本、戯曲",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2237.mp3"
+  },
+  {
+    "id": 2238,
+    "thai": "อัตชีวประวัติ",
+    "romanization": "àt-thà-chii-wá-bprà-wàt",
+    "meaning": "自伝",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2238.mp3"
+  },
+  {
+    "id": 2239,
+    "thai": "ชีวประวัติ",
+    "romanization": "chii-wá-bprà-wàt",
+    "meaning": "伝記",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2239.mp3"
+  },
+  {
+    "id": 2240,
+    "thai": "คติชนวิทยา",
+    "romanization": "khà-dtì-chon-wít-thá-yaa",
+    "meaning": "民俗学",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2240.mp3"
+  },
+  {
+    "id": 2241,
+    "thai": "โบราณวัตถุ",
+    "romanization": "boo-raan-nà-wát-thù",
+    "meaning": "骨董品、古美術品",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2241.mp3"
+  },
+  {
+    "id": 2242,
+    "thai": "จารึก",
+    "romanization": "jaa-réuk",
+    "meaning": "碑文",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2242.mp3"
+  },
+  {
+    "id": 2243,
+    "thai": "พงศาวดาร",
+    "romanization": "phong-săa-wá-daan",
+    "meaning": "年代記、王家の記録",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2243.mp3"
+  },
+  {
+    "id": 2244,
+    "thai": "การปฏิรูป",
+    "romanization": "gaan-bpà-dtì-rûup",
+    "meaning": "改革",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2244.mp3"
+  },
+  {
+    "id": 2245,
+    "thai": "ยุคฟื้นฟูศิลปวิทยา",
+    "romanization": "yúk-fúen-fuu-sĭn-lá-bpà-wít-thá-yaa",
+    "meaning": "ルネサンス",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2245.mp3"
+  },
+  {
+    "id": 2246,
+    "thai": "การล่าอาณานิคม",
+    "romanization": "gaan-lâa-aa-naa-ní-khom",
+    "meaning": "植民地化",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2246.mp3"
+  },
+  {
+    "id": 2247,
+    "thai": "จักรวรรดิ",
+    "romanization": "jàk-grà-wàt",
+    "meaning": "帝国",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2247.mp3"
+  },
+  {
+    "id": 2248,
+    "thai": "สงครามโลก",
+    "romanization": "sŏng-khraam-lôok",
+    "meaning": "世界大戦",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2248.mp3"
+  },
+  {
+    "id": 2249,
+    "thai": "สงครามเย็น",
+    "romanization": "sŏng-khraam-yen",
+    "meaning": "冷戦",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2249.mp3"
+  },
+  {
+    "id": 2250,
+    "thai": "การฆ่าล้างเผ่าพันธุ์",
+    "romanization": "gaan-khâa-láang-phào-phan",
+    "meaning": "ジェノサイド",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2250.mp3"
+  },
+  {
+    "id": 2253,
+    "thai": "การทดลอง",
+    "romanization": "gaan-thót-lawng",
+    "meaning": "実験",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2253.mp3"
+  },
+  {
+    "id": 2254,
+    "thai": "การวิจัย",
+    "romanization": "gaan-wí-jai",
+    "meaning": "研究",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2254.mp3"
+  },
+  {
+    "id": 2255,
+    "thai": "สมการ",
+    "romanization": "sŏm-má-gaan",
+    "meaning": "方程式",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2255.mp3"
+  },
+  {
+    "id": 2256,
+    "thai": "ตัวแปร",
+    "romanization": "dtua-bplae",
+    "meaning": "変数",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2256.mp3"
+  },
+  {
+    "id": 2257,
+    "thai": "ค่าคงที่",
+    "romanization": "khâa-khong-thîi",
+    "meaning": "定数",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2257.mp3"
+  },
+  {
+    "id": 2258,
+    "thai": "แรงโน้มถ่วง",
+    "romanization": "raeng-nóom-thùang",
+    "meaning": "重力",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2258.mp3"
+  },
+  {
+    "id": 2259,
+    "thai": "สัมพัทธภาพ",
+    "romanization": "săm-phát-thá-phâap",
+    "meaning": "相対性",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2259.mp3"
+  },
+  {
+    "id": 2260,
+    "thai": "ควอนตัม",
+    "romanization": "khwan-dtâm",
+    "meaning": "量子",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2260.mp3"
+  },
+  {
+    "id": 2261,
+    "thai": "ปฏิกิริยาเคมี",
+    "romanization": "bpà-dtì-gì-rí-yaa-khee-mii",
+    "meaning": "化学反応",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2261.mp3"
+  },
+  {
+    "id": 2262,
+    "thai": "ธาตุ",
+    "romanization": "thâat",
+    "meaning": "元素",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2262.mp3"
+  },
+  {
+    "id": 2263,
+    "thai": "สารประกอบ",
+    "romanization": "săan-bprà-gàwp",
+    "meaning": "化合物",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2263.mp3"
+  },
+  {
+    "id": 2264,
+    "thai": "พันธะเคมี",
+    "romanization": "phan-thá-khee-mii",
+    "meaning": "化学結合",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2264.mp3"
+  },
+  {
+    "id": 2265,
+    "thai": "ดีเอ็นเอ",
+    "romanization": "dii-en-ee",
+    "meaning": "DNA",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2265.mp3"
+  },
+  {
+    "id": 2266,
+    "thai": "ยีน",
+    "romanization": "yiin",
+    "meaning": "遺伝子",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2266.mp3"
+  },
+  {
+    "id": 2267,
+    "thai": "พันธุกรรม",
+    "romanization": "phan-thú-gam",
+    "meaning": "遺伝",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2267.mp3"
+  },
+  {
+    "id": 2268,
+    "thai": "วิวัฒนาการ",
+    "romanization": "wí-wát-thá-naa-gaan",
+    "meaning": "進化",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2268.mp3"
+  },
+  {
+    "id": 2269,
+    "thai": "ระบบนิเวศ",
+    "romanization": "rá-bòp-ní-wêet",
+    "meaning": "生態系",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2269.mp3"
+  },
+  {
+    "id": 2270,
+    "thai": "เซลล์",
+    "romanization": "seo",
+    "meaning": "細胞",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2270.mp3"
+  },
+  {
+    "id": 2271,
+    "thai": "โมเลกุล",
+    "romanization": "moo-lee-gun",
+    "meaning": "分子",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2271.mp3"
+  },
+  {
+    "id": 2272,
+    "thai": "อะตอม",
+    "romanization": "à-dtawm",
+    "meaning": "原子",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2272.mp3"
+  },
+  {
+    "id": 2274,
+    "thai": "ดาราศาสตร์",
+    "romanization": "daa-raa-sàat",
+    "meaning": "天文学",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2274.mp3"
+  },
+  {
+    "id": 2275,
+    "thai": "ฟิสิกส์",
+    "romanization": "fí-sìk",
+    "meaning": "物理学",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2275.mp3"
+  },
+  {
+    "id": 2276,
+    "thai": "เคมี",
+    "romanization": "khee-mii",
+    "meaning": "化学",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2276.mp3"
+  },
+  {
+    "id": 2277,
+    "thai": "ชีววิทยา",
+    "romanization": "chii-wá-wít-thá-yaa",
+    "meaning": "生物学",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2277.mp3"
+  },
+  {
+    "id": 2280,
+    "thai": "สถิติ",
+    "romanization": "sà-thì-dtì",
+    "meaning": "統計",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2280.mp3"
+  },
+  {
+    "id": 2281,
+    "thai": "อัลกอริทึม",
+    "romanization": "an-gaw-rí-thûem",
+    "meaning": "アルゴリズム",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2281.mp3"
+  },
+  {
+    "id": 2282,
+    "thai": "ฐานข้อมูล",
+    "romanization": "thăan-khâw-muun",
+    "meaning": "データベース",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2282.mp3"
+  },
+  {
+    "id": 2283,
+    "thai": "ปัญญาประดิษฐ์",
+    "romanization": "bpan-yaa-bprà-dìt",
+    "meaning": "人工知能 (AI)",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2283.mp3"
+  },
+  {
+    "id": 2284,
+    "thai": "เครือข่าย",
+    "romanization": "khruea-khàai",
+    "meaning": "ネットワーク",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2284.mp3"
+  },
+  {
+    "id": 2285,
+    "thai": "ซอฟต์แวร์",
+    "romanization": "sóf-wae",
+    "meaning": "ソフトウェア",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2285.mp3"
+  },
+  {
+    "id": 2286,
+    "thai": "ฮาร์ดแวร์",
+    "romanization": "háat-wae",
+    "meaning": "ハードウェア",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2286.mp3"
+  },
+  {
+    "id": 2287,
+    "thai": "การเข้ารหัส",
+    "romanization": "gaan-khâo-rá-hàt",
+    "meaning": "暗号化",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2287.mp3"
+  },
+  {
+    "id": 2288,
+    "thai": "ความปลอดภัยทางไซเบอร์",
+    "romanization": "khwaam-bplàwt-phai-thaang-sai-ber",
+    "meaning": "サイバーセキュリティ",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2288.mp3"
+  },
+  {
+    "id": 2289,
+    "thai": "พลังงาน",
+    "romanization": "phá-lang-ngaan",
+    "meaning": "エネルギー",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2289.mp3"
+  },
+  {
+    "id": 2290,
+    "thai": "คลื่นแม่เหล็กไฟฟ้า",
+    "romanization": "khlûen-mâe-lèk-fai-fáa",
+    "meaning": "電磁波",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2290.mp3"
+  },
+  {
+    "id": 2291,
+    "thai": "สเปกตรัม",
+    "romanization": "sà-bpèk-dtrâm",
+    "meaning": "スペクトル",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2291.mp3"
+  },
+  {
+    "id": 2292,
+    "thai": "พันธุวิศวกรรม",
+    "romanization": "phan-thú-wít-sà-wá-gam",
+    "meaning": "遺伝子工学",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2292.mp3"
+  },
+  {
+    "id": 2293,
+    "thai": "การโคลนนิ่ง",
+    "romanization": "gaan-khloon-nîng",
+    "meaning": "クローニング",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2293.mp3"
+  },
+  {
+    "id": 2294,
+    "thai": "การสังเคราะห์",
+    "romanization": "gaan-săng-khráw",
+    "meaning": "合成",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2294.mp3"
+  },
+  {
+    "id": 2295,
+    "thai": "สารกึ่งตัวนำ",
+    "romanization": "săan-gèung-dtua-nam",
+    "meaning": "半導体",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2295.mp3"
+  },
+  {
+    "id": 2296,
+    "thai": "ตัวนำยิ่งยวด",
+    "romanization": "dtua-nam-yîng-yûat",
+    "meaning": "超伝導体",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2296.mp3"
+  },
+  {
+    "id": 2297,
+    "thai": "นาโนเทคโนโลยี",
+    "romanization": "naa-noo-thék-noo-loo-yii",
+    "meaning": "ナノテクノロジー",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2297.mp3"
+  },
+  {
+    "id": 2298,
+    "thai": "หุ่นยนต์",
+    "romanization": "hùn-yon",
+    "meaning": "ロボット",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2298.mp3"
+  },
+  {
+    "id": 2299,
+    "thai": "การบินและอวกาศ",
+    "romanization": "gaan-bin-láe-à-wà-gàat",
+    "meaning": "航空宇宙",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/22/2299.mp3"
+  },
+  {
+    "id": 2300,
+    "thai": "ดาวเทียม",
+    "romanization": "daao-thiam",
+    "meaning": "人工衛星",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/23/2300.mp3"
+  },
+  {
+    "id": 2301,
+    "thai": "โทรคมนาคม",
+    "romanization": "thoo-rá-khom-má-naa-khom",
+    "meaning": "電気通信",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/23/2301.mp3"
+  },
+  {
+    "id": 2302,
+    "thai": "ความจริงเสมือน",
+    "romanization": "khwaam-jing-sà-mĕuan",
+    "meaning": "仮想現実 (VR)",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/23/2302.mp3"
+  },
+  {
+    "id": 2303,
+    "thai": "ความจริงเสริม",
+    "romanization": "khwaam-jing-sĕrm",
+    "meaning": "拡張現実 (AR)",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/23/2303.mp3"
+  },
+  {
+    "id": 2369,
+    "thai": "วิศวกรรมเครื่องกล",
+    "romanization": "wít-sà-wá-gam-khrûeang-gon",
+    "meaning": "機械工学",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/23/2369.mp3"
+  },
+  {
+    "id": 2370,
+    "thai": "วิศวกรรมไฟฟ้า",
+    "romanization": "wít-sà-wá-gam-fai-fáa",
+    "meaning": "電気工学",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/23/2370.mp3"
+  },
+  {
+    "id": 2371,
+    "thai": "วิศวกรรมเคมี",
+    "romanization": "wít-sà-wá-gam-khee-mii",
+    "meaning": "化学工学",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/23/2371.mp3"
+  },
+  {
+    "id": 2372,
+    "thai": "การออกแบบ",
+    "romanization": "gaan-àwk-bàep",
+    "meaning": "設計、デザイン",
+    "category": "construction",
+    "level": 1,
+    "sound": "assets/audio/vocab/23/2372.mp3"
+  },
+  {
+    "id": 2373,
+    "thai": "การจำลอง",
+    "romanization": "gaan-jam-lawng",
+    "meaning": "シミュレーション",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/23/2373.mp3"
+  },
+  {
+    "id": 2374,
+    "thai": "การเพิ่มประสิทธิภาพ",
+    "romanization": "gaan-phêrm-bprà-sìt-thí-phâap",
+    "meaning": "最適化",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/23/2374.mp3"
+  },
+  {
+    "id": 2375,
+    "thai": "การบำรุงรักษาเชิงป้องกัน",
+    "romanization": "gaan-bam-rung-rák-săa-cherng-bpâwng-gan",
+    "meaning": "予防保全",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/23/2375.mp3"
+  },
+  {
+    "id": 2376,
+    "thai": "การวินิจฉัย",
+    "romanization": "gaan-wí-nít-chăi",
+    "meaning": "診断",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/23/2376.mp3"
+  },
+  {
+    "id": 2377,
+    "thai": "เซ็นเซอร์",
+    "romanization": "sen-sêr",
+    "meaning": "センサー",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/23/2377.mp3"
+  },
+  {
+    "id": 2378,
+    "thai": "แอคชูเอเตอร์",
+    "romanization": "àek-chuu-ee-dtêr",
+    "meaning": "アクチュエータ",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/23/2378.mp3"
+  },
+  {
+    "id": 2379,
+    "thai": "ระบบควบคุม",
+    "romanization": "rá-bòp-khûap-khum",
+    "meaning": "制御システム",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/23/2379.mp3"
+  },
+  {
+    "id": 2380,
+    "thai": "การประมวลผลสัญญาณ",
+    "romanization": "gaan-bprà-muan-phŏn-săn-yaan",
+    "meaning": "信号処理",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/23/2380.mp3"
+  },
+  {
+    "id": 2381,
+    "thai": "วัสดุศาสตร์",
+    "romanization": "wát-sà-dù-sàat",
+    "meaning": "材料科学",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/23/2381.mp3"
+  },
+  {
+    "id": 2382,
+    "thai": "โลหะผสม",
+    "romanization": "loo-hà-phà-sŏm",
+    "meaning": "合金",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/23/2382.mp3"
+  },
+  {
+    "id": 2383,
+    "thai": "พอลิเมอร์",
+    "romanization": "phaw-lí-mer",
+    "meaning": "ポリマー",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/23/2383.mp3"
+  },
+  {
+    "id": 2384,
+    "thai": "การกัดกร่อน",
+    "romanization": "gaan-gàt-gròn",
+    "meaning": "腐食",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/23/2384.mp3"
+  },
+  {
+    "id": 2385,
+    "thai": "ความล้า",
+    "romanization": "khwaam-láa",
+    "meaning": "疲労（材料の）",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/23/2385.mp3"
+  },
+  {
+    "id": 2386,
+    "thai": "อุณห力ศาสตร์",
+    "romanization": "un-hà-phuum-lá-sàat",
+    "meaning": "熱力学",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/23/2386.mp3"
+  },
+  {
+    "id": 2387,
+    "thai": "กลศาสตร์ของไหล",
+    "romanization": "gon-lá-sàat-khŏng-lăi",
+    "meaning": "流体力学",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/23/2387.mp3"
+  },
+  {
+    "id": 2388,
+    "thai": "อากาศพลศาสตร์",
+    "romanization": "aa-gàat-phon-lá-sàat",
+    "meaning": "空気力学",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/23/2388.mp3"
+  },
+  {
+    "id": 2389,
+    "thai": "แม่เหล็กไฟฟ้า",
+    "romanization": "mâe-lèk-fai-fáa",
+    "meaning": "電磁気学",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/23/2389.mp3"
+  },
+  {
+    "id": 2390,
+    "thai": "ทัศนศาสตร์",
+    "romanization": "thát-sà-ná-sàat",
+    "meaning": "光学",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/23/2390.mp3"
+  },
+  {
+    "id": 2391,
+    "thai": "สวนศาสตร์",
+    "romanization": "sùan-sàat",
+    "meaning": "音響学",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/23/2391.mp3"
+  },
+  {
+    "id": 2392,
+    "thai": "ชีวเคมี",
+    "romanization": "chii-wá-khee-mii",
+    "meaning": "生化学",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/23/2392.mp3"
+  },
+  {
+    "id": 2393,
+    "thai": "อณูชีววิทยา",
+    "romanization": "à-nuu-chii-wá-wít-thá-yaa",
+    "meaning": "分子生物学",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/23/2393.mp3"
+  },
+  {
+    "id": 2394,
+    "thai": "นิเวศวิทยา",
+    "romanization": "ní-wêet-wít-thá-yaa",
+    "meaning": "生態学",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/23/2394.mp3"
+  },
+  {
+    "id": 2395,
+    "thai": "สรีรวิทยา",
+    "romanization": "sà-rii-rá-wít-thá-yaa",
+    "meaning": "生理学",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/23/2395.mp3"
+  },
+  {
+    "id": 2396,
+    "thai": "กายวิภาคศาสตร์",
+    "romanization": "gaai-yá-wí-phâak-sàat",
+    "meaning": "解剖学",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/23/2396.mp3"
+  },
+  {
+    "id": 2397,
+    "thai": "พฤกษศาสตร์",
+    "romanization": "phrʉ́k-sà-sàat",
+    "meaning": "植物学",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/23/2397.mp3"
+  },
+  {
+    "id": 2398,
+    "thai": "สัตววิทยา",
+    "romanization": "sàt-dtà-wá-wít-thá-yaa",
+    "meaning": "動物学",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/23/2398.mp3"
+  },
+  {
+    "id": 2399,
+    "thai": "จุลชีววิทยา",
+    "romanization": "jun-lá-chii-wá-wít-thá-yaa",
+    "meaning": "微生物学",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/23/2399.mp3"
+  },
+  {
+    "id": 2400,
+    "thai": "ภูมิคุ้มกันวิทยา",
+    "romanization": "phuum-khúm-gan-wít-thá-yaa",
+    "meaning": "免疫学",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2400.mp3"
+  },
+  {
+    "id": 2421,
+    "thai": "แนวคิด",
+    "romanization": "naeo-khít",
+    "meaning": "コンセプト、概念",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2421.mp3"
+  },
+  {
+    "id": 2422,
+    "thai": "หลักการ",
+    "romanization": "làk-gaan",
+    "meaning": "原則",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2422.mp3"
+  },
+  {
+    "id": 2423,
+    "thai": "ปัจจัย",
+    "romanization": "bpàt-jai",
+    "meaning": "要因、ファクター",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2423.mp3"
+  },
+  {
+    "id": 2425,
+    "thai": "กระบวนการ",
+    "romanization": "grà-buan-gaan",
+    "meaning": "プロセス",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2425.mp3"
+  },
+  {
+    "id": 2426,
+    "thai": "โครงสร้าง",
+    "romanization": "khroong-sâang",
+    "meaning": "構造",
+    "category": "construction",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2426.mp3"
+  },
+  {
+    "id": 2427,
+    "thai": "ระบบ",
+    "romanization": "rá-bòp",
+    "meaning": "システム",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2427.mp3"
+  },
+  {
+    "id": 2428,
+    "thai": "องค์ประกอบ",
+    "romanization": "ong-bprà-gàwp",
+    "meaning": "構成要素",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2428.mp3"
+  },
+  {
+    "id": 2430,
+    "thai": "มุมมอง",
+    "romanization": "mum-mawng",
+    "meaning": "視点",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2430.mp3"
+  },
+  {
+    "id": 2431,
+    "thai": "บริบท",
+    "romanization": "baw-rí-bòt",
+    "meaning": "文脈、コンテクスト",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2431.mp3"
+  },
+  {
+    "id": 2433,
+    "thai": "นามธรรม",
+    "romanization": "naam-má-tham",
+    "meaning": "抽象的な",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2433.mp3"
+  },
+  {
+    "id": 2434,
+    "thai": "รูปธรรม",
+    "romanization": "rûup-bpà-tham",
+    "meaning": "具体的な",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2434.mp3"
+  },
+  {
+    "id": 2435,
+    "thai": "ศักยภาพ",
+    "romanization": "sàk-gà-yá-phâap",
+    "meaning": "ポテンシャル、潜在能力",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2435.mp3"
+  },
+  {
+    "id": 2436,
+    "thai": "พลวัต",
+    "romanization": "phon-lá-wát",
+    "meaning": "ダイナミクス、動態",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2436.mp3"
+  },
+  {
+    "id": 2437,
+    "thai": "ปฏิสัมพันธ์",
+    "romanization": "bpà-dtì-săm-phan",
+    "meaning": "相互作用",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2437.mp3"
+  },
+  {
+    "id": 2438,
+    "thai": "ดุลยภาพ",
+    "romanization": "dun-lá-yá-phâap",
+    "meaning": "均衡、バランス",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2438.mp3"
+  },
+  {
+    "id": 2439,
+    "thai": "วิกฤต",
+    "romanization": "wí-grìt",
+    "meaning": "危機",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2439.mp3"
+  },
+  {
+    "id": 2441,
+    "thai": "ข้อจำกัด",
+    "romanization": "khâw-jam-gàt",
+    "meaning": "制約、制限",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2441.mp3"
+  },
+  {
+    "id": 2442,
+    "thai": "เงื่อนไข",
+    "romanization": "ngûean-khăi",
+    "meaning": "条件",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2442.mp3"
+  },
+  {
+    "id": 2443,
+    "thai": "สาระสำคัญ",
+    "romanization": "săa-rá-săm-khan",
+    "meaning": "本質、要点",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2443.mp3"
+  },
+  {
+    "id": 2444,
+    "thai": "ปรากฏการณ์",
+    "romanization": "bpraa-gòt-gaan",
+    "meaning": "現象",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2444.mp3"
+  },
+  {
+    "id": 2445,
+    "thai": "บรรทัดฐาน",
+    "romanization": "ban-thát-thăan",
+    "meaning": "規範",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2445.mp3"
+  },
+  {
+    "id": 2446,
+    "thai": "มาตรฐาน",
+    "romanization": "mâat-dtrà-thăan",
+    "meaning": "標準",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2446.mp3"
+  },
+  {
+    "id": 2447,
+    "thai": "เจตนา",
+    "romanization": "jèet-dtà-naa",
+    "meaning": "意図",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2447.mp3"
+  },
+  {
+    "id": 2448,
+    "thai": "แรงจูงใจ",
+    "romanization": "raeng-juung-jai",
+    "meaning": "動機、モチベーション",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2448.mp3"
+  },
+  {
+    "id": 2449,
+    "thai": "จิตสำนึก",
+    "romanization": "jìt-săm-néuk",
+    "meaning": "意識",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2449.mp3"
+  },
+  {
+    "id": 2450,
+    "thai": "จิตใต้สำนึก",
+    "romanization": "jìt-dtâi-săm-néuk",
+    "meaning": "潜在意識",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2450.mp3"
+  },
+  {
+    "id": 2452,
+    "thai": "เจตจำนง",
+    "romanization": "jèet-jam-nong",
+    "meaning": "意志、意図",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2452.mp3"
+  },
+  {
+    "id": 2453,
+    "thai": "โชคชะตา",
+    "romanization": "chôok-chá-dtaa",
+    "meaning": "運命",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2453.mp3"
+  },
+  {
+    "id": 2454,
+    "thai": "สัญชาตญาณ",
+    "romanization": "săn-châat-dtà-yaan",
+    "meaning": "本能",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2454.mp3"
+  },
+  {
+    "id": 2455,
+    "thai": "จินตนาการ",
+    "romanization": "jin-dtà-naa-gaan",
+    "meaning": "想像力",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2455.mp3"
+  },
+  {
+    "id": 2456,
+    "thai": "แรงบันดาลใจ",
+    "romanization": "raeng-ban-daan-jai",
+    "meaning": "インスピレーション",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2456.mp3"
+  },
+  {
+    "id": 2457,
+    "thai": "ความเป็นจริง",
+    "romanization": "khwaam-bpen-jing",
+    "meaning": "現実",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2457.mp3"
+  },
+  {
+    "id": 2458,
+    "thai": "ภาพลวงตา",
+    "romanization": "phâap-luang-dtaa",
+    "meaning": "幻想",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2458.mp3"
+  },
+  {
+    "id": 2459,
+    "thai": "บูรณภาพ",
+    "romanization": "buu-rá-ná-phâap",
+    "meaning": "完全性、インテグリティ",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2459.mp3"
+  },
+  {
+    "id": 2460,
+    "thai": "ความสามัคคี",
+    "romanization": "khwaam-săa-mák-khii",
+    "meaning": "調和、団結",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2460.mp3"
+  },
+  {
+    "id": 2466,
+    "thai": "พยาธิวิทยา",
+    "romanization": "phá-yâat-thí-wít-thá-yaa",
+    "meaning": "病理学",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2466.mp3"
+  },
+  {
+    "id": 2467,
+    "thai": "เภสัชวิทยา",
+    "romanization": "phee-sàt-chá-wít-thá-yaa",
+    "meaning": "薬理学",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2467.mp3"
+  },
+  {
+    "id": 2468,
+    "thai": "อาการ",
+    "romanization": "aa-gaan",
+    "meaning": "症状",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2468.mp3"
+  },
+  {
+    "id": 2470,
+    "thai": "การรักษา",
+    "romanization": "gaan-rák-săa",
+    "meaning": "治療",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2470.mp3"
+  },
+  {
+    "id": 2471,
+    "thai": "การพยากรณ์โรค",
+    "romanization": "gaan-phá-yaa-gawn-rôok",
+    "meaning": "予後",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2471.mp3"
+  },
+  {
+    "id": 2472,
+    "thai": "โรคติดต่อ",
+    "romanization": "rôok-dtìt-dtàw",
+    "meaning": "感染症",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2472.mp3"
+  },
+  {
+    "id": 2473,
+    "thai": "โรคระบาด",
+    "romanization": "rôok-rá-bàat",
+    "meaning": "伝染病、エピデミック",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2473.mp3"
+  },
+  {
+    "id": 2474,
+    "thai": "วัคซีน",
+    "romanization": "wák-siin",
+    "meaning": "ワクチン",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2474.mp3"
+  },
+  {
+    "id": 2475,
+    "thai": "ภูมิคุ้มกัน",
+    "romanization": "phuum-khúm-gan",
+    "meaning": "免疫",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2475.mp3"
+  },
+  {
+    "id": 2476,
+    "thai": "ไวรัส",
+    "romanization": "wai-rát",
+    "meaning": "ウイルス",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2476.mp3"
+  },
+  {
+    "id": 2477,
+    "thai": "แบคทีเรีย",
+    "romanization": "bàek-thii-ria",
+    "meaning": "バクテリア",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2477.mp3"
+  },
+  {
+    "id": 2478,
+    "thai": "การอักเสบ",
+    "romanization": "gaan-àk-sèep",
+    "meaning": "炎症",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2478.mp3"
+  },
+  {
+    "id": 2479,
+    "thai": "เนื้องอก",
+    "romanization": "néua-ngâwk",
+    "meaning": "腫瘍",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2479.mp3"
+  },
+  {
+    "id": 2480,
+    "thai": "มะเร็ง",
+    "romanization": "má-reng",
+    "meaning": "がん",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2480.mp3"
+  },
+  {
+    "id": 2481,
+    "thai": "เบาหวาน",
+    "romanization": "bao-wăan",
+    "meaning": "糖尿病",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2481.mp3"
+  },
+  {
+    "id": 2482,
+    "thai": "โรคหัวใจ",
+    "romanization": "rôok-hŭa-jai",
+    "meaning": "心臓病",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2482.mp3"
+  },
+  {
+    "id": 2483,
+    "thai": "ความดันโลหิตสูง",
+    "romanization": "khwaam-dan-loo-hìt-sŭung",
+    "meaning": "高血圧",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2483.mp3"
+  },
+  {
+    "id": 2484,
+    "thai": "โรคหลอดเลือดสมอง",
+    "romanization": "rôok-làwt-lûeat-sà-măwng",
+    "meaning": "脳卒中",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2484.mp3"
+  },
+  {
+    "id": 2485,
+    "thai": "โรคภูมิแพ้",
+    "romanization": "rôok-phuum-pháe",
+    "meaning": "アレルギー",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2485.mp3"
+  },
+  {
+    "id": 2486,
+    "thai": "โรคหอบหืด",
+    "romanization": "rôok-hàwp-hèut",
+    "meaning": "喘息",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2486.mp3"
+  },
+  {
+    "id": 2487,
+    "thai": "สุขภาพจิต",
+    "romanization": "sùk-khà-phâap-jìt",
+    "meaning": "メンタルヘルス",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2487.mp3"
+  },
+  {
+    "id": 2488,
+    "thai": "ความเครียด",
+    "romanization": "khwaam-khrîat",
+    "meaning": "ストレス",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2488.mp3"
+  },
+  {
+    "id": 2489,
+    "thai": "ภาวะซึมเศร้า",
+    "romanization": "phaa-wá-seum-sâo",
+    "meaning": "うつ病",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2489.mp3"
+  },
+  {
+    "id": 2490,
+    "thai": "การผ่าตัด",
+    "romanization": "gaan-phàa-dtàt",
+    "meaning": "手術",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2490.mp3"
+  },
+  {
+    "id": 2491,
+    "thai": "เภสัชกรรม",
+    "romanization": "phee-sàt-chá-gam",
+    "meaning": "製薬",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2491.mp3"
+  },
+  {
+    "id": 2492,
+    "thai": "พันธุกรรมศาสตร์",
+    "romanization": "phan-thú-gam-sàat",
+    "meaning": "遺伝学",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2492.mp3"
+  },
+  {
+    "id": 2493,
+    "thai": "โภชนาการ",
+    "romanization": "phoo-chá-naa-gaan",
+    "meaning": "栄養学",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2493.mp3"
+  },
+  {
+    "id": 2494,
+    "thai": "การออกกำลังกาย",
+    "romanization": "gaan-àwk-gam-lang-gaai",
+    "meaning": "運動",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2494.mp3"
+  },
+  {
+    "id": 2495,
+    "thai": "การพักผ่อน",
+    "romanization": "gaan-phák-phàwn",
+    "meaning": "休息",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2495.mp3"
+  },
+  {
+    "id": 2496,
+    "thai": "สุขอนามัย",
+    "romanization": "sùk-khà-à-naa-mai",
+    "meaning": "衛生",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2496.mp3"
+  },
+  {
+    "id": 2497,
+    "thai": "ปฐมพยาบาล",
+    "romanization": "bpà-thŏm-phá-yaa-baan",
+    "meaning": "応急手当",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2497.mp3"
+  },
+  {
+    "id": 2498,
+    "thai": "กรณีฉุกเฉิน",
+    "romanization": "gaw-rá-nii-chùk-chĕrn",
+    "meaning": "緊急事態",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2498.mp3"
+  },
+  {
+    "id": 2499,
+    "thai": "รถพยาบาล",
+    "romanization": "rót-phá-yaa-baan",
+    "meaning": "救急車",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/24/2499.mp3"
+  },
+  {
+    "id": 2500,
+    "thai": "ห้องฉุกเฉิน",
+    "romanization": "hâwng-chùk-chĕrn",
+    "meaning": "救急治療室 (ER)",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2500.mp3"
+  },
+  {
+    "id": 2501,
+    "thai": "การก่อสร้าง",
+    "romanization": "gaan-gàw-sâang",
+    "meaning": "建設、工事",
+    "category": "construction",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2501.mp3"
+  },
+  {
+    "id": 2502,
+    "thai": "สถาปัตยกรรม",
+    "romanization": "sà-thăa-bpàt-dtà-yá-gam",
+    "meaning": "建築",
+    "category": "construction",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2502.mp3"
+  },
+  {
+    "id": 2503,
+    "thai": "วิศวกรรมโยธา",
+    "romanization": "wít-sà-wá-gam-yoo-thaa",
+    "meaning": "土木工学",
+    "category": "construction",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2503.mp3"
+  },
+  {
+    "id": 2504,
+    "thai": "โครงสร้าง",
+    "romanization": "khroong-sâang",
+    "meaning": "構造、骨組み",
+    "category": "construction",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2504.mp3"
+  },
+  {
+    "id": 2505,
+    "thai": "ฐานราก",
+    "romanization": "thăan-râak",
+    "meaning": "基礎（工事の）",
+    "category": "construction",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2505.mp3"
+  },
+  {
+    "id": 2506,
+    "thai": "คอนกรีตเสริมเหล็ก",
+    "romanization": "khawn-grìit-sĕrm-lèk",
+    "meaning": "鉄筋コンクリート",
+    "category": "construction",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2506.mp3"
+  },
+  {
+    "id": 2507,
+    "thai": "วัสดุ",
+    "romanization": "wát-sà-dù",
+    "meaning": "材料、素材",
+    "category": "construction",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2507.mp3"
+  },
+  {
+    "id": 2508,
+    "thai": "เครื่องจักรกล",
+    "romanization": "khrûeang-jàk-gon",
+    "meaning": "機械",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2508.mp3"
+  },
+  {
+    "id": 2509,
+    "thai": "เครื่องยนต์",
+    "romanization": "khrûeang-yon",
+    "meaning": "エンジン",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2509.mp3"
+  },
+  {
+    "id": 2511,
+    "thai": "ระบบอัตโนมัติ",
+    "romanization": "rá-bòp-àt-dtà-noo-mát",
+    "meaning": "オートメーション",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2511.mp3"
+  },
+  {
+    "id": 2512,
+    "thai": "หุ่นยนต์อุตสาหกรรม",
+    "romanization": "hùn-yon-ùt-săa-hà-gam",
+    "meaning": "産業用ロボット",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2512.mp3"
+  },
+  {
+    "id": 2513,
+    "thai": "ไฟฟ้า",
+    "romanization": "fai-fáa",
+    "meaning": "電気",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2513.mp3"
+  },
+  {
+    "id": 2514,
+    "thai": "อิเล็กทรอนิกส์",
+    "romanization": "ì-lék-thráw-ník",
+    "meaning": "電子工学",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2514.mp3"
+  },
+  {
+    "id": 2515,
+    "thai": "วงจรไฟฟ้า",
+    "romanization": "wong-jawn-fai-fáa",
+    "meaning": "電気回路",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2515.mp3"
+  },
+  {
+    "id": 2516,
+    "thai": "แรงดันไฟฟ้า",
+    "romanization": "raeng-dan-fai-fáa",
+    "meaning": "電圧",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2516.mp3"
+  },
+  {
+    "id": 2517,
+    "thai": "กระแสไฟฟ้า",
+    "romanization": "grà-săe-fai-fáa",
+    "meaning": "電流",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2517.mp3"
+  },
+  {
+    "id": 2518,
+    "thai": "ความต้านทาน",
+    "romanization": "khwaam-dtâan-thaan",
+    "meaning": "抵抗",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2518.mp3"
+  },
+  {
+    "id": 2519,
+    "thai": "กำลังไฟฟ้า",
+    "romanization": "gam-lang-fai-fáa",
+    "meaning": "電力",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2519.mp3"
+  },
+  {
+    "id": 2520,
+    "thai": "หม้อแปลงไฟฟ้า",
+    "romanization": "mâw-bplaeng-fai-fáa",
+    "meaning": "変圧器、トランス",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2520.mp3"
+  },
+  {
+    "id": 2521,
+    "thai": "เครื่องกำเนิดไฟฟ้า",
+    "romanization": "khrûeang-gam-nèrt-fai-fáa",
+    "meaning": "発電機",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2521.mp3"
+  },
+  {
+    "id": 2522,
+    "thai": "เซลล์แสงอาทิตย์",
+    "romanization": "seo-săeng-aa-thít",
+    "meaning": "太陽電池",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2522.mp3"
+  },
+  {
+    "id": 2523,
+    "thai": "โลหะ",
+    "romanization": "loo-hà",
+    "meaning": "金属",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2523.mp3"
+  },
+  {
+    "id": 2524,
+    "thai": "อโลหะ",
+    "romanization": "à-loo-hà",
+    "meaning": "非金属",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2524.mp3"
+  },
+  {
+    "id": 2525,
+    "thai": "พลาสติก",
+    "romanization": "phláat-sà-dtìk",
+    "meaning": "プラスチック",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2525.mp3"
+  },
+  {
+    "id": 2526,
+    "thai": "เซรามิก",
+    "romanization": "see-raa-mìk",
+    "meaning": "セラミック",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2526.mp3"
+  },
+  {
+    "id": 2527,
+    "thai": "วัสดุประกอบ",
+    "romanization": "wát-sà-dù-bprà-gàwp",
+    "meaning": "複合材料",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2527.mp3"
+  },
+  {
+    "id": 2528,
+    "thai": "ความแข็งแรง",
+    "romanization": "khwaam-khăeng-raeng",
+    "meaning": "強度",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2528.mp3"
+  },
+  {
+    "id": 2529,
+    "thai": "ความเหนียว",
+    "romanization": "khwaam-nĭao",
+    "meaning": "靭性",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2529.mp3"
+  },
+  {
+    "id": 2530,
+    "thai": "ความยืดหยุ่น",
+    "romanization": "khwaam-yûet-yùn",
+    "meaning": "弾性",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2530.mp3"
+  },
+  {
+    "id": 2531,
+    "thai": "ชีวมวล",
+    "romanization": "chii-wá-muan",
+    "meaning": "バイオマス",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2531.mp3"
+  },
+  {
+    "id": 2532,
+    "thai": "พลังงานชีวมวล",
+    "romanization": "phá-lang-ngaan-chii-wá-muan",
+    "meaning": "バイオマスエネルギー",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2532.mp3"
+  },
+  {
+    "id": 2533,
+    "thai": "ชีวภาพ",
+    "romanization": "chii-wá-phâap",
+    "meaning": "バイオの、生物の",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2533.mp3"
+  },
+  {
+    "id": 2534,
+    "thai": "การหมัก",
+    "romanization": "gaan-màk",
+    "meaning": "発酵",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2534.mp3"
+  },
+  {
+    "id": 2535,
+    "thai": "ก๊าซชีวภาพ",
+    "romanization": "gáat-chii-wá-phâap",
+    "meaning": "バイオガス",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2535.mp3"
+  },
+  {
+    "id": 2536,
+    "thai": "เชื้อเพลิงชีวภาพ",
+    "romanization": "chúea-phleeng-chii-wá-phâap",
+    "meaning": "バイオ燃料",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2536.mp3"
+  },
+  {
+    "id": 2537,
+    "thai": "เอทานอล",
+    "romanization": "ee-thaa-nawn",
+    "meaning": "エタノール",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2537.mp3"
+  },
+  {
+    "id": 2538,
+    "thai": "ไบโอดีเซล",
+    "romanization": "bai-oo-dii-seo",
+    "meaning": "バイオディーゼル",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2538.mp3"
+  },
+  {
+    "id": 2539,
+    "thai": "การเกษตร",
+    "romanization": "gaan-gà-sèet",
+    "meaning": "農業",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2539.mp3"
+  },
+  {
+    "id": 2540,
+    "thai": "ของเสีย",
+    "romanization": "khŏng-sĭa",
+    "meaning": "廃棄物",
+    "category": "construction",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2540.mp3"
+  },
+  {
+    "id": 2541,
+    "thai": "การบำบัด",
+    "romanization": "gaan-bam-bàt",
+    "meaning": "処理、治療",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2541.mp3"
+  },
+  {
+    "id": 2542,
+    "thai": "ย่อยสลายได้",
+    "romanization": "yâwy-sà-lăai-dâai",
+    "meaning": "生分解性の",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2542.mp3"
+  },
+  {
+    "id": 2543,
+    "thai": "พลังงานทดแทน",
+    "romanization": "phá-lang-ngaan-thót-thaen",
+    "meaning": "再生可能エネルギー",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2543.mp3"
+  },
+  {
+    "id": 2544,
+    "thai": "การพัฒนาที่ยั่งยืน",
+    "romanization": "gaan-phát-thá-naa-thîi-yâng-yuen",
+    "meaning": "持続可能な開発",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2544.mp3"
+  },
+  {
+    "id": 2545,
+    "thai": "แบบแปลน",
+    "romanization": "bàep-bplaen",
+    "meaning": "設計図、ブループリント",
+    "category": "construction",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2545.mp3"
+  },
+  {
+    "id": 2546,
+    "thai": "การสำรวจ",
+    "romanization": "gaan-săm-rùat",
+    "meaning": "測量、調査",
+    "category": "construction",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2546.mp3"
+  },
+  {
+    "id": 2547,
+    "thai": "การติดตั้ง",
+    "romanization": "gaan-dtìt-dtâng",
+    "meaning": "設置、インストール",
+    "category": "construction",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2547.mp3"
+  },
+  {
+    "id": 2548,
+    "thai": "บำรุงรักษา",
+    "romanization": "bam-rung-rák-săa",
+    "meaning": "メンテナンス、保守",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2548.mp3"
+  },
+  {
+    "id": 2549,
+    "thai": "รื้อถอน",
+    "romanization": "rúe-thŏn",
+    "meaning": "解体する",
+    "category": "construction",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2549.mp3"
+  },
+  {
+    "id": 2550,
+    "thai": "ความปลอดภัยในการก่อสร้าง",
+    "romanization": "khwaam-bplàwt-phai-nai-gaan-gàw-sâang",
+    "meaning": "建設安全",
+    "category": "construction",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2550.mp3"
+  },
+  {
+    "id": 2551,
+    "thai": "เครื่องมือวัด",
+    "romanization": "khrûeang-meu-wát",
+    "meaning": "測定器",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2551.mp3"
+  },
+  {
+    "id": 2552,
+    "thai": "การสอบเทียบ",
+    "romanization": "gaan-sàwp-thîap",
+    "meaning": "校正",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2552.mp3"
+  },
+  {
+    "id": 2553,
+    "thai": "ความแม่นยำ",
+    "romanization": "khwaam-mâen-yam",
+    "meaning": "精度",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2553.mp3"
+  },
+  {
+    "id": 2554,
+    "thai": "ความละเอียด",
+    "romanization": "khwaam-lá-ìat",
+    "meaning": "解像度、分解能",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2554.mp3"
+  },
+  {
+    "id": 2555,
+    "thai": "การสั่นสะเทือน",
+    "romanization": "gaan-sàn-sà-thuean",
+    "meaning": "振動",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2555.mp3"
+  },
+  {
+    "id": 2556,
+    "thai": "เสียงรบกวน",
+    "romanization": "sĭang-róp-guan",
+    "meaning": "騒音",
+    "category": "construction",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2556.mp3"
+  },
+  {
+    "id": 2557,
+    "thai": "ฉนวน",
+    "romanization": "chà-nǔan",
+    "meaning": "断熱材、絶縁体",
+    "category": "construction",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2557.mp3"
+  },
+  {
+    "id": 2558,
+    "thai": "การนำความร้อน",
+    "romanization": "gaan-nam-khwaam-ráwn",
+    "meaning": "熱伝導",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2558.mp3"
+  },
+  {
+    "id": 2559,
+    "thai": "การพาความร้อน",
+    "romanization": "gaan-phaa-khwaam-ráwn",
+    "meaning": "対流",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2559.mp3"
+  },
+  {
+    "id": 2560,
+    "thai": "การแผ่รังสี",
+    "romanization": "gaan-phàe-rang-sĭi",
+    "meaning": "放射",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2560.mp3"
+  },
+  {
+    "id": 2561,
+    "thai": "แรงบิด",
+    "romanization": "raeng-bìt",
+    "meaning": "トルク",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2561.mp3"
+  },
+  {
+    "id": 2562,
+    "thai": "เกียร์",
+    "romanization": "gia",
+    "meaning": "歯車、ギア",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2562.mp3"
+  },
+  {
+    "id": 2563,
+    "thai": "ตลับลูกปืน",
+    "romanization": "dtà-làp-lûuk-bpeun",
+    "meaning": "ベアリング",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2563.mp3"
+  },
+  {
+    "id": 2564,
+    "thai": "ไฮดรอลิก",
+    "romanization": "hai-draw-lík",
+    "meaning": "油圧",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2564.mp3"
+  },
+  {
+    "id": 2565,
+    "thai": "นิวแมติก",
+    "romanization": "niw-mae-dtìk",
+    "meaning": "空圧",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2565.mp3"
+  },
+  {
+    "id": 2566,
+    "thai": "การเชื่อม",
+    "romanization": "gaan-chûeam",
+    "meaning": "溶接",
+    "category": "construction",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2566.mp3"
+  },
+  {
+    "id": 2567,
+    "thai": "การกลึง",
+    "romanization": "gaan-gleung",
+    "meaning": "旋盤加工",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2567.mp3"
+  },
+  {
+    "id": 2568,
+    "thai": "การกัด",
+    "romanization": "gaan-gàt",
+    "meaning": "フライス加工",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2568.mp3"
+  },
+  {
+    "id": 2569,
+    "thai": "การหล่อ",
+    "romanization": "gaan-làw",
+    "meaning": "鋳造",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2569.mp3"
+  },
+  {
+    "id": 2570,
+    "thai": "การพิมพ์สามมิติ",
+    "romanization": "gaan-phim-săam-mí-dtì",
+    "meaning": "3Dプリンティング",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2570.mp3"
+  },
+  {
+    "id": 2571,
+    "thai": "ปิโตรเคมี",
+    "romanization": "bpì-dtroo-khee-mii",
+    "meaning": "石油化学",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2571.mp3"
+  },
+  {
+    "id": 2572,
+    "thai": "พอลิเมอไรเซชัน",
+    "romanization": "phaw-lí-mer-rai-see-chân",
+    "meaning": "重合",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2572.mp3"
+  },
+  {
+    "id": 2573,
+    "thai": "ตัวเร่งปฏิกิริยา",
+    "romanization": "dtua-rêng-bpà-dtì-gì-rí-yaa",
+    "meaning": "触媒",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2573.mp3"
+  },
+  {
+    "id": 2574,
+    "thai": "การกลั่น",
+    "romanization": "gaan-glàn",
+    "meaning": "蒸留",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2574.mp3"
+  },
+  {
+    "id": 2575,
+    "thai": "การสกัด",
+    "romanization": "gaan-sà-gàt",
+    "meaning": "抽出",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2575.mp3"
+  },
+  {
+    "id": 2576,
+    "thai": "การตกผลึก",
+    "romanization": "gaan-dtòk-phà-lèuk",
+    "meaning": "結晶化",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2576.mp3"
+  },
+  {
+    "id": 2577,
+    "thai": "โครมาโทกราฟี",
+    "romanization": "khroo-maa-thoo-graa-fii",
+    "meaning": "クロマトグラフィー",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2577.mp3"
+  },
+  {
+    "id": 2578,
+    "thai": "สเปกโทรสโกปี",
+    "romanization": "sà-bpèk-dtroo-sà-goo-bpii",
+    "meaning": "分光法",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2578.mp3"
+  },
+  {
+    "id": 2579,
+    "thai": "สิ่งมีชีวิตดัดแปลงพันธุกรรม",
+    "romanization": "sìng-mii-chii-wít-dàt-bplaeng-phan-thú-gam",
+    "meaning": "遺伝子組換え生物(GMO)",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2579.mp3"
+  },
+  {
+    "id": 2580,
+    "thai": "การบำบัดน้ำเสีย",
+    "romanization": "gaan-bam-bàt-náam-sĭa",
+    "meaning": "廃水処理",
+    "category": "construction",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2580.mp3"
+  },
+  {
+    "id": 2581,
+    "thai": "การจัดการของเสีย",
+    "romanization": "gaan-jàt-gaan-khŏng-sĭa",
+    "meaning": "廃棄物管理",
+    "category": "construction",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2581.mp3"
+  },
+  {
+    "id": 2582,
+    "thai": "การประเมินผลกระทบสิ่งแวดล้อม",
+    "romanization": "gaan-bprà-mern-phŏn-grà-thóp-sìng-wâet-láwm",
+    "meaning": "環境影響評価(EIA)",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2582.mp3"
+  },
+  {
+    "id": 2583,
+    "thai": "เศรษฐกิจหมุนเวียน",
+    "romanization": "sèet-thà-gìt-mŭn-wian",
+    "meaning": "循環経済",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2583.mp3"
+  },
+  {
+    "id": 2584,
+    "thai": "กังหันลม",
+    "romanization": "gang-hăn-lom",
+    "meaning": "風力タービン",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2584.mp3"
+  },
+  {
+    "id": 2585,
+    "thai": "เขื่อน",
+    "romanization": "khùean",
+    "meaning": "ダム",
+    "category": "construction",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2585.mp3"
+  },
+  {
+    "id": 2586,
+    "thai": "โรงไฟฟ้า",
+    "romanization": "roong-fai-fáa",
+    "meaning": "発電所",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2586.mp3"
+  },
+  {
+    "id": 2587,
+    "thai": "โครงข่ายไฟฟ้า",
+    "romanization": "khroong-khàai-fai-fáa",
+    "meaning": "送電網",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2587.mp3"
+  },
+  {
+    "id": 2588,
+    "thai": "การออกแบบเครื่องกล",
+    "romanization": "gaan-àwk-bàep-khrûeang-gon",
+    "meaning": "機械設計",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2588.mp3"
+  },
+  {
+    "id": 2589,
+    "thai": "การเขียนแบบวิศวกรรม",
+    "romanization": "gaan-khĭan-bàep-wít-sà-wá-gam",
+    "meaning": "製図",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2589.mp3"
+  },
+  {
+    "id": 2590,
+    "thai": "ความคลาดเคลื่อนยินยอม",
+    "romanization": "khwaam-khlâat-khlûean-yin-yawm",
+    "meaning": "公差",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2590.mp3"
+  },
+  {
+    "id": 2591,
+    "thai": "การทดสอบแบบไม่ทำลาย",
+    "romanization": "gaan-thót-sàwp-bàep-mâi-tham-laai",
+    "meaning": "非破壊検査",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2591.mp3"
+  },
+  {
+    "id": 2592,
+    "thai": "โลหะวิทยา",
+    "romanization": "loo-hà-wít-thá-yaa",
+    "meaning": "冶金学",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2592.mp3"
+  },
+  {
+    "id": 2593,
+    "thai": "การกัดเซาะ",
+    "romanization": "gaan-gàt-sáw",
+    "meaning": "侵食",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2593.mp3"
+  },
+  {
+    "id": 2594,
+    "thai": "การแตกหัก",
+    "romanization": "gaan-dtàek-hàk",
+    "meaning": "破壊、骨折",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2594.mp3"
+  },
+  {
+    "id": 2595,
+    "thai": "การเสียรูป",
+    "romanization": "gaan-sĭa-rûup",
+    "meaning": "変形",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2595.mp3"
+  },
+  {
+    "id": 2596,
+    "thai": "ระบบไฟฟ้ากำลัง",
+    "romanization": "rá-bòp-fai-fáa-gam-lang",
+    "meaning": "電力システム",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2596.mp3"
+  },
+  {
+    "id": 2597,
+    "thai": "อิเล็กทรอนิกส์กำลัง",
+    "romanization": "ì-lék-thráw-ník-gam-lang",
+    "meaning": "パワーエレクトロニクス",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2597.mp3"
+  },
+  {
+    "id": 2598,
+    "thai": "มอเตอร์ไฟฟ้า",
+    "romanization": "maw-dtêr-fai-fáa",
+    "meaning": "電気モーター",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2598.mp3"
+  },
+  {
+    "id": 2599,
+    "thai": "การแปลงพลังงาน",
+    "romanization": "gaan-bplaeng-phá-lang-ngaan",
+    "meaning": "エネルギー変換",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/25/2599.mp3"
+  },
+  {
+    "id": 2600,
+    "thai": "พืชพลังงาน",
+    "romanization": "phûet-phá-lang-ngaan",
+    "meaning": "エネルギー作物",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/26/2600.mp3"
+  },
+  {
+    "id": 2610,
+    "thai": "การผลิต",
+    "romanization": "gaan-phà-lìt",
+    "meaning": "製造、生産",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/26/2610.mp3"
+  },
+  {
+    "id": 2750,
+    "thai": "การเก็บเกี่ยว",
+    "romanization": "gaan-gèp-gìao",
+    "meaning": "収穫",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2750.mp3"
+  },
+  {
+    "id": 2751,
+    "thai": "การแปรรูป",
+    "romanization": "gaan-bprae-rûup",
+    "meaning": "加工",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2751.mp3"
+  },
+  {
+    "id": 2752,
+    "thai": "ชีวมวลลิกโนเซลลูโลส",
+    "romanization": "chii-wá-muan-lík-noo-sen-luu-lôot",
+    "meaning": "リグノセルロース系バイオマス",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2752.mp3"
+  },
+  {
+    "id": 2753,
+    "thai": "การเผาไหม้",
+    "romanization": "gaan-phăo-mâi",
+    "meaning": "燃焼",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2753.mp3"
+  },
+  {
+    "id": 2754,
+    "thai": "แก๊สซิฟิเคชัน",
+    "romanization": "gáet-sì-fí-khee-chân",
+    "meaning": "ガス化",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2754.mp3"
+  },
+  {
+    "id": 2755,
+    "thai": "ไพโรไลซิส",
+    "romanization": "phai-roo-lai-sít",
+    "meaning": "熱分解",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2755.mp3"
+  },
+  {
+    "id": 2756,
+    "thai": "การย่อยสลายแบบไม่ใช้ออกซิเจน",
+    "romanization": "gaan-yâwy-sà-lăai-bàep-mâi-chái-áwk-sì-jeen",
+    "meaning": "嫌気性消化",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2756.mp3"
+  },
+  {
+    "id": 2757,
+    "thai": "โรงกลั่นชีวภาพ",
+    "romanization": "roong-glàn-chii-wá-phâap",
+    "meaning": "バイオリファイナリー",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2757.mp3"
+  },
+  {
+    "id": 2758,
+    "thai": "ปิโตรเลียม",
+    "romanization": "bpì-dtroo-liam",
+    "meaning": "石油",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2758.mp3"
+  },
+  {
+    "id": 2759,
+    "thai": "ถ่านหิน",
+    "romanization": "thàan-hĭn",
+    "meaning": "石炭",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2759.mp3"
+  },
+  {
+    "id": 2760,
+    "thai": "ก๊าซธรรมชาติ",
+    "romanization": "gáat-tham-má-châat",
+    "meaning": "天然ガス",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2760.mp3"
+  },
+  {
+    "id": 2761,
+    "thai": "ความต้านทานแรงดึง",
+    "romanization": "khwaam-dtâan-thaan-raeng-deung",
+    "meaning": "引張強度",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2761.mp3"
+  },
+  {
+    "id": 2762,
+    "thai": "ความต้านทานแรงอัด",
+    "romanization": "khwaam-dtâan-thaan-raeng-àt",
+    "meaning": "圧縮強度",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2762.mp3"
+  },
+  {
+    "id": 2763,
+    "thai": "ความต้านทานแรงดัด",
+    "romanization": "khwaam-dtâan-thaan-raeng-dàt",
+    "meaning": "曲げ強度",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2763.mp3"
+  },
+  {
+    "id": 2764,
+    "thai": "การนำไฟฟ้า",
+    "romanization": "gaan-nam-fai-fáa",
+    "meaning": "電気伝導性",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2764.mp3"
+  },
+  {
+    "id": 2765,
+    "thai": "ฉนวนไฟฟ้า",
+    "romanization": "chà-nǔan-fai-fáa",
+    "meaning": "電気絶縁体",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2765.mp3"
+  },
+  {
+    "id": 2766,
+    "thai": "หม้อไอน้ำ",
+    "romanization": "mâw-ai-náam",
+    "meaning": "ボイラー",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2766.mp3"
+  },
+  {
+    "id": 2767,
+    "thai": "กังหันไอน้ำ",
+    "romanization": "gang-hăn-ai-náam",
+    "meaning": "蒸気タービン",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2767.mp3"
+  },
+  {
+    "id": 2768,
+    "thai": "ปั๊ม",
+    "romanization": "bpám",
+    "meaning": "ポンプ",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2768.mp3"
+  },
+  {
+    "id": 2769,
+    "thai": "วาล์ว",
+    "romanization": "waao",
+    "meaning": "バルブ",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2769.mp3"
+  },
+  {
+    "id": 2770,
+    "thai": "ท่อ",
+    "romanization": "thâw",
+    "meaning": "パイプ",
+    "category": "construction",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2770.mp3"
+  },
+  {
+    "id": 2771,
+    "thai": "การบำรุงรักษาเชิงพยากรณ์",
+    "romanization": "gaan-bam-rung-rák-săa-cherng-phá-yaa-gawn",
+    "meaning": "予知保全",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2771.mp3"
+  },
+  {
+    "id": 2772,
+    "thai": "การวิเคราะห์ความล้มเหลว",
+    "romanization": "gaan-wí-khráw-khwaam-lóm-lĕo",
+    "meaning": "故障解析",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2772.mp3"
+  },
+  {
+    "id": 2773,
+    "thai": "ความน่าเชื่อถือ",
+    "romanization": "khwaam-nâa-chûea-thĕu",
+    "meaning": "信頼性",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2773.mp3"
+  },
+  {
+    "id": 2774,
+    "thai": "การออกแบบเพื่อการผลิต",
+    "romanization": "gaan-àwk-bàep-phûea-gaan-phà-lìt",
+    "meaning": "製造性設計(DFM)",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2774.mp3"
+  },
+  {
+    "id": 2775,
+    "thai": "วงจรพิมพ์",
+    "romanization": "wong-jawn-phim",
+    "meaning": "プリント基板(PCB)",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2775.mp3"
+  },
+  {
+    "id": 2776,
+    "thai": "วงจรรวม",
+    "romanization": "wong-jawn-ruam",
+    "meaning": "集積回路(IC)",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2776.mp3"
+  },
+  {
+    "id": 2777,
+    "thai": "ไมโครโปรเซสเซอร์",
+    "romanization": "mai-khroo-bproo-sét-sêr",
+    "meaning": "マイクロプロセッサ",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2777.mp3"
+  },
+  {
+    "id": 2778,
+    "thai": "หน่วยความจำ",
+    "romanization": "nùai-khwaam-jam",
+    "meaning": "メモリ",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2778.mp3"
+  },
+  {
+    "id": 2779,
+    "thai": "ระบบฝังตัว",
+    "romanization": "rá-bòp-făng-dtua",
+    "meaning": "組み込みシステム",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2779.mp3"
+  },
+  {
+    "id": 2780,
+    "thai": "เฟิร์มแวร์",
+    "romanization": "ferm-wae",
+    "meaning": "ファームウェア",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2780.mp3"
+  },
+  {
+    "id": 2781,
+    "thai": "สถาปัตยกรรมคอมพิวเตอร์",
+    "romanization": "sà-thăa-bpàt-dtà-yá-gam-khom-phiw-dtêr",
+    "meaning": "コンピュータアーキテクチャ",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2781.mp3"
+  },
+  {
+    "id": 2783,
+    "thai": "การเรียนรู้ของเครื่อง",
+    "romanization": "gaan-rian-rúu-khŏng-khrûeang",
+    "meaning": "機械学習",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2783.mp3"
+  },
+  {
+    "id": 2784,
+    "thai": "โครงข่ายประสาทเทียม",
+    "romanization": "khroong-khàai-bprà-sàat-thiam",
+    "meaning": "ニューラルネットワーク",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2784.mp3"
+  },
+  {
+    "id": 2785,
+    "thai": "การประมวลผลภาษาธรรมชาติ",
+    "romanization": "gaan-bprà-muan-phŏn-phaa-săa-tham-má-châat",
+    "meaning": "自然言語処理(NLP)",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2785.mp3"
+  },
+  {
+    "id": 2786,
+    "thai": "คอมพิวเตอร์วิทัศน์",
+    "romanization": "khom-phiw-dtêr-wí-thát",
+    "meaning": "コンピュータビジョン",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2786.mp3"
+  },
+  {
+    "id": 2787,
+    "thai": "ข้อมูลขนาดใหญ่",
+    "romanization": "khâw-muun-khà-nàat-yài",
+    "meaning": "ビッグデータ",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2787.mp3"
+  },
+  {
+    "id": 2788,
+    "thai": "อินเทอร์เน็ตของสรรพสิ่ง",
+    "romanization": "in-ther-nèt-khŏng-sàp-phá-sìng",
+    "meaning": "モノのインターネット(IoT)",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2788.mp3"
+  },
+  {
+    "id": 2789,
+    "thai": "คลาวด์คอมพิวติ้ง",
+    "romanization": "khlaao-khom-phíw-dtîng",
+    "meaning": "クラウドコンピューティング",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2789.mp3"
+  },
+  {
+    "id": 2790,
+    "thai": "บล็อกเชน",
+    "romanization": "bláwk-cheen",
+    "meaning": "ブロックチェーン",
+    "category": "technology_it",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2790.mp3"
+  },
+  {
+    "id": 2791,
+    "thai": "สกุลเงินดิจิทัล",
+    "romanization": "sà-gun-ngern-dí-jì-thán",
+    "meaning": "暗号資産",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2791.mp3"
+  },
+  {
+    "id": 2792,
+    "thai": "เสา",
+    "romanization": "săo",
+    "meaning": "柱",
+    "category": "construction",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2792.mp3"
+  },
+  {
+    "id": 2793,
+    "thai": "คาน",
+    "romanization": "khaan",
+    "meaning": "梁",
+    "category": "construction",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2793.mp3"
+  },
+  {
+    "id": 2794,
+    "thai": "พื้น",
+    "romanization": "phúen",
+    "meaning": "床",
+    "category": "construction",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2794.mp3"
+  },
+  {
+    "id": 2795,
+    "thai": "ผนัง",
+    "romanization": "phà-năng",
+    "meaning": "壁",
+    "category": "construction",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2795.mp3"
+  },
+  {
+    "id": 2796,
+    "thai": "หลังคา",
+    "romanization": "lăng-khaa",
+    "meaning": "屋根",
+    "category": "construction",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2796.mp3"
+  },
+  {
+    "id": 2797,
+    "thai": "เหล็กเส้น",
+    "romanization": "lèk-sên",
+    "meaning": "鉄筋",
+    "category": "construction",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2797.mp3"
+  },
+  {
+    "id": 2798,
+    "thai": "ปูนซีเมนต์",
+    "romanization": "bpuun-sii-men",
+    "meaning": "セメント",
+    "category": "construction",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2798.mp3"
+  },
+  {
+    "id": 2799,
+    "thai": "อิฐ",
+    "romanization": "ìt",
+    "meaning": "レンガ",
+    "category": "construction",
+    "level": 1,
+    "sound": "assets/audio/vocab/27/2799.mp3"
+  },
+  {
+    "id": 2800,
+    "thai": "ไม้",
+    "romanization": "mái",
+    "meaning": "木材",
+    "category": "construction",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2800.mp3"
+  },
+  {
+    "id": 2801,
+    "thai": "กระจก",
+    "romanization": "grà-jòk",
+    "meaning": "ガラス",
+    "category": "construction",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2801.mp3"
+  },
+  {
+    "id": 2802,
+    "thai": "ฉนวนกันความร้อน",
+    "romanization": "chà-nǔan-gan-khwaam-ráwn",
+    "meaning": "断熱材",
+    "category": "construction",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2802.mp3"
+  },
+  {
+    "id": 2803,
+    "thai": "กันซึม",
+    "romanization": "gan-seum",
+    "meaning": "防水",
+    "category": "construction",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2803.mp3"
+  },
+  {
+    "id": 2804,
+    "thai": "ระบบปรับอากาศ",
+    "romanization": "rá-bòp-bpràp-aa-gàat",
+    "meaning": "空調システム",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2804.mp3"
+  },
+  {
+    "id": 2805,
+    "thai": "ระบบท่อ",
+    "romanization": "rá-bòp-thâw",
+    "meaning": "配管システム",
+    "category": "construction",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2805.mp3"
+  },
+  {
+    "id": 2806,
+    "thai": "ระบบไฟฟ้า",
+    "romanization": "rá-bòp-fai-fáa",
+    "meaning": "電気システム",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2806.mp3"
+  },
+  {
+    "id": 2807,
+    "thai": "เครื่องกลหนัก",
+    "romanization": "khrûeang-gon-nàk",
+    "meaning": "重機",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2807.mp3"
+  },
+  {
+    "id": 2808,
+    "thai": "รถขุด",
+    "romanization": "rót-khùt",
+    "meaning": "掘削機",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2808.mp3"
+  },
+  {
+    "id": 2809,
+    "thai": "รถปราบดิน",
+    "romanization": "rót-bpràap-din",
+    "meaning": "ブルドーザー",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2809.mp3"
+  },
+  {
+    "id": 2810,
+    "thai": "ปั้นจั่น",
+    "romanization": "bpân-jàn",
+    "meaning": "クレーン",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2810.mp3"
+  },
+  {
+    "id": 2811,
+    "thai": "การหล่อลื่น",
+    "romanization": "gaan-làw-lûen",
+    "meaning": "潤滑",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2811.mp3"
+  },
+  {
+    "id": 2812,
+    "thai": "การสึกหรอ",
+    "romanization": "gaan-sèuk-răw",
+    "meaning": "摩耗",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2812.mp3"
+  },
+  {
+    "id": 2813,
+    "thai": "การบำรุงรักษา",
+    "romanization": "gaan-bam-rung-rák-săa",
+    "meaning": "メンテナンス",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2813.mp3"
+  },
+  {
+    "id": 2814,
+    "thai": "การ откалибровка",
+    "romanization": "gaan-àwt-khà-lí-brôok",
+    "meaning": "キャリブレーション",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2814.mp3"
+  },
+  {
+    "id": 2815,
+    "thai": "ความทนทาน",
+    "romanization": "khwaam-thon-thaan",
+    "meaning": "耐久性",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2815.mp3"
+  },
+  {
+    "id": 2816,
+    "thai": "ความล้าของวัสดุ",
+    "romanization": "khwaam-láa-khŏng-wát-sà-dù",
+    "meaning": "材料疲労",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2816.mp3"
+  },
+  {
+    "id": 2818,
+    "thai": "สารเคลือบ",
+    "romanization": "săan-khlûeap",
+    "meaning": "コーティング",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2818.mp3"
+  },
+  {
+    "id": 2819,
+    "thai": "เหล็กกล้าไร้สนิม",
+    "romanization": "lèk-glâa-rái-sà-nĭm",
+    "meaning": "ステンレス鋼",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2819.mp3"
+  },
+  {
+    "id": 2820,
+    "thai": "อะลูมิเนียม",
+    "romanization": "à-luu-mí-niam",
+    "meaning": "アルミニウム",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2820.mp3"
+  },
+  {
+    "id": 2821,
+    "thai": "ทองแดง",
+    "romanization": "thawng-daeng",
+    "meaning": "銅",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2821.mp3"
+  },
+  {
+    "id": 2822,
+    "thai": "สังกะสี",
+    "romanization": "săng-gà-sĭi",
+    "meaning": "亜鉛",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2822.mp3"
+  },
+  {
+    "id": 2823,
+    "thai": "ตะกั่ว",
+    "romanization": "dtà-gùa",
+    "meaning": "鉛",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2823.mp3"
+  },
+  {
+    "id": 2824,
+    "thai": "ดีบุก",
+    "romanization": "dii-bùk",
+    "meaning": "スズ",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2824.mp3"
+  },
+  {
+    "id": 2825,
+    "thai": "นิกเกิล",
+    "romanization": "ník-gêrn",
+    "meaning": "ニッケル",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2825.mp3"
+  },
+  {
+    "id": 2826,
+    "thai": "โครเมียม",
+    "romanization": "khroo-mîam",
+    "meaning": "クロム",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2826.mp3"
+  },
+  {
+    "id": 2827,
+    "thai": "ไทเทเนียม",
+    "romanization": "thai-thee-nîam",
+    "meaning": "チタン",
+    "category": "mechanical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2827.mp3"
+  },
+  {
+    "id": 2828,
+    "thai": "การผลิตไฟฟ้า",
+    "romanization": "gaan-phà-lìt-fai-fáa",
+    "meaning": "発電",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2828.mp3"
+  },
+  {
+    "id": 2829,
+    "thai": "การส่งไฟฟ้า",
+    "romanization": "gaan-sòng-fai-fáa",
+    "meaning": "送電",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2829.mp3"
+  },
+  {
+    "id": 2830,
+    "thai": "การจ่ายไฟฟ้า",
+    "romanization": "gaan-jàai-fai-fáa",
+    "meaning": "配電",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2830.mp3"
+  },
+  {
+    "id": 2831,
+    "thai": "สถานีไฟฟ้าย่อย",
+    "romanization": "sà-thăa-nii-fai-fáa-yâwy",
+    "meaning": "変電所",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2831.mp3"
+  },
+  {
+    "id": 2832,
+    "thai": "ไฟฟ้ากระแสสลับ",
+    "romanization": "fai-fáa-grà-săe-sà-làp",
+    "meaning": "交流(AC)",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2832.mp3"
+  },
+  {
+    "id": 2833,
+    "thai": "ไฟฟ้ากระแสตรง",
+    "romanization": "fai-fáa-grà-săe-dtrong",
+    "meaning": "直流(DC)",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2833.mp3"
+  },
+  {
+    "id": 2834,
+    "thai": "เครื่องตัดวงจร",
+    "romanization": "khrûeang-dtàt-wong-jawn",
+    "meaning": "遮断器、ブレーカー",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2834.mp3"
+  },
+  {
+    "id": 2835,
+    "thai": "ฟิวส์",
+    "romanization": "fio",
+    "meaning": "ヒューズ",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2835.mp3"
+  },
+  {
+    "id": 2836,
+    "thai": "การต่อสายดิน",
+    "romanization": "gaan-dtàw-săai-din",
+    "meaning": "アース、接地",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2836.mp3"
+  },
+  {
+    "id": 2837,
+    "thai": "ฉนวนไฟฟ้า",
+    "romanization": "chà-nǔan-fai-fáa",
+    "meaning": "電気絶縁",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2837.mp3"
+  },
+  {
+    "id": 2838,
+    "thai": "อุปกรณ์ป้องกันไฟกระชาก",
+    "romanization": "ùp-bpà-gawn-bpâwng-gan-fai-grà-châak",
+    "meaning": "サージプロテクター",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2838.mp3"
+  },
+  {
+    "id": 2839,
+    "thai": "พลังงานแสงอาทิตย์",
+    "romanization": "phá-lang-ngaan-săeng-aa-thít",
+    "meaning": "太陽エネルギー",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2839.mp3"
+  },
+  {
+    "id": 2840,
+    "thai": "พลังงานลม",
+    "romanization": "phá-lang-ngaan-lom",
+    "meaning": "風力エネルギー",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2840.mp3"
+  },
+  {
+    "id": 2841,
+    "thai": "พลังงานน้ำ",
+    "romanization": "phá-lang-ngaan-náam",
+    "meaning": "水力エネルギー",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2841.mp3"
+  },
+  {
+    "id": 2842,
+    "thai": "พลังงานความร้อนใต้พิภพ",
+    "romanization": "phá-lang-ngaan-khwaam-ráwn-dtâi-phí-phóp",
+    "meaning": "地熱エネルギー",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2842.mp3"
+  },
+  {
+    "id": 2843,
+    "thai": "พลังงานนิวเคลียร์",
+    "romanization": "phá-lang-ngaan-niw-khlia",
+    "meaning": "原子力エネルギー",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2843.mp3"
+  },
+  {
+    "id": 2844,
+    "thai": "การอนุรักษ์พลังงาน",
+    "romanization": "gaan-à-nú-rák-phá-lang-ngaan",
+    "meaning": "省エネルギー",
+    "category": "electrical_engineering",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2844.mp3"
+  },
+  {
+    "id": 2845,
+    "thai": "การปล่อยก๊าซเรือนกระจก",
+    "romanization": "gaan-bplòi-gáat-ruean-grà-jòk",
+    "meaning": "温室効果ガス排出",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2845.mp3"
+  },
+  {
+    "id": 2846,
+    "thai": "รอยเท้าคาร์บอน",
+    "romanization": "rawy-tháo-khaa-bâwn",
+    "meaning": "カーボンフットプリント",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2846.mp3"
+  },
+  {
+    "id": 2847,
+    "thai": "การเปลี่ยนแปลงสภาพภูมิอากาศ",
+    "romanization": "gaan-bplìan-bplaeng-sà-phâap-phuum-í-aa-gàat",
+    "meaning": "気候変動",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2847.mp3"
+  },
+  {
+    "id": 2848,
+    "thai": "ภาวะโลกร้อน",
+    "romanization": "phaa-wá-lôok-ráwn",
+    "meaning": "地球温暖化",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2848.mp3"
+  },
+  {
+    "id": 2849,
+    "thai": "มลพิษ",
+    "romanization": "mon-lá-phít",
+    "meaning": "汚染",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2849.mp3"
+  },
+  {
+    "id": 2850,
+    "thai": "การรีไซเคิล",
+    "romanization": "gaan-rii-sai-khêrn",
+    "meaning": "リサイクル",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2850.mp3"
+  },
+  {
+    "id": 2856,
+    "thai": "การฟังอย่างตั้งใจ",
+    "romanization": "gaan-fang-yàang-dtâng-jai",
+    "meaning": "傾聴",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2856.mp3"
+  },
+  {
+    "id": 2876,
+    "thai": "สุขภาพกาย",
+    "romanization": "sùk-khà-phâap-gaai",
+    "meaning": "身体的健康",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2876.mp3"
+  },
+  {
+    "id": 2877,
+    "thai": "สุขภาพจิต",
+    "romanization": "sùk-khà-phâap-jìt",
+    "meaning": "精神的健康",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2877.mp3"
+  },
+  {
+    "id": 2878,
+    "thai": "ความเป็นอยู่ที่ดี",
+    "romanization": "khwaam-bpen-yòo-thîi-dii",
+    "meaning": "ウェルビーイング",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2878.mp3"
+  },
+  {
+    "id": 2879,
+    "thai": "ความหมายของชีวิต",
+    "romanization": "khwaam-măai-khăwng-chii-wít",
+    "meaning": "人生の意味",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2879.mp3"
+  },
+  {
+    "id": 2881,
+    "thai": "คุณค่า",
+    "romanization": "khun-khâa",
+    "meaning": "価値",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2881.mp3"
+  },
+  {
+    "id": 2883,
+    "thai": "ความฝัน",
+    "romanization": "khwaam-făn",
+    "meaning": "夢",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2883.mp3"
+  },
+  {
+    "id": 2884,
+    "thai": "ความปรารถนา",
+    "romanization": "khwaam-bpràat-thà-năa",
+    "meaning": "願望",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2884.mp3"
+  },
+  {
+    "id": 2887,
+    "thai": "ความคิดสร้างสรรค์",
+    "romanization": "khwaam-khít-sâang-săn",
+    "meaning": "創造性",
+    "category": "office_business",
+    "level": 1,
+    "sound": "assets/audio/vocab/28/2887.mp3"
+  },
+  {
+    "id": 2907,
+    "thai": "ความงาม",
+    "romanization": "khwaam-ngaam",
+    "meaning": "美",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/29/2907.mp3"
+  },
+  {
+    "id": 2925,
+    "thai": "มนุษยชาติ",
+    "romanization": "má-nút-sà-yá-châat",
+    "meaning": "人類",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/29/2925.mp3"
+  },
+  {
+    "id": 2927,
+    "thai": "เวลา",
+    "romanization": "wee-laa",
+    "meaning": "時間",
+    "category": "numbers_time",
+    "level": 1,
+    "sound": "assets/audio/vocab/29/2927.mp3"
+  },
+  {
+    "id": 2938,
+    "thai": "อารมณ์",
+    "romanization": "aa-rom",
+    "meaning": "感情",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/29/2938.mp3"
+  },
+  {
+    "id": 2956,
+    "thai": "กรรม",
+    "romanization": "gam",
+    "meaning": "カルマ",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/29/2956.mp3"
+  },
+  {
+    "id": 2959,
+    "thai": "ความหมาย",
+    "romanization": "khwaam-măai",
+    "meaning": "意味",
+    "category": "greetings_expressions",
+    "level": 1,
+    "sound": "assets/audio/vocab/29/2959.mp3"
+  },
+  {
+    "id": 2965,
+    "thai": "ความเจ็บปวด",
+    "romanization": "khwaam-jèp-bpùat",
+    "meaning": "痛み",
+    "category": "health_medical",
+    "level": 1,
+    "sound": "assets/audio/vocab/29/2965.mp3"
+  },
+  {
+    "id": 2966,
+    "thai": "ความปรารถนา",
+    "romanization": "khwaam-bpràat-thà-năa",
+    "meaning": "欲望",
+    "category": "people_introduction",
+    "level": 1,
+    "sound": "assets/audio/vocab/29/2966.mp3"
+  }
+]
